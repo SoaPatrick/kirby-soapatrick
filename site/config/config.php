@@ -1,5 +1,6 @@
 <?php
 
 return [
-  'debug' => true
+  'debug' => true,
+  'optionApiUrl' => 'https://kirby.soapatrick.com/api/'
 ];

@@ -6,9 +6,8 @@ import {
   WebGLRenderer,
   Scene,
   Clock,
-  Color,
   PointLight,
-  AmbientLight,
+  DirectionalLight,
 } from "https://cdn.skypack.dev/three@0.132.2";
 import { OrbitControls } from "https://cdn.skypack.dev/three@0.132.2/examples/jsm/controls/OrbitControls.js";
 
@@ -61,17 +60,6 @@ scene.add(mesh);
 
 // Camera
 const camera = new PerspectiveCamera(50, sizes.width / sizes.height, 0.1, 100);
-// const aspectRatio = sizes.width / sizes.height;
-// const camera = new THREE.OrthographicCamera(
-//   -1 * aspectRatio,
-//   1 * aspectRatio,
-//   1,
-//   -1,
-//   0.1,
-//   100
-// );
-// camera.position.x = 2;
-// camera.position.y = 2;
 camera.position.z = 50;
 camera.lookAt(mesh.position);
 scene.add(camera);
@@ -86,7 +74,8 @@ const renderer = new WebGLRenderer({
 });
 renderer.setSize(sizes.width, sizes.height);
 
-const ambientLight = new AmbientLight(0xffffff, 0.75);
+// Light
+const ambientLight = new DirectionalLight(0xffffff, 0.75);
 const pointLight = new PointLight(0xffffff, 2);
 pointLight.position.set(1, 1, 1);
 scene.add(ambientLight, pointLight);
@@ -104,13 +93,6 @@ const tick = () => {
   mesh.rotation.y = elapsedTime * 0.5;
   mesh.rotation.x = elapsedTime * 0.25;
   mesh.rotation.z = elapsedTime * 0.25;
-
-  // Update camera
-  //   camera.position.x = Math.sin(cursor.x * Math.PI * 2) * 3;
-  //   camera.position.z = Math.cos(cursor.x * Math.PI * 2) * 3;
-  //   camera.position.y = cursor.y * 5;
-  //camera.lookAt(mesh.position);
-  // Render
   renderer.render(scene, camera);
 
   // Call tick again on the next frame

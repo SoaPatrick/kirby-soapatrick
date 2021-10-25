@@ -1,0 +1,8 @@
+type: pages
+headline: Box
+parent: kirby.page("box")
+info: "{{ page.published }}"
+template: article
+layout: list
+empty: No article yet
+sortBy: date desc

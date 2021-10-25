@@ -1,0 +1,16 @@
+title: Box
+
+icon: 🖼
+
+columns:
+  - width: 1/1
+    sections:
+      drafts:
+        extends: sections/box
+        headline: Drafts
+        status: draft
+
+      listed:
+        extends: sections/box
+        headline: Published
+        status: listed

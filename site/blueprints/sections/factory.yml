@@ -1,0 +1,8 @@
+type: pages
+headline: Factory
+parent: kirby.page("factory")
+info: "{{ page.published }}"
+template: factory-item
+layout: list
+empty: No factory items yet
+sortBy: date desc

@@ -7,9 +7,33 @@
 
 /* Compagnon Script by Chloé Lozano (http://www.velvetyne.fr/fonts/compagnon/) */
 h1 {
-  @apply text-7xl p-5;
+  @apply text-7xl;
 }
 
 :root {
   --color__primary: #cf3a3a;
+}
+
+main a {
+  @apply underline;
+}
+
+main {
+  @apply p-5;
+}
+
+canvas {
+  @apply -m-5;
+}
+
+h1 {
+  @apply mb-5 font-bold text-5xl;
+}
+
+h2 {
+  @apply mt-5 font-bold text-2xl;
+}
+
+h3 {
+  @apply font-bold text-xl;
 }

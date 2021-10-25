@@ -1,0 +1,20 @@
+title: Lab
+
+icon: 🖼
+
+columns:
+  - width: 1/1
+    sections:
+      drafts:
+        extends: sections/lab
+        headline: In Development
+        status: draft
+        empty: Nothing in development yet
+
+      listed:
+        extends: sections/lab
+        headline: Distributed
+        status: listed
+        empty: Nothing distributed yet
+
+

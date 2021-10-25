@@ -1,0 +1,16 @@
+# /site/blueprints/blocks/button.yml
+name: Button
+icon: bolt
+tabs:
+  content:
+    fields:
+      link:
+        type: url
+      text:
+        type: text
+  styles:
+    fields:
+      class:
+        type: text
+      id:
+        type: text

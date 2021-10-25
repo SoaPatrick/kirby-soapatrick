@@ -1,0 +1,31 @@
+title: Log Item
+
+icon: layers
+
+num: '{{ page.published.toDate("Ymd") }}'
+
+status:
+  draft: Draft
+  listed: Published
+
+columns:
+  - width: 1/2
+    fields:
+      published:
+        label: Logged on
+        type: date
+        default: today
+        display: D MMMM YYYY
+
+  - width: 1/2
+    fields:
+      type:
+        label: Type
+        type: select
+        placeholder: Chose log type
+        required: true
+        options:
+          added: Added
+          removed: Removed
+          changed: Changed
+          fixed: Fixed

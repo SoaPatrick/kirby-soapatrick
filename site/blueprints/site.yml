@@ -1,0 +1,18 @@
+title: SoaPatrick
+
+columns:
+  - width: 1/2
+    sections:
+      box: sections/box
+      factory: sections/factory
+      lab: sections/lab
+      changelog: sections/changelog
+
+  - width: 1/2
+    sections:
+      pages:
+        type: pages
+        templates:
+          - home
+          - default
+          - page

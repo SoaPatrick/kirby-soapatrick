@@ -1,0 +1,8 @@
+type: pages
+headline: Lab
+parent: kirby.page("lab")
+info: "{{ page.published }}"
+template: lab-item
+layout: list
+empty: No lab items yet
+sortBy: date desc

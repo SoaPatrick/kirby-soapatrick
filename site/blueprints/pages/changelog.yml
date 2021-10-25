@@ -1,0 +1,18 @@
+title: Changelog
+
+icon: 🖼
+
+columns:
+  - width: 1/1
+    sections:
+      drafts:
+        extends: sections/changelog
+        headline: Draft
+        status: draft
+
+      listed:
+        extends: sections/changelog
+        headline: Published
+        status: listed
+
+

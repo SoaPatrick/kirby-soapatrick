@@ -1,0 +1,20 @@
+title: Factory
+
+icon: 🖼
+
+columns:
+  - width: 1/1
+    sections:
+      drafts:
+        extends: sections/factory
+        headline: In Development
+        status: draft
+        empty: Nothing in development yet
+
+      listed:
+        extends: sections/factory
+        headline: Distributed
+        status: listed
+        empty: Nothing distributed yet
+
+
