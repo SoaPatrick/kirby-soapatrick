@@ -1,0 +1,23 @@
+{
+  "name": "kirby-vite-basic-kit",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "vite": "vite",
+    "dev": "shx touch src/.lock && concurrently \"npm:server\" \"npm:vite\"",
+    "server": "php -S localhost:8888 -t public server.php",
+    "build": "shx rm -f src/.lock && vite build",
+    "deploy": "rsync -av $(pwd)/ --exclude-from='rsync-exclude.txt' $SP_REMOTE_USER@$SP_REMOTE_HOST:www/kirby.soapatrick.com --delete"
+  },
+  "author": "arnoson",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.3.7",
+    "concurrently": "^6.0.0",
+    "postcss": "^8.3.11",
+    "shx": "^0.3.3",
+    "tailwindcss": "^2.2.17",
+    "vite": "^2.0.5",
+    "vite-plugin-live-reload": "^2.0.0"
+  }
+}
