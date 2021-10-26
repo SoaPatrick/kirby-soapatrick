@@ -6,7 +6,7 @@ columns:
       box: sections/box
       factory: sections/factory
       lab: sections/lab
-      changelog: sections/changelog
+      log: sections/log
 
   - width: 1/2
     sections:

@@ -1,39 +1,88 @@
 /* Shared CSS for all pages */
 
-/* ./your-css-folder/styles.css */
+/* Imports */
+@import "./styles/fonts.css";
+
+/* Tailwind */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* Compagnon Script by Chloé Lozano (http://www.velvetyne.fr/fonts/compagnon/) */
-h1 {
-  @apply text-7xl;
+/* Styles */
+html,
+body {
+  @apply h-full;
+}
+html {
+  font-size: clamp(18px, 3vw, 22px);
+}
+
+body {
+  @apply font-sans font-thin;
 }
 
 :root {
   --color__primary: #cf3a3a;
 }
 
+footer a,
 main a {
-  @apply underline;
+  @apply text-primary font-medium;
 }
 
-main {
-  @apply p-5;
-}
-
-canvas {
-  @apply -m-5;
+h1,
+h2,
+h3 {
+  @apply font-bold font-serif;
 }
 
 h1 {
-  @apply mb-5 font-bold text-5xl;
+  @apply mt-2 mb-8 text-5xl;
 }
 
 h2 {
-  @apply mt-5 font-bold text-2xl;
+  @apply mt-8 mb-4 text-2xl;
 }
 
 h3 {
-  @apply font-bold text-xl;
+  @apply text-xl;
+}
+
+.waves {
+  height: clamp(20px, 20vw, 200px);
+}
+.waves-filler {
+  height: clamp(0px, 4vw, 41px);
+}
+
+.wrapper {
+  @apply flex flex-col mr-8;
+  padding-left: calc(clamp(2rem, 7vw, 5rem) + 2rem);
+  margin-left: calc(4rem + 100px);
+  min-height: calc(100% - clamp(20px, 20vw, 200px));
+}
+
+@media (max-width: 786px) {
+  .wrapper {
+    margin-left: 0;
+    padding-left: 8rem;
+  }
+}
+
+.nav-item {
+  @apply relative left-0 cursor-pointer transition-all duration-300 ease-in-out font-serif no-underline py-1;
+}
+
+.nav-item:hover {
+  @apply -left-4;
+  padding-left: 2.35rem;
+}
+
+.nav-item::before {
+  content: "Soap";
+  @apply transition-opacity duration-300 ease-in-out opacity-0 absolute left-0 z-0 text-primary;
+}
+
+.nav-item:hover::before {
+  @apply opacity-100;
 }

@@ -1,4 +1,4 @@
 import "./index.css";
-import "./toggleTheme.js";
+import "./scripts/toggleTheme";
 
 console.log("shared");

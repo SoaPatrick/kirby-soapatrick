@@ -7,7 +7,7 @@
     "dev": "shx touch src/.lock && concurrently \"npm:server\" \"npm:vite\"",
     "server": "php -S localhost:8888 -t public server.php",
     "build": "shx rm -f src/.lock && vite build",
-    "deploy": "rsync -av $(pwd)/ --exclude-from='rsync-exclude.txt' $SP_REMOTE_USER@$SP_REMOTE_HOST:www/kirby.soapatrick.com --delete",
+    "deploy": "rsync -avL $(pwd)/ --exclude-from='rsync-exclude.txt' $SP_REMOTE_USER@$SP_REMOTE_HOST:www/kirby.soapatrick.com --delete",
     "content:push": "rsync -av content soapatri@soapatrick.com:www/kirby.soapatrick.com --delete",
     "content:pull": "rsync -av soapatri@soapatrick.com:www/kirby.soapatrick.com content --delete"
   },

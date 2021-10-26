@@ -1,4 +1,4 @@
-title: Changelog
+title: Log
 
 icon: 🖼
 
@@ -6,12 +6,12 @@ columns:
   - width: 1/1
     sections:
       drafts:
-        extends: sections/changelog
+        extends: sections/log
         headline: Draft
         status: draft
 
       listed:
-        extends: sections/changelog
+        extends: sections/log
         headline: Published
         status: listed
 

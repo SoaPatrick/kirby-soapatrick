@@ -11,16 +11,6 @@ import {
 } from "https://cdn.skypack.dev/three@0.132.2";
 import { OrbitControls } from "https://cdn.skypack.dev/three@0.132.2/examples/jsm/controls/OrbitControls.js";
 
-// Cursor
-const cursor = {
-  x: 0,
-  y: 0,
-};
-window.addEventListener("mousemove", (event) => {
-  cursor.x = event.clientX / sizes.width - 0.5;
-  cursor.y = -(event.clientY / sizes.height - 0.5);
-});
-
 /**
  * Base
  */

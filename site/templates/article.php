@@ -26,7 +26,6 @@
       ?>
         <li>
           <a href="<?= $item->url() ?>"><?= $item->title() ?></a>
-          <div><?= $item->text()->toBlocks()->excerpt(65, true, ' …')  ?></div>
         </li>
         <?php 
       endforeach 

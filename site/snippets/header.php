@@ -21,5 +21,7 @@ $entry = "templates/$template/index.js";
   <?php snippet("darkmode") ?>
 </head>
 <body class="bg-white dark:bg-black dark:text-white">
+  <?php snippet("waves") ?>
   <?php snippet("menu") ?>
-  <main>
+  <div class="wrapper">
+    <main class="flex-1 max-w-screen-lg mt-16">

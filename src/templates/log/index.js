@@ -1,4 +1,4 @@
 import "@/index.js";
 import "./index.css";
 
-console.log("template default");
+console.log("template changelog");

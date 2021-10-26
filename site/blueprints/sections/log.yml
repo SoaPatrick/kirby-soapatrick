@@ -1,6 +1,6 @@
 type: pages
 headline: Change Log
-parent: kirby.page("changelog")
+parent: kirby.page("log")
 info: "{{ page.type }}"
 template: log-item
 layout: list
