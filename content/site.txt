@@ -1,1 +1,9 @@
 Title: SoaPatrickTen
+
+----
+
+Author: SoaPatrick
+
+----
+
+Description: This is a SoaPatrickTen Kirby version
