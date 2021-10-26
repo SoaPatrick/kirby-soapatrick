@@ -62,27 +62,35 @@ h3 {
   min-height: calc(100% - clamp(20px, 20vw, 200px));
 }
 
-@media (max-width: 786px) {
+@media (max-width: 640px) {
   .wrapper {
     margin-left: 0;
-    padding-left: 8rem;
+    padding-left: 4rem;
   }
 }
 
 .nav-item {
-  @apply relative left-0 cursor-pointer transition-all duration-300 ease-in-out font-serif no-underline py-1;
+  @apply relative left-0 cursor-pointer transition-all duration-300 ease-in-out font-serif no-underline p-3 sm:p-0 sm:py-1 m-1 sm:m-0;
+}
+@media (min-width: 640px) {
+  .nav-item:hover {
+    @apply -left-4;
+    padding-left: 2.35rem;
+  }
+
+  .nav-item::before {
+    content: "Soap";
+    @apply transition-opacity duration-300 ease-in-out opacity-0 absolute left-0 z-0 text-primary;
+  }
+
+  .nav-item:hover::before {
+    @apply opacity-100;
+  }
+}
+.nav-icon {
+  @apply w-4 h-4 block sm:hidden;
 }
 
-.nav-item:hover {
-  @apply -left-4;
-  padding-left: 2.35rem;
-}
-
-.nav-item::before {
-  content: "Soap";
-  @apply transition-opacity duration-300 ease-in-out opacity-0 absolute left-0 z-0 text-primary;
-}
-
-.nav-item:hover::before {
-  @apply opacity-100;
+.nav-icon .primary {
+  @apply fill-primary;
 }

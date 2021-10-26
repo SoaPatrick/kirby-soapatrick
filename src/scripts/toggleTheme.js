@@ -4,10 +4,11 @@ const darkIcon = "Day";
 const lightIcon = "Night";
 
 const themeButton = document.getElementById("switchTheme");
+const childElement = themeButton.querySelector('.hidden');
 if (localStorage.theme === "dark" || !("theme" in localStorage)) {
-  themeButton.innerHTML = darkIcon;
+  childElement.innerHTML = darkIcon;
 } else {
-  themeButton.innerHTML = lightIcon;
+  childElement.innerHTML = lightIcon;
 }
 themeButton.addEventListener("click", function () {
   let htmlClasses = document.querySelector("html").classList;
@@ -15,10 +16,10 @@ themeButton.addEventListener("click", function () {
   if (localStorage.theme == "dark") {
     htmlClasses.remove("dark");
     localStorage.theme = "light";
-    themeButton.innerHTML = lightIcon;
+    childElement.innerHTML = lightIcon;
   } else {
     htmlClasses.add("dark");
     localStorage.theme = "dark";
-    themeButton.innerHTML = darkIcon;
+    childElement.innerHTML = darkIcon;
   }
 });

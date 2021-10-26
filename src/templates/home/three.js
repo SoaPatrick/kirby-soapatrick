@@ -9,7 +9,6 @@ import {
   PointLight,
   DirectionalLight,
 } from "https://cdn.skypack.dev/three@0.132.2";
-import { OrbitControls } from "https://cdn.skypack.dev/three@0.132.2/examples/jsm/controls/OrbitControls.js";
 
 /**
  * Base
@@ -54,9 +53,6 @@ camera.position.z = 50;
 camera.lookAt(mesh.position);
 scene.add(camera);
 
-const controls = new OrbitControls(camera, canvas);
-controls.enableDamping = true;
-
 // Renderer
 const renderer = new WebGLRenderer({
   canvas: canvas,
@@ -75,9 +71,6 @@ const clock = new Clock();
 
 const tick = () => {
   const elapsedTime = clock.getElapsedTime();
-
-  // Update controls
-  controls.update();
 
   // Update objects
   mesh.rotation.y = elapsedTime * 0.5;

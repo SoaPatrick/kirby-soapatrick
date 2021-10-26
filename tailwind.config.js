@@ -8,6 +8,8 @@ module.exports = {
     },
     fill: {
       primary: "var(--color__primary)",
+      black: "#222222",
+      white: "#fff",
     },
     colors: {
       transparent: "transparent",
