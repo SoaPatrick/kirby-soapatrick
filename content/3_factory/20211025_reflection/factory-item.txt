@@ -2,7 +2,7 @@ Title: Reflection
 
 ----
 
-Text: [{"content":{"code":"h1 {\n  font-size: 2rem;\n}","language":"css"},"id":"86851178-efd2-461d-9c50-b780a70a503d","isHidden":false,"type":"code"}]
+Text: [{"content":{"url":"https:\/\/www.youtube.com\/watch?v=1DEMQ4ilwRg","caption":null},"id":"bf16a3fa-89ba-4db4-aedd-c267484c7bd2","isHidden":false,"type":"video"}]
 
 ----
 
@@ -10,11 +10,13 @@ Published: 2021-10-25
 
 ----
 
-Cover: 
+Cover:
+
+- portfolio-reflection_preview.jpg
 
 ----
 
-Tags: 3d
+Tags: 3D, Web Design
 
 ----
 

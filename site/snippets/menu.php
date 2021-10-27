@@ -7,7 +7,7 @@
       </svg>
     </a>
     <?php foreach($site->children()->listed() as $child): ?>
-      <a class="nav-item" aria-label="<?= $child->title() ?>" href="<?= $child->url() ?>"><?= $child->icon() ?><span class="hidden sm:inline-block"><?= $child->title() ?></span></a>
+      <a class="nav-item<?php e($child->isActive(), ' active') ?>" aria-label="<?= $child->title() ?>" href="<?= $child->url() ?>"><span class="nav-icon sm:hidden"><?= $child->icon() ?></span><span class="hidden sm:inline-block"><?= $child->title() ?></span></a>
     <?php endforeach ?>
     <button aria-label="toggle theme" class="nav-item" id="switchTheme"><span class="hidden sm:inline-block">theme</span><svg class="nav-icon" aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M504 256c0 137-111 248-248 248V8c137 0 248 111 248 248z"></path><path d="M256 8v496C119 504 8 393 8 256S119 8 256 8z" class="fill-primary"></path></svg></button>
   </nav>

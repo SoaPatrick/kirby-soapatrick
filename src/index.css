@@ -30,6 +30,12 @@ main a {
   @apply text-primary font-medium;
 }
 
+footer a:hover,
+main a:hover {
+  @apply underline;
+  text-underline-offset: 0.25em;
+}
+
 h1,
 h2,
 h3 {
@@ -46,6 +52,10 @@ h2 {
 
 h3 {
   @apply text-xl;
+}
+
+p {
+  @apply mb-4;
 }
 
 .waves {
@@ -72,7 +82,23 @@ h3 {
 .nav-item {
   @apply relative left-0 cursor-pointer transition-all duration-300 ease-in-out font-serif no-underline p-3 sm:p-0 sm:py-1 m-1 sm:m-0;
 }
+.nav-item.active {
+  @apply bg-primary rounded-full;
+}
+.nav-item.active .nav-icon {
+  --color__primary: #222222;
+  @apply text-white;
+}
+
 @media (min-width: 640px) {
+  .nav-item.active {
+    @apply bg-transparent text-primary;
+  }
+
+  .nav-item.active:hover {
+    @apply text-black dark:text-white;
+  }
+
   .nav-item:hover {
     @apply -left-4;
     padding-left: 2.35rem;
@@ -93,4 +119,29 @@ h3 {
 
 .nav-icon .primary {
   @apply fill-primary;
+}
+
+.tag {
+  @apply inline-block relative mt-2 mr-2;
+}
+.tag:before {
+  content: "#";
+  @apply text-black dark:text-white;
+}
+
+.marginal-icon {
+  width: clamp(2rem, 7vw, 5rem);
+  height: clamp(2rem, 7vw, 5rem);
+  left: calc((calc(clamp(2rem, 7vw, 5rem) + 1rem)) * -1);
+}
+
+.marginal-icon svg {
+  width: 80%;
+}
+
+.grid-factory {
+  @apply grid gap-4 my-4;
+  grid-auto-flow: dense;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-auto-rows: minmax(200px, auto);
 }

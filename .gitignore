@@ -30,3 +30,8 @@ site/plugins/*
 !/storage/sessions/.gitkeep
 
 /site/config/.license
+
+**/*.jpg
+**/*.png
+!/src/assets/img/*.jpg
+!/src/assets/img/*.png

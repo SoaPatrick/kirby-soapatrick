@@ -1,14 +1,28 @@
 <?php snippet('header') ?>
+<article>
+  <header>
+    <div>
+      <time class="text-xs uppercase tracking-wide opacity-70" datetime="<?= $page->published()->toDate(DATE_ATOM) ?>">
+        <?= $page->published()->toDate('F j, Y') ?>
+      </time>
+    </div>
+    <h1><?= $page->title() ?></h1>
+  </header>
+  <div>
+    <?php foreach ($page->text()->toBlocks() as $block): ?>
+      <div id="<?= $block->id() ?>" class="block block-type-<?= $block->type() ?>">
+        <?= $block ?>
+      </div>
+    <?php endforeach ?>
+  </div>
+  <footer>
+    <div>
+      <?php foreach ($page->tags()->split() as $tag): ?>
+        <a class="tag" href="<?= $page->parent()->url(['params' => ['tag' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
+      <?php endforeach ?>
+    </div>
+  </footer>
 
-<h1><?= $page->title() ?></h1>
-<h2>Date</h2>
-<?= $page->published()->toDate('F j, Y') ?>
-<h2>Tags</h2>
-<ul>
-  <?php foreach ($page->tags()->split() as $category): ?>
-  <li><?= $category ?></li>
-  <?php endforeach ?>
-</ul>
 <?php if ($page->project()->isNotEmpty()): ?>
   <h2>Related Posts</h2>
   <ul>
@@ -44,12 +58,5 @@
     ?>
   </ul>
 <?php endif ?>
-<h2>Content</h2>
-<?php foreach ($page->text()->toBlocks() as $block): ?>
-<div id="<?= $block->id() ?>" class="block block-type-<?= $block->type() ?>">
-  <h3>Block</h3>
-  <?= $block ?>
-</div>
-<?php endforeach ?>
 
 <?php snippet('footer') ?>

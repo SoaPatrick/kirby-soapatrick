@@ -48,7 +48,7 @@ columns:
           url: "{{ kirby.option('optionApiUrl') }}/tags.json"
           fetch: factory-tags
           text: "{{ item.name }}"
-          value: "{{ item.name.slug }}"
+          value: "{{ item.name }}"
       project:
         label: Related Project
         type: select

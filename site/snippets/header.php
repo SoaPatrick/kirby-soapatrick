@@ -24,4 +24,4 @@ $entry = "templates/$template/index.js";
   <?php snippet("waves") ?>
   <?php snippet("menu") ?>
   <div class="wrapper">
-    <main class="flex-1 max-w-screen-lg mt-16">
+    <main class="flex-1 max-w-screen-md mt-16">

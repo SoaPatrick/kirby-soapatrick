@@ -1,5 +1,18 @@
 <?php snippet('header') ?>
-<span class="block text-xs uppercase tracking-wide opacity-70 -mb-2"><?= $page->modified('F j, Y') ?></span>
-<h1><?= $page->title() ?></h1>
-<?= markdown($page->text()) ?>
+<article>
+  <header class="relative">
+    <div class="marginal-icon absolute grid place-items-center">
+      <?= $page->icon(); ?>
+    </div>
+    <div>
+      <time class="text-xs uppercase tracking-wide opacity-70" datetime="<?= $page->modified(DATE_ATOM) ?>">
+        <?= $page->modified('F j, Y') ?>
+      </time>
+    </div>
+    <h1><?= $page->title() ?></h1>
+  </header>
+  <div>
+    <?= markdown($page->text()) ?>
+  </div>
+</article>
 <?php snippet('footer') ?>

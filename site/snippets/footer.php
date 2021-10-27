@@ -5,7 +5,7 @@ $entry = "templates/$template/index.js";
 ?>
   </main>
   <footer class="mt-16 mb-9 text-sm">
-    <p>Stuff from 2000 to <?= date('Y'); ?> by SoaPatrick<a href="<?= page('log') ?>">Ten</a></p>
+    <p class="m-0">Stuff from 2000 to <?= date('Y'); ?> by SoaPatrick<a href="<?= page('log') ?>">Ten</a></p>
   </footer>
 </div>
 <?php
