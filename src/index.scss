@@ -8,11 +8,18 @@
 @tailwind components;
 @tailwind utilities;
 
+// Variables
+:root {
+  --color__primary: rgba(207, 58, 58, 1);
+  --color__primary--20: rgba(207, 58, 58, 0.2);
+}
+
 /* Styles */
 html,
 body {
   @apply h-full;
 }
+
 html {
   font-size: clamp(18px, 3vw, 22px);
 }
@@ -21,20 +28,14 @@ body {
   @apply font-sans font-thin;
 }
 
-:root {
-  --color__primary: rgba(207, 58, 58, 1);
-  --color__primary--20: rgba(207, 58, 58, 0.2);
-}
-
 footer a,
 main a {
   @apply text-primary font-medium;
-}
 
-footer a:hover,
-main a:hover {
-  @apply underline;
-  text-underline-offset: 0.25em;
+  &:hover {
+    @apply underline;
+    text-underline-offset: 0.25em;
+  }
 }
 
 h1,
@@ -62,9 +63,10 @@ p {
 
 .waves {
   height: clamp(20px, 20vw, 200px);
-}
-.waves-filler {
-  height: clamp(0px, 4vw, 41px);
+
+  &-filler {
+    height: clamp(0px, 4vw, 41px);
+  }
 }
 
 .wrapper {
@@ -72,10 +74,8 @@ p {
   padding-left: calc(clamp(2rem, 7vw, 5rem) + 2rem);
   margin-left: calc(4rem + 100px);
   min-height: calc(100% - clamp(20px, 20vw, 200px));
-}
 
-@media (max-width: 640px) {
-  .wrapper {
+  @media (max-width: 640px) {
     margin-left: 0;
     padding-left: 4rem;
   }
@@ -83,63 +83,68 @@ p {
 
 .nav-item {
   @apply relative left-0 cursor-pointer sm:transition-menu sm:duration-300 sm:ease-in-out font-serif no-underline p-3 sm:p-0 sm:py-1 m-1 sm:m-0;
-}
-.nav-item.active {
-  @apply bg-primary rounded-full;
-}
-.nav-item.active .nav-icon {
-  --color__primary: #222222;
-  @apply text-white;
+
+  &.active {
+    @apply bg-primary rounded-full;
+
+    .nav-icon {
+      --color__primary: #222222;
+      @apply text-white;
+    }
+  }
 }
 
 @media (min-width: 640px) {
-  .nav-item.active {
-    @apply bg-transparent text-primary;
-  }
+  .nav-item {
+    &:hover {
+      @apply -left-4;
+      padding-left: 2.35rem;
+    }
 
-  .nav-item.active:hover {
-    @apply text-black dark:text-white;
-  }
+    &.active {
+      @apply bg-transparent text-primary;
 
-  .nav-item:hover {
-    /*@apply -left-4; */
-    padding-left: 2.35rem;
-    left: -1rem;
-  }
+      &:hover {
+        @apply text-black dark:text-white;
+      }
+    }
 
-  .nav-item::before {
-    content: "Soap";
-    @apply transition-opacity duration-300 ease-in-out opacity-0 absolute left-0 z-0 text-primary;
-  }
+    &::before {
+      content: "Soap";
+      @apply transition-opacity duration-300 ease-in-out opacity-0 absolute left-0 z-0 text-primary;
+    }
 
-  .nav-item:hover::before {
-    @apply opacity-100;
+    &:hover::before {
+      @apply opacity-100;
+    }
   }
 }
+
 .nav-icon {
   @apply w-4 h-4 block sm:hidden;
-}
 
-.nav-icon .primary {
-  @apply fill-primary;
+  .primary {
+    @apply fill-primary;
+  }
 }
 
 .tag {
   @apply inline-block relative mt-2 mr-2;
-}
-.tag:before {
-  content: "#";
-  @apply text-black dark:text-white;
+
+  &:before {
+    content: "#";
+    @apply text-black dark:text-white;
+  }
 }
 
 .marginal-icon {
   width: clamp(2rem, 7vw, 5rem);
   height: clamp(2rem, 7vw, 5rem);
   left: calc((calc(clamp(2rem, 7vw, 5rem) + 1rem)) * -1);
-}
 
-.marginal-icon svg {
-  width: 80%;
+  svg {
+    width: 80%;
+  }
 }
 
 .grid-factory {
@@ -151,8 +156,8 @@ p {
 
 .search-panel {
   @apply bg-primary max-h-0 overflow-hidden transition-height duration-200 ease-in-out relative z-10;
-}
 
-.search-panel.open {
-  @apply max-h-96;
+  &.open {
+    @apply max-h-96;
+  }
 }

@@ -1,4 +1,4 @@
-import "./index.css";
+import "./index.scss";
 //import "./scripts/toggleTheme";
 import "./scripts/toggleSearch";
 
