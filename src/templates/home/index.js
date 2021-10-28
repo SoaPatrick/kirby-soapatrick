@@ -1,4 +1,4 @@
-import "./three.js";
+//import "./three.js";
 import "@/index.js";
 import "./index.css";
 

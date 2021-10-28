@@ -1,6 +1,6 @@
 module.exports = {
   purge: ["../**/*.php"],
-  darkMode: "class", // or 'media' or 'class'
+  darkMode: "media", // or 'media' or 'class'
   theme: {
     fontFamily: {
       sans: ["Lato", "sans-serif"],
@@ -15,9 +15,15 @@ module.exports = {
       transparent: "transparent",
       black: "#222222",
       white: "#fff",
-      primary: "var(--color__primary)", // is set somewhere else
+      primary: "var(--color__primary)",
+      "black-10": "rgba(0,0,0,.1)", // is set somewhere else
     },
-    extend: {},
+    extend: {
+      transitionProperty: {
+        height: "height, max-height",
+        menu: "left, padding-left",
+      },
+    },
   },
   variants: {
     extend: {},

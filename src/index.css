@@ -22,7 +22,8 @@ body {
 }
 
 :root {
-  --color__primary: #cf3a3a;
+  --color__primary: rgba(207, 58, 58, 1);
+  --color__primary--20: rgba(207, 58, 58, 0.2);
 }
 
 footer a,
@@ -43,7 +44,8 @@ h3 {
 }
 
 h1 {
-  @apply mt-2 mb-8 text-5xl;
+  @apply mt-2 mb-8;
+  font-size: clamp(2rem, 10vw, 3rem);
 }
 
 h2 {
@@ -80,7 +82,7 @@ p {
 }
 
 .nav-item {
-  @apply relative left-0 cursor-pointer transition-all duration-300 ease-in-out font-serif no-underline p-3 sm:p-0 sm:py-1 m-1 sm:m-0;
+  @apply relative left-0 cursor-pointer sm:transition-menu sm:duration-300 sm:ease-in-out font-serif no-underline p-3 sm:p-0 sm:py-1 m-1 sm:m-0;
 }
 .nav-item.active {
   @apply bg-primary rounded-full;
@@ -100,8 +102,9 @@ p {
   }
 
   .nav-item:hover {
-    @apply -left-4;
+    /*@apply -left-4; */
     padding-left: 2.35rem;
+    left: -1rem;
   }
 
   .nav-item::before {
@@ -144,4 +147,12 @@ p {
   grid-auto-flow: dense;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   grid-auto-rows: minmax(200px, auto);
+}
+
+.search-panel {
+  @apply bg-primary max-h-0 overflow-hidden transition-height duration-200 ease-in-out relative z-10;
+}
+
+.search-panel.open {
+  @apply max-h-96;
 }
