@@ -161,3 +161,10 @@ p {
     @apply max-h-96;
   }
 }
+
+.breadcrumb {
+  span::after {
+    content: "/";
+    @apply px-2 font-bold opacity-25;
+  }
+}

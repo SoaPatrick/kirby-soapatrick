@@ -1,4 +1,6 @@
 <?php snippet('header') ?>
+<?php snippet('breadcrumb') ?>
+
 <article>
   <header class="relative">
     <div class="marginal-icon absolute grid place-items-center">

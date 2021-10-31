@@ -3,9 +3,10 @@
   $results = $site->search($query, 'title|text');
 ?>
 
-
 <?php snippet('header'); ?>
-  <?php if($results->isNotEmpty()): ?>
+<?php snippet('breadcrumb') ?>
+
+<?php if($results->isNotEmpty()): ?>
   <h1><?= $page->title() ?>: <?= $query ?></h1>
   <ul>
     <?php foreach($site->search(get('q'),'title|text|tags') as $article): ?>
