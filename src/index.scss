@@ -148,13 +148,6 @@ p {
   }
 }
 
-.grid-factory {
-  @apply grid gap-4 my-4;
-  grid-auto-flow: dense;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  grid-auto-rows: minmax(200px, auto);
-}
-
 .search-panel {
   @apply bg-primary max-h-0 overflow-hidden transition-height duration-200 ease-in-out relative z-10;
 

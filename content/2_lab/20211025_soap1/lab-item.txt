@@ -2,7 +2,9 @@ Title: Soap1
 
 ----
 
-Cover: 
+Cover:
+
+- portfolio-cursor.png
 
 ----
 
@@ -18,4 +20,8 @@ Format: image
 
 ----
 
-Tags: 
+Tags: Promotion
+
+----
+
+Project: 
