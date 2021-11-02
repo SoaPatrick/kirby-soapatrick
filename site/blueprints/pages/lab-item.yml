@@ -23,7 +23,6 @@ columns:
         multiple: false
         query: site.videos
         label: Video
-        uploads: false
         when:
           format: video
 

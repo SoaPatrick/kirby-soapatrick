@@ -9,7 +9,7 @@
     "build": "shx rm -f src/.lock && vite build",
     "deploy": "rsync -avL $(pwd)/ --exclude-from='rsync-exclude.txt' $SP_REMOTE_USER@$SP_REMOTE_HOST:www/kirby.soapatrick.com --delete",
     "content:push": "rsync -av content $SP_REMOTE_USER@$SP_REMOTE_HOST:www/kirby.soapatrick.com --delete",
-    "content:pull": "rsync -av $SP_REMOTE_USER@$SP_REMOTE_HOST:www/kirby.soapatrick.com content --delete"
+    "content:pull": "rsync -av $SP_REMOTE_USER@$SP_REMOTE_HOST:www/kirby.soapatrick.com/content/ content --delete"
   },
   "author": "arnoson",
   "license": "MIT",
@@ -23,5 +23,7 @@
     "vite": "^2.0.5",
     "vite-plugin-live-reload": "^2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "fslightbox": "^3.3.0-2"
+  }
 }

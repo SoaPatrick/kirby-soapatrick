@@ -25,39 +25,37 @@
   </footer>
 
 <?php if ($page->project()->isNotEmpty()): ?>
-  <h2>Related Posts</h2>
-  <ul>
-    <?php 
-      $articles = $site->index()
-        ->filterBy('template', 'article')
-        ->filterBy('project', $page->project(), ',');
-      foreach ($articles as $article): 
-        ?>
-          <li>
-            <a href="<?= $article->url() ?>"><?= $article->title() ?></a>
-            <div><?= $article->text()->toBlocks()->excerpt(65, true, ' …')  ?></div>
-          </li>
-        <?php 
-      endforeach 
-    ?>
-  </ul>
+  <?php $articles = $site->index()->filterBy('template', 'article')->filterBy('project', $page->project(), ','); ?>
+  <?php if ($articles->isNotEmpty()): ?>
+    <h2>Related Posts</h2>
+    <?php foreach($articles as $article): ?>
+      <?php snippet('list-item--article', ['article' => $article]) ?>
+    <?php endforeach ?>
+  <?php endif ?>
 <?php endif ?>
+
+
 <?php if ($page->project()->isNotEmpty()): ?>
-  <h2>Related Lab</h2>
-  <ul>
-    <?php 
-      $labs = $site->index()
-        ->filterBy('template', 'lab-item');
-        //->filterBy('project', $page->project(), ',');
-      foreach ($labs as $lab): 
-        ?>
-          <li>
-            <a href="<?= $lab->url() ?>"><?= $lab->title() ?></a>
-          </li>
-        <?php
-      endforeach 
-    ?>
-  </ul>
+  <?php $labs = $site->index()->filterBy('template', 'lab-item')->filterBy('project', $page->project(), ','); ?>
+  <?php if ($labs->isNotEmpty()): ?>
+    <h2>Related Lab Items</h2>
+    <div class="grid-lab">
+      <?php foreach($labs as $article): ?>
+        <?php if($image = $article->cover()->toFile()): ?>
+          <article>
+            <?php if($article->format() == 'video'): ?>
+              <a href="<?= $article->video()->toFile()->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox>
+            <?php else: ?>
+              <a href="<?= $image->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox>
+            <?php endif ?>
+            <?php $img_resize = $image->resize(390); ?>
+            <img class="block w-full h-full object-cover rounded-md" src="<?= $img_resize->url() ?>" loading="lazy" alt="<?= $article->title()->html() ?>" width="<?= $img_resize->width() ?>" height="<?= $img_resize->height() ?>">
+            </a>
+          </article>
+        <?php endif ?>
+      <?php endforeach ?>
+    </div>
+  <?php endif ?>
 <?php endif ?>
 
 <?php snippet('footer') ?>

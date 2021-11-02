@@ -6,12 +6,12 @@
     <h1><?= html(urldecode(param('tag'))) ?></h1>
     <?php $articles = $page->children()->filterBy('tags', urldecode(param('tag')), ',')->paginate(1); ?>
   <?php else: ?>
-    <div class="marginal-icon absolute grid place-items-center">
+    <div class="marginal-icon marginal-icon--large mb-2 sm:mb-0 sm:absolute grid place-items-center">
         <?= $page->icon(); ?>
     </div>    
     <h1><?= $page->title() ?></h1>
     <?php $articles = $page->children()->listed()->paginate(1) ?>
-    <p><?= $page->description() ?></p>
+    <p class="text-lg"><?= $page->description() ?></p>
   <?php endif ?>
   <div>
 </header>

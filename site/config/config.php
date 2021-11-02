@@ -2,5 +2,8 @@
 
 return [
   'debug' => true,
-  'optionApiUrl' => 'https://kirby.soapatrick.com/api/'
+  'optionApiUrl' => 'https://kirby.soapatrick.com/api/',
+  'panel' => [
+    'slug' => 'yygang'
+  ]  
 ];

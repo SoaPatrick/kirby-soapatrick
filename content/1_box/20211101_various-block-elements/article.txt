@@ -1,0 +1,35 @@
+Title: Various Block Elements
+
+----
+
+Text: [{"content":{"level":"h2","text":"Heading 2"},"id":"4c866b72-8a97-4ae6-b476-9f897dc426eb","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Heading 3"},"id":"260746cd-8651-4a47-b4d0-c61bfbfdb5f9","isHidden":false,"type":"heading"},{"content":{"text":"<p>Aenean vitae lacus quis libero pretium laoreet vel nec lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce volutpat consectetur sodales. Sed sagittis risus et lectus suscipit ultrices. Quisque molestie imperdiet libero, sed tincidunt mi. Aenean hendrerit lacinia lectus quis congue. Maecenas pretium neque libero, quis tristique libero imperdiet vel. Donec vel purus tristique felis euismod tincidunt.<\/p>"},"id":"7a09c997-35ab-4188-b0d8-e025d87c784d","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Image"},"id":"08cbdcab-c6ae-48ce-82e6-988b994aac74","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["dices.jpg"],"src":"","alt":"","caption":"This is done in Blender","link":"","ratio":"","crop":"false"},"id":"d407eefd-8c66-4457-b9de-bef78f4fbbc5","isHidden":false,"type":"image"},{"content":{"level":"h3","text":"Quote"},"id":"a48cca2b-0c4c-495e-9b34-ecb3b93b6047","isHidden":false,"type":"heading"},{"content":{"text":"Can you free yourself enough to be able to experience the reality of life as it goes on before you and with you, and as you go on as part of it or not? Because if you can\u2019t, you stand on square one until you die","citation":"Roger Waters"},"id":"65f13f4c-02ac-4333-903b-4b42122bd3cf","isHidden":false,"type":"quote"},{"content":{"level":"h3","text":"List"},"id":"ae091851-965b-47cf-ae80-94c3b369652e","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><p>Paragraph<\/p><\/li><li><p>Heading<\/p><\/li><li><p>List<\/p><\/li><li><p>Quote<\/p><ul><li><p>Standard<\/p><\/li><li><p>Large<\/p><\/li><\/ul><\/li><li><p>Code<\/p><\/li><li><p>Image<\/p><ul><li><p>Content<\/p><\/li><li><p>Wide<\/p><\/li><li><p>Full<\/p><\/li><li><p>Left<\/p><\/li><li><p>Right<\/p><\/li><li><p>Center<\/p><\/li><\/ul><\/li><li><p>Gallery<\/p><ul><li><p>Images per Row<\/p><\/li><\/ul><\/li><li><p>Video<\/p><ul><li><p>Embed<\/p><ul><li><p>Youtube<\/p><\/li><li><p>Vimeo<\/p><\/li><\/ul><\/li><li><p>Library<\/p><\/li><\/ul><\/li><\/ul>"},"id":"75b2aa99-b736-4c18-a09a-06fc3678d57b","isHidden":false,"type":"list"},{"content":{"level":"h3","text":"Gallery"},"id":"2efca1aa-e2da-459c-ab23-5cd2ade6bfab","isHidden":false,"type":"heading"},{"content":{"images":["portfolio-deadpool_preview.png","portfolio-thanos_preview.png","portfolio-soaplab_preview.png","portfolio_soapatricktwo_preview.jpg","portfolio_soapatricksix_preview.png","portfolio-patrick_preview.png"]},"id":"4848eef4-31d7-472a-97bb-c66ebf3c0178","isHidden":false,"type":"gallery"},{"content":{"level":"h3","text":"Video (Youtube)"},"id":"56abadf6-b7fc-434f-90c0-05ad7d7da787","isHidden":false,"type":"heading"},{"content":{"url":"https:\/\/www.youtube.com\/watch?v=1DEMQ4ilwRg","caption":"This is a caption for a Video"},"id":"dac3c08f-642d-42de-8f5a-5b4dfe85c2a2","isHidden":false,"type":"video"},{"content":{"level":"h3","text":"Video (Vimeo)"},"id":"b14e3df3-67f1-46df-a3db-9922d69f23b0","isHidden":false,"type":"heading"},{"content":{"url":"https:\/\/vimeo.com\/157846849","caption":"This is a caption for a Vimeo Video"},"id":"bf728016-2879-4d95-87b7-2e5291543cc2","isHidden":false,"type":"video"}]
+
+----
+
+Published: 2021-11-01
+
+----
+
+Cover:
+
+- dug-squirrel.png
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: Stuff to Share
+
+----
+
+Tags: Build
+
+----
+
+Project: 

@@ -4,13 +4,13 @@
 <header class="relative">
   <?php if (!empty(param('tag'))): ?>
     <h1><?= html(urldecode(param('tag'))) ?></h1>
-    <?php $articles = $page->children()->filterBy('tags', urldecode(param('tag')), ',')->paginate(1); ?>
+    <?php $articles = $page->children()->filterBy('tags', urldecode(param('tag')), ',')->paginate(10); ?>
   <?php else: ?>
-    <div class="marginal-icon absolute grid place-items-center">
+    <div class="marginal-icon marginal-icon--large mb-2 sm:mb-0 sm:absolute grid place-items-center">
         <?= $page->icon(); ?>
     </div>    
     <h1><?= $page->title() ?></h1>
-    <?php $articles = $page->children()->listed()->paginate(1) ?>
+    <?php $articles = $page->children()->listed()->paginate(10) ?>
     <p><?= $page->description() ?></p>
   <?php endif ?>
   <div>
@@ -22,15 +22,19 @@
     <?php endforeach ?>
    </div>
   <div class="grid-lab">
-  <?php foreach($articles as $article): ?>
-    <article>
-      <a href="<?= $article->url() ?>" aria-label="<?= $article->title()->html() ?>">
-        <?php if($image = $article->cover()->toFile()): ?>
-          <?php $img_resize = $image->resize(250); ?>
-          <img class="block w-full h-full object-cover rounded-md" src="<?= $img_resize->url() ?>" loading="lazy" alt="<?= $article->title()->html() ?>" width="<?= $img_resize->width() ?>" height="<?= $img_resize->height() ?>">
-        <?php endif ?>
-      </a>
-    </article>
+    <?php foreach($articles as $article): ?>
+      <?php if($image = $article->cover()->toFile()): ?>
+        <article>
+          <?php if($article->format() == 'video'): ?>
+            <a href="<?= $article->video()->toFile()->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox>
+          <?php else: ?>
+            <a href="<?= $image->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox>
+          <?php endif ?>
+            <?php $img_resize = $image->resize(390); ?>
+            <img class="block w-full h-full object-cover rounded-md" src="<?= $img_resize->url() ?>" loading="lazy" alt="<?= $article->title()->html() ?>" width="<?= $img_resize->width() ?>" height="<?= $img_resize->height() ?>">
+          </a>
+        </article>
+      <?php endif ?>
     <?php endforeach ?>
   </div>
 </div>

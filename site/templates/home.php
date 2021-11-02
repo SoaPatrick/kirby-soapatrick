@@ -16,31 +16,19 @@
   $latestContent->add($factoryItems);
   $latestContent->add($labItems);
 ?>
-<?php foreach($latestContent->sortBy('published', 'desc')->limit(5) as $article): ?>
-  <article>
-    <header>
-      <div>
-        <time class="text-xs uppercase tracking-wide opacity-70" datetime="<?= $page->published()->toDate(DATE_ATOM) ?>">
-          <?= $article->published()->toDate('F j, Y') ?>
-        </time>
-      </div>
-      <a href="<?= $article->url() ?>">
-        <h2 class="mt-0"><?= $article->title()->html() ?></h2>
-      </a>
-      <span class="text-xs opacity-75 mb-8 block -mt-4"><?php
-        switch($article->parent()) {
-          case 'lab':
-            echo 'this is a lab item';
-            break;
-          case 'factory':
-            echo 'this is a factory item';
-            break;
-          default:
-            echo 'this is a blog item';
-        }
-      ?></span>
-    </header>
-  </article>
-<?php endforeach ?>
+<?php 
+  foreach($latestContent->sortBy('published', 'desc')->limit(5) as $article):
+    switch($article->parent()) {
+      case 'lab':
+        snippet('list-item--lab-item', ['article' => $article]);
+        break;
+      case 'factory':
+        snippet('list-item--factory-item', ['article' => $article]);
+        break;
+      default:
+        snippet('list-item--article', ['article' => $article]);
+    }
+  endforeach 
+?>
 
 <?php snippet('footer'); ?>

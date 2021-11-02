@@ -3,7 +3,7 @@
 
 <article>
   <header class="relative">
-    <div class="marginal-icon absolute grid place-items-center">
+    <div class="marginal-icon marginal-icon--large mb-2 sm:mb-0 sm:absolute grid place-items-center">
       <?= $page->icon(); ?>
     </div>
     <div>
@@ -11,7 +11,7 @@
         <?= $page->modified('F j, Y') ?>
       </time>
     </div>
-    <h1><?= $page->title() ?></h1>
+    <h1 class="mt-0"><?= $page->title() ?></h1>
   </header>
   <div>
     <?= markdown($page->text()) ?>

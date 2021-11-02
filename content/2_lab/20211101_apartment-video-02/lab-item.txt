@@ -1,0 +1,29 @@
+Title: apartment-video_02
+
+----
+
+Cover:
+
+- apartment-video_02_thumb.jpg
+
+----
+
+Video:
+
+- apartment-video_02.mp4
+
+----
+
+Published: 2021-11-01
+
+----
+
+Format: video
+
+----
+
+Tags: 3D
+
+----
+
+Project: factory/reflection

@@ -11,9 +11,7 @@
   </header>
   <div>
     <?php foreach ($page->text()->toBlocks() as $block): ?>
-      <div id="<?= $block->id() ?>" class="block block-type-<?= $block->type() ?>">
-        <?= $block ?>
-      </div>
+      <?= $block ?>
     <?php endforeach ?>
   </div>
   <footer>

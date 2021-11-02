@@ -6,29 +6,18 @@
     <h1><?= html(urldecode(param('tag'))) ?></h1>
     <?php $articles = $page->children()->filterBy('tags', urldecode(param('tag')), ',')->paginate(10); ?>
   <?php else: ?>
-    <div class="marginal-icon absolute grid place-items-center">
+    <div class="marginal-icon marginal-icon--large mb-2 sm:mb-0 sm:absolute grid place-items-center">
         <?= $page->icon(); ?>
     </div>    
     <h1><?= $page->title() ?></h1>
-    <?php $articles = $page->children()->listed()->paginate(10) ?>
-    <p><?= $page->description() ?></p>
+    <?php $articles = $page->children()->listed()->flip()->paginate(10) ?>
+    <p class="text-lg"><?= $page->description() ?></p>
   <?php endif ?>
   <div>
 </header>
 <div>
   <?php foreach($articles as $article): ?>
-
-  <article>
-    <h2><a href="<?= $article->url() ?>"><?= $article->title()->html() ?></a></h2>
-    <footer>
-      <div>
-        <?php foreach ($article->tags()->split() as $tag): ?>
-          <a class="tag" href="<?= $article->parent()->url(['params' => ['tag' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
-        <?php endforeach ?>
-      </div>
-    </footer>
-  </article>
-
+    <?php snippet('list-item--article', ['article' => $article]) ?>
   <?php endforeach ?>
 </div>
 
