@@ -49,6 +49,7 @@ columns:
       category:
         type: select
         placeholder: chose category
+        required: true
         options: api
         api:
           url: "{{ kirby.option('optionApiUrl') }}/tags.json"
@@ -57,6 +58,7 @@ columns:
           value: "{{ item.name }}"
       tags:
         type: multiselect
+        min: 1
         max: 5
         accept: options
         options: api
@@ -67,7 +69,7 @@ columns:
           value: "{{ item.name}}"
       project:
         label: Related Project
-        type: select
+        type: multiselect
         placeholder: chose related project
         accept: options
         options: query

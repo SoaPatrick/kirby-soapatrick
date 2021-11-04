@@ -26,8 +26,10 @@ columns:
         multiple: false
         label: Featured Image
         layout: cards
+        required: true
       tags:
         type: multiselect
+        min: 1
         max: 5
         accept: options
         options: api
@@ -36,10 +38,3 @@ columns:
           fetch: factory-tags
           text: "{{ item.name }}"
           value: "{{ item.name }}"
-      project:
-        label: Related Project
-        type: select
-        placeholder: chose related project
-        accept: options
-        options: query
-        query: site.index.filterBy("template", "in", ["factory-item"])

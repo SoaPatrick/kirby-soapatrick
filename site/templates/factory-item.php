@@ -24,19 +24,18 @@
     </div>
   </footer>
 
-<?php if ($page->project()->isNotEmpty()): ?>
-  <?php $articles = $site->index()->filterBy('template', 'article')->filterBy('project', $page->project(), ','); ?>
+
+  <?php $articles = $site->index()->filterBy('template', 'article')->filterBy('project', $page->uri(), ','); ?>
   <?php if ($articles->isNotEmpty()): ?>
     <h2>Related Posts</h2>
     <?php foreach($articles as $article): ?>
       <?php snippet('list-item--article', ['article' => $article]) ?>
     <?php endforeach ?>
   <?php endif ?>
-<?php endif ?>
 
 
-<?php if ($page->project()->isNotEmpty()): ?>
-  <?php $labs = $site->index()->filterBy('template', 'lab-item')->filterBy('project', $page->project(), ','); ?>
+
+  <?php $labs = $site->index()->filterBy('template', 'lab-item')->filterBy('project', $page->uri(), ','); ?>
   <?php if ($labs->isNotEmpty()): ?>
     <h2>Related Lab Items</h2>
     <div class="grid-lab">
@@ -56,6 +55,6 @@
       <?php endforeach ?>
     </div>
   <?php endif ?>
-<?php endif ?>
+
 
 <?php snippet('footer') ?>

@@ -16,8 +16,4 @@ Cover:
 
 ----
 
-Tags: 3D, Web Design
-
-----
-
-Project: factory/reflection
+Tags: Short Film

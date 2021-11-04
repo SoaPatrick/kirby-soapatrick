@@ -14,15 +14,14 @@ columns:
       cover:
         type: files
         multiple: false
-        parent: site.images
-        query: site.images
         label: Featured Image
         layout: cards
+        required: true
       video:
         type: files
         multiple: false
-        query: site.videos
         label: Video
+        required: true
         when:
           format: video
 
@@ -40,6 +39,7 @@ columns:
           video: Video
       tags:
         type: multiselect
+        min: 1
         max: 5
         accept: options
         options: api
