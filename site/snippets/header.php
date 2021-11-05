@@ -26,3 +26,4 @@ $entry = "templates/$template/index.js";
   <?php snippet("menu") ?>
   <div class="wrapper">
     <main class="flex-1 max-w-screen-md mt-16">
+      <?php snippet("breadcrumb") ?>

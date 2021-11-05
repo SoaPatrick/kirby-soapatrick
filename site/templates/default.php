@@ -1,6 +1,4 @@
 <?php snippet('header') ?>
-<?php snippet('breadcrumb') ?>
-
 <article>
   <header class="relative">
     <div class="marginal-icon marginal-icon--large mb-2 sm:mb-0 sm:absolute grid place-items-center">

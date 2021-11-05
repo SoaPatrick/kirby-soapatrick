@@ -1,5 +1,4 @@
 <?php snippet('header') ?>
-<?php snippet('breadcrumb') ?>
 <article>
   <header>
     <div>

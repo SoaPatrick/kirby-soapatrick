@@ -4,7 +4,6 @@
 ?>
 
 <?php snippet('header'); ?>
-<?php snippet('breadcrumb') ?>
 
 <?php if($results->isNotEmpty()): ?>
   <h1><?= $page->title() ?>: <?= $query ?></h1>

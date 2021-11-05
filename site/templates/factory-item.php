@@ -1,5 +1,4 @@
 <?php snippet('header') ?>
-<?php snippet('breadcrumb') ?>
 <article>
   <header>
     <div>
@@ -29,7 +28,7 @@
   <?php if ($articles->isNotEmpty()): ?>
     <h2>Related Posts</h2>
     <?php foreach($articles as $article): ?>
-      <?php snippet('list-item--article', ['article' => $article]) ?>
+      <?php snippet('list-item/article', ['article' => $article]) ?>
     <?php endforeach ?>
   <?php endif ?>
 

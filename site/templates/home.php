@@ -20,13 +20,13 @@
   foreach($latestContent->sortBy('published', 'desc')->limit(5) as $article):
     switch($article->parent()) {
       case 'lab':
-        snippet('list-item--lab-item', ['article' => $article]);
+        snippet('list-item/lab-item', ['article' => $article]);
         break;
       case 'factory':
-        snippet('list-item--factory-item', ['article' => $article]);
+        snippet('list-item/factory-item', ['article' => $article]);
         break;
       default:
-        snippet('list-item--article', ['article' => $article]);
+        snippet('list-item/article', ['article' => $article]);
     }
   endforeach 
 ?>

@@ -1,6 +1,4 @@
 <?php snippet('header') ?>
-<?php snippet('breadcrumb') ?>
-
 <h1><?= $page->title() ?></h1>
 <h2>Date</h2>
 <?= $page->published()->toDate('F j, Y') ?>

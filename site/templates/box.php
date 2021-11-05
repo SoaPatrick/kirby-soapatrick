@@ -1,6 +1,4 @@
 <?php snippet('header') ?>
-<?php snippet('breadcrumb') ?>
-
 <header class="relative">
   <?php if (!empty(param('tag'))): ?>
     <h1><?= html(urldecode(param('tag'))) ?></h1>
@@ -17,7 +15,7 @@
 </header>
 <div>
   <?php foreach($articles as $article): ?>
-    <?php snippet('list-item--article', ['article' => $article]) ?>
+    <?php snippet('list-item/article', ['article' => $article]) ?>
   <?php endforeach ?>
 </div>
 
