@@ -31,11 +31,14 @@ body {
 footer a,
 main a {
   @apply text-primary font-medium;
+  @apply underline;
+  text-decoration-thickness: 0.01em;
+  text-underline-offset: 0.25em;
+  text-decoration-color: transparent;
+  transition: text-decoration-color 0.25s ease-in-out;
 
   &:hover {
-    @apply underline;
-    text-underline-offset: 0.25em;
-    text-decoration-thickness: 0.01em;
+    text-decoration-color: currentColor;
   }
 }
 
@@ -72,14 +75,15 @@ p {
 }
 
 .wrapper {
-  @apply flex flex-col mr-8;
-  padding-left: calc(clamp(2rem, 7vw, 5rem) + 2rem);
+  @apply flex flex-col ml-8 mr-2;
+  padding-left: calc(clamp(2rem, 7vw, 3rem) + 2rem);
   margin-left: calc(4rem + 100px);
   min-height: calc(100% - clamp(20px, 20vw, 200px));
 
   @media (max-width: 640px) {
-    margin-left: 0;
-    padding-left: 4rem;
+    margin-left: 1rem;
+    padding-left: 0;
+    padding-right: 4rem;
   }
 }
 
@@ -140,9 +144,9 @@ p {
 }
 
 .marginal-icon {
-  width: clamp(2rem, 7vw, 5rem);
-  height: clamp(2rem, 7vw, 5rem);
-  left: calc((calc(clamp(2rem, 7vw, 5rem) + 1rem)) * -1);
+  width: clamp(2rem, 7vw, 3rem);
+  height: clamp(2rem, 7vw, 3rem);
+  left: calc((calc(clamp(2rem, 7vw, 3rem) + 1rem)) * -1);
 
   &--large {
     svg {

@@ -1,4 +1,4 @@
-<header class="fixed left-0 bottom-6 sm:bottom-8 sm:left-8">
+<header class="fixed right-0 bottom-6 sm:bottom-8 sm:left-8 sm:right-auto">
   <nav class="inline-flex flex-col items-start">
     <a class="p-3 sm:p-0 sm:py-1 m-1 sm:m-0 sm:mb-2 " aria-label="SoaPatrick" href="/">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 274.66 314.5" class="h-5 sm:h-12 block text-primary hover:text-black dark:hover:text-white transition-all duration-300 ease-in-out">
