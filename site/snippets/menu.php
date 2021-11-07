@@ -1,5 +1,5 @@
-<header class="fixed right-0 bottom-6 sm:bottom-8 sm:left-8 sm:right-auto">
-  <nav class="inline-flex flex-col items-start">
+<header class="fixed right-0 bottom-32 sm:bottom-6 sm:bottom-8 sm:left-8 sm:right-auto">
+  <nav class="hidden sm:inline-flex flex-col items-start">
     <a class="p-3 sm:p-0 sm:py-1 m-1 sm:m-0 sm:mb-2 " aria-label="SoaPatrick" href="/">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 274.66 314.5" class="h-5 sm:h-12 block text-primary hover:text-black dark:hover:text-white transition-all duration-300 ease-in-out">
           <path fill="currentColor" d="M99.39,314.4,175.77,60.64h54.39c15.9,0,27.6,2,34.6,6,6.7,3.8,9.9,10.7,9.9,21,0,8.29-1.9,18.49-5.6,30.39l-14.6,48.59c-3.5,11.4-7.3,21-11.4,28.5a55.09,55.09,0,0,1-14.39,17.5,51.09,51.09,0,0,1-19.8,9.19c-7.7,1.9-17.2,2.8-28.2,2.8h-10.8l-27,89.89h0l-43.49-.1ZM222,132.7c1.37-5.27,4.21-16.67,4.21-19.47,0-3.4-1.1-5.5-3.2-6.4a16.93,16.93,0,0,0-6.2-.9l-11.7.1-20.4,67.89-1.5,5,12.3.1a15.84,15.84,0,0,0,6.9-1.5,14.81,14.81,0,0,0,5.9-5.6c2.89-4.06,5.55-11.69,7.24-17.14C217,150,219.68,141.42,222,132.7Z"></path>

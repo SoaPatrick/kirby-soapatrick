@@ -81,9 +81,7 @@ p {
   min-height: calc(100% - clamp(20px, 20vw, 200px));
 
   @media (max-width: 640px) {
-    margin-left: 1rem;
-    padding-left: 0;
-    padding-right: 4rem;
+    @apply pl-0 mx-4;
   }
 }
 
@@ -240,5 +238,20 @@ $breakpoints: (
     img {
       height: auto;
     }
+  }
+}
+
+#drag.bounce {
+  transition: height 0.25s ease-in-out;
+}
+#drag-title {
+  @apply transition-opacity duration-300;
+}
+
+#nav > * {
+  @apply font-serif text-2xl opacity-0 transition-opacity duration-300 absolute;
+
+  &.active {
+    @apply opacity-100;
   }
 }

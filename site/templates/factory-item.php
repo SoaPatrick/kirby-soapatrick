@@ -24,7 +24,7 @@
   </footer>
 
 
-  <?php $articles = $site->index()->filterBy('template', 'article')->filterBy('project', $page->uri(), ','); ?>
+  <?php $articles = page('box')->children()->filterBy('project', $page->uri(), ','); ?>
   <?php if ($articles->isNotEmpty()): ?>
     <h2>Related Posts</h2>
     <?php foreach($articles as $article): ?>
@@ -34,7 +34,7 @@
 
 
 
-  <?php $labs = $site->index()->filterBy('template', 'lab-item')->filterBy('project', $page->uri(), ','); ?>
+  <?php $labs = page('lab')->children()->filterBy('template', 'lab-item')->filterBy('project', $page->uri(), ','); ?>
   <?php if ($labs->isNotEmpty()): ?>
     <h2>Related Lab Items</h2>
     <div class="grid-lab">
