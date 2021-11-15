@@ -241,17 +241,40 @@ $breakpoints: (
   }
 }
 
+#drag {
+  touch-action: none;
+  cursor: grabbing;
+  cursor: -moz-grabbing;
+  cursor: -webkit-grabbing;
+}
+
 #drag.bounce {
   transition: height 0.25s ease-in-out;
+  touch-action: none;
+  cursor: move; /* fallback if grab cursor is unsupported */
+  cursor: grab;
+  cursor: -moz-grab;
+  cursor: -webkit-grab;
 }
 #drag-title {
-  @apply transition-opacity duration-300;
+  //@apply transition-opacity duration-300;
+}
+
+#nav {
+  @apply transition-transform duration-200;
 }
 
 #nav > * {
-  @apply font-serif text-2xl opacity-0 transition-opacity duration-300 absolute;
+  @apply font-serif text-2xl opacity-10 transition-opacity duration-300 px-8;
 
   &.active {
+    @apply underline;
+    text-decoration-thickness: 0.1em;
+    text-underline-offset: 0.25em;
+    text-decoration-color: currentColor;
+  }
+
+  &.show {
     @apply opacity-100;
   }
 }
