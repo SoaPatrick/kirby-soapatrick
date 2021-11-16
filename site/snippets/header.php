@@ -18,7 +18,6 @@ $entry = "templates/$template/index.js";
   <?= vite()->css() ?>
   <!-- ... and the template's css -->
   <?= vite()->css($entry) ?>
-  <?php snippet("darkmode") ?>
 </head>
 <body class="bg-white dark:bg-black dark:text-white">
   <?php snippet("search") ?>

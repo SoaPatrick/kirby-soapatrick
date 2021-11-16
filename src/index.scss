@@ -78,10 +78,14 @@ p {
   @apply flex flex-col ml-8 mr-2;
   padding-left: calc(clamp(2rem, 7vw, 3rem) + 2rem);
   margin-left: calc(4rem + 100px);
-  min-height: calc(100% - clamp(20px, 20vw, 200px));
+
+  @media (min-width: 641px) {
+    min-height: calc(100% - clamp(20px, 20vw, 200px));
+  }
 
   @media (max-width: 640px) {
     @apply pl-0 mx-4;
+    min-height: 100%;
   }
 }
 
@@ -256,12 +260,21 @@ $breakpoints: (
   cursor: -moz-grab;
   cursor: -webkit-grab;
 }
-#drag-title {
-  //@apply transition-opacity duration-300;
+#drag-handle {
+  @apply transition-opacity duration-500;
+
+  &.fade-out {
+    opacity: 0;
+  }
 }
 
 #nav {
-  @apply transition-transform duration-200;
+  @apply transition-transform duration-200 hidden;
+  height: calc(100% + 5rem);
+
+  &.show {
+    @apply flex;
+  }
 }
 
 #nav > * {
@@ -276,5 +289,13 @@ $breakpoints: (
 
   &.show {
     @apply opacity-100;
+  }
+}
+
+#nav-search {
+  @apply hidden;
+
+  &.show {
+    @apply block;
   }
 }
