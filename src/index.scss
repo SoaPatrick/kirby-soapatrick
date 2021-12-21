@@ -59,7 +59,7 @@ h2 {
 }
 
 h3 {
-  @apply text-xl;
+  @apply mt-8 mb-4 text-xl;
 }
 
 p {
@@ -84,8 +84,7 @@ p {
   }
 
   @media (max-width: 640px) {
-    @apply pl-0 mx-4;
-    min-height: 100%;
+    @apply pl-0 mx-4 min-h-full;
   }
 }
 
@@ -194,36 +193,31 @@ $breakpoints: (
 }
 
 .grid-lab {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
-  margin-top: 2rem;
+  @apply flex flex-wrap flex-col mt-8;
 
   @include mq(tiny) {
-    flex-direction: row;
+    @apply flex-row;
   }
 
   article {
-    margin-bottom: 1rem;
+    @apply mb-4;
 
     @include mq(tiny) {
-      margin-right: 1rem;
+      @apply mr-4;
     }
   }
 
   img {
-    display: block;
-    border-radius: 5px;
+    @apply block rounded-md;
 
     @include mq(tiny) {
+      @apply w-auto;
       height: clamp(150px, 10vw, 300px);
-      width: auto;
     }
   }
 
   @supports (grid-template-rows: masonry) {
-    display: grid;
-    gap: 1rem;
+    @apply grid gap-4;
     grid-template-rows: masonry;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
 
@@ -236,11 +230,11 @@ $breakpoints: (
     }
 
     article {
-      margin: 0;
+      @apply m-0;
     }
 
     img {
-      height: auto;
+      @apply h-auto;
     }
   }
 }
@@ -264,7 +258,7 @@ $breakpoints: (
   @apply transition-opacity duration-500;
 
   &.fade-out {
-    opacity: 0;
+    @apply opacity-0;
   }
 }
 
@@ -297,5 +291,48 @@ $breakpoints: (
 
   &.show {
     @apply block;
+  }
+}
+
+.video-block {
+  @apply my-8;
+
+  iframe {
+    @apply w-full aspect-video;
+  }
+}
+
+.gallery-block {
+  @apply flex flex-wrap gap-4 my-8;
+
+  > * {
+    @apply flex grow flex-col justify-center relative;
+  }
+
+  img {
+    @apply rounded-md;
+  }
+}
+
+@for $i from 2 to 5 {
+  $factor: $i - 1;
+  .gallery-block--#{$i}-columns > * {
+    width: calc((100% - 1rem * #{$factor}) /#{$i});
+  }
+}
+
+article {
+  ul {
+    @apply list-disc pl-4;
+
+    li::marker {
+      @apply text-primary;
+    }
+  }
+  ol,
+  ul {
+    p {
+      @apply m-0;
+    }
   }
 }

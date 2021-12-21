@@ -2,7 +2,15 @@ name: field.blocks.video.name
 icon: video
 preview: video
 fields:
-fields:
+  align:
+    label: Alignment
+    type: radio
+    columns: 3
+    default: "content"
+    options:
+      content: Content
+      wide: Wide
+      full: Full
   location:
     label: field.blocks.image.location
     type: radio
