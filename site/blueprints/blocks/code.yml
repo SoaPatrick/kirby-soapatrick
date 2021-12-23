@@ -1,0 +1,25 @@
+name: field.blocks.code.name
+icon: code
+wysiwyg: true
+preview: code
+fields:
+  code:
+    label: field.blocks.code.name
+    type: textarea
+    placeholder: field.blocks.code.placeholder
+    buttons: false
+    font: monospace
+  language:
+    label: field.blocks.code.language
+    type: select
+    default: text
+    options:
+      css: CSS
+      html: HTML
+      js: JavaScript
+      json: JSON
+      markdown: Markdown
+      php: PHP
+      text: Plain Text
+      sass: Sass
+      yaml: YAML

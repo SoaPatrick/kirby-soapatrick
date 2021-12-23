@@ -24,6 +24,8 @@
     "vite-plugin-live-reload": "^2.0.0"
   },
   "dependencies": {
-    "fslightbox": "^3.3.0-2"
+    "fslightbox": "^3.3.0-2",
+    "lite-youtube-embed": "^0.2.0",
+    "prism-theme-vars": "^0.2.2"
   }
 }

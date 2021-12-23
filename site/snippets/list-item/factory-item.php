@@ -16,7 +16,7 @@
   <footer>
     <div>
       <?php foreach ($article->tags()->split() as $tag): ?>
-        <a class="tag" href="<?= $article->parent()->url(['params' => ['tag' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
+        <a class="hashtag" href="<?= $article->parent()->url(['params' => ['tag' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
       <?php endforeach ?>
     </div>
   </footer>

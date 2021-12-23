@@ -16,7 +16,7 @@
 <div>
   <div>
     <?php foreach( $page->children()->listed()->pluck('tags', ',', true) as $tag): ?>
-      <a class="tag<?= e(param('tag') == urlencode($tag), ' text-black dark:text-white') ?>" href="<?= url('factory', ['params' => ['tag' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
+      <a class="hashtag<?= e(param('tag') == urlencode($tag), ' text-black dark:text-white') ?>" href="<?= url('factory', ['params' => ['tag' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
     <?php endforeach ?>
    </div>
   <div class="grid-factory">
