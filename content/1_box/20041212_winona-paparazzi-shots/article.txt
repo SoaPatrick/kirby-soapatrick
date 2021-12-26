@@ -1,0 +1,33 @@
+Title: Winona paparazzi shots
+
+----
+
+Text: [{"content":{"location":"web","image":[],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/95\/pprzi-117.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":"content"},"id":"dc9a30ce-c940-47ca-89e0-aef8ccb0fee0","isHidden":false,"type":"image"},{"content":{"text":"Today I learned how to add pictures to the gallery, so here are 4 paparazzi shots.\n\n- [Paparazzi Shots](https:\/\/agcn.soapatrick.com\/pictures\/categories.php?cat_id=95&s=&page=10)\n\nwith the precious help of GoDrex..."},"id":"bc1513c6-8a2e-4dc9-9e99-c689434675ed","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2004-12-12
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

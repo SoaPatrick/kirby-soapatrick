@@ -1,0 +1,33 @@
+Title: 4 New Color Pics
+
+----
+
+Text: [{"content":{"text":"Hey everyone, I hope you all had a merry Christmas. Well as for me, I'm glad again that it's over now, look forward to new years eve where I will party big, hehe.\n\nToday I have 4 new color pics scanned or created by [corky](http:\/\/www.soapatrick.com\/munity\/index.php?showuser=46) which I found in my mailbox when I cleaned that place up a bit."},"id":"5e3ccb8a-7023-40ef-b793-9555c40666ff","isHidden":false,"type":"markdown"},{"content":{"location":"web","image":[],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/1\/color-292.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":"content"},"id":"e023d9ec-702a-4446-9932-e5ddf2741396","isHidden":false,"type":"image"},{"content":{"location":"web","image":[],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/1\/color-293.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":"content"},"id":"2ed31ce8-61cf-45e9-a36b-4c8f4e593e60","isHidden":false,"type":"image"},{"content":{"location":"web","image":[],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/1\/color-294.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":"content"},"id":"b44a9bd1-8361-40cc-ab3b-74ad9f43fcb8","isHidden":false,"type":"image"},{"content":{"location":"web","image":[],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/1\/color-295.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":"content"},"id":"dac5d859-b756-4662-9f17-d2a429fce1d9","isHidden":false,"type":"image"}]
+
+----
+
+Published: 2004-12-27
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

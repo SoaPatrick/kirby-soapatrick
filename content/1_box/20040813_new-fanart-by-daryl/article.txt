@@ -1,0 +1,33 @@
+Title: New Fanart by Daryl
+
+----
+
+Text: [{"content":{"text":"[Daryl](http:\/\/www.soapatrick.com\/munity\/index.php?showuser=641) used the new gallery upload system yesterday and uploaded a whopping 35 new drawings (thank you very much) and all can be looked at in his gallery. 4 examples below and the link to his gallery.\n\n- [Daryls Fanart Gallery](http:\/\/www.soapatrick.com\/agcn\/fan-art\/categories.php?cat_id=18)\n\nWe also have 2 new pics (bigger ones than the thumbs from wireimage.com) from the baseball game Winona attended on August 5th. Thanks a lot to [WinonaRules345](http:\/\/www.soapatrick.com\/munity\/index.php?showuser=779) for finding them"},"id":"05a7d9b6-0c89-440b-afc3-242dc98b457b","isHidden":false,"type":"markdown"},{"content":{"location":"web","image":[],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/108\/event-002.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":"content"},"id":"dc113966-d89f-499c-8162-6df84bd7b977","isHidden":false,"type":"image"},{"content":{"location":"web","image":[],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/108\/event-003.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":"content"},"id":"f37a97d2-ad28-43f4-a0cb-58d821c41700","isHidden":false,"type":"image"}]
+
+----
+
+Published: 2004-08-13
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

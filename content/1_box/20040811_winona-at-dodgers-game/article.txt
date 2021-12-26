@@ -1,0 +1,33 @@
+Title: Winona at Dodgers Game
+
+----
+
+Text: [{"content":{"location":"web","image":[],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/108\/event-001.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":"content"},"id":"a45ffc75-91e1-46bb-9146-a9921352f5d1","isHidden":false,"type":"image"},{"content":{"text":"Just a quick update here (another one MIGHT follow later today) because thanks to [18Stars](http:\/\/www.soapatrick.com\/munity\/index.php?showuser=136) we finally have a bigger pic of Winona at the Dodgers game from August 5th. Thanks a lot."},"id":"51685c68-ca21-461b-b983-0a2ff872a3a3","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2004-08-11
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

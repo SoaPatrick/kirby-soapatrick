@@ -1,0 +1,33 @@
+Title: AGCN News
+
+----
+
+Text: [{"content":{"text":"I assume you all witnessed the many downtimes recently where it was said that we got suspended. Believe me, we were just as surprised to read this as everyone else and until today we haven't received an explanation for this, actually, I have received nothing from them. Well, we're sick of being treated like idiots here and take actions into our own hands which means we will move (once again) to a new server in October, probably mid-October.\n\nOf course I hope that the new server we have in mind will finally please us all and not only for a few months but for a long time that we can stop worrying about those problems (godrex.com is hosted on that server for over year with no major problems and a support team that actually answers to your questions). The good news about this new server is that we will have as much space but more bandwidth which will lead to the return of the media files. Yes, you read correct, we will bring you back rare media files we collected through the years.\n\nBut not everything will be good, we have to change certain things in order to make this all work. Step one is to let go of the Jennifer Love Hewitt page 'The Love Chronicle' and the Kirsten Dunst page 'Cursed In Dunst'. It was a great time with those 3 pages but having the bandwidth of 3 pages on one server is just too much and I also can't find the time anymore to work on 2 pages (AGCN and CID). This will also lead to the closure of the following 3 forums: the Jennifer Love Hewitt forum, the Kirsten Dunst forum and the Fight Club forum. But the topics and posts won't get deleted but transferred to other forums they fit (Celebrity and Movie forum mostly)\n\nStep two will be the expansion of the Winona forum, there will be a whole Winona category with 3 forums (no more sub-forums) and maybe a fourth if the right idea comes until then.\n\nTwo make a smooth move in October we, unfortunately, have to close the forum for a few days to avoid a data loss and make a perfect backup from all of it, we will then re-open the forum at its new place and hopefully without the old problems.\n\nWell I hope this clears some things up and you also get an idea how the next month will look like and also won't be surprised by some changes. Enjoy your stay on AGCN despite all those problems :)"},"id":"fec3c0fc-7e47-4274-be80-130442c49b8e","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2003-09-23
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

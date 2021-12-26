@@ -1,0 +1,33 @@
+Title: AGCN Reloaded
+
+----
+
+Text: [{"content":{"text":"So here we are, what started more than 2 years ago, has finally come to an end, and let me tell you that I'm happy it did. The last week was hell for Godrex and me. We had to hurry bigtime to make the deadline and I'd say it's very rare that people make the deadlines in the internet these days.\n\nYes you read correctly, 2 years. I'm not sure how many can still remember when I started talking about Version6 (before we released the very simple version6 and what you see now just moved a number higher) There were 6 different designs for version 7, each was good but not exactly what I wanted but now I'm truly happy with it. But what you see here is actually not what I had in mind, I like to call this here 'Version 7\u00a0_lite_' because a lot of things are still missing or incomplete. I just wanted to get it finally out because there are things that deserve to be out. Like the comic strips from Herv\u00e9 and Phil who truly did an amazing job (as you will find out yourself in the upcoming weeks) I had this idea for some time and when you've got a professional comic artist and a creative writer (who won the first official AGCN writing contest) in the community then you just have to at least propose this idea and lucky for all of us now, they agreed to do it.\n\nWe are also proud to finally show a complete picture archive and complete fanart archive but when you cruise around on the page you realize that some things are not quite complete, like where are the fanmovies, the biography stats, where have gone all the multimedia files. Well some stuff is either not done yet or gets a whole new look. But going into all that might be too much now since I'm really tired anyway. I just wanna say that both Godrex and I bleeded for this here and we're far from over with it. We hope to reloade it again later this year with a complete new picture gallery which will open doors to a lot of other things I've planned. But one thing after another.\n\nWell I'm not exactly a talented article writer and don't worry, I won't write these here in the future but I somehow had to because we run out of time with our planned writer and I simple do know the stuff best about this subject. But there's someone else who does know A LOT about the background of version 7, Godrex my right hand on so many things also wants to say something.\n\nGodrex: I've been lucky enough to be involved with some of the behind the scenes things for this new version and I just want to say that's it been a great learning experience for me.This is definitely the most complex page design that I've ever been a part of and I'm glad that I've been able to help out with it's functionality. This version is much more advanced than the last one and there were a lot of problems that needed solving. MistaG would say things to me like \"yeah that's cool, but I really need it to do this  \ninstead\" and I'd get frustrated at first but then start searching for a solution. He definitely wasn't easy to work for at all times, but he really knew what he wanted with this design and we had to make it happen. I'm very proud that I was able to bring some ideas and solutions to the mix.\n\nFor those that are interested in such things, you may notice that the page is using PHP code now for a lot of it's content. This enables us to bring more dynamic information to page and makes updates easier. It also (thanks to K3rmit) helps us update the photo gallery and fanart sections instantly. We hope to continue to bring more improvements to the site in the near future.\n\nI know that all the Winona fans all of the world will enjoy the new version of the site. Patrick (aka MistaG) you've done a fantastic job once again! I think Winona would be proud. - Gary (aka GoDrex)\n\nWell I also hope you will enjoy this new version here, have fun cruising around on it and discover new things because there is a lot to discover."},"id":"a0ba26eb-b139-482b-96b4-8dcace6796b2","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2003-07-07
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 
