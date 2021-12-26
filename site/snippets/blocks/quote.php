@@ -2,15 +2,13 @@
 
 /** @var \Kirby\Cms\Block $block */ 
 ?>
-<figure class="quote-block quote-block--<?= $block->style() ?>">
-  <blockquote>
-    <p>
-      <?= $block->text() ?>
-    </p>
-  </blockquote>
+<blockquote class="quote-block quote-block--<?= $block->style() ?>">
+  <p>
+    <?= $block->text() ?>
+  </p>
   <?php if ($block->citation()->isNotEmpty()): ?>
-    <figcaption>
+    <cite>
       <?= $block->citation() ?>
-    </figcaption>
+    </cite>
   <?php endif ?>
-</figure>
+</blockquote>

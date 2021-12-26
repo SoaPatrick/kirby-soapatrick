@@ -1,0 +1,33 @@
+Title: Cinema Article & Pics
+
+----
+
+Text: [{"content":{"text":"On Tuesday I started with a completely new design and today I finished it but I have big problems to make it work for Netscape and I don't know how to solve it. I really try everything but if it won't work well then...I don't know. All I can say is that I've never done such a great design in my life before. My first attempts were ok but this thing now... WOW. If everything works out, you can expect it in 2 weeks.\n\nToday I scanned the pics (and article) from the second 'Cinema' magazine. Unfortunately, it's in German. This issue is from May 1995.\n\nWINONA-MOVIE-QUOTE of the day:\n\n> +: I don't really like my friends.  \n> \\-: Yeah, I don't really like your friends either.\n\nCan you guess from which movie it is?"},"id":"a1a5ee62-a87a-4d70-a76d-25e0b5483445","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2000-07-27
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

@@ -1,0 +1,33 @@
+Title: New Cinema Article
+
+----
+
+Text: [{"content":{"text":"I know that a lot of people are still waiting for some emails from me but I just finished this design, so let me chill out a bit, ok?:)\n\nThe new German 'Cinema' came out and here's a pic which I found in there along with a small article (in German of course)\n\nTwo weeks till 'Autumn in New York' hits theatres but still, I haven't found something new about the movie, in my opinion, there's no buzz (is MGM even marketing it) and this is never good when it comes to box-office success."},"id":"9b0e62b3-d8a4-47bd-90b5-b3e8387c5d5f","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2000-08-01
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

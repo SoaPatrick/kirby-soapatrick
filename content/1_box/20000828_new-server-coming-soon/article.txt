@@ -1,0 +1,33 @@
+Title: New Server Coming Soon
+
+----
+
+Text: [{"content":{"text":"The new server is coming closer, I'm updating the page there right now:) and on September 1st this one here will close:)\n\nYesterday 'Dave' almost crashed my mail server:) I received over 52 emails with pictures:) Vidcaps from the movie 'Reality Bites'. Unfortunately I don't have enough web space right now to put them up, you have to wait for the new server but that's soon:)"},"id":"38918e55-9281-4ebb-980e-d3e7a8d402d5","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2000-08-28
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

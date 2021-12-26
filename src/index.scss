@@ -329,13 +329,14 @@ $breakpoints: (
   }
 }
 
+blockquote,
 .quote-block {
   margin: 2rem 0;
   padding-left: 1rem;
   border-left: 5px solid var(--color__primary);
 
-  figcaption {
-    @apply text-xs text-left opacity-100 font-light italic;
+  cite {
+    @apply text-xs font-light italic;
   }
 
   &--large {
@@ -346,19 +347,24 @@ $breakpoints: (
   }
 }
 
-article {
-  ul {
-    @apply list-disc pl-4;
+ul {
+  @apply list-disc pl-8;
+}
 
-    li::marker {
-      @apply text-primary;
-    }
+ol {
+  @apply list-decimal pl-8;
+}
+
+ol,
+ul {
+  @apply mb-4;
+
+  li::marker {
+    @apply text-primary;
   }
-  ol,
-  ul {
-    p {
-      @apply m-0;
-    }
+
+  p {
+    @apply m-0;
   }
 }
 

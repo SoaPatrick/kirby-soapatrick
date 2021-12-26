@@ -1,0 +1,33 @@
+Title: Autumn In NY Article
+
+----
+
+Text: [{"content":{"text":"Text: I didn't do everything on the pics section but the biggest part, I updated the Public pics, the rest will follow (hopefully for tomorrow) and also the sound clip from GI, sorry 'Uwe'\n\n'Linh' was able to buy the new 'Movieline' magazine and there's an article about 'Autumn in New York'. Thanks a lot 'Linh' for that."},"id":"9c408f1f-b39f-4595-a34a-0af9f41ff549","isHidden":false,"type":"markdown"},{"content":{"text":"Chen is now director of MGM's $50 million Autumn in New York, a glamorous,old-style romantic drama starring Winona Ryder and Richard Gere as May-December lovers. \"The reason Gere has stayed a star for so long is, He's smart. He'd never let such issues get in the way of moviemaking. We never talked about that.\" Instead, Chen focused on the inner lives of her stars. \"Richard hasn't been this emotional since An Officer and a gentleman,\" she insists.\"And Winona does serious drama well, but she's also got this explosive, Audrey Hepburn charm that hasn't really been exploited. That's what I tried to capture.\".Chen admits she was initially intimidated by Gere and Ryder's star power, but it turned out both of her superstars were\"on the same level spiritually...they are both Buddhists,\" says Chen. \"And Buddhist values are not egotistical. I think Buddhism is good for Hollywood.","citation":"Jennifer Paige sings the main song for Autumn in New York.","style":"default"},"id":"178544b9-baed-4363-89ae-10418ef9dae4","isHidden":false,"type":"quote"}]
+
+----
+
+Published: 2000-07-25
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 
