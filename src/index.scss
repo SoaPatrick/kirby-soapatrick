@@ -361,6 +361,11 @@ ol,
 ul {
   @apply mb-4;
 
+  ul,
+  ol {
+    @apply mb-0;
+  }
+
   li::marker {
     @apply text-primary;
   }
@@ -375,7 +380,7 @@ figcaption {
 }
 
 .code-block {
-  @apply my-8 relative;
+  @apply relative;
 
   &__language {
     @apply absolute right-2 top-1 font-bold;
@@ -394,7 +399,7 @@ figcaption {
   --prism-line-height: 1.5;
   --prism-block-padding-y: 1rem;
   --prism-block-padding-x: 1rem;
-  --prism-block-margin-y: 0;
+  --prism-block-margin-y: 1rem;
   --prism-block-margin-x: 0;
   --prism-block-radius: 0.375rem;
 
@@ -447,4 +452,8 @@ figcaption {
     --prism-line-highlight-background: #444444;
     --prism-selection-background: #444444;
   }
+}
+
+.pagination {
+  @apply mt-16 inline-grid gap-8 font-serif grid-cols-2;
 }

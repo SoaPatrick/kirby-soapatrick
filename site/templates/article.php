@@ -16,7 +16,7 @@
   <footer>
     <div>
       <?php foreach ($page->tags()->split() as $tag): ?>
-        <a class="hashtag" href="<?= $page->parent()->url(['params' => ['tag' => Str::slug($tag)]]) ?>"><?= html($tag) ?></a>
+        <a class="hashtag" href="<?= $page->parent()->url(['params' => ['tag' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
       <?php endforeach ?>
     </div>
   </footer>
@@ -38,4 +38,13 @@
     </ul>
   <?php endif ?> -->
 </article>
+<nav class="pagination">
+      <?php if ($page->hasPrevListed()): ?>
+    <a class="prev" href="<?= $page->prevListed()->url() ?>">← older</a>
+  <?php endif ?>
+  <?php if ($page->hasNextListed()): ?>
+    <a class="next" href="<?= $page->nextListed()->url() ?>">newer →</a>
+  <?php endif ?>
+</nav>
+      
 <?php snippet('footer') ?>
