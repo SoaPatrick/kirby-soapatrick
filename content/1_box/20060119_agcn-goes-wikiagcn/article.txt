@@ -1,0 +1,33 @@
+Title: AGCN goes wikiAGCN?
+
+----
+
+Text: [{"content":{"text":"I think this could be the ultimate step for AGCN, to go wikiAGCN. But what does wiki mean?\n\n> A wiki (IPA: \\[\u02c8wi\u02d0.ki\u02d0\\] or \\[\u02c8w\u026a.ki\u02d0\\] (according to Ward Cunningham) is a type of website that allows users to easily add and edit content and is especially suited for collaborative writing.\n> \n> The term wiki also sometimes refers to the collaborative software itself (wiki engine) that facilitates the operation of such a website (see wiki software).\n\nThis means that anyone who's registered at AGCN (the page not the board here) can submit news or content to any page, hence making it the ultimate Nonipedia :) What are your thoughts on this? And are you willing to submit as well?"},"id":"a42d4c91-83fa-4b1e-924a-884b3a4c26b9","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2006-01-19
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

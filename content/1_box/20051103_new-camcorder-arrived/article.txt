@@ -1,0 +1,33 @@
+Title: New Camcorder Arrived
+
+----
+
+Text: [{"content":{"text":"Today I finally got the new camcorder, a Panasonic NV-GS250. Now I informed myself quite big time over the internet before I bought it but I'm sure I made the right decision with what I could spend. Sure it ain't a Canon XL2 but I don't wanna spend triple the money just for the camcorder. The next step is a Sennheiser mic, but the shooting of 'Slippery When Wet' might take place next week, starting on Monday."},"id":"70e2a4ce-fea6-49f1-a28f-f485646c4407","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2005-11-03
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: Filming
+
+----
+
+Project: 

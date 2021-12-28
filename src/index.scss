@@ -3,6 +3,7 @@
 /* Imports */
 @import "./styles/fonts.css";
 @import "prism-theme-vars/base.css";
+@import "./styles/blocks/_blocks";
 
 /* Tailwind */
 @tailwind base;
@@ -80,11 +81,11 @@ p {
   padding-left: calc(clamp(2rem, 7vw, 3rem) + 2rem);
   margin-left: calc(4rem + 100px);
 
-  @media (min-width: 641px) {
+  @media (min-width: 640px) {
     min-height: calc(100% - clamp(20px, 20vw, 200px));
   }
 
-  @media (max-width: 640px) {
+  @media (max-width: 639px) {
     @apply pl-0 mx-4 min-h-full;
   }
 }
@@ -304,33 +305,6 @@ $breakpoints: (
   }
 }
 
-.gallery-block {
-  @apply flex flex-wrap gap-4 my-8;
-
-  > * {
-    @apply flex grow flex-col justify-center relative;
-  }
-
-  img {
-    @apply rounded-md;
-  }
-}
-
-@for $i from 2 to 5 {
-  $factor: $i - 1;
-  .gallery-block--#{$i}-columns > * {
-    width: calc((100% - 1rem * #{$factor}) /#{$i});
-  }
-}
-
-.image-block {
-  @apply my-8;
-
-  img {
-    @apply rounded-md;
-  }
-}
-
 blockquote,
 .quote-block {
   margin: 2rem 0;
@@ -456,4 +430,11 @@ figcaption {
 
 .pagination {
   @apply mt-16 inline-grid gap-8 font-serif grid-cols-2;
+}
+
+a[target="_blank"]:not(.img-link)::after {
+  display: inline-block;
+  transform: rotate(-35deg);
+  content: "⤻ ";
+  line-height: 0;
 }

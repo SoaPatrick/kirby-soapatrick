@@ -2,7 +2,7 @@ Title: Dr Katz Episode
 
 ----
 
-Text: []
+Text: [{"content":{"text":"Thanks a lot to 'Mark' for his info on the 'Dr. Katz' show:) I've never heard of this show before but this doesn't mean a thing I mean we don't even get half the shows from the states here in Switzerland:)\n\n'Mark' also gave me the link to a sound file from the 'Dr. Katz' episode with Winona starring. Since this server was slow as hell, I put the file on my server, so here it es, enjoy:)\n\n- \u00a0~~'Dr. Katz' episode starring Winona \\[1.8mb, 3.5m\\]~~\n\nFinally new pics you must think:) 'Delyar' sent me a whole new bunch of pics from the 'Eyes Wide Shut' premier and 'Herv\u00e9' two great pics from her current movies. Thanks a lot 'Delyar' and 'Herv\u00e9' :)"},"id":"8bcf15a5-5b6e-48e3-bbb5-c3612c8df109","isHidden":false,"type":"markdown"}]
 
 ----
 

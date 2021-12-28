@@ -1,0 +1,33 @@
+Title: More Darwin Premiere Pics
+
+----
+
+Text: [{"content":{"location":"kirby","image":["premr-019.jpg"],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/213\/premr-019.jpg","alt":"","caption":null,"link":"","lightbox":"true","ratio":"","crop":"false","align":""},"id":"03094f71-dc1e-4228-9126-d8e429c49301","isHidden":false,"type":"image"},{"content":{"text":"More pictures are popping up now, and I guess more will in the next few days. Now finally some HQ ones with no watermarks (damn I hate watermarks). Thanks to **Thx131** for the find.\n\nFor the other 2 new ones or for all the premiere pictures, go here:\n\n- (link: https:\/\/agcn.soapatrick.com\/pictures\/categories.php?cat_id=213 text: The Darwin Awards Movie Premiere pictures target: _blank)"},"id":"e67f3bc5-6b4f-447f-9a66-a5f87f4a442f","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2006-01-28
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

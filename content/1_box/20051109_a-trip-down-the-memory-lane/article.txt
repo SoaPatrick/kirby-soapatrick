@@ -1,0 +1,33 @@
+Title: A trip down the Memory Lane
+
+----
+
+Text: [{"content":{"text":"Godrex send me over a backup he once did of the whole server and among that was the once used AGCN v7, so I fixed some paths and links and uploaded parts of it. It's nice to look back now and see what happened back then :) The news archive is there as well (all news from July 2000 to July 2003) which will make its way slowly to agcn v11 right now. Enjoy for those of you who are a bit nostalgic :)\n\n- (link: https:\/\/designs.soapatrick.com\/agcn_v7 text: old AGCN v7 target: _blank)\n\nHere are the so far included past news archive months, more will follow each day (I'm doing one month per day) Because mostly is dated there, I took away all pictures (lead to broken links anyway) and most links as well, kept the few who still work :)\n\n- (link: https:\/\/designs.soapatrick.com\/agcn_v7\/newsarchive\/july00.php\/ text: July 2000 target: _blank)\n- (link: https:\/\/designs.soapatrick.com\/agcn_v7\/newsarchive\/august00.php\/ text: August 2000 target: _blank)\n- (link: https:\/\/designs.soapatrick.com\/agcn_v7\/newsarchive\/september00.php\/ text: September 2000 target: _blank)"},"id":"2b4cb696-78d2-4b8b-97fc-7b6a1a109bef","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2005-11-09
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

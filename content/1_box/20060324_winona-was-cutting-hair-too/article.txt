@@ -1,0 +1,33 @@
+Title: Winona was cutting hair too
+
+----
+
+Text: [{"content":{"location":"kirby","image":["event-001.jpg"],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/234\/event-001.jpg","alt":"","caption":null,"link":"","lightbox":"true","ratio":"","crop":"false","align":""},"id":"8e6bdd69-3288-4f0c-a512-917ab06d6198","isHidden":false,"type":"image"},{"content":{"text":"Yep, but I guess she's happier with it than me :p Plus she's not really concerned about how much it cost. Anyway, she attended another Fashion show on March 21st in Hollywood. The one from Erin Fetherston's Autumn\/Winter 2006 collection. I must say I dig her new haircut, makes her look a lot younger again and more like Winona from the '90s :D\n\n- (link: https:\/\/agcn.soapatrick.com\/pictures\/categories.php?cat_id=234 text: More Erin Fetherston's Fashion Show Pics target: _blank)"},"id":"6b6b38bf-8bc5-4560-a033-91b4e1279f9c","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2006-03-24
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

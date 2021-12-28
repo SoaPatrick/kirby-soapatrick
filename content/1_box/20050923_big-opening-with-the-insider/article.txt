@@ -1,0 +1,33 @@
+Title: Big Opening with "The Insider"
+
+----
+
+Text: [{"content":{"text":"The long waiting has paid off, not sure though if anyone was really waiting or even checking this page regularly, but who cares cause now the Soap Company has opened it's doors after 4 years, finally! Not only this, but there is also our very first project available to download and watch."},"id":"1ed447a0-98b6-4468-93bf-f9bdda92ad00","isHidden":false,"type":"markdown"},{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/vimeo.com\/69256340","caption":null},"id":"64d908dc-091d-4a44-855f-dfb354982595","isHidden":false,"type":"video"},{"content":{"text":"It was one stressful week now to get everything ready for the big release and I'm quite happy with the result and especially with the outcome of the first movie. It was interesting to get to know the software and deal with it right away but this is HOPEFULLY only the beginning of a lot more to come.\n\nDon't know what I'm talking about? Then hop over to the about section and download\/watch The Insider. Enjoy :)"},"id":"e00edca6-f574-47aa-ab33-ad80b2b6f5d1","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2005-09-23
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: Video
+
+----
+
+Project: 

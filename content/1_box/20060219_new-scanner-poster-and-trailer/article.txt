@@ -1,0 +1,33 @@
+Title: New Scanner Poster and Trailer
+
+----
+
+Text: [{"content":{"location":"kirby","image":["scanr-007.jpg"],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/143\/scanr-007.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":""},"id":"d7c2bb2a-2324-4796-a66f-8b93190e5ebc","isHidden":false,"type":"image"},{"content":{"text":"The first real poster has been put online by (link: http:\/\/www.moviesonline.ca text: moviesonline.ca target: _blank) and it looks stunning. Plus what has been announced recently is out now, the second trailer of this very good-looking movie, yes I really like what I see so far and I hope it delivers since Winona really could use a critical success (one at the box office as well of course). By the way, Robert Downey is hilarious in these short clips we've seen so far, oh and do we not all want to just hop over to her place for some Tequila? I'd prefer Whisky though :p"},"id":"9a1e0d65-9d99-439d-b9c2-2cb621a6af3e","isHidden":false,"type":"markdown"},{"content":{"location":"kirby","image":["scanr-049.jpg"],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/140\/scanr-049.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":""},"id":"2d95c394-b2a6-4547-b1b0-d910eddab9ad","isHidden":false,"type":"image"},{"content":{"text":"I'm not really up for making more caps than the one I made if you wanna see pics watch the trailer, far better anyway. Maybe if I'm bored I'll do them later. So here download it, in 4 different sizes, maybe apple soon puts an HD one up \\*slobbers\\*\n\n- (link: http:\/\/pdl.warnerbros.com\/wip\/us\/med\/scanner_darkly\/scanner_darkly_a_tlr2_qt_700.mov text: 'A Scanner Darkly' Trailer 2 - **Super Hi-Res** target: _blank) (mov file - 30.4Mb)\n- (link: http:\/\/pdl.warnerbros.com\/wip\/us\/med\/scanner_darkly\/scanner_darkly_a_tlr2_qt_500.mov text: 'A Scanner Darkly' Trailer 2 - **Hi-Res** target: _blank) (mov file - 17.5Mb)\n- (link: http:\/\/pdl.warnerbros.com\/wip\/us\/med\/scanner_darkly\/scanner_darkly_a_tlr2_qt_300.mov text: 'A Scanner Darkly' Trailer 2 - **Med-Res** target: _blank) (mov file - 8.4Mb)\n- (link: http:\/\/pdl.warnerbros.com\/wip\/us\/med\/scanner_darkly\/scanner_darkly_a_tlr2_qt_100.mov text: 'A Scanner Darkly' Trailer 2 - **Lo-Res** target: _blank) (mov file - 4.8Mb)"},"id":"a74648d6-8cd6-48e3-b65e-aa5da35c2428","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2006-02-19
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

@@ -1,0 +1,33 @@
+Title: It’s been grand
+
+----
+
+Text: [{"content":{"location":"kirby","image":["bw-063.jpg"],"src":"","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":"content"},"id":"9d80f12a-bd28-482b-b5e4-9a2538355546","isHidden":false,"type":"image"},{"content":{"text":"I have always known that one day the whole adventure of AGCN would come to an end, but I never would have imagined it going on for six and a half years when I started with \u2018for your eyes only\u2019 in march 2000. But with recent changes in my personal life and with the development of fan pages I realized it\u2019s for the best to step back because I don\u2019t have the energy and the will anymore.\n\nIn the next few days\/weeks I will look back on how AGCN has changed my life in the past 2400 days. The first question you guys might have is what happens with the picture gallery. Well, it will stay online for now but I plan to take it down by the end of the year. So this should be enough time to get what you want before it\u2019s gone.\n\nmore later\u2026"},"id":"d6d1e9b8-0476-4ca1-8226-3f3f76996218","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2006-10-23
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN, Personal
+
+----
+
+Project: 

@@ -1,0 +1,33 @@
+Title: Scanner Interviews, Reports and Posters
+
+----
+
+Text: [{"content":{"location":"kirby","image":["scanr-005.jpg"],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/143\/scanr-005.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":""},"id":"4a6b0e3a-584f-4479-bfb5-8c5be9c34f02","isHidden":false,"type":"image"},{"content":{"text":"Today we have lots of new \"A Scanner Darkly\" stuff, for example, a short interview with director Richard Linklater, a report from the Comic-Con in San Diego where among other things new Posters for the movie where presented. So enjoy...\n\n(link: http:\/\/www.comingsoon.net text: comingsoon.net target: _blank) has a short interview with the director Richard Linklater in which he talks about the movie a bit...\n\n> \"It\u2019s kind of a drug movie. It\u2019s set in the near future in the middle of a drug epidemic. It\u2019s going to be animated. I just shot the live-action portion, but ultimately, it\u2019s an animated film using a similar rotoscoping process that I used in Waking Life. It\u2019s the same software, but it\u2019s been updated. \\[Animator\\] Bob Sabiston continues to work on it, so the animation is at an interesting place. It will have a different look that I think will work with the story well. I\u2019ve been wanting to do another animated film, so I\u2019m glad I got the chance.\"\n\n(link: http:\/\/www.aintitcoolnews.com text: Ain't It Cool News target: _blank) has a report up from the Comic-Con in San Diego where Producers and Animators AND Philip K. Dick himself (there as some sort of Android) discussed the movie a bit. Among other things, the movie itself, the posters and also shown the latest new trailer (which will hopefully hit the net soon) and a scene from the movie.\n\nFor the whole Report click here: (link: http:\/\/www.aintitcoolnews.com\/display.cgi?id=20725 text: http:\/\/www.aintitcoolnews.com target: _blank)\n\nRussian movie page ~~kino-express.ru~~ then took the photographs from the Comic-Con of those posters and made them official poster lookalikes... real official ones will hopefully get released soon as well.\n\nNow lastly to something Soap and Board-related. Because of the recent Terrorist Attacks in London, people have been asking me to reopen the board. Well I'm sorry but the board won't be opened for at least another month but work on the redesign  begun. I'll keep you posted on the status of it."},"id":"ac2bd229-ece1-47ef-a572-d2d4b77a794d","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2005-07-17
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

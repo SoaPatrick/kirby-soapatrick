@@ -1,0 +1,33 @@
+Title: Slippery is finally here!
+
+----
+
+Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/vimeo.com\/69256726","caption":null},"id":"cc21535d-8c8c-44b0-9588-ec647098780b","isHidden":false,"type":"video"},{"content":{"text":"<p>Damn what a long process of recording the sounds :p well not really, some other things in the meantime had to be done plus getting the portable audio recorder took WAY longer than expected, but we're finally complete with our equipment which leads to the first finished clip.<\/p><p>The sound was recorded on Sunday and mixed and cut today and now late this night after all the rendering and some slight title work the clip is done and ready to be enjoyed.... here<\/p><p>It's hopefully just the start of many more to come in the future and currently, 3 new projects are somewhere in pre-production already we just hope it won't take another 5 months to complete the next one :p<\/p>"},"id":"e80f3154-55bf-4c12-92f2-d0f3e836faa8","isHidden":false,"type":"text"}]
+
+----
+
+Published: 2006-03-27
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: Video
+
+----
+
+Project: 

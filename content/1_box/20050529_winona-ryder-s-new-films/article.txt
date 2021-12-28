@@ -1,0 +1,33 @@
+Title: Winona Ryder's New Films
+
+----
+
+Text: [{"content":{"level":"h2","text":"The Darwin Awards with Joseph Fiennes"},"id":"cd13ab2c-1d0a-4bd9-8b58-5b9db5c80aa5","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["darwn-003.jpg"],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/142\/darwn-003.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":""},"id":"da623f36-f93a-4546-a427-2e8582a5ab9c","isHidden":false,"type":"image"},{"content":{"text":"This romantic comedy is inspired by the internet awards which are given to people who die in stupid and unusual ways. Winona Ryder plays an insurance claims investigator and J. Fiennes a forensic detective on a road trip to create a profile of a potential Darwin award winner. This film will be distributed in the US by Paramount Pictures."},"id":"3cdd8663-f39d-499b-b0be-a767d4ff54bc","isHidden":false,"type":"markdown"},{"content":{"level":"h2","text":"A Scanner Darkly"},"id":"c7a336cd-32b5-4b9c-badc-7646a203e6f6","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["scanr-007.jpg"],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/123\/scanr-007.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":""},"id":"7e1236fa-33fe-420b-b70c-b6a736db57ff","isHidden":false,"type":"image"},{"content":{"text":"This film will use a novel style of animation where the scenes are shot with real actors first, then transformed into an animated film. Based on a Philip Dick novel, it is set in a future world where America has lost the war on drugs and features Keanu Reeves as a narco-cop hooked on dope. The animation work for this project is taking longer than expected, and the release date has been pushed back several times. The latest date is Feb. 28th 2006."},"id":"f941ae8f-0a49-4752-a331-9a6027d36480","isHidden":false,"type":"markdown"},{"content":{"level":"h2","text":"The Heart is Deceitful above all things"},"id":"84e78c8b-dfb9-4cab-9b8b-5637caa82088","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["heart-001.jpg"],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/105\/heart-001.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":""},"id":"19b3b030-a768-4fea-b781-83817fbaba9c","isHidden":false,"type":"image"},{"content":{"text":"Winona Ryder has a small role as a psychologist in this drama based on an autobiographical novel written by JT Leroy. It has shown at several film festivals in the US and the North American rights were recently acquired by Palm Pictures.\n\n## Weed (alternative title Mary Warner)\n\nThis is a black comedy about a slacker actress who eats her roommate's marijuana brownies. The film is yet to start shooting, and there has been little news about this project over the last few months.\n\n## O Jerusalem\n\nThere were reports in the French press and here at AGCN that Winona Ryder was involved in a project called \"Beyond Friendship,\" also known as \"O Jerusalem.\" This film is about two friends in Palestine, an Arab and a Jew, at the time of the foundation of the state of Israel. It is now clear that Winona Ryder is not involved with this project.\n\n## Oskur Fishman\n\nThis was another project which Winona Ryder was connected with, but it seems to have stalled and she is no longer involved with this either.\n\n## Winona Ryder shopping in Beverly Hills\n\nThis is a very recent picture of Winona Ryder, taken in late May 2005."},"id":"43a74e27-c45b-44c3-9d27-df79c9bc31b4","isHidden":false,"type":"markdown"},{"content":{"location":"kirby","image":["pprzi-454.jpg"],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/95\/pprzi-454.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":""},"id":"edf43486-b42b-4e61-9a71-a0e5a719d764","isHidden":false,"type":"image"}]
+
+----
+
+Published: 2005-05-29
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

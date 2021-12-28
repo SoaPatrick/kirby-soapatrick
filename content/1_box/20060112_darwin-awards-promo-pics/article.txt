@@ -1,0 +1,33 @@
+Title: Darwin Awards Promo Pics
+
+----
+
+Text: [{"content":{"location":"kirby","image":["darwn-001.jpg"],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/212\/darwn-001.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":""},"id":"4a31c13a-ca39-41f3-983c-8dafef28c736","isHidden":false,"type":"image"},{"content":{"text":"During the time AGCN was down in order to update to v11, the first promo pics of **The Darwin Awards were** released. Some really nice Winona pics were among them and remember, the movie will make its debut at the Sundance Film Festival between the 19th and 29th of January. Click here for all the pics: <a href=\"https:\/\/agcn.soapatrick.com\/pictures\/categories.php?cat_id=212\" target=\"_blank\">The Darwin Awards Promo Pics<\/a>\n\nAlso about the pics, as you might notice, the picture gallery still has the v10 look to it, that will change of course too, once the blog here is done to 100% I will update the picture page look as well."},"id":"613c065c-ba62-4a00-8c42-fbf4737642c3","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2006-01-12
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

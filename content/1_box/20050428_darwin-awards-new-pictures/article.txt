@@ -1,0 +1,33 @@
+Title: Darwin Awards New Pictures
+
+----
+
+Text: [{"content":{"location":"kirby","image":["darwn-002.jpg"],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/142\/darwn-002.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":""},"id":"ef19cf32-99fe-424a-90f2-4f8e3d8180f3","isHidden":false,"type":"image"},{"content":{"text":"**corky** already uploaded some new pictures taken on the set of Darwin Awards, that **squeky** posted. Many thanks to both!. You can see the pictures (link: https:\/\/agcn.soapatrick.com\/pictures\/categories.php?cat_id=142 text: here target: _blank)\n\nBesides, corky kept uploading more and more pictures on the galleries. Don\u00b4t forget to check them all!. We are about to get 5.000 pictures....and many new ones will come now with \"A Scanner Darkly\" and \"Darwin Awards\". We will have a good year...we hope so!."},"id":"aab72d48-16e6-469d-96e0-f2abae16fba6","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2005-04-28
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

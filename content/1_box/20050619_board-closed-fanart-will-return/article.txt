@@ -1,0 +1,33 @@
+Title: Board Closed - Fanart will return
+
+----
+
+Text: [{"content":{"text":"You may have noticed that the board is closed for now but it will return again (big promise), how this affects the login and registering process of the galleries I don't know, so I hope if you guys have problems, please let me know so we can look into it.\n\nClosing one thing also leads to re-opening the fanart section. I tried to apply the new skin to the gallery as well but since the gallery is using tables all over the place it was very hard to do that so I put it to rest for now. The old design stays for the galleries and that's why I will reopen the fanart section tomorrow.\n\nQuestions, problems, comments or complains? let me know."},"id":"8366f03d-5ef7-4a3b-b8de-13a15d89c30c","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2005-06-19
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

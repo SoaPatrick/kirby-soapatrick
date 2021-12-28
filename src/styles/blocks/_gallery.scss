@@ -1,0 +1,22 @@
+.gallery-block {
+  @apply flex flex-wrap gap-4 my-8;
+
+  > * {
+    @apply flex grow flex-col justify-center relative;
+  }
+
+  img {
+    @apply rounded-md object-cover;
+  }
+
+  a > img {
+    @apply h-full;
+  }
+}
+
+@for $i from 2 to 5 {
+  $factor: $i - 1;
+  .gallery-block--#{$i}-columns > * {
+    width: calc((100% - 1rem * #{$factor}) /#{$i});
+  }
+}

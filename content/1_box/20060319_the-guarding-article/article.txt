@@ -1,0 +1,33 @@
+Title: The Guarding Article
+
+----
+
+Text: [{"content":{"text":"TC scanned for us an article from the latest issue of The Guardian. I think the first paragraph of that article pretty much sums up a feeling we all had once, right? Thanks a lot, TC for the scans :)"},"id":"e7c9779e-2f1a-470e-9f04-5fec023b8786","isHidden":false,"type":"markdown"},{"content":{"columns":3,"lightbox":"true","align":"content","images":["guard-001.jpg","guard-002.jpg","guard-003.jpg"]},"id":"42ad8e67-4a58-4f74-aefb-34208e26fef9","isHidden":false,"type":"gallery"}]
+
+----
+
+Published: 2006-03-19
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

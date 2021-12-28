@@ -1,0 +1,33 @@
+Title: Slippery has been filmed
+
+----
+
+Text: [{"content":{"text":"The movie has been filmed successfully in the last two days. Most of the editing process is done as well, what's missing now is sound which will get recorded on Monday, after the mic has been purchased. Sound editing will then take place Monday as well and maybe Tuesday, depends on difficulties which might appear, you never know in advance :)"},"id":"3f446d5f-0b3d-4407-80ef-3056b4e9925e","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2005-11-10
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: Filming
+
+----
+
+Project: 

@@ -1,0 +1,33 @@
+Title: New Theme, New Poll
+
+----
+
+Text: [{"content":{"text":"So it's Sunday again, which means a new poll has been added. I thought of a smooth transition from an AGCN related poll to Winona polls in the future could be this one. Does Winona know about this place? Has she been here before and checked it out? Took a closer look? Well, what is your guess on that?\n\nPlus a new theme has been added today, a purple one nicely called 'Purple Night' :p What you see when you chose that theme is actually a slightly modified version of a design I once created for version7 but never used. I thought it would be nice to finally give it a chance to shine :p I also play around to bring themes of other old versions out because I know how popular some of these were :)"},"id":"747a192a-cc17-4158-8fd1-6cc22836c0e6","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2005-10-23
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

@@ -1,0 +1,33 @@
+Title: Welcome to AGCN v9
+
+----
+
+Text: [{"content":{"text":"Yes, I've done it again, let me present you guys version 9. Just after I've seen the 'A Scanner Darkly' trailer I thought that it would be nice to have a design fitting the look of that trailer. So I sat together with '**Cilm**' and the result is this. We went for a clean and slick look with and the CSS has been improved again (yes I've learned some new tricks)\n\nSo what's new here? Basically its the same except that we added the Biography (which was needed, I know) and the news page (this page right here) offers some 'oldies'. The 6 latest topics and polls from the Winona forums are now shown here again. As for the updates, only the latest one gets shown while below you will find links to the 10 last updates (an archive might follow soon).\n\nYou might have noticed that the Fanart gallery is password protected, the reason for this is because I'm currently adapting the new design to the galleries too and I'm using the fanart gallery to test it out. It takes a bit longer than I expected because the gallery still uses tables all over the place and its kind of difficult to create most of it with CSS but I do my best there.\n\nThe page should work bug-free on Mozilla (since I've created it testing with Firefox) but there could be some bugs on IE 6+ (and bigger ones on IE 5.5 and IE 5). Opera should be fine too. Of course, this is all based on Apple browsers, so if anyone spots a bug somewhere, please provide a screenshot, and I look into it.\n\nAnd lastly, if anyone is validating the main page to look for HTML and CSS errors then YES I know its not error-free, that's because the info from the board get transferred with slight errors and since my PHP knowledge is VERY limited I can't fix it right now, if anyone has the knowledge and wants to give it a try, contact me and we look into it.\n\nso enough babbling and geek talk, let me hear your thoughts and I swear I will react gently to constructive criticism hehe."},"id":"84475388-b101-49e1-a329-a87388514560","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2005-02-28
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

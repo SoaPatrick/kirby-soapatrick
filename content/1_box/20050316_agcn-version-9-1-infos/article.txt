@@ -1,0 +1,33 @@
+Title: AGCN version 9.1 Infos
+
+----
+
+Text: [{"content":{"text":"I don't know if you noticed certain changes around here since yesterday. AGCN updates are now run on a blog (presented by (link: http:\/\/wordpress.org text: WordPress target: _blank)) The advantage of this, is that we now have an **archive** here on AGCN and we have a **search engine** which lets you search through past updates.\n\nNew is also that guests can leave comments to each update (click on the title and scroll all the way down to do so) but the ultimate kicker now is that AGCN features **RSS news feeds** :D\n\nWhat is **RSS**? Well with RSS you can let all the news be transferred to a program on your computer and read them there without having to check the actual page. How does it work? Well, I suggest those two programs for PC or MAC:\n\n- PC: (link: http:\/\/www.bradsoft.com\/feeddemon\/ text: FeedDemon target: _blank)\n- MAC: (link: http:\/\/ranchero.com\/netnewswire\/ text: NetNewsWire target: _blank)\n\nDownload and install the right program for your computer and then at the bottom of the page you notice the RSS link, copy the link and insert it as a new RSS URL in the program. That's it. If you have questions or problems please let us know.\n\nSo that's it, the new and once again improved AGCN, enjoy it :)"},"id":"bb9c8c1f-fa7d-4c2b-9db6-c89ef60e5117","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2005-03-16
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN, Wordpress
+
+----
+
+Project: 

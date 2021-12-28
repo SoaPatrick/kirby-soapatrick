@@ -5,7 +5,9 @@
       <time class="text-xs uppercase tracking-wide opacity-70" datetime="<?= $page->published()->toDate(DATE_ATOM) ?>">
         <?= $page->published()->toDate('F j, Y') ?>
       </time>
-    </div>
+      <?php if ($kirby->user()): ?>
+        <span class="text-xs"><span class="inline-block mx-2 opacity-50">/</span><a class="text-xs" href="<?= $page->panelUrl() ?>" target="_blank">Edit</a></span>
+      <?php endif ?>    </div>
     <h1><?= $page->title() ?></h1>
   </header>
   <div>

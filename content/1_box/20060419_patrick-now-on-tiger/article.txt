@@ -1,0 +1,33 @@
+Title: Patrick now on Tiger
+
+----
+
+Text: [{"content":{"text":"Yep, I finally made the switch from panther to tiger on my PowerBook and I FINALLY can use the sweet dashboard and the very handy spotlight. Why am I telling you guys this? Well, there are tons of widgets (some nice, some awesome while others are just plain for fun) for the dashboard and among those (I think) 2000 widgets are one for the WordPress blog.\n\nSo what I'm doing now is posting this entry here from my dashboard to check if it actually works and also to show off a bit :p\n\nand pressing 'publish post' now :D"},"id":"20d7cb7c-c3d6-4561-9021-4a7efaff652a","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2006-04-19
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: Stuff to Share
+
+----
+
+Tags: Technology, Apple
+
+----
+
+Project: 

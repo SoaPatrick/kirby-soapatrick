@@ -1,0 +1,33 @@
+Title: AGCN Version 9 is out
+
+----
+
+Text: [{"content":{"text":"Yeah, I've done it again, the Winona Ryder page has received a new look based in the recently released 'A Scanner Darkly' trailer. It was interesting to go back to the CSS code and rework it because I noticed quite a lot of rookie mistakes I made back then.\n\nThe new version has been tested in various browsers and it seems to work bug-free in pretty much every browser on every system. However there are some validation errors because of the board transfer, I might look into that in the near future when I have more PHP knowledge, until then enjoy the half perfect version 9 :p"},"id":"b10851d1-c781-430c-a20c-430253ab5030","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2005-02-28
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 

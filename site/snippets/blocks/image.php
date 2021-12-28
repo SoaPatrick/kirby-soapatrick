@@ -8,6 +8,7 @@ $link     = $block->link();
 $ratio    = $block->ratio()->or('auto');
 $src      = null;
 $lightbox = $block->lightbox()->isTrue();
+$align    = $block->align();
 $id       = $block->_uid();
 
 if ($block->location() == 'web') {
@@ -21,7 +22,7 @@ if ($block->location() == 'web') {
 
 ?>
 <?php if ($src): ?>
-<figure class="image-block" <?= attr(['data-ratio' => $ratio, 'data-crop' => $crop], ' ') ?>>
+<figure class="image-block align-<?= $align ?>" <?= attr(['data-ratio' => $ratio, 'data-crop' => $crop], ' ') ?>>
   <?php if ($link->isNotEmpty()): ?>
   <a href="<?= esc($link->toUrl()) ?>">
     <img src="<?= $src ?>" alt="<?= $alt->esc() ?>" loading="lazy">

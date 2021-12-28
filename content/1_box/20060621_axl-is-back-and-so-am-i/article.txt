@@ -1,0 +1,33 @@
+Title: Axl is Back... and so am I
+
+----
+
+Text: [{"content":{"text":"Today is the day of the return of Guns N' Roses to Switzerland. The last time I've seen them live was here in Basel on June 16th, 1993... that's almost exactly 13 years to the day... The anticipation is really high and I'm really pumped up for tonight :) Getting to hear some new tunes live will be an awesome experience (of course let's not forget the old tunes as well) and who knows maybe Izzy will make another guest appearance (like he did yesterday in Paris)."},"id":"93f96ec6-23ea-4666-9156-00a4e1538982","isHidden":false,"type":"markdown"},{"content":{"location":"kirby","image":["20062106.jpg"],"src":"","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":"center"},"id":"f54e8366-e1ec-4a94-8af2-94c6e8265b06","isHidden":false,"type":"image"},{"content":{"text":"I'm also sorry for all the non-action here, it has been a weird time lately with my girlfriend breaking up with me, so I had to have some time for myself but I think I'm finally over it and tonight I'm gonna celebrate it :)\n\nThe fate of AGCN is currently hanging on by a very thin thread, I just don't have the interest anymore to really work on it... so maybe I will merge the-soap and AGCN, have one blog for the whole thing and have just a small subpart for AGCN with the basic info stuff and the gallery. I mean the news can be found on other pages or the board now anyway. I'll keep you posted on this..."},"id":"e54f8e69-9fdb-4312-907c-a085fd43e00a","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2006-06-21
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: Music
+
+----
+
+Project: 

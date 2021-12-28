@@ -1,0 +1,33 @@
+Title: New pic from "Scanner Darkly"
+
+----
+
+Text: [{"content":{"location":"kirby","image":["scanr-001.jpg"],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/123\/scanr-001.jpg","alt":"","caption":null,"link":"","lightbox":"true","ratio":"","crop":"false","align":""},"id":"9899584a-c4e4-40db-b638-7524d150cdb2","isHidden":false,"type":"image"},{"content":{"text":"A long time has passed since we had some real movie info with pictures but it happened again. (link: http:\/\/www.aintitcool.com\/display.cgi?id=19085 text: AICN target: _blank) has posted 3 HQ pics from the movie\/trailer which seems to be attached to WB's Constantine (also starring Keanu Reeves) which will be out on February 18th. Thanks to **FilmNewsFan** for the picture(s)."},"id":"61e441a1-d008-47a1-829b-3d850fd1567f","isHidden":false,"type":"markdown"}]
+
+----
+
+Published: 2005-01-09
+
+----
+
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
+Category: AGCN
+
+----
+
+Tags: AGCN
+
+----
+
+Project: 
