@@ -5,4 +5,4 @@ info: "{{ page.published }}"
 template: factory-item
 layout: list
 empty: No factory items yet
-sortBy: date desc
+sortBy: published desc

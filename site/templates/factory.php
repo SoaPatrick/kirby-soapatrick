@@ -2,13 +2,13 @@
 <header class="relative">
   <?php if (!empty(param('tag'))): ?>
     <h1><?= html(urldecode(param('tag'))) ?></h1>
-    <?php $articles = $page->children()->filterBy('tags', urldecode(param('tag')), ',')->paginate(1); ?>
+    <?php $articles = $page->children()->filterBy('tags', urldecode(param('tag')), ',')->flip()->paginate(12); ?>
   <?php else: ?>
     <div class="marginal-icon marginal-icon--large mb-2 sm:mb-0 sm:absolute grid place-items-center">
         <?= $page->icon(); ?>
     </div>    
     <h1><?= $page->title() ?></h1>
-    <?php $articles = $page->children()->listed()->paginate(1) ?>
+    <?php $articles = $page->children()->listed()->flip()->paginate(12) ?>
     <p class="text-lg"><?= $page->description() ?></p>
   <?php endif ?>
   <div>

@@ -1,0 +1,19 @@
+Title: Cursor
+
+----
+
+Text: [{"content":{"align":"wide","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=wEaxtNrXzm8","caption":null},"id":"e2afe693-f478-451a-ba9f-ff41cc79b250","isHidden":false,"type":"video"}]
+
+----
+
+Published: 2019-10-11
+
+----
+
+Cover:
+
+- portfolio-cursor.png
+
+----
+
+Tags: Short Film, Video

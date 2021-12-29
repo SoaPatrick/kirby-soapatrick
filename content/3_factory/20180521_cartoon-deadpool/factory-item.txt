@@ -1,0 +1,19 @@
+Title: Cartoon Deadpool
+
+----
+
+Text: [{"content":{"location":"kirby","image":["cartoon-deadpool.png"],"src":"","alt":"","caption":null,"link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"4bb828d6-9ae1-4a4d-aad1-83b6504d0bd4","isHidden":false,"type":"image"}]
+
+----
+
+Published: 2018-05-21
+
+----
+
+Cover:
+
+- portfolio-deadpool_preview.png
+
+----
+
+Tags: Drawing

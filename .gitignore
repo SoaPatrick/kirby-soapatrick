@@ -33,5 +33,6 @@ site/plugins/*
 
 **/*.jpg
 **/*.png
+**/*.mp4
 !/src/assets/img/*.jpg
 !/src/assets/img/*.png

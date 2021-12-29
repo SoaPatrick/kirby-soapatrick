@@ -1,0 +1,19 @@
+Title: SoaPatrick Seven
+
+----
+
+Text: [{"content":{"columns":2,"lightbox":"true","align":"wide","images":["soapatrickseven_01.png","soapatrickseven_02.png"]},"id":"bb2af7ad-58e5-494a-a778-41bad2a0f99b","isHidden":false,"type":"gallery"}]
+
+----
+
+Published: 2020-02-23
+
+----
+
+Cover:
+
+- portfolio_soapatrickseven_preview.png
+
+----
+
+Tags: Webdesign

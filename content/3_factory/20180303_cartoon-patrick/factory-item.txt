@@ -1,0 +1,19 @@
+Title: Cartoon Patrick
+
+----
+
+Text: [{"content":{"location":"kirby","image":["cartoon_patrick.png"],"src":"","alt":"","caption":null,"link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"eafaf085-6d1f-405a-b8b4-b5006f23d934","isHidden":false,"type":"image"}]
+
+----
+
+Published: 2018-03-03
+
+----
+
+Cover:
+
+- portfolio-patrickcartoon_preview.png
+
+----
+
+Tags: Drawing

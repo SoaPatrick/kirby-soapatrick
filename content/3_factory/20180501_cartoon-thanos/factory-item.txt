@@ -1,0 +1,19 @@
+Title: Cartoon Thanos
+
+----
+
+Text: [{"content":{"location":"kirby","image":["cartoon-thanos.png"],"src":"","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"2b5f64d2-b239-4748-b9c9-0b3d898eabc6","isHidden":false,"type":"image"}]
+
+----
+
+Published: 2018-05-01
+
+----
+
+Cover:
+
+- portfolio-thanos_preview.png
+
+----
+
+Tags: Drawing
