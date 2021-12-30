@@ -1,0 +1,19 @@
+Title: Fincher Portrait
+
+----
+
+Text: [{"content":{"location":"kirby","image":["fincher-portrait.png"],"src":"","alt":"","caption":null,"link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"d596f5ad-8236-4729-a08c-c4aa0f3cde90","isHidden":false,"type":"image"}]
+
+----
+
+Published: 2017-03-19
+
+----
+
+Cover:
+
+- portfolio-fincher_preview.jpg
+
+----
+
+Tags: Drawing

@@ -1,0 +1,19 @@
+Title: Marc Portrait
+
+----
+
+Text: [{"content":{"location":"kirby","image":["marc-portrait.png"],"src":"","alt":"","caption":null,"link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"929de84b-6f66-4748-a44e-30008e901fed","isHidden":false,"type":"image"}]
+
+----
+
+Published: 2017-03-28
+
+----
+
+Cover:
+
+- portfolio-marc_preview.jpg
+
+----
+
+Tags: Drawing

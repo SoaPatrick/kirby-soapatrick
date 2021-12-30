@@ -1,0 +1,19 @@
+Title: Cosmo
+
+----
+
+Text: [{"content":{"location":"kirby","image":["cosmo-portrait.png"],"src":"","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"e41a2085-be71-4828-8dd9-33bb92a32ab3","isHidden":false,"type":"image"}]
+
+----
+
+Published: 2017-03-17
+
+----
+
+Cover:
+
+- portfolio-cosmo_preview.jpg
+
+----
+
+Tags: Drawing

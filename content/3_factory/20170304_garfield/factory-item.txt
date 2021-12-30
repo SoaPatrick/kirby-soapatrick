@@ -1,0 +1,19 @@
+Title: Garfield
+
+----
+
+Text: [{"content":{"location":"kirby","image":["garfield.png"],"src":"","alt":"","caption":null,"link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"e94a122c-c82f-47cf-b226-e430a06c268c","isHidden":false,"type":"image"}]
+
+----
+
+Published: 2017-03-04
+
+----
+
+Cover:
+
+- portfolio-garfield_preview.jpg
+
+----
+
+Tags: Drawing

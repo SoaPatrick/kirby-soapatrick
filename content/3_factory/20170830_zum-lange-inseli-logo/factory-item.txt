@@ -1,0 +1,19 @@
+Title: Zum Lange Inseli
+
+----
+
+Text: [{"content":{"location":"kirby","image":["zum-lange-inseli-logo.png"],"src":"","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"304ab11c-5f5f-43d1-af98-e2b78db82b79","isHidden":false,"type":"image"}]
+
+----
+
+Published: 2017-08-30
+
+----
+
+Cover:
+
+- portfolio-zumlangeinselilogo_preview.png
+
+----
+
+Tags: Logo
