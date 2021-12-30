@@ -1,0 +1,9 @@
+Title: link color in highlight section
+
+----
+
+Published: 2020-03-01
+
+----
+
+Type: changed

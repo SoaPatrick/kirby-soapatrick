@@ -1,0 +1,11 @@
+Title: excerpt field to factory items
+
+----
+
+Published: 2020-04-03
+
+----
+
+Type: added
+
+

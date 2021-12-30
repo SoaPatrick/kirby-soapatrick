@@ -1,0 +1,9 @@
+Title: scrollbar on navbar on mobile devices
+
+----
+
+Published: 2020-11-01
+
+----
+
+Type: removed

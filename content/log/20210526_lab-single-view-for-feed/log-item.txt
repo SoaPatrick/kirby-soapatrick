@@ -1,0 +1,11 @@
+Title: lab single view for feed
+
+----
+
+Published: 2021-05-26
+
+----
+
+Type: added
+
+

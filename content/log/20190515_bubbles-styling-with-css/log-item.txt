@@ -1,0 +1,9 @@
+Title: Bubbles styling with CSS
+
+----
+
+Published: 2019-05-15
+
+----
+
+Type: changed

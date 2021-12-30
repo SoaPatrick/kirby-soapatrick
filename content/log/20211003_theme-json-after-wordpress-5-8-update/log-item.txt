@@ -1,0 +1,11 @@
+Title: theme.json after WordPress 5.8 update
+
+----
+
+Published: 2021-10-03
+
+----
+
+Type: added
+
+

@@ -1,0 +1,11 @@
+Title: styling for text alignment
+
+----
+
+Published: 2020-04-11
+
+----
+
+Type: added
+
+

@@ -1,0 +1,9 @@
+Title: position of Navigation in Mobile View
+
+----
+
+Published: 2019-09-06
+
+----
+
+Type: changed

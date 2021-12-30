@@ -1,0 +1,9 @@
+Title: large Featured Image Size
+
+----
+
+Published: 2019-11-23
+
+----
+
+Type: changed

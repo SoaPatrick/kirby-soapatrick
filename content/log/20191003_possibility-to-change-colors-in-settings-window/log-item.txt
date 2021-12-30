@@ -1,0 +1,11 @@
+Title: possibility to change Colors in Settings Window
+
+----
+
+Published: 2019-10-03
+
+----
+
+Type: added
+
+

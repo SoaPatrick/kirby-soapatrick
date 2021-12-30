@@ -1,0 +1,9 @@
+Title: background of theme toggle
+
+----
+
+Published: 2020-02-26
+
+----
+
+Type: fixed

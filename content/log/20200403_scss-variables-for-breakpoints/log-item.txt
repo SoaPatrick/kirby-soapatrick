@@ -1,0 +1,11 @@
+Title: SCSS variables for breakpoints
+
+----
+
+Published: 2020-04-03
+
+----
+
+Type: added
+
+

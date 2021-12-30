@@ -1,0 +1,9 @@
+Title: navigation styling
+
+----
+
+Published: 2020-12-06
+
+----
+
+Type: changed

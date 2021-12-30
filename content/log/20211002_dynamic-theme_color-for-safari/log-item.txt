@@ -1,0 +1,11 @@
+Title: dynamic theme_color for Safari
+
+----
+
+Published: 2021-10-02
+
+----
+
+Type: added
+
+

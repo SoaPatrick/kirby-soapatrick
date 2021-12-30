@@ -1,0 +1,9 @@
+Title: marginal icon background color
+
+----
+
+Published: 2021-11-13
+
+----
+
+Type: changed

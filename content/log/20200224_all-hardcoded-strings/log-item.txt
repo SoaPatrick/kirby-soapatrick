@@ -1,0 +1,11 @@
+Title: all hardcoded strings
+
+----
+
+Published: 2020-02-24
+
+----
+
+Type: added
+
+

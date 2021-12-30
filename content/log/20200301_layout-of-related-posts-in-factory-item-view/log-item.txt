@@ -1,0 +1,9 @@
+Title: layout of related posts in factory item view
+
+----
+
+Published: 2020-03-01
+
+----
+
+Type: changed

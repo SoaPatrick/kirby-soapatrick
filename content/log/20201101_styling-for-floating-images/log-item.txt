@@ -1,0 +1,11 @@
+Title: styling for floating images
+
+----
+
+Published: 2020-11-01
+
+----
+
+Type: added
+
+

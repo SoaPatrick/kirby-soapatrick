@@ -1,0 +1,11 @@
+Title: colorized scrollbar styling
+
+----
+
+Published: 2020-04-04
+
+----
+
+Type: added
+
+

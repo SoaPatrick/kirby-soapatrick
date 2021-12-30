@@ -1,0 +1,9 @@
+Title: rss feed output for posts
+
+----
+
+Published: 2021-05-26
+
+----
+
+Type: changed

@@ -1,0 +1,9 @@
+Title: Styling of Navigation and Content Wrapper
+
+----
+
+Published: 2019-09-22
+
+----
+
+Type: changed

@@ -1,0 +1,9 @@
+Title: image sizes for generated images
+
+----
+
+Published: 2020-04-03
+
+----
+
+Type: changed

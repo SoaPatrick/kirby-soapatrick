@@ -1,0 +1,11 @@
+Title: better styling for image hover animation
+
+----
+
+Published: 2020-04-11
+
+----
+
+Type: added
+
+

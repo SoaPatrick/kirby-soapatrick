@@ -1,0 +1,11 @@
+Title: hover effect for thumbnail links
+
+----
+
+Published: 2020-04-08
+
+----
+
+Type: added
+
+

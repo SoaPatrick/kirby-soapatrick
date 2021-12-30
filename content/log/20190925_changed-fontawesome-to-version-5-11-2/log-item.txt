@@ -1,0 +1,9 @@
+Title: FontAwesome to version 5.11.2
+
+----
+
+Published: 2019-09-25
+
+----
+
+Type: changed

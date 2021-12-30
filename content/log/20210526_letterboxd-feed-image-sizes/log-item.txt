@@ -1,0 +1,9 @@
+Title: Letterboxd feed image sizes
+
+----
+
+Published: 2021-05-26
+
+----
+
+Type: fixed

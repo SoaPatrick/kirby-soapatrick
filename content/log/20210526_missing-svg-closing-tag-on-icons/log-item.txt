@@ -1,0 +1,9 @@
+Title: missing SVG closing tag on icons
+
+----
+
+Published: 2021-05-26
+
+----
+
+Type: fixed

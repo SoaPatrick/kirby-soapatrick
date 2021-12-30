@@ -1,0 +1,9 @@
+Title: Theme template structure
+
+----
+
+Published: 2020-03-22
+
+----
+
+Type: changed
