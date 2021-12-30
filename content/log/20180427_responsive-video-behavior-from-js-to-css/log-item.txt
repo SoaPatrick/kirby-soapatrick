@@ -1,0 +1,9 @@
+Title: Responsive Video behavior from JS to CSS
+
+----
+
+Published: 2018-04-27
+
+----
+
+Type: changed

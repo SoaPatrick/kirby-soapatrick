@@ -8,7 +8,7 @@
         <?= $page->icon(); ?>
     </div>    
     <h1><?= $page->title() ?></h1>
-    <?php $articles = $page->children()->listed()->paginate(10) ?>
+    <?php $articles = $page->children()->listed()->flip()->paginate(12) ?>
     <p><?= $page->description() ?></p>
   <?php endif ?>
   <div>

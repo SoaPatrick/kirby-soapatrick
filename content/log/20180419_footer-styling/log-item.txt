@@ -1,0 +1,9 @@
+Title: Footer Styling
+
+----
+
+Published: 2018-04-19
+
+----
+
+Type: fixed

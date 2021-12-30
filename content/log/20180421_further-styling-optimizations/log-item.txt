@@ -1,0 +1,9 @@
+Title: further styling optimizations
+
+----
+
+Published: 2018-04-21
+
+----
+
+Type: added

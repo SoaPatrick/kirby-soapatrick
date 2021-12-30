@@ -15,7 +15,6 @@ columns:
         label: Logged on
         type: date
         default: today
-        display: D MMMM YYYY
 
   - width: 1/2
     fields:

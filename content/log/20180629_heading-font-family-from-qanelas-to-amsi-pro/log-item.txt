@@ -1,0 +1,9 @@
+Title: Heading Font Family from Qanelas to Amsi Pro
+
+----
+
+Published: 2018-06-29
+
+----
+
+Type: changed

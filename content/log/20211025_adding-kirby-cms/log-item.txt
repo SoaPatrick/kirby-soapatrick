@@ -1,9 +1,0 @@
-Title: adding kirby cms
-
-----
-
-Published: 2021-10-25
-
-----
-
-Type: added

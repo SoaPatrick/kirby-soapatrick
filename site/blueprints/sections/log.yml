@@ -5,4 +5,4 @@ info: "{{ page.type }}"
 template: log-item
 layout: list
 empty: No log entry yet
-sortBy: date desc
+sortBy: published desc

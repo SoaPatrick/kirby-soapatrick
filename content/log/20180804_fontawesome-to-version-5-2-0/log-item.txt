@@ -1,0 +1,9 @@
+Title: FontAwesome to version 5.2.0
+
+----
+
+Published: 2018-08-04
+
+----
+
+Type: changed
