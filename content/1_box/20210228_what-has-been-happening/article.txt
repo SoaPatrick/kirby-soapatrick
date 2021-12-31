@@ -1,0 +1,39 @@
+Title: What has been happening
+
+----
+
+Published: 2021-02-28
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: blender, theme
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![Colored pens made with Blender](https://www.soapatrick.com/wp-content/uploads/2021/02/pens-1500x844.png?_t=1614511539)
+
+Colored pens made with Blender
+
+It's been some time since anything happened here, well some things happened, I just didn't post something about it. But yeah it's a difficult time for all of us and sometimes it's easier and sometimes it's not so easy, but I think we all try to do our best to overcome these times.
+
+## Prototype
+
+I've been playing around with a [prototype](https://prototype.soapatrick.com/) for SoaPatrickNine and first I tried to recreate this version right here with a few additional things I plan on doing. I'm still trying to find a general theme for the next version, something that will lay a foundation for everything else and I believe once I found the general theme, everything else will be easy.
+
+## Animated Short
+
+Speaking of theme, I have an idea for an animated short film which happens to be a possible theme for SoaPatrickNine as well. I always thought about how I could include 3D renderings into a new SoaPatrick version and I think with this idea I'm having it could actually work perfectly.
+
+I'm not yet ready to share anything. What I'm currently doing is studying real-life examples so that I understand the mechanics of it and finding good reference materials. Once I have something to show for I will post it right here, which is hopefully soon.

@@ -1,0 +1,31 @@
+Title: Start working with Google Tag Manager?
+
+----
+
+Published: 2019-04-05
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: stats
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: For work, I had to dive into **Google Tag Manager** which was for me a completely new area. It's a complex area but I think I slowly get the hang of it, even though it's not really my favorite subject but I thought in order to get even more out of it I could implement it here on my own website and play around with it.
+
+It's amazing what can be tracked these days. What someone **clicks**, how far people **scroll**, what text they **copy**, how long they **stay** on an individual page and a lot more. Now I know that **privacy** is a big issue these days and don't worry, **IF** I start tracking all those things, I would let my few readers know. Then I would of course also **anonymize** the IP Address. I still have to do some research about an **Opt-Out** option.
+
+But mostly I would be interested here in **scrolling** behaviour (after all the page is rather long and it would be interesting to see how far down people scroll). Then of course the ratio between **Mobile** and **Desktop** users and what people click.
+
+As I said, when the time comes I will write down in great detail what is being tracked, and maybe even explain why. So I will keep you guys posted on how this project is developing.

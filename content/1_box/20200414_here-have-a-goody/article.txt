@@ -1,0 +1,31 @@
+Title: Here, have a Goody
+
+----
+
+Published: 2020-04-14
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: blender
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![](https://www.soapatrick.com/wp-content/uploads/2020/04/goody-1500x844.jpg?_t=1586891473)
+
+For a private web project that's in the making for some time, there was a need for a visual goody, something that represents that project perfectly. So today I started creating that goody in Blender and a day later I have something which I'm just damn proud of.
+
+The render time of a 4K image with 2000 render samples took me 2 hours, but hot damn does it look awesome.
+
+There are some ideas in my head what to do next with Blender and I'm enjoying the hell out of doing stuff right now. Render time is still an issue though.

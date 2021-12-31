@@ -1,0 +1,46 @@
+Title: My plans for SP9
+
+----
+
+Published: 2021-04-25
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: soapatrick, theme
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: [Yesterday](https://www.soapatrick.com/2021/04/a-place-for-my-smaller-work/) I published the new section [SoapLab](https://www.soapatrick.com/lab) and with it, I thought a lot about a new structure. Actually, I thought about it for some time but with this new section, the idea to rearrange some things became more imminent.
+
+So I played around with it locally and I realized that it was important to do this, BUT with the current theme this is pretty difficult to achieve which means I need to start thinking of SoaPatrickNine because with SoaPatrickEight this is simply too big of a structural change to build it with the current theme. So instead of being all vague and shit why not elaborate on my new plan.
+
+Everything starts with a completely new start page. The idea of just having the latest blog posts and nothing else just doesn’t work anymore because now with the lab and the factory, it would make more sense to have the latest items from any post type shown on the start page. So the start page needs to include the following things:
+
+- Latest blog posts (maybe use the sticky function)
+- Latest factory posts
+- Latest lab posts
+- My last seen movies I’ve logged on [Letterboxd](https://letterboxd.com/soapatrick/)
+
+With this change the whole blog moves from the root to a new subfolder called Box and everything blog-related would then live inside that Box subfolder, like Storage or Tags. I would also love to add a more detailed breadcrumbs navigation, especially for single blog posts which would show you the whole path of the blog post: SoaPatrick/box/storage/month year/blog post title
+
+I would also to incorporate 3D renderings into the design, maybe not with [Three.js](https://threejs.org/) but as simple images or maybe gif animations ([Three.js](https://threejs.org/) is a beast of its own, its cool what can be done but really javascript heavy)
+
+I also think it’s time to leave out certain customization features like light/dark mode or color mode because the dark mode is integrated into so many devices, it would make much more sense to use the system settings on when to show the light or dark mode. Also with all these color options, I kinda limit myself on using SVG inline images for web design elements. Because with inline SVG images I can change the colors with CSS variables.
+
+Ok, scratch the last part, with Blender I can export to SVG, even animation. So I will find a way to incorporate Renderings as SVG. Blender is an amazing free tool, it really is.
+
+Yes, these are some bigger changes and it all needs a new design. Now I don't have the time and resources to go and think of a crazy new design and since I do like certain things on SP8, I will stick with that and make an incremental design change. Like for example, I REALLY like having the navigation on the bottom left corner (on the desktop view) and those nifty animations. And I like the idea of using the whole width of a desktop view I just need to utilize this space a lot better.
+
+So this is the plan, not sure how fast I can start working on SP9, I think it all depends on the moment I have the idea on how it should look like, but I won't force myself to come up with ideas, I let the ideas come to me.

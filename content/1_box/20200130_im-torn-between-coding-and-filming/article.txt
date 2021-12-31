@@ -1,0 +1,45 @@
+Title: I'm torn between coding and filming
+
+----
+
+Published: 2020-01-30
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: filming, soapatrick, wordpress
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: for a year now I'm working full time and I notice that time in between work and sleeping is tight and in that free time I'd like to work on things that I love. There is the passion for making movies. Now you might say that
+
+> For something that is your passion you don't seem to spend a lot of time on it.
+> 
+> Everyone reading this blog
+
+That is true, but then making movies for me is still very time consuming and like the title says, I'm torn between doing two things. Because during the last year I learned a lot about Webdesign, Online Marketing, Wordpress and a lot of frontend related things. And somehow I'd love to include all that knowledge into this place here, meaning optimize the hell out of SoaPatrick.
+
+I'd love to rewrite the whole page with a much more organized `SASS` structure, use `CSS Grid` whenever possible and use more `mixins` and `functions` and play around with `SASS Maps`.
+
+Then I'd love to clean up the PHP structure because it's a mess. Kick out stuff I don't need and really trim the fat of the theme, make it blazing fast.
+
+I'd love to play around with `AJAX` or load stuff through `REST API` and maybe work a bit with `Vue.js`. Yes, I've even played around with the idea of going headless (JAMstack sounds very cool) but that might be a bit much for now.
+
+But all this would keep me from actually making short films because I cannot get better, faster and more efficient without actually doing the work. But after a long day of doing all the frontend stuff at work, I love to work some more on this place right here, put the stuff I learned to good use here as well. It all feels so easy and natural and it just flows and you see results right away.
+
+Compare that to making movies, it's hard to come up with ideas, find the time to film something, edit it together, record sounds effects, mix it, add color corrections and then after a million of small changes actually render it and see another small thing you'd like to fix.
+
+But I love the filming aspect of it so much, the rest is something I need to get better at. And I know that I'm making a lot of excuses but the funny thing is that I don't make these excuses when it comes to coding stuff.
+
+So like I said I'm torn, and with the little time I have every evening I find it hard to do both. These words might turn out to be a bit confusing and are all over the place, but maybe it's good to actually write them down. Maybe something productive will come out of it.

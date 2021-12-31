@@ -11,9 +11,13 @@
     <h1><?= $page->title() ?></h1>
   </header>
   <div>
-    <?php foreach ($page->text()->toBlocks() as $block): ?>
-      <?= $block ?>
-    <?php endforeach ?>
+    <?php if ($page->old()->isEmpty()): ?>
+      <?php foreach ($page->text()->toBlocks() as $block): ?>
+        <?= $block ?>
+      <?php endforeach ?>
+    <?php else: ?>
+      <?= $page->old()->kt() ?>
+    <?php endif; ?>
   </div>
   <footer>
     <div>

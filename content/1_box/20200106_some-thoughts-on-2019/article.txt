@@ -1,0 +1,64 @@
+Title: Some thoughts on 2019
+
+----
+
+Published: 2020-01-06
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: list, movie, music, recap, tv-show
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I don’t want to make some top 10 lists about stuff I liked and didn’t like the past year as I did for 2017 ([Best Movies](https://www.soapatrick.com/2017/12/the-best-movies-of-2017/), [Worst Movies](https://www.soapatrick.com/2017/12/the-worst-movies-of-2017/), [Best TV Shows](https://www.soapatrick.com/2017/12/the-best-tv-shows-of-2017/)). Or just [look ahead](https://www.soapatrick.com/2019/01/why-not-a-look-ahead/) like I did last year. No, this year I thought I just mention things that I liked, things that I didn’t like and also some stuff that I did that’s worth mentioning. Everything sorted alphabetically.
+
+## Things I liked
+
+- **Avengers: Endgame**, a movie Event that will never be reproduced, ever, and I witness the whole shabang live in theatres.
+- **Barry**, A TV Show that really surprised me on so many levels.
+- **Bocksmart**, probably the sweetest teenager movie in a while.
+- **Buffy The Vampire Slayer**, rewatching one of my favorite TV Show for the hundredth time
+- **Game of Thrones**, The Long Night from, let's just say my most intense TV hour of the week (apart from rewatching [The Body](https://www.soapatrick.com/2019/10/what-the-body-means-to-me/))
+- **Midsommar**, Another exceptional Horror movie from Ari Aster, he’s a talent to look out for
+- **Mindhunters**, watching David Fincher construct scenes is just mesmerizing, people talking can be so intense and interesting.
+- **Orange is the new Black**: an emotional and a very satisfying ending.
+- **Peanut Butter Falcon**, Shia is just a mesmerizing actor to watch and the movie is so sweet without ever being corny.
+- **Rick and Morty**, for a long time I avoided it, but now I can't get enough, fucking hilarious.
+- The **Sazorac**, my new favorite cocktail, if done right, and at home, it's always done right!
+- **Stranger Things**, it keeps its quality high even with season 3.
+- **Tool**, a new Album after 13 years, not their best but who cares, it's fucking TOOL.
+- **Toy Story 4**, A very emotional and damn fine ending to Woody’s arch.
+- **Tschernobyl**, The best 6 Hours on TV this year, I keep telling everyone to watch it.
+- **Unbelievable**, a nice surprise of a crime show with very good leads, I was hooked.
+
+## Things I didn’t like
+
+- **6 Underground**, Michael Bay in overdrive and unchecked. I was bored after 5 minutes.
+- **Dark Phoenix**, giving Simon Kinberg all these X-Men Movies to play with wasn't a good idea.
+- **Game of Thrones**, Yes it's on both lists. That ending, man oh man.
+- **Glas**, he should have stopped after Unbreakable, this one was not necessary.
+- **Hellboy**, another unnecessary sequel/reboot.
+- **MIB International**, Aaaaand another one, they just keep on making crappy sequel/reboots.
+- **Star Wars Rise of the Skywalkers**, yap a Star Wars movie is on this list, what a huge disappointment this movie was.
+
+## What else did I do?
+
+- Learned working more extensively with **Git**
+- got heavily into **automation** of workflows
+- started to play around with **Rest API**
+- Worked and tinkered too much on **SoaPatrickSix**
+- Thought too much about **making movies** (instead of doing it)
+- Stopped walking through every street in Basel
+- Oh and yeah, I turned 40 this year

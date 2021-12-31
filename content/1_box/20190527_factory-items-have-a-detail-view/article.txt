@@ -1,0 +1,29 @@
+Title: Factory Items have a detail view
+
+----
+
+Published: 2019-05-27
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: factory
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I was working hard on Sunday to finally expand the [Factory section](https://www.soapatrick.com/factory) to more than just a simple overview and have an actual detail view with more information and bigger Picture or Video.
+
+Not all items have some information about its development, but I thought at least have the original image or the video shown. I will add some texts and relevant past blog posts to those items, later on, step by step. Then there are some items missing which will be added as well.
+
+Since the Factory is growing there needs to be a way to categorize them and sort them by their category. Something is already in place but I haven't figured out how to get the result similar to Blog Post Tags.

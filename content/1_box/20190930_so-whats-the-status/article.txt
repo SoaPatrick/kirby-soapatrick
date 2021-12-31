@@ -1,0 +1,39 @@
+Title: So what's the Status?
+
+----
+
+Published: 2019-09-30
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: filming, theme
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I thought I write a short status on what is happening right now and get at least one post in September.
+
+## SoaPatrickSix
+
+I did some small changes to the theme as you might have noticed when looking at it on a desktop. There are two changes on the front and some small changes on the back.
+
+I changed the Navigation and with that put the main content area on a different plane, now I actually like the light version more again. There's also the possibility that I will couple the dark/light mode your OS has with the design here, so if you're using the dark mode in your OS the page is in dark mode as well. This is possible thanks to the new **prefers-color-scheme** media query which detects the system light or dark mode.
+
+Below the hood, I further optimized caching and performance in order to make the page even faster. Maybe you notice a difference, on my end, it's snappy as hell when I switch between pages.
+
+## The Cursor
+
+So what's happening on the movie front? Well actually I shot the movie and even started editing, but for me, it's a rather complex short film and therefore I need more time with it, but I'm coming along even though it's hard to work on it during the weekdays. I do hope to finish it completely within the next two weeks, it's about time to focus on something new.
+
+So this is it, that's what's been happening in my life recently (among other things of course). So hopefully October will pick up on the blogging part as well.

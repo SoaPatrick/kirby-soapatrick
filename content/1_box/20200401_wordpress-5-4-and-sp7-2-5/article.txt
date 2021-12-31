@@ -1,0 +1,37 @@
+Title: Wordpress 5.4 and SP7 2.5
+
+----
+
+Published: 2020-04-01
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: theme, wordpress
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: Yup some changes are happening around here but I think these are more under the hood, so no one will actually notice it. But let's get into it:
+
+## Wordpress 5.4
+
+I just updated this place to the latest Wordpress release and I tested it locally a bit and didn't notice any strange things so I went ahead and updated the live system. I might stumble upon a few things but honestly, I've read the changelog and no changes should affect this place here.
+
+But I'm very interested where Wordpress will go from here because some interesting things are happening.
+
+## SoaPatrickSeven 2.5
+
+I plan on releasing a new version of my theme this coming Friday. Now with that release, I will change the Image sizes and then regenerate all 480 images again, and delete unused ones. Now when I tested that locally all Blog posts or factory items didn't display the images anymore, which means I have to go through all posts and fix the broken links. It's a pain to do that but I noticed that over the years by creating new image sizes and regenerating over and over again, certain images have over 20 different image sizes. Now, these take up a lot of space and with version 2.5 I will work with only 3 sizes. So this will free up some disk space and make things more organized again.
+
+The reason I write this is because, during that time hardly any images are being displayed until I fix that, it's just a heads up.

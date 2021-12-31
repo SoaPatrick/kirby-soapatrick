@@ -1,0 +1,29 @@
+Title: And then there were animated Bubbles
+
+----
+
+Published: 2019-05-24
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: design, theme
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I thought this place could use some playfulness, something that's unique and sticks out so I came up with the animation of bubbles (which are also in the Soap Lab logo). I dig the result and I'm proud of the way of how I achieved that.
+
+First, the thing is fully realized with CSS, there's no Javascript involved. Second, because it's fully CSS and uses **CSS Variables**, the bubbles switch instantly when you toggle between dark and bright mode. And third, I used a **mixin** to loop over all the bubbles and randomize the whole thing. But since it uses the SCSS Method **random()**, it only is generated once during the compiling process and not every time you reload the page.
+
+There are optimizations, of course, **performance** seems to be an issue on older devices because right now there are 25 bubbles who are animated individually. I might find ways to optimize that further, but for now, I just enjoy the result. Makes the whole thing look more like bubbles and less like clouds, which is nice.

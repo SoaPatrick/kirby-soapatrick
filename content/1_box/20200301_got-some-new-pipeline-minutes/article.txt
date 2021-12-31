@@ -1,0 +1,31 @@
+Title: Got some new pipeline minutes
+
+----
+
+Published: 2020-03-01
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: soapatrick, theme
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: A new month and it all starts back at zero. So I used my Sunday with working on version **2.3.0**. The biggest new addition to the theme or the page, in general, is a [Data Protection](https://www.soapatrick.com/data-protection/) page where I go into some detail about what is happening with your data on this website. The short answer? I don't collect your data, but I thought I could explain and be transparent about it. The page can always be accessed through the nice little icon in the footer.
+
+I also improved the list view of related blog posts in the factory detail view. and added colorized code styling back again. Makes reading the code much easier.
+
+As for the next release, I will probably rethink the grid with better grid column widths. After that, I can define new image sizes and reduce the number of breakpoints. But from a technical standpoint, those are the remaining big ones.
+
+From a content standpoint, I plan on writing excerpts for all the factory items, because this makes sense from a sharing and SEO perspective. But I do also have an idea for a new short, but that's something for another blog post.

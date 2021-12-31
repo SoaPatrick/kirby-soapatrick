@@ -1,0 +1,43 @@
+Title: Getting into VR
+
+----
+
+Published: 2021-07-13
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: blender, gaming
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I've had my first VR experience about a year ago, where I went to a VR Center and tried on a rather old headset and could experience certain worlds by just walking (or better yet, teleporting) around. It was fascinating but the quality was subpar and I knew that there are better headsets out there.
+
+A few months ago I there was a new Blender Version that added support for VR, this of course made me very interested because it meant that I could view my creations in a VR environment. So I started to research all the headsets out there and what to look for in one. Back then HP announced a successor to their Reverb Headset with a resolution and a price point unmatched by all the other headsets. I put it on my list and waited for its release.
+
+A week ago I had some money left and I thought now is the time to get into it, especially with certain games I was eager to test out in VR. So I bought myself the [HP Reverb G2](https://store.hp.com/SwitzerlandStore/Merch/Offer.aspx?p=hp-reverb-g2-vr-headset&lang=en-CH) and after some fiddling around with my PC (updating the Motherboard firmware and trying out different USB ports) I was greeted with a Microsoft VR environment and I was blown away.
+
+Unfortunately, I don't have that much space for walking around with the headset on but it's enough to move my hands around freely. So I tried out some games and it's just amazing, but games with moving around using the stick on the controller get me nauseous rather quickly, teleporting is no problem but not always that much fun.
+
+I've tried out a Ping Pong game ([Eleven Table Tennis](https://store.steampowered.com/app/488310/Eleven_Table_Tennis/)) which is quite fun, some shooters ([Arizona Sunshine](https://store.steampowered.com/app/342180/Arizona_Sunshine/), [Compound](https://store.steampowered.com/app/615120/COMPOUND/)), and a racing game ([Assetto Corsa Competizione](https://store.steampowered.com/app/805550/Assetto_Corsa_Competizione/)). And I'd love to play some more shooters but they are the ones who get me sick the fastest. I even bought a racing steering wheel so that the racing makes even more fun and who knows, maybe I try a driving simulation and 'learn' how to drive.
+
+The most impressive things were the Valve Steam Rooms based on [Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/). I've bought the game as well but haven't played it yet. The graphics there are amazing and it's probably the most immersive VR feeling I've had so far, look very forward to the game, and hopefully, I can play it longer without getting sick.
+
+I've also tried out VR in Blender and boy oh boy is that awesome. I've created a few Apartments and environments now which I wanted to try out. Now with Blender, you can choose a Camera and then start the VR process, and after that view everything in VR through that camera (But it's a stationary process). The quality is not comparable to the one from Half-Life: Alyx but damn is it cool to view my possible future [workspace](https://www.soapatrick.com/box/2021/06/my-apartment-version-2-0/) in VR, to get the feeling I'm standing right in front of it, it makes it all so real and I get an even better sense and feeling of how it could look like (or even feel like).
+
+But I wanted more, I wanted to walk around of course. Now unfortunately teleporting or using controllers in Blender VR is not supported (maybe one day) BUT I found a solution. By choosing the camera and then start the **Walkthrough** mode I could move the camera (and therefore me) around by using the keyboard and that way I could move around in my apartment in VR, that was fucking awesome.
+
+Now I'm gushing over a lot of things but there are some drawbacks to the HP Reverb G2. The battery life of the controllers sucks. It feels like I need to switch to 4 new AA batteries every 6 hours or so, that's not good. The tracking of the controllers could be better, especially in certain edge cases which can be annoying for certain games and there are some Software glitches once in a while which can make me feel even sicker and then I need to restart the whole thing. But apart from that, it's an amazing thing, the feeling like there's a wall I can touch or a table I can lean against can be dangerous but it feels so immersive sometimes that the mind plays tricks on you.
+
+I look forward to other things I can do in VR and also stuff in Blender I can create and then experience in VR. Planing a redecoration of something will never be the same again, every change to my apartment will be created in Blender first to check how it looks like.

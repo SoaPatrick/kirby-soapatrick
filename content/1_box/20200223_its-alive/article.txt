@@ -1,0 +1,37 @@
+Title: It's Alive
+
+----
+
+Published: 2020-02-23
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: soapatrick, theme, wordpress
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![](https://www.soapatrick.com/wp-content/uploads/2020/02/its-alive-1500x720.png)
+
+14 days after [deciding](https://www.soapatrick.com/2020/02/work-has-been-started-on-seven/) to start a new theme and almost 10 months since the [last release](https://www.soapatrick.com/2019/05/six-will-change-some-things/) I'm done with an initial releasable version. I know on the front it doesn't look like anything changed, but below the hood, I did a lot of improvements. The new Stylesheet is now **4kb** smaller, but not only is it slightly smaller, everything is built much more modular and a lot more using `css grid`.
+
+What I did change though were the Navigation Icons. I used Fontawesome's new Duotones icons and I also included them, the calendar and the tag icons, directly as SVG, so they won't be loaded through FontAwesome but are loaded as regular markup instantly and therefor no layout shift is visible.
+
+Another noteworthy addition is now the ability to use this website with your keyboard only. I highlighted the focused element and you can even switch between light and dark mode and between color themes all with your keyboard. There are a few issues with special elements, but I think it's better than nothing.
+
+This is now version **2.0.0** and there are tasks for further improvements. I will probably delete every image size version WordPress generated from my uploads and generate new ones with fewer different and improved sizes.
+
+There are also ideas for an infinite changelog scroll, related factory items and related posts on a factory single view.
+
+But for now, I relax a bit and enjoy my weekend.

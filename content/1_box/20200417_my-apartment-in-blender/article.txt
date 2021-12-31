@@ -1,0 +1,29 @@
+Title: My Apartment in Blender
+
+----
+
+Published: 2020-04-17
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: blender
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![Blender Rendering of my Apartment](https://www.soapatrick.com/wp-content/uploads/2020/04/apartment_01-scaled.jpg)
+
+I've started a new bigger Project with Blender, my whole apartment in a miniature version. Laying down the initial ground structure took quite a long time because I had to measure every room and every space between doorways and walls. Then creating the wall in Blender took way longer because I had different approaches on how to achieve that and only after several different failed attempts I figured out the right one.
+
+Once the base was done, it was easy to copy past my old [bar blender objects](https://www.soapatrick.com/factory/zum-lange-inseli/) and the [recently](https://www.soapatrick.com/2020/04/home-office-with-blender/) created objects from my office. I love the look so far and I will move my way through my apartment and start modeling each room one by one.

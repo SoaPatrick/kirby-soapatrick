@@ -1,0 +1,31 @@
+Title: Plans for the Soap Design
+
+----
+
+Published: 2013-01-19
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: design, soap
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: Well, I' m still in very early thought process for the new design and I'm (as always) torn between a few design styles but a few things are for certain though:
+
+- There's no plan for a mobile specific css file but instead I want to use a very responsive design so that it adapts itself to the different browser sizes
+- since more and more retina displays are on the market and because this changes how graphics are seen, I want to use as much vektor graphics as possible (actually I want to use ONLY vektor graphics)
+- There will definitely be a blog called **Soap Box**, there will also definitely be a brainstorming part called **Soap Lab** and there will also be a about part called **Soap Company**. I'm not really sure about Soap Factory and/or Soap Productions because even I have problems distinguishing the different parts then and when moves a project from Soap Lab to Soap Factory and so on.
+
+Yeah those are some choices I've made for the new soap design, which I think will be version 10, but really, who's counting.

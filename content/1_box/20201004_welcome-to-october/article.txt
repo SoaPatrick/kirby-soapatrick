@@ -1,0 +1,29 @@
+Title: Welcome to October
+
+----
+
+Published: 2020-10-04
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: soapatrick, theme
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: Yeah, it does look kinda different today, I know. It was one of those Sundays where I just kept working on something until I was done with it. What you see now is actually something I was planing from the beginning but in order for it to work, other things needed to be done first. Now I'm not really done with it, I'm sure there are a lot of bugs I will discover over the next few day/weeks. But I wanted it to be live, I wanted to see how it looks on all the different devices I use and then I can start to fine-tune everything else, like with all the different versions before SoaPatrickEight.
+
+There are also some structural things I need to rethink, like the landing page or paged Blog Posts, all those things might change in the future, but for me to get an idea I need to interact with it and then find solutions.
+
+So there it is, a new design that looks different than everything beginning with [SoaPatrickFive](https://www.soapatrick.com/factory/soapatrickfive/), hope I will have as much fun with it as with all the versions before.

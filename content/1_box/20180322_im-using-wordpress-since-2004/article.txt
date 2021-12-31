@@ -1,0 +1,31 @@
+Title: I’m using Wordpress since 2004
+
+----
+
+Published: 2018-03-22
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: wordpress
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I seem to be on a nostalgia trip recently. First the look back on the [18 Birthday of AGCN](https://www.soapatrick.com/2018/03/18-years-ago-today-i-started-agcn/), then looking back at [old Movies I’ve shot](https://www.soapatrick.com/2018/03/my-first-attempts-at-making-movies/) with some friends and I also looked at other Videos in different formats and listened to old cassette tapes. And today at work I talked about Wordpress and that it’s the most popular blogging platform in the world. That thought got me thinking about how much I actually work with Wordpress.
+
+With a little bit of research I found out that I’ve been using it since 2004, actually, I’ve been using Wordpress since version 1.0. It’s remarkable what has happened in the last 14 years, I slightly remember the old admin interface. I have a better memory of the old [classic theme](https://wordpress.org/themes/classic/)
+
+I look forward to many more years with it, I still think it’s one of the best CMS out there and for sure the best Blogging Platform.
+
+![](https://www.soapatrick.com/wp-content/uploads/2018/03/wordpress-classic-theme-750x1620.png)

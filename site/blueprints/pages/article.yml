@@ -14,6 +14,9 @@ columns:
       text:
         type: blocks
         size: large
+      old:
+        type: textarea
+        size: large
 
 
   - width: 1/3

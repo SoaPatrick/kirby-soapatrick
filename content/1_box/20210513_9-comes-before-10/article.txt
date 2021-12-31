@@ -1,0 +1,51 @@
+Title: 9 comes before 10
+
+----
+
+Published: 2021-05-13
+
+----
+
+Category: Stuff to Share
+
+----
+
+Tags: soapatrick, theme
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I don't know how many hours I've invested in the last two weeks for this new theme iteration but I really like what I see now. Gone are few things and I streamlined a lot of code in the back and I think the performance got even better. But let's get into some details.
+
+## Back to red
+
+Gone is the dark mode and the ability to change colors, the website now comes in just white with my favorite red. There are some pages with specific color themes. The Lab for example has a dark mode with pink instead of red. The Patrick page comes in full red and the privacy page in full black. I thought this gives the pages a nice touch and distinctions itself from the rest of the page. But yeah red is back!
+
+## No sidebar
+
+Gone is the sidebar which usually displayed related content, I always had an idea to use more space in the horizontal direction but in the end, it started to bother me how it looked and at some point, when the screen became too small, it was at the bottom anyway. So I got rid of it, makes it cleaner and no more strange color bars depending on your screen size.
+
+## New landingpage
+
+The landing page is now showing the latest posts from the Box, the Lab, and the Factory because sometimes I don't want to write a new blog entry but show my last work from the lab, and this way the website always shows something new, regardless of what contest it is. There's also a feed at the bottom which includes my last seen movies which I logged on [Letterboxd](https://letterboxd.com/soapatrick/).
+
+This means the actual blog now moved to the subpage box, and all blogposts have a new URL. I know this sucks because google has already crawled all my blog posts (probably) and now they all need to be recrawled but honestly, who has found this page through a google search.
+
+## What else is coming
+
+As always, when I release a new theme I have some ideas on what to change, include or remove further down the road, and with SoaPatrickNine it's no different. I have an idea for some soapy graphics to include and because I have fixed color schemes, I want to try to include some 3D graphics as well. There's also an idea in my head of an animated SP Logo somewhere.
+
+I also want to include a quick button for RSS feeds for the individual post types. Maybe someone just wants to subscribe to the Lab or the Factory, who knows.
+
+I might also play around with some icons and how they are displayed (especially for the individual blog posts) and maybe come up with a more compact list view for related stuff.
+
+## The road to 10
+
+Yes, this is version nine, and usually, a version sticks around for around 8 months which means a new version should be finished by the end of the year, oh man the pressure already. But because the next one will be the 10th version I might take some more time... but who knows how everything will look like in 8 months, so I shouldn't worry too much and just enjoy what I've created now, and so should you...

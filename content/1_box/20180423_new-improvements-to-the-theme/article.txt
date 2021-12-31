@@ -1,0 +1,27 @@
+Title: New improvements to the Theme
+
+----
+
+Published: 2018-04-23
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: soapatrick, theme
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I Was busy this weekend with the theme and there are some visible changes. First of all, there's a navigation now, it's not the most innovative but the simplest one for the time being. I might tinker with it some more soon (the **scroll to top** could be removed since it's kinda buggy). Then there are new pages done, there's an [Archive](https://www.soapatrick.com/storage/), a [Tag Archive](https://www.soapatrick.com/tags/), a **Search**, a **List View** and a way to quickly and easily update the color theme for the whole page (Welcome late to **Earth Day**).
+
+Well, this is it for the moment, I have to switch to doing some drawings again after all the page is supposed to be a showcase for my work but it felt good doing some design work on the page and at the same time keep the easy and simple look. Though one thing that might still be done this week is the **Factory** in order to properly showcase all my work. Oh and in case you're wondering if the page stays green now, of course not, will be switching back tomorrow. Red's my color!

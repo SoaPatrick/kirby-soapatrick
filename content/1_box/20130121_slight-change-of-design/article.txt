@@ -1,0 +1,31 @@
+Title: Slight change of design
+
+----
+
+Published: 2013-01-21
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: design, soap
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: Well with the recent change of the logo to add the word 'The' in front of 'Soap' I thought it was time to change the header of the page, because after all, that header image didn't make much sense anymore.
+
+I agree that it looks all rather bland right now, but I'm working on it, I just thought a quick change and put that logo up there made sense and the rest will follow. I'm also moving towards the idea of keeping the sections Soap Factory and Soap Productions since it does kinda make sense to have the projects separated based on their status (or in this case their location). So 'The Soap Factory' will then be the place where a project gets finally made into something concrete and 'The Soap Productions' part will be where all the project will be located with a label for their current location.
+
+And finally, since I've made a promise, right back on day 1, that every time some design change occurs  I will make a screenshot and post it, so that I can look back and see all the different stages.
+
+![the-soap_012113](http://soapatrick.com/wp-content/uploads/2013/01/the-soap_012113-1024x964.png)

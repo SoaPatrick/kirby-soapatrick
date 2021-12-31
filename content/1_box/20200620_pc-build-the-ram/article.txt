@@ -1,0 +1,31 @@
+Title: PC Build: The RAM
+
+----
+
+Published: 2020-06-20
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: build, pc
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I was thinking some time about how much RAM I should buy and in what configuration. Should I opt for two or four modules of 64GB DDR4 DRAM. In one case I cannot upgrade without buying everything new again. In the end, it was a long-term decision, buy only two modules now so that I can expand in the future with two additional modules to a whopping 128GB.
+
+![Corsair Vengeance LPX Black](https://www.soapatrick.com/wp-content/uploads/2020/06/ram_01.jpg)
+
+[Corsair Vengeance LPX Black](https://www.corsair.com/de/de/Kategorien/Produkte/Arbeitsspeicher/VENGEANCE-LPX/p/CMK64GX4M2E3200C16)
+
+After some looking around for RAM modules, I decided to go with Corsair, of the non-RGB variety, and with 3200MHz. They will be hidden behind the CPU Cooler anyway, so no need for flashy RGB Colors.

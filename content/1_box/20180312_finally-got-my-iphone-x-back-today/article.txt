@@ -1,0 +1,37 @@
+Title: Finally got my iPhone X back today
+
+----
+
+Published: 2018-03-12
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: apple
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: After a two week trip to Czech Republic where my iPhone X got repaired and back I'm finally in possession of my iPhone again. During this process, I noticed a few things I did wrong. First I did make a backup of my iPhone X the moment I knew I had to send it in because of the bulge. So I had my backup but what I didn't do, maybe because it was late in the evening and I was tired or because it would have taken too much time, was to put the just created backup on my old iPhone 6. So since I never deleted my iPhone 6 I decided to just keep the data on there for the time in between.
+
+Now today with my newly repaired iPhone X, I restored from the backup from two weeks ago and I was good to go, but there are a FEW TINY things I'm kinda missing. Yeah, I'm kinda obsessed with order, but having a two-week gap in my activity tracking bothers me. I forgot to make a backup from the watch before I unpaired it from the iPhone 6. So now I don't know how to get that two-week gap back.
+
+Not much else to say today, but it kinda bothers me. Maybe I try something else.
+
+## Update
+
+Well seems it's not possible unless I make a complete backup of the iPhone 6 and restore my iPhone X with that backup, then the Apple Watch Backup gets transferred as well and the Apple Watched can be restored with the latest backup. It's funny that this somehow worked without the backup when I moved from the X to the 6.
+
+## Second update
+
+After much thought, I decided to transfer all the photos from both Phones on my Mac, erase the whole iPhone X, and restore it from a newly created iPhone 6 backup. That of course worked and now I have no gap in my activity tracking, but damn what a hassle that was. For the next time I know that if ever get a substitute device, I restore from a backup and then restore from a new backup once I get the original Phone back, that's the only way to do this.

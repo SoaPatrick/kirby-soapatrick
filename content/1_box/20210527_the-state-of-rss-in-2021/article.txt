@@ -1,0 +1,35 @@
+Title: The state of RSS in 2021
+
+----
+
+Published: 2021-05-27
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: technology
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I'm feeling like a dinosaur or just a weird human being by still using RSS in 2021 in a time of social media dominance but an [RSS Feed App](https://www.reederapp.com/) is still my most used app every single day, sometimes by a wide margin. But why is it that no one in my close social environment has any idea what RSS is (apart from one friend who I know subscribed to this feed and is probably smiling right now)?
+
+The reason I started to use RSS back in I don't remember is that I became too lazy to regularly check some websites to find out if something new happened. I think it was by the time I started to work with WordPress where I got in contact with it for the first time.
+
+And even today that is still the biggest reason. I want the news to come to me and not me chasing after them. What can I say, I'm lazy. I have lots of different sites subscribed to, from Apple news to Local news to Hollywood news. I sometimes subscribed to comics (like my daily dose of Garfield). I also subscribed to job offers and I actually found my last two jobs thanks to an RSS subscription. Then there are all the web development articles I get which I hardly read but still, once in a while there's one I'm interested in.
+
+Other people scroll through their Facebook feed or Instagram feed to see what other people are doing, I'm scrolling through my RSS feed, to each their own.
+
+I remember when Google stopped offering their RSS Sync service and panic broke out, what will happen now. I switched to Feedly for a long time but now thanks to [Reeder 5.0](https://www.reederapp.com/) I can use iCloud to sync my subscriptions. When I set up my Gaming and Blender PC, one of the first things I tried to find was a suitable RSS Client for Windows, but I really didn't find anything that matched what Reeder is offering (feature and look n' feel wise).
+
+I'm happy it's still around and I fear the day this nice little feature won't be around anymore, then I actually have to invest time to check websites on a regular basis?

@@ -1,0 +1,31 @@
+Title: Continued with my Apartment
+
+----
+
+Published: 2020-05-11
+
+----
+
+Category: Stuff to Share
+
+----
+
+Tags: blender, zumlangeinseli
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![Moody Bar made in Blender](https://www.soapatrick.com/wp-content/uploads/2020/05/apartment_03.jpg)
+
+In April I had this idea to create my whole apartment in Blender, and render it in miniature form. But, I will add enough details to the objects so that I can render close up shots as well any maybe use my digitized apartment in some form for movies.
+
+For quite some time I tried to create that lamp I'm having above my bar and today I finally figured out how to model it. I'm quite happy with the result so I created this moody shot of my bar.
+
+I made a new render with better light bulbs, much better this way.

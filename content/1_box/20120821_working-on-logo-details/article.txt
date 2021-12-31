@@ -1,0 +1,33 @@
+Title: Working on logo details
+
+----
+
+Published: 2012-08-21
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: design, drawing, logo, soap
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: So I sat myself on the couch with the ipad and started to draw (with his amazing app called [Paper](http://itunes.apple.com/us/app/paper-by-fiftythree/id506003812?mt=8)) what the factory inside the ellipse should look like. So I gave it a 3 dimensional look which will be created by adding windows to make it work with only black and white. The human eye should be able to put the things together to make you see a 3 dimensional factory once everything is turned into black and only the sillhouette is visible
+
+![factory](https://www.soapatrick.com/wp-content/uploads/2012/08/factory-750x563.jpg)
+
+As for the smoke, well after googling some chimney smoke images I realized that I had the wrong idea about smoking coming out of a chimney. It's not that it starts big and get small but the other way round which makes sense. So I drew it like this.
+
+![chimney_smoke](https://www.soapatrick.com/wp-content/uploads/2012/08/chimney_smoke-750x563.jpg)
+
+The next step now is once again to put those drawings into digital form with illustrator and there I have to find some brushes or tutorials on how to achieve the grunge look.

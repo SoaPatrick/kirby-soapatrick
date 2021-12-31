@@ -1,0 +1,31 @@
+Title: A new start with Eight
+
+----
+
+Published: 2020-09-26
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: soapatrick, theme
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I know it looks kinda the same, and it pretty much is, but this is just the start of something that will hopefully end up being something new and different. But for right now, I like the new look, I like the simplicity of it and I like the fact that the performance of the website now is even better.
+
+There is no Fontawesome anymore, yes there are still some icons but those are SVGs directly incorporated into the html. Those icons will change with custom-made icons but it takes some time. There's also a much more distinctive font for the headings, and I LOVE it. It's bold, it's fun and it looks amazing.
+
+The key visual looks kinda bland right now, I'm aware of that, but I have a plan, it just takes some time to create that. Like I mentioned above, a lot is still about to change.
+
+There's also a new menu item which deals with [who I am](https://www.soapatrick.com/patrick/), it's empty right now, need to text something first, but it's there. But now I relax a bit, for now, everything is good and I'm happy.

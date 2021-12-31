@@ -1,0 +1,29 @@
+Title: SP9 is in development
+
+----
+
+Published: 2021-05-03
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: soapatrick, theme
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: Yes, I've started work on SoaPatrickNine and I've come quite far with my first coding session. Now I don't use an app like Photoshop or something like Adobe XD, Figma, or Sketch. I use my coding editor and do something which is called 'design by coding'.
+
+So far I've written very hacky code but it's more important on how it looks than how it's coded. Once I nailed down the look of the design I will write a new theme. Yes even though SP9 will be more of an iteration of SP8, I plan on writing everything from the ground up. This gives me a chance to optimize the code once more because there is always stuff to optimize.
+
+Now I don't want to define a release date, but I hope that by mid-may (end of may the latest) I will have some sort of version to be releasable. It will bring with it some structural changes, but I look forward to it, I like what I've made so far.

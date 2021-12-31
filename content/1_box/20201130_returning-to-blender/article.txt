@@ -1,0 +1,35 @@
+Title: Returning to Blender?
+
+----
+
+Published: 2020-11-30
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: blender, soap
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I can't believe what's happening, I really did something again in Blender and I could use the full power of my 'newly' build PC and render images in a timely fashion. I must admit, it came out of nowhere but I don't try to analyze why that it's happening now and just enjoy it.
+
+So I tried to create an Ehrlenmeyer Flask again, and this time use all the stuff I learned in the past and make it better than my [previous attempt](https://www.soapatrick.com/2020/04/soap-lab-as-a-blender-render/).
+
+![Soapy substance in an Ehrlenmeyer Flask done in Blender](https://www.soapatrick.com/wp-content/uploads/2020/11/soap-lab_7.jpg)
+
+Soapy substance in an Ehrlenmeyer Flask done in Blender
+
+I don't know if I plan on doing more with it but for the time being, I love the new look, I love the poisonous soapy substance with a few visible bubbles. I love the reflection from the HDRi and I love the SP Logo on the flask.
+
+Maybe I should return to some of my older projects and try to improve them.

@@ -1,0 +1,31 @@
+Title: Playing around with a dark Theme
+
+----
+
+Published: 2018-01-28
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: design, soapatrick
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I had some time today so I made some quick changes to my local installation to see how a dark version of the current theme might look like. This was achieved with 10 lines of SASS, not everything was styled and a final version might change the header image as well, this one was just inverted. See for yourself:
+
+![](https://www.soapatrick.com/wp-content/uploads/2018/01/soapatrickfour-dark-theme-750x2058.png)
+
+I think it shows what I wanted to achieve and I think it looks quite nice. Like I mentioned yesterday, the idea is to have a theme with a pure black background because on OLED displays, a Pixel displaying the color black is just a Pixel not lit up, so the device saves energy by not lighting up the background if the page is black. I think there was an article once about how much energy could be saved if Google makes their starting website black instead of white. (Found it: [How much energy would be saved if Google used a black screen instead of white?](https://www.quora.com/How-much-energy-would-be-saved-if-Google-used-a-black-screen-instead-of-white))
+
+Now I‘m not saying I could solve the energy crisis by making my page black, but I‘d love the idea of having a dark theme for stylistic reasons as well and if I save a bit of battery for my visitors then all the better. But the idea is to make a completely new design, and not just turn this one black. It‘s too early to discuss any more details though as it‘s still in a "thinking about" stage.

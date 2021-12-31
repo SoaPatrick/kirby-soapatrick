@@ -1,0 +1,35 @@
+Title: Ok let's talk browsers
+
+----
+
+Published: 2020-09-28
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: privacy, technology
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I'm reaching that point again (thanks to an update with iOS 14 where we can set a third-party default browser) where I think about switching my browser. I'm currently using Chrome on every device I own but Chrome has its drawbacks, its extremely CPU hungry (therefore drains the battery) and when it comes to privacy, well it's a Google Product. So what are the options?
+
+Well, there is, of course, Safari, the built-in browser for all my devices, with improved privacy features but the UI is not my favorite especially when coming from Chrome.
+
+Then there's [Brave](https://brave.com/). A browser which prides itself on being a privacy browser. It's a chromium browser which means it's the same CPU hungry browser just like Chrome and currently, there's no way to sync bookmarks between devices (for iOS such a feature is apparently in the pipeline). Syncing bookmarks is kinda important for me.
+
+There's other stuff like [Opera](https://www.opera.com/) and [Vivaldi](https://vivaldi.com/de/) or the [Tor Browser](https://www.torproject.org/download/) but I don't want to try out even more. I installed [DuckDuckGo](https://duckduckgo.com/) on my iPhone and I love it, but there's no desktop Version and no bookmark syncing between devices.
+
+When I think about it, the logical step would be to use Safari, it's optimized for my devices, it has tab and bookmark syncing and it's much more privacy-focused than Chrome. But that damn UI.
+
+I think I will test these three browsers for a bit, like work one or two days with just one and see how it goes. As for my iPhone, I will stick with DuckDuckGo for now, I mostly use the same websites anyway.

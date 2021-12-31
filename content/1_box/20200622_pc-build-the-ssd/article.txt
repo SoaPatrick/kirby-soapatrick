@@ -1,0 +1,29 @@
+Title: PC Build: The SSD
+
+----
+
+Published: 2020-06-22
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: build, pc
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![Force Series Gen.4 PCIe MP600 NVMe M.2 SSD](https://www.soapatrick.com/wp-content/uploads/2020/06/ssd_001.jpg)
+
+[Force Series Gen.4 PCIe MP600 1TB](https://www.corsair.com/de/de/Kategorien/Produkte/Datenspeicher/M-2-SSDs/Force-Series%E2%84%A2-Gen-4-PCIe-NVMe-M-2-SSD/p/CSSD-F1000GBMP600)
+
+Like I mentioned in my [Motherboard](https://www.soapatrick.com/2020/06/pc-build-the-motherboard/) blog post, I chose a Motherboard with a connection for PCIe 4.0 SDDs. So I looked for a few 4.Gen SSD's and the Force Series MP600 is always mentioned as one of the top current SSD's with a read speed of 4950MB/s and write speed of 4250MB/s which is pretty much double the speed of my Mac Mini. I went with one terabyte since I think, for the time being, it should be enough. I still can expand my PC with an additional 4.Gen SSD if I want to later on. Or connect up to 8 SATA III SSD's and set up a raid 0 or 1, ah so many possibilities.

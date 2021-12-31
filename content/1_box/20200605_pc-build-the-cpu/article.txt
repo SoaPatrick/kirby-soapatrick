@@ -1,0 +1,29 @@
+Title: PC Build: The CPU
+
+----
+
+Published: 2020-06-05
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: build, pc
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: From the get-go it was clear and obvious that I would go with an AMD Chip, several Blender PC Build Guides highlighted the new Ryzen Chips with their multicores. Plus price, they are just cheaper. So it all came down to the [AMD Ryzen 9 3900 X](https://www.amd.com/en/products/cpu/amd-ryzen-9-3900x). I was actually close on buying it today when I've read that AMD is about to announce a new line of updated CPUs on June 15th. So I will either buy the updated Ryzen 9 3900 XT or profit from the updated prize of the Ryzen 9 3900 X, either way, it's good news for me.
+
+![AMD Ryzen 9 3900 X](https://www.soapatrick.com/wp-content/uploads/2020/06/cpu_01-1500x750.jpg?_t=1591287844)
+
+The Benefit of building a PC is that in the future I can swap out the CPU with a new one in a few years, if my [Motherboard](https://www.soapatrick.com/2020/06/pc-build-the-motherboard/) supports that chip of course, so it's not like I'm bound to this chip forever. A PC does have it's advantages.

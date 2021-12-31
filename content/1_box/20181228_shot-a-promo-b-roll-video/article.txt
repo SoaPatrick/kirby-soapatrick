@@ -1,0 +1,35 @@
+Title: Shot a Promo B-Roll Video
+
+----
+
+Published: 2018-12-28
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: filming, video
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: https://www.youtube.com/watch?v=OcXx7NhhSBs
+
+So I've made my first video with my [new gear](https://www.soapatrick.com/2018/12/got-myself-a-new-camera/) and I thought a Promo-Video for my Bar '[Zum Lange Inseli](https://www.soapatrick.com/2017/11/zum-lange-inseli-is-officially-open-now/)' seems fitting. When you watch a lot of youtube Videos you see a lot of so-called **B-Roll**, so I thought I'd give it a try.
+
+The video was shot in **100p** with only **16mbps** bitrate. The **SQS Mode** on the camera allows me to see the footage right away in slow motion on the camera compared to the 100mbps in the regular Movie Mode. That way I could immediately see if the footage was usable or not and saved me some time. Maybe there's a way to see the 100p 100mbsp footage slowed down to 24p on the camera as well and I just haven't found out how to achieve that.
+
+I also tried to play with **angles**, **pans** and **zooms** to achieve a more dynamic video. Certain shots were harder to achieve by doing everything alone, like the spinning coaster while panning the camera, but for the more complex shots, I got help from a friend which saved me some time and made it possible to get specific shots I had in my head.
+
+I think it was a great first try with doing a **B-Roll video** and I know what to look for in future projects (maybe record in 100mbsp because somehow the video looks a bit fuzzy on Youtube, oh well). I also tried my hands on an **animated Instagram Story** to promote the video. They are cool to look at but need extra time which needs to be planned on set as well, same with interesting Behind the Scenes pictures.
+
+There was one set up for the **overhead shot** where I put the glass on the coaster which looked really cool with the **tripod**, the **slider** mounted on the tripod, the camera mounted on the side of the slider and then the **monitor** connected to the camera to know what's in the frame and what's in focus. BUT I forgot to take a picture of it, well have to remind myself to do that next time.

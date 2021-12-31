@@ -1,0 +1,31 @@
+Title: Youtube and Google Page Speed
+
+----
+
+Published: 2019-10-16
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: wordpress
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: It's funny that something from Google (yes Youtube belongs to Google, in case you didn't know) slows down the page that dramatically and the **Google Page Speed** results take a dive because of it. I realized since I started paying close attention, that if you embed **Youtube videos**, either through Wordpress or through the embedded code form Youtube itself, a ton of stuff gets loaded even though you may not play the video. That's not very **optimized** I'd say.
+
+So what can be done? The logical conclusion is to download everything youtube related only when the user actually clicks on the video. Until then only a preview image or placeholder image gets loaded.
+
+There are a few **plugins** who do this sort of thing for Wordpress but then again you install another plugin and the list of installed plugin gets longer and longer. Or you find some tutorials on how to do it yourself. It's actually not that complicated, you write a **PHP function** to replace all youtube embedded iFrames with your own markup and with **Javascript** you load the preview Image from that specific Youtube video in the newly created markup. Once the user clicks on the Play-button, the image gets replace with the actual embedded Code and the video starts playing.
+
+It's now implemented here on SoaPatrick and apart from certain videos that don't get replaced (have to invest some time to find out what's wrong there) it seems to work fine, the page speed is as high as before and I'm happy. It's just a pain that Youtube's default behavior isn't already doing that.

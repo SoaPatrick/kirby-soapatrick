@@ -1,0 +1,47 @@
+Title: My new Bar designed in Blender
+
+----
+
+Published: 2017-07-30
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: blender, interiour-design, zumlangeinseli
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![](https://www.soapatrick.com/wp-content/uploads/2017/07/blender_bar-design-750x422.jpg)
+
+My initial plan was to create something with SketchUp to get an idea how a bar in my living room might look like. After frustrating 30 minutes with it I had to ditch SketchUp and decided to once again go back to [Blender](https://www.blender.org/). I've used Blender in the past for various small projects (like my little Sheep Animation) so I knew my way around the software.
+
+In just a few minutes I had a basic room, the Billy shelves and the bar. After playing around with the right camera angle I started to fine tune everything and adding more furniture because it started to be a lot of fun. Of course, all the shapes are really simple so there's no real complexity but still.
+
+Render time was a big issue, the default render engine sucks, it's fast but it sucks. So in order to get realistic light effects I had to switch to the Cycles render engine. After changing some settings, things looked a lot better but render time went through the roof. For a still image, it took my iMac an hour. (During render time I watched Netflix's new show _Ozark_, one I can recommend by the way)
+
+![](https://www.soapatrick.com/wp-content/uploads/2017/07/blender_bar-render-stages-750x421.jpg)
+
+The different development stages of the Bar in Blender
+
+Step by step I improved the image with small changes and even started with animation, but when one frame takes an hour to render, imagine and 4-second clip with 25 Frames per second, yes you calculated correctly: 4 \* 25 \* 60 = 6000min = 10 Hours! So I decided against that, obviously. But I might render it on a friends computer as single images and then combine all the stills to a short clip.
+
+The problem when having fun is you don't want to stop. so I went further and added even more furniture, textures and more details to get a better sense of how it all looked within the room. It's really useful, especially with the ability to fly around and see the setup from every possible corner.
+
+![](https://www.soapatrick.com/wp-content/uploads/2017/07/blender_bar-quad-view-750x447.jpg)
+
+View of the Bar in Blender from 4 different angles
+
+What started with a render-time of an hour then turned into at least 8. I had to start rendering the image over night and on a different, stronger computer. That couldn't keep me from improving it further. I decided to add bottles and glasses to the shelves but that would be it (all my other activities started to suffer because this took so much of my free time). So yesterday I rendered it for the last time in a 4k Resolution and you can view that final render image [here](https://www.soapatrick.com/blender_bar-design-hi-res/) (it's a 8mb file). The details are just amazing when zooming in.
+
+So after a whole week of playing around with it, I consider this project (and with that I mean in Blender) to be done. After all, it needs to look good in real life and not in a 3D Render Software. But I look forward to actually build it and of course, I will keep you all up-to-date on the progress of THAT project.

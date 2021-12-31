@@ -1,0 +1,27 @@
+Title: Welcome to SoaPatrickFive
+
+----
+
+Published: 2018-04-13
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: design, soapatrick, theme
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: Wow, that went fast, I started yesterday evening with a clear vision in my head and now, around 20 hours later, the first version of that vision is released. Now, this is not the final version as I will continue to work on this Theme, but I thought I release a very simple one now and then build on top of that, instead of releasing it months and months later when it **might** be finished.
+
+I know it's Dark and it's Red and it's very simple, the structure is so much simpler, that I deleted a ton of code and files. As for now I will stop babbling about the theme and try to enjoy the weekend a bit. Maybe I will go into further details tomorrow or Sunday or whenever I feel like it.

@@ -1,0 +1,29 @@
+Title: Making VideoBoards with an iPhone
+
+----
+
+Published: 2019-08-05
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: filming
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: In [yesterdays](https://www.soapatrick.com/2019/08/progress-on-cursor/) post I talked about how I realize what shots I need once I cut something together. Today I found the song I want to use for **Cursor** and that changes the mood and the tempo of the movie so I need to rethink how I shoot and cut it together even more.
+
+So instead of imagining how it looks in my head and then shoot it for real, why not make quick **videoboards** with my iPhone and cut it together with [Adobe Rush](https://www.adobe.com/products/premiere-rush.html) to get a sense of how it would actually look like.
+
+It's quick, fast and easy to do directly on an iPhone. I think this could be my way of **previsualizing** scenes before actually shooting it plus it will also function as a shot list which is always handy.

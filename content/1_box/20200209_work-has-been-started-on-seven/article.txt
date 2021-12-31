@@ -1,0 +1,29 @@
+Title: Work has been started on Seven
+
+----
+
+Published: 2020-02-09
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: soapatrick, theme, wordpress
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I took a long walk today through Basel and actually continuing with my New Years' resolution from [2019](https://www.soapatrick.com/2019/01/why-not-a-look-ahead/). And during that walk, I thought of all the things I want to improve upon with the new version and when I arrived at home, I created a new repository, cloned my starter theme and made my first commits.
+
+I also decided to use `git-flow`, might as well try it now, might be useful in the near future. I'm kinda pumped about where it all leads.
+
+But just to clarify, the idea with version seven is to recreate this exact theme here but with a much more improved structure under the hood, there are no plans for a redesign. But I know myself, I will code a few things differently and in the end it might look different, I don't know where the road to Seven will lead.

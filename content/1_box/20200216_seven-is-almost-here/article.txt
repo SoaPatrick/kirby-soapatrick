@@ -1,0 +1,31 @@
+Title: Seven is almost here
+
+----
+
+Published: 2020-02-16
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: soapatrick, theme, wordpress
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I had a busy coding weekend where I recreated the current theme but used everything I've learned in the last 12 months. There was a lot of code I could rewrite more efficiently or code which was not needed at all anymore but was just laying around.
+
+I would have released it this weekend already, but there are some pages that need some work first. The Archive view, The Factory view and some `PHP` functions to run everything smoothly. I guess by the end of next week I will release it.
+
+Another thing, I took a break today from all the coding to go out and get some fresh air and enjoy the nice warm weather. During that time I kept thinking of things to write, and with write, I mean `PHP`, `HTML`, `JS` or `SASS`. I mean I do this all week at work and then on a weekend I keep doing the same things and while I'm outside I think about it as well. Isn't that crazy? And while I walked and thought about my Wordpress Theme, I realized that I have to get to that point with making movies. Be so involved with it that I keep thinking about it every free minute.
+
+Just some thoughts before I try to enjoy the last few minutes of the weekend not doing anything website related.

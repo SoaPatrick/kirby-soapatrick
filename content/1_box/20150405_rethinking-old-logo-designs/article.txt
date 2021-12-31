@@ -1,0 +1,29 @@
+Title: Rethinking old Logo Designs
+
+----
+
+Published: 2015-04-05
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: design, logo, soap
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![](https://www.soapatrick.com/wp-content/uploads/2015/04/soap4_6-750x530.png)
+
+I was cruising through the Google Image Gallery with the search term "[Soap Logo](https://www.google.ch/search?q=soap+logo&safe=off&biw=1615&bih=1149&source=lnms&tbm=isch&sa=X&ei=BesgVa99geI4spuBkAI&sqi=2&ved=0CAYQ_AUoAQ)" and I was surprised to see many of my design iterations made it on this list and there I also saw my [liquid soap dispenser logo](http://soapatrick.com/2014/03/soap-logo-v4) again which actually turned out quite nicely but for the first time I realized what's bothering me. The Logo was still too complex, so I decided to first make the lines thicker and second reduce complexity.
+
+What is seen above is the original on the left and a new iteration on the right. This was done in a rather short time frame just to see if it's something that's worth exploring. The thickness of the ring is something that needs some work I think and also the liquid itself. I idea which popped into my head was to incorporate the swoosh from my [version 3](http://soapatrick.com/factory/soap-v3).

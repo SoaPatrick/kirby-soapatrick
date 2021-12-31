@@ -1,0 +1,53 @@
+Title: A lot has happened in April
+
+----
+
+Published: 2020-05-06
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: blender, filming, soapatrick, status
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![Grissu cleaning herself](https://www.soapatrick.com/wp-content/uploads/2020/05/clean-grissu.jpg)
+
+I thought it would be nice to make a recap once again (mentioned this in [yesterday's](https://www.soapatrick.com/2020/05/race-a-short-blender-animation/) blog post, this was written mainly before that one), the last one I did was in [December 2018](https://www.soapatrick.com/2018/12/lets-recap-december-of-2018-shall-we/) I think. But since I did so much in the last month I thought I'd go through it again, you know, just so that I can see everything I've accomplished. By the way, the photograph has no correlation to today's post, I just thought Grissu looks kinda sweet.
+
+## SoaPatrickSeven
+
+I know I've released [SP7](https://www.soapatrick.com/factory/soapatrickseven/) in march but so many additional features were added during the first part of April, in fact, there is nothing left for me to work on which feels really nice. It finally gave me time to focus on other stuff. A complete list of changes can, of course, be found in the [log](https://www.soapatrick.com/log/).
+
+There are still sometimes ideas in my head to keep adding new stuff or making a complete overhall of the website, but frankly, I'm thankful my mind is focused on other stuff, finally!
+
+## Blender
+
+Who knew this special situation would lead me to start working with Blender again. I know that initially, I thought my mac wouldn't be able to handle it but it turns out I had to understand Blender a bit better again and realized what I have to tweak to make it work. It still takes a lot of time to render images and even longer to render animations, but there is a plan in place to change that in the future.
+
+I've started with simple shapes, like my [office](https://www.soapatrick.com/2020/04/home-office-with-blender/) then went on to create, or start, my whole [apartment](https://www.soapatrick.com/2020/04/my-apartment-in-blender/) in miniature form. From that, I went on to more complex ones like [glass](https://www.soapatrick.com/2020/04/soap-lab-as-a-blender-render/) and [pepperoni](https://www.soapatrick.com/2020/04/no-blender-animations-for-now/) (or pepper or whatever people call it), created a [goody](https://www.soapatrick.com/2020/04/here-have-a-goody/) for a side project, and ended up doing my own version of [Bender](https://www.soapatrick.com/2020/04/bender-in-blender/) in 3D. I also started to play around with camera tracking and adding models into real live footage and animate them there. This is where the render time blew up and where I can't wait for a proper Blender machine.
+
+camera tracking and Blender object included
+
+I'm so invested in Blender it's crazy, I keep being glued to the monitor and always try to improve my images and learn new stuff, hopefully, this keeps going. But the coolest thing is mixin real live footage with animation or making complete animations, so many possibilities to make cool stuff.
+
+## Shooting Movies
+
+I didn't really finish anything here but started quite a few projects. I'm not sure if all of them will ever see the light of day but it was important for me to pick up the camera again, play around with it and see what's possible. But I realized once again that being behind the camera, choosing angles and compositions is the thing I love, and being in front of the camera and 'acting', prevents me from successfully doing that in an efficient way. (with [Race](https://www.soapatrick.com/factory/race/) I was able to do that and I loved it)
+
+But nontheless, there are some clever ideas lingering in my head and some stuff was already shot (some needs to be reshot) but I didn't want to rush anything, so I will take my time and finish them when I feel like they are ready to move forward.
+
+## So....
+
+My goal beginning in April (or was it the end of [March](https://www.soapatrick.com/2020/03/trying-to-create-a-routine/)?) was to get into a routine and actually use this free time and do stuff. I mean I could just lean back and watch TV all the time but I wanted to do stuff with all my free time and I think looking back at the last 30 days, I really did that. Now I look forward to the next 30 days and what funky stuff I will produce in that time frame.

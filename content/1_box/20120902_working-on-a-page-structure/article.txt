@@ -1,0 +1,45 @@
+Title: Working on a page structure
+
+----
+
+Published: 2012-09-02
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: design, soap
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: So I made some thoughts yesterday on how to structure the new page and so far that's what I have. We have the **blog** which works as a home as well with everything that belongs to a blog. Then we have the **projects** section where all the projects I'm working on or finished are listed with several subcategories (not sure if chosing a subcategorie and listing all the projects in for example development should be possible, probably not). And then the question is what else. It would make sense to have a **download** or **media** section where one could download whatever is to download from the finished projects without finding the projects first. And lastly maybe an **about** section would make sense, but more just to have more sections than just the three. Maybe there will be more I don't know, it's just not something I wanna force onto the structure in order to fill up the menu.
+
+- Blog/Home
+    - Categories
+        - Updates
+        - Logo
+        - Movie
+        - Design
+        - ...
+    - Archives
+        - September 2012
+        - August 2012
+        - ...
+- Projects
+    - In Planning
+    - In Development
+    - In Production
+    - Completed
+- Downloads
+- About
+- ...

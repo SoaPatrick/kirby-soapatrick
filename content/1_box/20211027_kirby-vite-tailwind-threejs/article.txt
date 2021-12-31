@@ -1,0 +1,31 @@
+Title: Kirby + Vite + Tailwind + Threejs
+
+----
+
+Published: 2021-10-27
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: kirby, soapatrick, wordpress
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: Yes, that's a mouthful but I've been playing around with [Kirby](https://getkirby.com/) a lot the last few days (trying to recreate SP9 with it and see what is possible and what is not) and it's been a blast.
+
+The idea with this development stack is to have a quick way of developing and deploying the website and keep it very light at the same time. I've been a fan of [Vite.js](https://vitejs.dev/) since I've stumbled upon it a few months ago. The ability to quickly set up a development environment and start coding was a dream. Plus adding support for [TailwindCSS](https://tailwindcss.com/) and implementing [Three.js](https://threejs.org/) animations was such an easy undertaking that I wanted to move this approach over to Kirby and see if it's doable, and it is!
+
+Now I'm not 100% sure yet if I move from WordPress to Kirby, but it seems to be the obvious choice ([Hugo](https://gohugo.io/) still has some chance, [Statamic](https://statamic.com/) is out for sure though). Another question is if I just finish recreating SP9 or if I start with Kirby on SP10 (or SPX).
+
+With my time off from work almost over, I'm not sure how much time I can spare in my free time with working 100%. It would be a cool project but there is other stuff in my head that wants to get some free time as well. Maybe by the end of the week, I have some idea on how to proceed.

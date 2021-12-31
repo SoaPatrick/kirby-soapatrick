@@ -1,0 +1,27 @@
+Title: It's close, very close
+
+----
+
+Published: 2021-05-12
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: soapatrick, theme
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: It's been one hell of a busy week but I made so much progress with SoaPatrickNine that I think it's ready to be released very soon. It's been a blast to start from scratch and actually reduce code and optimize the theme once again. It will be different but at the same time it's similar, but I think visually it's a big improvement on SoaPatrickEight.
+
+So I will rest my eyes a bit...

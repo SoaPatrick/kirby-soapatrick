@@ -1,0 +1,29 @@
+Title: A new Color Scheme for a new Theme
+
+----
+
+Published: 2018-03-15
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: design, soapatrick
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/03/soapatrickfive-750x375.png)
+
+I have some ideas about a possible new Theme and the first thing I decided upon was the color scheme. I'm a sucker for red, always love the color but I really started pushing it the last few years of my life, be that clothes, accessories, furniture, colored walls and so on. Funnily I hardly made web designs with red, so I think it's time to change that. Combining red with black is an obvious choice since the two colors go so great together. I'm also brainstorming about the general structure of a new theme and I think a more simple, clean and mobile first approach is the way to go.
+
+I think the main reason for a new design is the shift of focus on what I plan on doing, so that has to be represented on this new theme. I look forward to small design decisions each week.

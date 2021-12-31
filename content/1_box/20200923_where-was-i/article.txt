@@ -1,0 +1,29 @@
+Title: Where was I?
+
+----
+
+Published: 2020-09-23
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: personal, soapatrick
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: Ah yes... writing a lot more to overcome this hole I'm finding myself in. Well, I have some good news actually. I plan on releasing SoaPatrickEight sometime this weekend. Now, this won't look like the screenshot from the last post, but more similar to [SoaPatrickSeven](https://www.soapatrick.com/factory/soapatrickseven/), it's actually the same base with some changes. But like I mentioned, the idea is building upon that base, and maybe one day end up somewhere similar to that screenshot.
+
+The idea behind **SoaPatrickEight** is to get rid of FontAwesome, use different fonts, change the key visual part of the website, reduce the number of media queries and of course always improve performance and accessibility. The whole [color concept](https://www.soapatrick.com/2019/10/colorize-the-shit-out-of-it/) and [dark/light](https://www.soapatrick.com/2019/05/chose-your-own-theme/) mode will stay but that might change further down the road, the interesting thing is that I never know where I end up with a new SoaPatrick version. It's always an interesting journey where I end up learning so many new things.
+
+On a side note, I'm hopefull that I start doing creative work again soon, maybe combine a drawing/sketch with a new blog post. Maybe take new pictures with my camera or play around with Blender again. After all my big fall vacation break will be soon and I always love having a small project during that time to really use all those free hours.

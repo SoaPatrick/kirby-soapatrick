@@ -1,0 +1,27 @@
+Title: Working hard on Eight
+
+----
+
+Published: 2020-08-30
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: soapatrick, theme, wordpress
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: It seems quite I know, but I was working hard the last two days on version Eight. In fact, I'm hoping that I can release the first version this week. This first version won't be perfect as I best improve once my themes are published. It's much easier this way to create tasks for specific issues and then work on them one by one and see how the theme develops from there. After all, version Seven is the result of continuous work on improving and perfecting starting with version Five.
+
+So hopefully I have some news soon, probably not earlier than Thursday. Oh and a quick reminder to myself, keep the Blog Post titles shorter, is helpful for the next version.

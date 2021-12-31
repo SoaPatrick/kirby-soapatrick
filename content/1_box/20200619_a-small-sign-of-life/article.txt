@@ -1,0 +1,35 @@
+Title: A small sign of life
+
+----
+
+Published: 2020-06-19
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: status
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: Yeah, I'm still around, it was a strange and stressful time the last two weeks and it came out of nowhere. It will be like this for another two weeks and then I will have two weeks off where I big plans.
+
+So what happened? Well, work did happen. Out of nowhere, I was suddenly tasked with lots to do so that I was back working 100% but from home. With that, all my plans with Blender and Blog post kinda got pushed to the back. But that doesn't mean nothing was happening. I'm still slowly getting all my stuff for building my own PC, which is something I will be doing during my break. Expect some new posts about that the next few days, right up until I will start building it.
+
+Blender definitely got pushed way back, I occasionally did some more things for the Apartment project, but nothing else. I did have some ideas though, but I keep those for my PC, where I can finally use a powerful GPU.
+
+I did start using a new optimization plugin today. For work, I played around with [WP Rocket](https://wp-rocket.me/), and the results that this plugin delivers are amazing. So I thought, instead of using two plugins, I can combine the two into an even better one and reduce the number of plugins at the same time. The page feels even snappier now if that's even possible.
+
+For a brief second, I played around with the idea of using [Gridsome](https://gridsome.org/), I even made some basics work, but I realized that spending time now doing work on my website is time I'd rather spend creating cool stuff with Blender, so I stopped that short experiment.
+
+So that's what's happening, I feel kinda tired which is a strange thing to say on a Friday evening. I mean before Covid-19, this was the time when I slowly started to get into the mood for a night out, but in the last few months, those days I stayed in and went to bed early. But I guess it's nice too to just relax for a bit, take a breather, save some money and give me liver some well-deserved rest.

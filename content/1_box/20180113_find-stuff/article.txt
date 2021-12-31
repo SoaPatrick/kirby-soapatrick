@@ -1,0 +1,25 @@
+Title: Find stuff...
+
+----
+
+Published: 2018-01-13
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: soapatrick, status
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I've added 'Find Stuff' functionality and a Storage. The search looks quite good, but the Storage is done in a way that it works for now but I might tinker with it some more later on. That was probably the most urgent thing to do, anything else for now is bonus.

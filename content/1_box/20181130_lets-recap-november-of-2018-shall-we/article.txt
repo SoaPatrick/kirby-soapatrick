@@ -1,0 +1,33 @@
+Title: Let’s recap November of 2018, shall we?
+
+----
+
+Published: 2018-11-30
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: filming, recap
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/11/november-2018-1500x720.jpg)
+
+One more recap to go and then I can choose a new format for next year. Yeah, I know that currently, it seems that all I do is write recaps and maybe another post in between. But a lot has been happening in the last two months. The good news of a **new job**, the start of actually **making movies** and this month two new things happened. The first one is **my second movie** which I will talk in depth in a day or two and then there's the **new home office** I'm working on, so let's talk about that a bit.
+
+Yeah, I was disappointed when Apple didn't announce a new iMac on their October 30th Event in New York because the iMac was always the machine I was planning on purchasing as my new workstation. So I was in a bit of a pickle. Buy an 18-month-old iMac with outdated processing power and I/O ports or look for something else? Well, I did a lot of thinking and decided against old tech. So this update now is written on a **Mac Mini** with a **6-Core i7 Processor**, **512 fast SSD**, and **32GB of RAM**. As for a monitor, since I used an iMac before I had to get a new monitor and opted for a **27-inch 4k display** from Dell (there was a really good offer on Black Friday). There's also a **WD My Book Duo** with a Raid 1 and 4Terabytes of storage for external Project Storages (finished projects will be moved to the external storage and only current ones stay on the Mac Mini).
+
+There are further things which I plan on buying, but one step at the time. There's the need for an **eGPU**, a **second 4k Display**, and some updated peripherals. The reason I picked the Mac Mini over the iMac was the number of **Thunderbolt 3** ports the Mac Mini offers, four compared to only two, and therefore the ability to upgrade the Mac Mini in a modular way.
+
+So far I'm happy with the performance of editing a Full HD Video but the real test will be **4K Footage** which is not far away because a new Camera has been ordered. But I'd say that's it for this months recap, like I said, a more detailed post about my second Short Film will follow soon.

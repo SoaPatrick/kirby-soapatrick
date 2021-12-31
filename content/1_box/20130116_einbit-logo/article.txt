@@ -1,0 +1,33 @@
+Title: Einbit logo
+
+----
+
+Published: 2013-01-16
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: 1bit, blender, design, drawing, logo
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![](https://www.soapatrick.com/wp-content/uploads/2013/01/Einbit-Blender-1500x844.png)
+
+A friend of mine bought a new domain name with a cool sounding name [einbit.ch](http://www.einbit.ch). I offered him to come up with logo ideas. So when I was at work and there was nothing to do, I doodled around.
+
+I liked the idea to transform the 1 and the b from bit into one object and I also wanted to use a pixel font type which represents the whole computer part. So I drew this 3D block with both the 1 and the b visible.
+
+Later at home I used blender to play around with perspective and then had a 'final' product which he liked and is currently used on his page as a single image.
+
+![einbit doodle](https://www.soapatrick.com/wp-content/uploads/2013/01/2013-01-10-20.02.42-e1559233524251-750x855.jpg)

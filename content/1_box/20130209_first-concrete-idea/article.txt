@@ -1,0 +1,47 @@
+Title: First concrete idea
+
+----
+
+Published: 2013-02-09
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: design, drawing, soap
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: Today at work I had some spare time, so I took out my drawing moleskin and started to put some ideas down on paper and the more I drew the more concrete an idea got.
+
+![sketch](https://www.soapatrick.com/wp-content/uploads/2013/02/sketch.png)
+
+I also decided to have 4 menu points at the top:
+
+- The Soap Box
+- The Soap Productions
+- The Soap Lab
+- The Soap Factory
+
+And have the Logo in the center of those 4 menu points (two on each side of the logo). Below is what looks like a huge cloud but is in fact more like all kinds of different sized circles. Each section will have it's own color theme, I'm thinking of going with bright background and have:
+
+- dark red
+- dark blue
+- dark green
+- dark purple
+
+Within those circles will be the title of each section with a bigger icon and some graphic stuff.
+
+Below the "cloud" comes the content and because of that, the "cloud" can't be too big otherwise it pushes the content too far down. At the bottom will be a rich footer which so far is only really needed for the blog.
+
+I don't know yet how the responsive part will play with this layout and I assume the whole "cloud" will be hard to do with vector graphics, but let's just take one step at the time here.

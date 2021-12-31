@@ -1,0 +1,25 @@
+Title: I imported the old blog posts
+
+----
+
+Published: 2017-01-27
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![](https://www.soapatrick.com/wp-content/uploads/2017/01/old-blog-posts-e1485529339783-750x439.jpg)
+
+What I mentioned on [Tuesday](https://www.soapatrick.com/2017/01/back-way-way-back-to-the-roots/) is now done, at least the first step. I imported all the old blog post from various blogs I started. Most of them are from the old Winona Ryder Fanpage but they contain a lot of me writing about things happening in my life so. Some of them still need some fixing with images positioning though.
+
+The next step is including all the rest of the AGCN posts which aren't in any Wordpress blog post form. That though takes time since it contains posts from July 2000 until May 2003. Four months are already transferred, the rest will follow over time.

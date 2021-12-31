@@ -1,0 +1,29 @@
+Title: Playing with Blender
+
+----
+
+Published: 2012-12-04
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: blender, logo, soap
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![](https://www.soapatrick.com/wp-content/uploads/2012/12/Soap_blender-1500x844.jpg)
+
+I continue to play around with Blender and learn new things every day. I recently started to play around with stick figures and the the armature animation. And then I imported the Soap Productions Logo into Blender and played around with that a little bit.
+
+The idea now is to have like a movie intro done with blender, there's a basic idea I'm having and I will draw storyboards first, then make a basic animation in Blender and finally add some real life details to the animation and render again (which will take a  LOOOONG time)

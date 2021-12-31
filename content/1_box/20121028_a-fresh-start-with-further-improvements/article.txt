@@ -1,0 +1,27 @@
+Title: A fresh start with further improvements
+
+----
+
+Published: 2012-10-28
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: animation, blender, sheep, short
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: https://vimeo.com/52447638
+
+After watching some more video tutorials on Blender, I decided to start from scratch with the sheep and try to make it easier to manipulate the head. So I worked with mirroring for the eyes to achieve a better symetry and tried to move the objects better on their axis, especially the now moving eyeballs. And finally I added some grass to finish the whole thing. The result looks stunning (took me around an hour to render the video) but I find that by trying to achieve perfection, the sheep ended up looking not as bored as in the first try. Maybe I will play around with some angles from the head and the camera but because of the grass now, everything takes longer to render, so...

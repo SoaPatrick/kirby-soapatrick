@@ -1,0 +1,84 @@
+Title: Some additional features
+
+----
+
+Published: 2020-02-29
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: soapatrick, theme, wordpress
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: In the last few days, I did add some additional features on **Seven** before I used up all my Bitbucket Deployment minutes. I've released version **2.1.0** and **2.2.0** and a few things that changed I'd like to mention here.
+
+## Related Blog Posts
+
+I've played around with this idea for some time and because I worked more extensively on Wordpress at work, I noticed how easy this is to realize. So gone is the single blog post navigation where you switch between the previous and next entry and all that is left are four related blog posts based on similar tags. Now using the right amount and the correct tags are even more important. So here is how it's done.
+
+First, we need the terms (tags) of the current post.
+
+```php
+$terms = wp_get_object_terms( 
+  $post->ID, 
+  'post_tag', 
+  array(
+    'fields'      => 'ids'
+  ) 
+);
+```
+
+Then we find four OTHER posts with similar terms
+
+```php
+$args = array(
+  'post_type'           => 'post',
+  'post_status'         => 'publish',
+  'posts_per_page'      => 4,
+  'orderby'             => 'rand',
+  'tax_query'           => array(
+    array(
+      'taxonomy'          => 'post_tag',
+      'field'             => 'id',
+      'terms'             => $terms
+    )
+  ),
+  'post__not_in' => array ($post->ID),
+);
+```
+
+and then we make a new query with those arguments and loop through the results.
+
+```php
+$related_items = new WP_Query( $args );
+if ($related_items->have_posts()) :
+  while ( $related_items->have_posts() ) : $related_items->the_post();
+    // do stuff here
+  endwhile;
+endif;
+wp_reset_query();
+```
+
+## Related Factory Items
+
+Same as with blog posts, I thought instead of showing just navigation between factory items, a section with related items makes more sense. So I just used what I did for the blog posts and changed the query to go through terms from the custom post type **factory** and that was it. Using the featured image here makes more sense than with blog posts.
+
+## Related Blog Posts (II)
+
+No these are different but maybe I should rename it. On the detail view of a factory item, there is now also a list of blog posts where this factory item was mentioned.
+
+I thought about doing this for soooooo long that I had different approaches on how to achieve that. What I now did, was creating a new **taxonomy** for posts called **Projects**. I create new projects and chose those projects within blog posts. Now on a factory item, I can choose one of those created projects and then all posts tagged with that project will be displayed.
+
+I know I could achieve that by linking factory items directly to blog posts, but I start on writing about new projects long before I created said factory item. I could create draft items and publish them later on. I might still switch to this solution later on, who knows.

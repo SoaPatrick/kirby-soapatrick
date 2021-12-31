@@ -1,0 +1,31 @@
+Title: I'm working on Something
+
+----
+
+Published: 2019-06-23
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: short, theme
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: It's been a while but I'm having an idea for a new **micro movie** and I started to write down some notes, draw some storyboards and test some shots. I don't wanna put TOO much pressure on me with a timeframe so I take it step-by-step.
+
+But of course, I have to move forward. The idea is to give me another week for the full story with storyboards and then start shooting. I won't reveal anything else at this point, like theme or premise, since I love having these things close to the chest until they are ready for release.
+
+* * *
+
+**On a side note**: I did change something on this theme, even though in my last blog post I promised that I'm done, but I thought I should reduce the header height on subpages to put content first. Not every page needs to have those animated bubbles.

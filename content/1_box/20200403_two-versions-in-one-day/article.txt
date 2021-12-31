@@ -1,0 +1,68 @@
+Title: Two versions in one day?
+
+----
+
+Published: 2020-04-03
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: soapatrick, theme, wordpress
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: Well, that's unusual but I thought what the hell. But let me explain. Like I mentioned on [Wednesdays](https://www.soapatrick.com/2020/04/wordpress-5-4-and-sp7-2-5/) post today I released SP 2.5 with some changes under the hood (all that can be found at the [log](https://www.soapatrick.com/log/) btw):
+
+- **Removed** all Gutenberg color options
+- **Changed** Youtube play buttons styling
+- **Changed** image sizes for generated images
+- **Changed** CSS grid for the whole website
+- **Added** SCSS variables for breakpoints
+- **Added** better code block styling
+- **Added** excerpt field to factory items
+
+As for the SCSS Variables, instead of using one of these approaches from [css-tricks.com](https://css-tricks.com/approaches-media-queries-sass/), I simply created some variables:
+
+```sass
+$breakpoint__370--max: (max-width: 370px);
+$breakpoint__371--min: (min-width: 371px);
+$breakpoint__767--max: (max-width: 767px);
+$breakpoint__768--min: (min-width: 768px);
+$breakpoint__991--max: (max-width: 991px);
+$breakpoint__992--min: (min-width: 992px);
+$breakpoint__1199--max: (max-width: 1199px);
+$breakpoint__1200--min: (min-width: 1200px);
+$breakpoint__1499--max: (max-width: 1499px);
+$breakpoint__1500--min: (min-width: 1500px);
+```
+
+So I was all said and done (except for regenerating and then reincluding all images, that still need to be done) when I had the idea to include the language visually to the code block.
+
+The only reason I included those Variables above was to showcase that. So I sat down, looked at the plugin and wrote a small script which adds the language in its own div so I can style it:
+
+```javascript
+// Add language to all Code Blocks
+var allCodeBlocks = document.querySelectorAll(".wp-block-code");
+for (var i = 0; i < allCodeBlocks.length; i++) {
+	var singleCodeBlock = allCodeBlocks[i].children;
+	for (var j = 0; j < singleCodeBlock.length; j++) {
+		if (singleCodeBlock[j].hasAttribute("lang")) {
+			var codeLang = singleCodeBlock[j].getAttribute("lang");
+		}
+	}
+	allCodeBlocks[i].insertAdjacentHTML('afterbegin', '<div class="prism-language">'+ codeLang +'</div>');
+}
+```
+
+So I created a new Epic with a new release number and added that as well. So there you go, enjoy the small changes, I'm off for now before I have to go through all posts again where Images are included, ufff.

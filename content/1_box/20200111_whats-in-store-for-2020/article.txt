@@ -1,0 +1,55 @@
+Title: What's in store for 2020?
+
+----
+
+Published: 2020-01-11
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: design, filming, theme, writing
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: The big question every year, what will I be doing this year? Are there spillovers from last year? Can I start with new projects? The idea is to dive into some of these ideas I have for 2020.
+
+## Walking through Basel
+
+[Last year](https://www.soapatrick.com/2019/01/why-not-a-look-ahead/) I had the idea to walk through every street in Basel within a year, I didn't quite finish that, in fact, I'm not even halfway there. But mid-year I realized that I won't be able to finish. It didn't bother me, the plan is still active but not tied to a timeframe, I will just continue until I'm finished.
+
+## Movie Projects
+
+In [my 2019 recap](https://www.soapatrick.com/2020/01/2019-in-numbers/), I listed 3 movie projects I finished in 2019 and that I plan on increasing that number. So the idea is to create at least 4 fully finished projects. I have some ideas about what kind of projects to make, but there the main goal is to just finally do it and stop thinking or talking about it.
+
+## SoaPatrickSeven
+
+In the last four years I released a new theme every year ([2016](https://www.soapatrick.com/2016/03/1036/), [2017](https://www.soapatrick.com/2017/01/back-way-way-back-to-the-roots/), [2018](https://www.soapatrick.com/2018/04/welcome-to-soapatrickfive/) and [2019](https://www.soapatrick.com/2019/05/six-will-change-some-things/)), it's never the plan but I end up doing it anyway. Five to Six was a rather small incremental step and I don't know if I have the time and energy to create a completely new design, especially since for the first time in a long time I really like the design I'm using and let's face it, SoaPatrickSix sounds and looks better than SoaPatrickSeven.
+
+There are a few ideas in my head though:
+
+- Recreate the theme from scratch and use a much more stable markup and styling, get rid of unused elements and just refactor a lot of stuff. I've learned a lot in the last year which I'd like to include.
+- Using `vue.js` and `Rest API` for a new theme (that's quite a big undertaking though with a big learning curve).
+- Better SEO for people actually finding this place and the excellent content that I'm writing.
+
+## Blog Posts
+
+Just like with movie projects, I plan on increasing last year's amount of blog posts (48) for this year which should be doable, actually, 48 is a laughable low number. Writing daily is nonsense, but if there's something to tell I will tell it and I doubt it will be daily, need to do other stuff as well.
+
+What I want to try is to be a bit more elaborate in my blog posts. In the past, I wrote about stuff I did, and especially in the coding department I never really shown what I did. So just like with the [bitbucket pipeline code](https://www.soapatrick.com/2019/12/using-bitbucket-pipelines/), I plan on showing (off) any code I wrote, maybe there's someone out there who's looking exactly for what I did, or I will look back at ugly code fragments years down the road.
+
+## General
+
+I want to find my own voice and for that, I have to start thinking outside the box, do crazy stuff and push my own creative boundaries a bit and see where it leads me. This is true for Movie Projects, taking Fotos for my own collection or Instagram, designing Websites and also writing blog posts.
+
+I mean this place is exactly designed for that, try stuff out, don't be afraid to make wrong decisions and don't be discouraged if nothing good comes out of it, just keep on trying. I think that is my motto for 2019. So let's try to live by it!

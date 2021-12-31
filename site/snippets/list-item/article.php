@@ -12,7 +12,11 @@
   </header>
   <div>
     <p class="my-4">
-      <?= $article->text()->toBlocks()->excerpt(200) ?> <a href="<?= $article->url() ?>" class="font-serif font-bold">more →</a>
+      <?php if ($article->old()->isEmpty()): ?>
+        <?= $article->text()->toBlocks()->excerpt(200) ?> <a href="<?= $article->url() ?>" class="font-serif font-bold">more →</a>
+      <?php else: ?>
+        <?= $article->old()->kt()->excerpt(200) ?> <a href="<?= $article->url() ?>" class="font-serif font-bold">more →</a>
+      <?php endif; ?>
     </p>
   </div>
   <footer>

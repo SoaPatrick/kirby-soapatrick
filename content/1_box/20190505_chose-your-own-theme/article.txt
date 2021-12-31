@@ -1,0 +1,31 @@
+Title: Chose your own Theme
+
+----
+
+Published: 2019-05-05
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: theme
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: Now that was a **productive** day, I kinda feel sad though that I spend the whole day in front of the computer, but when I see what I achieved I'm kinda happy.
+
+What I mentioned [yesterday](https://www.soapatrick.com/2019/05/why-the-girly-theme/) I did today. There's a new Icon in the navigation () which allows you to switch between a **light** or **dark** theme
+
+I achieved that by using **CSS Variables**. There isn't a second stylesheet which gets loaded but I change **three** CSS Variables through Javascript and store that in **HTML Local Storage** so that the look keeps when you cruise around the website.
+
+Then I added a Wordpress Customization to my Theme, which allows me to change the Color through a **Color Picker**. Same with the dark/light theme, all I do is change one single **CSS Variable** to change the color of the whole Page. The idea, I think, is to have different sections use different colors, but that's the plan for another day.

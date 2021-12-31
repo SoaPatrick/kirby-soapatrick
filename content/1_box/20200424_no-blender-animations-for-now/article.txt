@@ -1,0 +1,31 @@
+Title: No Blender Animations for now
+
+----
+
+Published: 2020-04-24
+
+----
+
+Category: Stuff to Share
+
+----
+
+Tags: blender
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![Pepper created in Blender](https://www.soapatrick.com/wp-content/uploads/2020/04/pepper-1500x844.jpg?_t=1587750107)
+
+Pepper created in Blender
+
+I've created a blender version of something I truly hate but it was good practice to test out some stuff. I actually tried to make an animation where dozens of peppers are rolling down the street, but after using 20 my Mac Mini wasn't responding anymore.
+
+I've noticed that as soon as I play around with animation and a few objects, my Mac is not playing nice anymore, so I guess I focus on still images instead for the time being.

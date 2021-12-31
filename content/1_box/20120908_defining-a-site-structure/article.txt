@@ -1,0 +1,35 @@
+Title: Defining a site structure
+
+----
+
+Published: 2012-09-08
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: design, soap
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: Well it's been a hectic time recently and therefor finding time to work on those subjects has been kinda spare. Nonetheless I found some time to come up with a definite site structure for the whole projects part and how I will handle the site navigation and everything.
+
+The idea is to use the blog very excessively for it all which means there will be a category projects and under that category I will add for each new project I will start a new category with the projects title as the category name.
+
+The project page will still be a page will all the media and plog posts from the specific category on display. The tags I will use for describing each project a bit more.
+
+This means that I will change the current category structure and create new ones now already. So we would have the 'the soap factory logo' and 'the soap factory web design' category.
+
+As for the design, I was thinking about making a horizontal design, but the problem there is the usability aspect. People are used to scroll vertical (I mean you have a scroll wheel on your mouse which is aligned vertical) so when a user suddenly has to scroll horizontal it feels weird and therefor people don't feel familiar and need longer to find something and scrolling up and down doesn't exist.
+
+I know I wanted to create something new here instead of just the regular design structure, but I'm not sure if I do something this radical.

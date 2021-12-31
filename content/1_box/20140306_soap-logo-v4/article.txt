@@ -1,0 +1,51 @@
+Title: Soap Logo v4
+
+----
+
+Published: 2014-03-06
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: design, drawing, logo, soap
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![](https://www.soapatrick.com/wp-content/uploads/2014/03/soap4_1-750x415.png)
+
+The problem of never being happy with my work once again brought me to rethink the logo for this place here. So I looked at countless inspiration sites and countless of logos to get get my brain into creative gear.
+
+For this new logo I wanted to go through the correct design process so I doodled a lot of possible design ideas down, with some I went a bit further and others I kept in the doodle stage.
+
+Through this process I decided to go with the liquid soap approach and design a simple liquid soap bottle. So I drew a more fleshed out look for the soap bottle I want to create.
+
+Based upon this I opened Illustrator I started to recreate a vector graphic based upon my drawing. Since I started to read more about the golden ratio I used circles based which are in a golden ratio to each other (but not all). But the idea was to create the logo mainly out of circles to have a more harmonic logo at the end.
+
+![soap4_2](https://www.soapatrick.com/wp-content/uploads/2014/03/soap4_2-750x480.png)
+
+The next step was the question of adding the straw which goes down into the soap. Having the logo in a smaller size showed me that the straw adds more complexity to the logo wich was not necessary since it was already clear without it what the image was supposed to represent.
+
+![soap4_3](https://www.soapatrick.com/wp-content/uploads/2014/03/soap4_3.png)
+
+The next step was adding the name to the logo. A much harder job than the logo itself since "soapatrick" is combination of two words: Soap and Patrick with the letter P belonging to both words and therefor only appearing once. In order to make it clear for readers what both words are I had to come up with a way to illustrate that. So when the lowercase P from Soap is also the uppercase P from Patrick the two words are more clear to read.
+
+![soap4_4](https://www.soapatrick.com/wp-content/uploads/2014/03/soap4_4-750x261.png)
+
+The problem with this approach was finding the right font where the lowercase and uppercase P are very similar. Another problem was the disharmony of such a structure with two different base lines for the fonts.
+
+![soap4_5](https://www.soapatrick.com/wp-content/uploads/2014/03/soap4_5-750x968.png)
+
+I used different fonts but apart from the one above nothing really clicked and I used different colors for the logo but after a week of trying and trying I scraped the whole thing and decided to start completely new.
+
+More on that tomorrow.

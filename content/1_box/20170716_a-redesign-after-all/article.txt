@@ -1,0 +1,35 @@
+Title: A Redesign after all?
+
+----
+
+Published: 2017-07-16
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: bootstrap, design
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: Once again it must be that time of the year where I play around with ideas for a possible new design for this page. Now I know what you're thinking:
+
+> Didn't you just write the other day that you don't wanna spend too much time on the design and instead focus on content?
+
+Well yeah, I did, but what I do know is that the sidebar needs to change and then I might as well make a redesign.
+
+Now I'm not talking about a full on redesign, I like the way the blog posts are displayed and all. What I do mean is everything around it. Placement of the logo, where the sidebar is placed and how it functions and the footer. But it all comes down to the sidebar.
+
+Currently, there are the menu items and the last blog entries, but what I do want to display there is a feed of my [Letterboxd](https://letterboxd.com/soapatrick/) account, my [Instagram](https://www.instagram.com/SoaPatrick/) account and if it's somehow possible from my [TV Time](https://www.tvtime.com/en/user/2290825/profile) account. So that if something happens there it's immediately visible.
+
+Those are the plans, but there is no timeframe. Like I [mentioned](https://www.soapatrick.com/2017/07/new-design-with-bootstrap4/) previously, I'd love to use [Bootstrap4](https://v4-alpha.getbootstrap.com/) and flexbox for this, but not while it's still in alpha.

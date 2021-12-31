@@ -1,0 +1,27 @@
+Title: Cleaning House
+
+----
+
+Published: 2020-01-29
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: soapatrick
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I did some house cleaning for the last 2 days. Moving some subfolders I had on my server to their own place in a subdomain and cleaning up old Databases. The main domain is much cleaner now, there's only this place here and nothing else, might also change some site speed issues? Since apparently there's a difference between page speed and site speed. One measures the speed of a single page and the other the speed of all pages combined.
+
+Anyway, I like the new clean smell of this place, let's hope I can keep it up for some time and don't start to clutter everything up again.

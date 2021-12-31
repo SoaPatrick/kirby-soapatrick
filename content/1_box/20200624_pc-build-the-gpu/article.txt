@@ -1,0 +1,33 @@
+Title: PC Build: The GPU
+
+----
+
+Published: 2020-06-24
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: build, pc
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![ASUS ROG Strix GeForce RTX 2070 SUPER](https://www.soapatrick.com/wp-content/uploads/2020/06/gpu_001.jpg)
+
+[ASUS ROG Strix GeForce RTX 2070 SUPER](https://www.asus.com/ch-de/Graphics-Cards/ROG-STRIX-RTX2070S-A8G-GAMING/)
+
+I thought long and hard about what kind of GPU I'd want in my PC. There are always trade-offs so I had to make a pro/con list and narrow it down to a few and then go from there. I'm using a Ultra Wide Monitor for PC so if I want play some games I need enough power for all those pixels and I'd like to have a fast enough GPU for Blender to quickly render those images and videos.
+
+Look I don't want to stretch it out any further, so let's make this quick. I wanted an NVidia because Blender actually utilizes NVidia cards a lot better than ones from AMD. The RTX 2070S seemed to be the sweet spot when it comes to price and power so that made the most sense because an RTX 2080Ti was just WAY to expensive and the RTX 2080S wasn't worth the extra money which what performance I would gain. So, in the end, I went with an ASUS card because, you know, quality.
+
+On a side not, all my components are finally together, so technically I could start building my PC right now, but it's something I don't want to hurry, I want to make it right and have a functional PC in the end, but weekend is coming up, so we'll see what happens then.

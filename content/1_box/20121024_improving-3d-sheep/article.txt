@@ -1,0 +1,27 @@
+Title: Improving 3D Sheep
+
+----
+
+Published: 2012-10-24
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: animation, blender, sheep, short
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: https://vimeo.com/52345036
+
+I fiddled around with my sheep some more and learned how to increase the resolution of the 3D Objects to make it a lot more smoother. I also made the legs shorter, looks better now and I wanted to improve the horns/ears and the right eyelid but then the animation stopped working. So I leave it like this and if I decide to go further, I will restart from the ground up with a new sheep.

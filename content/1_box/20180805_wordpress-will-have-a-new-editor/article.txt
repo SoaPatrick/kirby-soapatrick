@@ -1,0 +1,27 @@
+Title: WordPress will have a new Editor
+
+----
+
+Published: 2018-08-05
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: wordpress
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: With the latest WordPress Update, there was the possibility to use a new Editor with the note that it will become the default Editor with version 5.0 (soon to be released I guess). The new Editor is called [Gutenberg](https://wordpress.org/gutenberg/) and seems to an attempt to catch up with all those drag and drop builders. Big changes are highly controversial, same as with this one, according to the [plugin reviews](https://wordpress.org/plugins/gutenberg/#reviews). So I tested it out myself and I noticed that first, it's a tad too overblown for my needs and second it's a lot more complex at first sight. the other problem is that styling. My theme is not able to hand all the changes and there lies now the question, shall I make the necessary changes to my theme so that I can safely use Gutenberg with all its features (most of them I will never need) or should I stick with the basic and simple one for the time being?
+
+I think for now I will stick with what I'm used to, for a **SoaPatrickSix** I see myself using a much more refined Gutenberg Editor and have all possibilities designed

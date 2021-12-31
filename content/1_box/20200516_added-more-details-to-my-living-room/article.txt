@@ -1,0 +1,31 @@
+Title: Added more details to my living-room
+
+----
+
+Published: 2020-05-16
+
+----
+
+Category: Stuff to Share
+
+----
+
+Tags: blender
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I added more details to my living room, especially in the TV area, and played around with lighting a lot more. I realized that instead of using faces for lighting with the emission shader, I should start using the light objects properly, this really decreased the noise in the images with far fewer render cycles.
+
+- ![Minature Blender of my Living-Room (Studio Light)](https://www.soapatrick.com/wp-content/uploads/2020/05/apartment_04.jpg)
+    
+- ![Minature Blender of my Living-Room (Daylight)](https://www.soapatrick.com/wp-content/uploads/2020/05/apartment_05.jpg)
+    
+- ![Minature Blender of my Living-Room (Nightlight)](https://www.soapatrick.com/wp-content/uploads/2020/05/apartment_06.jpg)

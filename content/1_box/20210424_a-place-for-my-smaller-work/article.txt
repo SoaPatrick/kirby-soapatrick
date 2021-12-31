@@ -1,0 +1,33 @@
+Title: A place for my smaller work
+
+----
+
+Published: 2021-04-24
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: soapatrick
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: ![](https://www.soapatrick.com/wp-content/uploads/2021/04/lab_dices_2021-04-17_15-58-1500x628.jpg?_t=1619346394)
+
+The page is updated so sparely that it seems that I'm not doing anything, which isn't quite true. I do a lot then there's a personal issue which I might go into further details another day. But this post is about the creative work I do on a regular basis.
+
+Usually, every creative project gets sent to the factory where it's displayed in all its glory, but not everything I do is factory-ready, some stuff is just me playing around in the lab and creating all kinds of different stuff. And sometimes I just wanna display this stuff (I kinda avoid putting that stuff on Instagram, because I wanna keep control of my work and not hand over some rights to Facebook) and not write a blog post about it.
+
+So I created a new section here called [SoapLab](https://www.soapatrick.com/lab). There every small thing I've done (currently mainly Blender stuff) gets shown, no single page with more info, no tag sorting mechanism, just a wall of my work with a lightbox function to see it in its full glory.
+
+So head over there (link of course also in the navigation) and take a look...

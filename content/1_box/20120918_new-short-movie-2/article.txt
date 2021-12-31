@@ -1,0 +1,33 @@
+Title: New Short Movie #2
+
+----
+
+Published: 2012-09-18
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: animation, sheep, short
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: Yesterday while thinking about the writer at war with the typewriter short story, I also realized that for a new course in school I have to come up with a better short video for introducing Venom's Lab! 2, the current video looks like this
+
+https://www.youtube.com/watch?v=B4a\_lV4X-4U
+
+## **Now my idea (for now):**
+
+> A small kid is having a simple form of a user interface in front of him which shows different textures, if chosen a specific texture a ball of round object on the side of the interface changes it's surface. Now the kid starts to have fun with this but what it doesn't know is that somewhere a real life object changes to whatever the kid does on it's userface. This of course starts small and then the kid goes wild which makes the real life object (which could be an animal) go change it's surface (from fur to grass to stone etc) within seconds and gets scared and confused
+
+This is the first idea that popped into my head which I think is a lot funnier than the current video they have because if explains the whole texture thing and it's options and even shows a simple user interface.

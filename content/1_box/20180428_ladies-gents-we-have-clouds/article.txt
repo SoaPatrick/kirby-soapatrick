@@ -1,0 +1,29 @@
+Title: Ladies & Gents, we have Clouds
+
+----
+
+Published: 2018-04-28
+
+----
+
+Category: Stuff from the Lab
+
+----
+
+Tags: design, soapatrick, theme
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: What I did to today with the header was actually something I wanted to do from the start, but I didn't know how to do it exactly, so I decided to postpone it and do other stuff first. Today I had some time and an idea in my head on how to do it and three hours later it was published on the live page.
+
+I'm not 100% sold on the arrangement of the clouds or bubbles or whatever you see, so I might play around with them some more. The responsive behavior is another issue but I will find a solution and stick to SVG Images to have a fully retina capable website. I agree that with the Red theme it kinda looks hellish but I just love that color combination.
+
+Oh and maybe I find the time tomorrow to talk a bit about Avengers Infinity War.

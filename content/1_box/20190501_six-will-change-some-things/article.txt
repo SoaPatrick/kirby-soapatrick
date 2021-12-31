@@ -1,0 +1,33 @@
+Title: Six will change some things
+
+----
+
+Published: 2019-05-01
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: theme
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: It's subtle but there have been some slight changes to the page here. First I've created a new theme, **Version 6**, which is now running this place. The base has been **Version 5** on which I make my changes. The goal is to use a more lean approach to the styling and let Gutenberg be the place to build Blog Posts.
+
+Then there will be changes to the **header**, probably, make it less dominating and leaner so that the content is visible a lot earlier and faster. I'm not sure how I will do that yet, but I'm sure I will figure something out. Through all that process I will be using **CSS Grid** a lot more (the current blog post structure is already using it) and hopefully, this will allow me to get a more streamlined look throughout the page.
+
+I will try to keep avoiding **jQuery** since I think websites can be built without that fancy framework, like I said, making it leaner is the main goal. Through that process I will have to go to all of the blog posts and clean them up a bit, especially put the **Featured Image** inside the blog posts (which gives me a lot more flexibility about its size) and rewrite the Quote, Link and Status Blog Posts in order to fully utilize **Gutenberg** for those kinds of Blog Posts
+
+It's funny how much I started to like Gutenberg when I think back to my first impressions back in August last year.
+
+While I was at it the last few days, I realized that the [AGCN Picture Gallery](https://agcn.soapatrick.com/pictures/) wasn't working anymore, so I had to fix that as well, but all is fine again now.

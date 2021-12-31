@@ -1,0 +1,38 @@
+Title: PC Build: The Case
+
+----
+
+Published: 2020-06-01
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: build, pc
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: In my last update, I mentioned the upcoming plan to build my first gaming PC. So I thought this could be an interesting series where I discuss the decision behind all the elements of the PC and why I did decide to buy this specific version.
+
+So to start it all of let's begin with the case, the part that will house all other parts. The main concern for me when I had to decide what kind of PC case I want to buy was airflow. I want to make sure all components will stay cool and not overheat and maybe even get damaged. So a case with a mesh front made the most sense. As for the size, something in the middle seemed logical, enough room for all the parts but not too big since I won't build a monster of a PC.
+
+After many different cases I looked at and compared with each other I decided to go with the [be quiet! Pure Base 500XD](https://www.bequiet.com/de/case/1854).
+
+- ![](https://www.soapatrick.com/wp-content/uploads/2020/05/pc-case_01.jpg)
+    
+- ![](https://www.soapatrick.com/wp-content/uploads/2020/05/pc-case_02.jpg)
+    
+
+I really love the look of it, it's simple and yet with some minor RGB Colors on the front and on the inside. The mesh front will make sure, enough cool air will get sucked inside and the case comes with 3 fans already installed. I might replace those stock fans with better ones down the road, but I first I need to see how those perform.
+
+So that's the case, next I will discuss the motherboard.

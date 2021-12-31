@@ -1,0 +1,36 @@
+Title: My living-rooms becomes even more detailed
+
+----
+
+Published: 2020-05-25
+
+----
+
+Category: Stuff to Share
+
+----
+
+Tags: blender
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: - ![](https://www.soapatrick.com/wp-content/uploads/2020/05/apartmenr_07.jpg)
+    
+- ![](https://www.soapatrick.com/wp-content/uploads/2020/05/apartmenr_08.jpg)
+    
+- ![](https://www.soapatrick.com/wp-content/uploads/2020/05/apartmenr_09.jpg)
+    
+- ![](https://www.soapatrick.com/wp-content/uploads/2020/05/apartmenr_10.jpg)
+    
+
+It seems all that I'm currently working on is my Apartment in Blender, which is only half true, there are or were other projects which will all become their spotlight here as well, but slowly adding more details to my living room and making it look more and more real is so much fun.
+
+The next step will be to find a way on how to add all those bottles and glasses to the bar without adding a ton of new objects and faces which could really make rendering those images a loooooong process. Maybe some array modifiers combined with clever inclusion of images might do the trick.

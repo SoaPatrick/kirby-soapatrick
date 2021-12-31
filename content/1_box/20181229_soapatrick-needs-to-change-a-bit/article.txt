@@ -1,0 +1,29 @@
+Title: SoaPatrick needs to change a bit
+
+----
+
+Published: 2018-12-29
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: design, development, factory, wordpress
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: Now that I plan on doing more video work on a monthly basis (maybe even weekly) this place needs to **change** a bit and reflect those projects a lot better than just being part of a new Blog entry.
+
+I thought in the past about doing some sort of **landing page** with the **latest Video** or Factory Item and **Blog entry** being highlighted and the Blog being a subpage of the whole website. That also means of course finally adding a factory item **detail view** because just having an image there means nothing, everything I did for the factory deserves some more information.
+
+But there's the time issue because doing that needs **time**, time I currently rather spend on doing a new short film or just a new video in general. There's also the thought of doing a complete new design (**SoaPatrickSix**) which also incorporates the newly release [Gutenberg Editor](https://www.soapatrick.com/2018/08/wordpress-will-have-a-new-editor/). The Wordpress Theme [TwentyNineteen](https://make.wordpress.org/core/2018/10/16/introducing-twenty-nineteen/) could be a new base for such a theme, But that would take even more time. I guess I have to do some thinking on what's more important and who knows, maybe I will once again use a **third party theme** which does everything already to save me time.

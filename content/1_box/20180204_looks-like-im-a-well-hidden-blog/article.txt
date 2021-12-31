@@ -1,0 +1,29 @@
+Title: Looks like I'm a well hidden Blog
+
+----
+
+Published: 2018-02-04
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: soapatrick, stats, wordpress
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I started using the WordPress Plugin Jetpack which gives me interesting statistics and some cool features like backups or publishing to social media channels (for a price, but the stats are free). But the main reason I installed it was for stats, I‘m a sucker for stats in general. So now I see how "popular" my Blog is, and the result shocked me. I had like 3 hits in the last week. I mean I always knew that not so many people actually read my Blog, I knew of two or three, but a result that low was not what I expected.
+
+Well, I guess I shouldn‘t be that surprised since I never really made an effort to promote it, I guess I still love to have like this corner for myself or let‘s say I used to love it? Because now with new content on a daily basis I‘m beginning to play around with the idea to promote it a bit, not sure what the end goal would be, getting a confidence boost by how many visitors I have? Yes and no, I mean we all would love to get recognition for the work we do and yes I‘d love to get people to read my stuff (though it has to get a lot more interesting, that I‘m sure of)
+
+Jetpack allows me to connect WordPress to my Facebook or Twitter account so that when I publish a Blog Post it gets published to my Facebook Wall and to my Twitter Feed as well. There are other services as well but I only own these two accounts. So maybe I will test it once with a Blog Post I deem worthy of getting a bigger spotlight.

@@ -1,0 +1,29 @@
+Title: How many e-mail Addresses do we need?
+
+----
+
+Published: 2018-02-01
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: technology
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: Recently I got an e-mail from Google to update my security settings for a Gmail account, for an account I hardly use. It was there that I noticed once again, I have way too many e-mail addresses and yet I still think about adding new ones because I don‘t even own a mail address with this domain name. I have a Gmail address for most of my stuff, I have a fake Gmail address for creating accounts where I‘m not sure I want to add my real email address. Then I got one from my ISP which I never use, why should I? I Also got one from Apple with numerous aliases, thanks to all the different name changes throughout the years (@mac, @me and @icloud). And finally, I got one from work. So that's 7 e-Mail addresses! Why? Well, it‘s not always a choice but when you think about it, it really is overkill and I‘m sure there are people out there who created many many more addresses through all the free e-Mail Provider.
+
+I‘d love to get that number down to a maximum of 3, a private, a work and a backup one, that should be enough. Imagine that all the accounts you have, all the mailboxes and all the targets for possible spam mail. Plus the more accounts you have to more work it is to really clean up your inbox, get rid of e-mails you no longer need. Because only an empty inbox is a good inbox.
+
+Just a quick thought about e-mails.

@@ -1,0 +1,45 @@
+Title: What the Internet knows about You
+
+----
+
+Published: 2018-03-13
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: technology
+
+----
+
+Format: standard
+
+----
+
+Cover: 
+
+----
+
+Old: I stumbled upon an article where it was described how to download everything facebook has on you. So I was curious and tried it out myself. If you want to know how to do that, go to your Facebook page on a computer. On the very right in the top bar, next to the question mark, there's a small arrow pointing down. Click on that and then on _Settings_. Now a new page opens up and at the very bottom, there's a link to download a copy of all (presumably) your Facebook data. My download was 33mb small, I go with small here, which were mostly images from my Instagram Feed (which I automatically publish on Facebook as well). Now I'm not that active on Facebook but here's a breakdown of what's in that download:
+
+- Your Profil-Information
+- Some Contact Information
+- Your whole Wall-History
+- All your Fotos and Videos you ever posted
+- All those Videos Facebook created for you, you know those anniversaries Videos
+- All your Friends and when they became your friends
+- All your deleted Friends and when you deleted them
+- All your messages ever
+- Events you were invited to, even though you didn't accept or whatever.
+    - _This is actually tricky because you have not that much control over who invites you to what._
+- All your logins (with information about what device, IP-Address, Browser and so forth)
+- Ads and when you click on them
+- And finally all installed apps
+
+That's quite a long list and for some people, that's a lifetime of information. Now I don't wanna know how something like this would look like from Google. Maybe there's a way to get that as well, have to look into it. But it's kinda scary when you think about it and I don't know if all this ever gets deleted if you decided to delete your account. So maybe once again a reminder to be careful what you do on the internet because big corporations are watching and tracking everything you do!
+
+## Sidenote
+
+I actually wanted to draw something for the featured image to this blog post, but not enough time, but this could be something for future posts to keep me busy with drawing stuff. Have to think about it, or just do it and less thinking.
