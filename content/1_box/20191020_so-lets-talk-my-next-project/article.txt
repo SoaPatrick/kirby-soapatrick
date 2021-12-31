@@ -22,9 +22,9 @@ Cover:
 
 ----
 
-Old: At the beginning of this month, I talked about a new Project and even [revealed](https://www.soapatrick.com/2019/10/how-long-do-we-have/) the title but there were no details about anything else. Well, now I spill the beans on this project.
+Old: At the beginning of this month, I talked about a new Project and even (link: https://www.soapatrick.com/2019/10/how-long-do-we-have/ text: revealed target: _blank) the title but there were no details about anything else. Well, now I spill the beans on this project.
 
-Actually the idea is not even mine but a task in a [Video](https://www.youtube.com/watch?v=1-sBvBBi6MY) from D4Darius. In this video, he lists 30 tasks for 30 days, some sort of crash course for filmmakers which he compressed based on a 3-year film school curriculum. One of these tasks it's about a dialogue scene.
+Actually the idea is not even mine but a task in a (link: https://www.youtube.com/watch?v=1-sBvBBi6MY text: Video target: _blank) from D4Darius. In this video, he lists 30 tasks for 30 days, some sort of crash course for filmmakers which he compressed based on a 3-year film school curriculum. One of these tasks it's about a dialogue scene.
 
 > A: Hey  
 > **B: How long do we have?**  

@@ -22,4 +22,4 @@ Cover:
 
 ----
 
-Old: I was trying out the new **Gutenberg** Editor for a project at work and I think it improved quite a bit since my first [test](https://www.soapatrick.com/2018/08/wordpress-will-have-a-new-editor/) with it back in **August**. I was so pleased with how it worked that I decided to implement it here. I made a quick **test** with the basic elements and it works quite nicely but more testing and adding new **styling** rules is required. So I will incorporate it very **soon** and use it for the **Factory Detail** view and maybe for the **landing page** as well.
+Old: I was trying out the new **Gutenberg** Editor for a project at work and I think it improved quite a bit since my first (link: https://www.soapatrick.com/2018/08/wordpress-will-have-a-new-editor/ text: test target: _blank) with it back in **August**. I was so pleased with how it worked that I decided to implement it here. I made a quick **test** with the basic elements and it works quite nicely but more testing and adding new **styling** rules is required. So I will incorporate it very **soon** and use it for the **Factory Detail** view and maybe for the **landing page** as well.

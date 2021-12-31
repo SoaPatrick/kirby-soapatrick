@@ -24,7 +24,7 @@ Cover:
 
 Old: ![](https://www.soapatrick.com/wp-content/uploads/2020/02/its-alive-1500x720.png)
 
-14 days after [deciding](https://www.soapatrick.com/2020/02/work-has-been-started-on-seven/) to start a new theme and almost 10 months since the [last release](https://www.soapatrick.com/2019/05/six-will-change-some-things/) I'm done with an initial releasable version. I know on the front it doesn't look like anything changed, but below the hood, I did a lot of improvements. The new Stylesheet is now **4kb** smaller, but not only is it slightly smaller, everything is built much more modular and a lot more using `css grid`.
+14 days after (link: https://www.soapatrick.com/2020/02/work-has-been-started-on-seven/ text: deciding target: _blank) to start a new theme and almost 10 months since the (link: https://www.soapatrick.com/2019/05/six-will-change-some-things/ text: last release target: _blank) I'm done with an initial releasable version. I know on the front it doesn't look like anything changed, but below the hood, I did a lot of improvements. The new Stylesheet is now **4kb** smaller, but not only is it slightly smaller, everything is built much more modular and a lot more using `css grid`.
 
 What I did change though were the Navigation Icons. I used Fontawesome's new Duotones icons and I also included them, the calendar and the tag icons, directly as SVG, so they won't be loaded through FontAwesome but are loaded as regular markup instantly and therefor no layout shift is visible.
 

@@ -22,7 +22,7 @@ Cover:
 
 ----
 
-Old: A new month and it all starts back at zero. So I used my Sunday with working on version **2.3.0**. The biggest new addition to the theme or the page, in general, is a [Data Protection](https://www.soapatrick.com/data-protection/) page where I go into some detail about what is happening with your data on this website. The short answer? I don't collect your data, but I thought I could explain and be transparent about it. The page can always be accessed through the nice little icon in the footer.
+Old: A new month and it all starts back at zero. So I used my Sunday with working on version **2.3.0**. The biggest new addition to the theme or the page, in general, is a (link: https://www.soapatrick.com/data-protection/ text: Data Protection target: _blank) page where I go into some detail about what is happening with your data on this website. The short answer? I don't collect your data, but I thought I could explain and be transparent about it. The page can always be accessed through the nice little icon in the footer.
 
 I also improved the list view of related blog posts in the factory detail view. and added colorized code styling back again. Makes reading the code much easier.
 

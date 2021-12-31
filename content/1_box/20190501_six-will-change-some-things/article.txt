@@ -30,4 +30,4 @@ I will try to keep avoiding **jQuery** since I think websites can be built witho
 
 It's funny how much I started to like Gutenberg when I think back to my first impressions back in August last year.
 
-While I was at it the last few days, I realized that the [AGCN Picture Gallery](https://agcn.soapatrick.com/pictures/) wasn't working anymore, so I had to fix that as well, but all is fine again now.
+While I was at it the last few days, I realized that the (link: https://agcn.soapatrick.com/pictures/ text: AGCN Picture Gallery target: _blank) wasn't working anymore, so I had to fix that as well, but all is fine again now.

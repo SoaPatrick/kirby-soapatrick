@@ -22,7 +22,7 @@ Cover:
 
 ----
 
-Old: I've been glued to the screen the last few days, trying new things with blender and running my Mac Mini into overdrive. This new rendition of my [Soap Lab Logo](https://www.soapatrick.com/factory/soap-lab/) was a bit tricky on the rendering side because of the glass.
+Old: I've been glued to the screen the last few days, trying new things with blender and running my Mac Mini into overdrive. This new rendition of my (link: https://www.soapatrick.com/factory/soap-lab/ text: Soap Lab Logo target: _blank) was a bit tricky on the rendering side because of the glass.
 
 ![Soapy substance in an Ehrlenmeyer Flask done in Blender](https://www.soapatrick.com/wp-content/uploads/2020/04/soap-lab_6-1500x1500.jpg?_t=1587416073)
 

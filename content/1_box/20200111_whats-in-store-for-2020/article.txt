@@ -26,15 +26,15 @@ Old: The big question every year, what will I be doing this year? Are there spil
 
 ## Walking through Basel
 
-[Last year](https://www.soapatrick.com/2019/01/why-not-a-look-ahead/) I had the idea to walk through every street in Basel within a year, I didn't quite finish that, in fact, I'm not even halfway there. But mid-year I realized that I won't be able to finish. It didn't bother me, the plan is still active but not tied to a timeframe, I will just continue until I'm finished.
+(link: https://www.soapatrick.com/2019/01/why-not-a-look-ahead/ text: Last year target: _blank) I had the idea to walk through every street in Basel within a year, I didn't quite finish that, in fact, I'm not even halfway there. But mid-year I realized that I won't be able to finish. It didn't bother me, the plan is still active but not tied to a timeframe, I will just continue until I'm finished.
 
 ## Movie Projects
 
-In [my 2019 recap](https://www.soapatrick.com/2020/01/2019-in-numbers/), I listed 3 movie projects I finished in 2019 and that I plan on increasing that number. So the idea is to create at least 4 fully finished projects. I have some ideas about what kind of projects to make, but there the main goal is to just finally do it and stop thinking or talking about it.
+In (link: https://www.soapatrick.com/2020/01/2019-in-numbers/ text: my 2019 recap target: _blank), I listed 3 movie projects I finished in 2019 and that I plan on increasing that number. So the idea is to create at least 4 fully finished projects. I have some ideas about what kind of projects to make, but there the main goal is to just finally do it and stop thinking or talking about it.
 
 ## SoaPatrickSeven
 
-In the last four years I released a new theme every year ([2016](https://www.soapatrick.com/2016/03/1036/), [2017](https://www.soapatrick.com/2017/01/back-way-way-back-to-the-roots/), [2018](https://www.soapatrick.com/2018/04/welcome-to-soapatrickfive/) and [2019](https://www.soapatrick.com/2019/05/six-will-change-some-things/)), it's never the plan but I end up doing it anyway. Five to Six was a rather small incremental step and I don't know if I have the time and energy to create a completely new design, especially since for the first time in a long time I really like the design I'm using and let's face it, SoaPatrickSix sounds and looks better than SoaPatrickSeven.
+In the last four years I released a new theme every year ((link: https://www.soapatrick.com/2016/03/1036/ text: 2016 target: _blank), (link: https://www.soapatrick.com/2017/01/back-way-way-back-to-the-roots/ text: 2017 target: _blank), (link: https://www.soapatrick.com/2018/04/welcome-to-soapatrickfive/ text: 2018 target: _blank) and (link: https://www.soapatrick.com/2019/05/six-will-change-some-things/ text: 2019 target: _blank)), it's never the plan but I end up doing it anyway. Five to Six was a rather small incremental step and I don't know if I have the time and energy to create a completely new design, especially since for the first time in a long time I really like the design I'm using and let's face it, SoaPatrickSix sounds and looks better than SoaPatrickSeven.
 
 There are a few ideas in my head though:
 
@@ -46,7 +46,7 @@ There are a few ideas in my head though:
 
 Just like with movie projects, I plan on increasing last year's amount of blog posts (48) for this year which should be doable, actually, 48 is a laughable low number. Writing daily is nonsense, but if there's something to tell I will tell it and I doubt it will be daily, need to do other stuff as well.
 
-What I want to try is to be a bit more elaborate in my blog posts. In the past, I wrote about stuff I did, and especially in the coding department I never really shown what I did. So just like with the [bitbucket pipeline code](https://www.soapatrick.com/2019/12/using-bitbucket-pipelines/), I plan on showing (off) any code I wrote, maybe there's someone out there who's looking exactly for what I did, or I will look back at ugly code fragments years down the road.
+What I want to try is to be a bit more elaborate in my blog posts. In the past, I wrote about stuff I did, and especially in the coding department I never really shown what I did. So just like with the (link: https://www.soapatrick.com/2019/12/using-bitbucket-pipelines/ text: bitbucket pipeline code target: _blank), I plan on showing (off) any code I wrote, maybe there's someone out there who's looking exactly for what I did, or I will look back at ugly code fragments years down the road.
 
 ## General
 

@@ -30,7 +30,7 @@ It's been some time since anything happened here, well some things happened, I j
 
 ## Prototype
 
-I've been playing around with a [prototype](https://prototype.soapatrick.com/) for SoaPatrickNine and first I tried to recreate this version right here with a few additional things I plan on doing. I'm still trying to find a general theme for the next version, something that will lay a foundation for everything else and I believe once I found the general theme, everything else will be easy.
+I've been playing around with a (link: https://prototype.soapatrick.com/ text: prototype target: _blank) for SoaPatrickNine and first I tried to recreate this version right here with a few additional things I plan on doing. I'm still trying to find a general theme for the next version, something that will lay a foundation for everything else and I believe once I found the general theme, everything else will be easy.
 
 ## Animated Short
 

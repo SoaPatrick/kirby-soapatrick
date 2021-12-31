@@ -28,4 +28,4 @@ There is no Fontawesome anymore, yes there are still some icons but those are SV
 
 The key visual looks kinda bland right now, I'm aware of that, but I have a plan, it just takes some time to create that. Like I mentioned above, a lot is still about to change.
 
-There's also a new menu item which deals with [who I am](https://www.soapatrick.com/patrick/), it's empty right now, need to text something first, but it's there. But now I relax a bit, for now, everything is good and I'm happy.
+There's also a new menu item which deals with (link: https://www.soapatrick.com/patrick/ text: who I am target: _blank), it's empty right now, need to text something first, but it's there. But now I relax a bit, for now, everything is good and I'm happy.

@@ -22,15 +22,15 @@ Cover:
 
 ----
 
-Old: Firefox. Yes, it's the browser I didn't even mention the [last time](https://www.soapatrick.com/2020/09/ok-lets-talk-browsers/). In case you're wondering what I'm talking about, I've decided to get away from Google a bit and stop using Chrome and I was looking for a replacement Browser.
+Old: Firefox. Yes, it's the browser I didn't even mention the (link: https://www.soapatrick.com/2020/09/ok-lets-talk-browsers/ text: last time target: _blank). In case you're wondering what I'm talking about, I've decided to get away from Google a bit and stop using Chrome and I was looking for a replacement Browser.
 
 Now I've used Safari and Brave for some time and DuckDuckGo on my iPhone but in the end, none of those had the full package.
 
-[Brave](https://brave.com/) didn't support (not right now) sync of bookmarks to iOS devices, plus it's still a chromium-based Browser. Plus I couldn't use any Atlassian Web products because of security settings.
+(link: https://brave.com/ text: Brave target: _blank) didn't support (not right now) sync of bookmarks to iOS devices, plus it's still a chromium-based Browser. Plus I couldn't use any Atlassian Web products because of security settings.
 
 Safari is fast, available on all devices but I couldn't warm myself up on that UI. I mean the browser nowadays is the most important app on a Computer and so much comes down to personal preferences and how efficient you can work with it. And after trying it for a few days I couldn't see myself keep working with it.
 
-[DuckDuckGo](https://duckduckgo.com/) on my iPhone was nice and I loved it, but I couldn't import my bookmarks and I think in the long run this might be an issue.
+(link: https://duckduckgo.com/ text: DuckDuckGo target: _blank) on my iPhone was nice and I loved it, but I couldn't import my bookmarks and I think in the long run this might be an issue.
 
 So I tested out Firefox and now I've got pretty much all. I can sync my bookmarks and even open tabs from all my devices, I love the UI, it's an open-source project and privacy is an important issue for Mozilla.
 

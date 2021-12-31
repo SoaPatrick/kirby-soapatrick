@@ -26,9 +26,9 @@ Old: I'm reaching that point again (thanks to an update with iOS 14 where we can
 
 Well, there is, of course, Safari, the built-in browser for all my devices, with improved privacy features but the UI is not my favorite especially when coming from Chrome.
 
-Then there's [Brave](https://brave.com/). A browser which prides itself on being a privacy browser. It's a chromium browser which means it's the same CPU hungry browser just like Chrome and currently, there's no way to sync bookmarks between devices (for iOS such a feature is apparently in the pipeline). Syncing bookmarks is kinda important for me.
+Then there's (link: https://brave.com/ text: Brave target: _blank). A browser which prides itself on being a privacy browser. It's a chromium browser which means it's the same CPU hungry browser just like Chrome and currently, there's no way to sync bookmarks between devices (for iOS such a feature is apparently in the pipeline). Syncing bookmarks is kinda important for me.
 
-There's other stuff like [Opera](https://www.opera.com/) and [Vivaldi](https://vivaldi.com/de/) or the [Tor Browser](https://www.torproject.org/download/) but I don't want to try out even more. I installed [DuckDuckGo](https://duckduckgo.com/) on my iPhone and I love it, but there's no desktop Version and no bookmark syncing between devices.
+There's other stuff like (link: https://www.opera.com/ text: Opera target: _blank) and (link: https://vivaldi.com/de/ text: Vivaldi target: _blank) or the (link: https://www.torproject.org/download/ text: Tor Browser target: _blank) but I don't want to try out even more. I installed (link: https://duckduckgo.com/ text: DuckDuckGo target: _blank) on my iPhone and I love it, but there's no desktop Version and no bookmark syncing between devices.
 
 When I think about it, the logical step would be to use Safari, it's optimized for my devices, it has tab and bookmark syncing and it's much more privacy-focused than Chrome. But that damn UI.
 

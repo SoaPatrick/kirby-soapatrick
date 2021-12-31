@@ -22,7 +22,7 @@ Cover:
 
 ----
 
-Old: Yup, I've taken the [Blender App](https://www.blender.org/) out of the attic, dusted it off and gave it another go. Well, I was surprised how much the interface changed since the last time I've been using it. Version 2.8.1 sure has some major changes under the hood and it feels nice.
+Old: Yup, I've taken the (link: https://www.blender.org/ text: Blender App target: _blank) out of the attic, dusted it off and gave it another go. Well, I was surprised how much the interface changed since the last time I've been using it. Version 2.8.1 sure has some major changes under the hood and it feels nice.
 
 But then reality kicked in, my Mac Mini is NOT made to play around with Blender, for obvious reasons. There's no dedicated GPU inside my tiny little mac. It's a pure CPU machine, a powerful CPU machine for its size but still. So using the Cycles Render Engine meant the fan started to go crazy and the app became unresponsive.
 

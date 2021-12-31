@@ -22,7 +22,7 @@ Cover:
 
 ----
 
-Old: In my [last](https://www.soapatrick.com/2019/11/improve-deployment-process/) post (I know it's been awhile) I described my use of [Buddy.Works](https://www.buddy.works) for the deployment process. Well since [Bitbucket](https://bitbucket.org/) uses it's own deployment **pipelines** and because for work it was better to use the same tool for everything, I started to read up on pipelines.
+Old: In my (link: https://www.soapatrick.com/2019/11/improve-deployment-process/ text: last target: _blank) post (I know it's been awhile) I described my use of (link: https://www.buddy.works text: Buddy.Works target: _blank) for the deployment process. Well since (link: https://bitbucket.org/ text: Bitbucket target: _blank) uses it's own deployment **pipelines** and because for work it was better to use the same tool for everything, I started to read up on pipelines.
 
 The result is a `bitbucket-pipelines.yml` file for my Bitbucket Repository which handles the build and deployment process.
 
@@ -61,4 +61,4 @@ The first step builds the `CSS` out of the `SCSS` file and the second step uses 
 
 Deployment now takes around 30-40 seconds and it's all neatly integrated into Bitbucket, which is kinda nice.
 
-For now I won't use Buddy.Works for a while, even though they have some very nice features and keep on adding new ones, like [Lighthouse](https://developers.google.com/web/tools/lighthouse) testing. But maybe Bitbucket will add new features as well or I will find out how to include Lighthouse testing into my pipelines as well.
+For now I won't use Buddy.Works for a while, even though they have some very nice features and keep on adding new ones, like (link: https://developers.google.com/web/tools/lighthouse text: Lighthouse target: _blank) testing. But maybe Bitbucket will add new features as well or I will find out how to include Lighthouse testing into my pipelines as well.

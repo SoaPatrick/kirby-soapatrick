@@ -22,7 +22,7 @@ Cover:
 
 ----
 
-Old: Wow, I didn't see that coming but let's talk about it a bit. According to an article on [designmodo.com](https://designmodo.com/bootstrap-5/) (there are other [sites](https://themesberg.com/blog/bootstrap/bootstrap-5-ie-11-browser-support) mentioning this as well), the most popular CSS Framework will drop support for not only IE10 but IE11 as well. This is huge and I think a step in the right direction. I assume there will be things within bootstrap to add support for it, but out of the box, it's not intended.
+Old: Wow, I didn't see that coming but let's talk about it a bit. According to an article on (link: https://designmodo.com/bootstrap-5/ text: designmodo.com target: _blank) (there are other (link: https://themesberg.com/blog/bootstrap/bootstrap-5-ie-11-browser-support text: sites target: _blank) mentioning this as well), the most popular CSS Framework will drop support for not only IE10 but IE11 as well. This is huge and I think a step in the right direction. I assume there will be things within bootstrap to add support for it, but out of the box, it's not intended.
 
 I mean coding a website for IE11 is a pain in the ass, especially if you want to use the latest and coolest shit, like **CSS Grid** and **CSS Variables**. Of course, there are ways to make it work but it's always a hassle. So I'm curious how this plays out because according to Microsoft, IE11 will exist as long as Windows 10 exists, which could be a looooooooooooong time. Time to put a fork into it and make it die quickly.
 
@@ -31,4 +31,4 @@ Here are some other interesting changes in Bootstrap 5:
 - jQuery was removed, switch to Vanilla JavaScript
 - Responsive Font Sizes
 
-I'm glad jQuery is starting to fade, go for Vanilla JavaScript, doing that here for some time as well. And responsive Font Sizes is something I've been using here as well, but apparently there's an [engine](https://github.com/twbs/rfs) for this, have to look into that. Cool things are happening.
+I'm glad jQuery is starting to fade, go for Vanilla JavaScript, doing that here for some time as well. And responsive Font Sizes is something I've been using here as well, but apparently there's an (link: https://github.com/twbs/rfs text: engine target: _blank) for this, have to look into that. Cool things are happening.

@@ -22,7 +22,7 @@ Cover:
 
 ----
 
-Old: Well, that's unusual but I thought what the hell. But let me explain. Like I mentioned on [Wednesdays](https://www.soapatrick.com/2020/04/wordpress-5-4-and-sp7-2-5/) post today I released SP 2.5 with some changes under the hood (all that can be found at the [log](https://www.soapatrick.com/log/) btw):
+Old: Well, that's unusual but I thought what the hell. But let me explain. Like I mentioned on (link: https://www.soapatrick.com/2020/04/wordpress-5-4-and-sp7-2-5/ text: Wednesdays target: _blank) post today I released SP 2.5 with some changes under the hood (all that can be found at the (link: https://www.soapatrick.com/log/ text: log target: _blank) btw):
 
 - **Removed** all Gutenberg color options
 - **Changed** Youtube play buttons styling
@@ -32,7 +32,7 @@ Old: Well, that's unusual but I thought what the hell. But let me explain. Like 
 - **Added** better code block styling
 - **Added** excerpt field to factory items
 
-As for the SCSS Variables, instead of using one of these approaches from [css-tricks.com](https://css-tricks.com/approaches-media-queries-sass/), I simply created some variables:
+As for the SCSS Variables, instead of using one of these approaches from (link: https://css-tricks.com/approaches-media-queries-sass/ text: css-tricks.com target: _blank), I simply created some variables:
 
 ```sass
 $breakpoint__370--max: (max-width: 370px);

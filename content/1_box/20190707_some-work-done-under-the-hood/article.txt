@@ -22,7 +22,7 @@ Cover:
 
 ----
 
-Old: Ok so at work there was a lot of discussion about page speed optimization of websites, so I checked how this place is doing and I think it did ok. On [Google's Page Speed Test Website](https://developers.google.com/speed/pagespeed/insights/), it scored around **45 Mobile** and over **90 on the Desktop** but there was room for improvements.
+Old: Ok so at work there was a lot of discussion about page speed optimization of websites, so I checked how this place is doing and I think it did ok. On (link: https://developers.google.com/speed/pagespeed/insights/ text: Google's Page Speed Test Website target: _blank), it scored around **45 Mobile** and over **90 on the Desktop** but there was room for improvements.
 
 I looked at the final score and decided what can be optimized on my hand and what was out of reach for me.
 

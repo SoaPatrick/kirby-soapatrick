@@ -22,6 +22,6 @@ Cover:
 
 ----
 
-Old: Back in [January 2018](https://www.soapatrick.com/2018/01/i-made-some-housecleaning-on-my-blog-and-at-the-sa/) I (finally) switched to Git for my Wordpress Theme development and since then everything I change gets a new commit. After that [Buddy.Works](https://buddy.works/) checks my repository and updates the theme on every push.
+Old: Back in (link: https://www.soapatrick.com/2018/01/i-made-some-housecleaning-on-my-blog-and-at-the-sa/ text: January 2018 target: _blank) I (finally) switched to Git for my Wordpress Theme development and since then everything I change gets a new commit. After that (link: https://buddy.works/ text: Buddy.Works target: _blank) checks my repository and updates the theme on every push.
 
 Now since all styling changes are made through my `SCSS` files I used to commit the compiled `CSS` file as well which, let's be honest, was never really ideal. So for a new project I took a closer look at Buddy.Works and read tons of tutorials. With `Node.js` and a `Gulp` task I was able to compile SCSS files within the building and deploying process and I can finally stop committing compiled CSS files.

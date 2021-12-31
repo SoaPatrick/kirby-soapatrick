@@ -22,7 +22,7 @@ Cover:
 
 ----
 
-Old: I was working hard on Sunday to finally expand the [Factory section](https://www.soapatrick.com/factory) to more than just a simple overview and have an actual detail view with more information and bigger Picture or Video.
+Old: I was working hard on Sunday to finally expand the (link: https://www.soapatrick.com/factory text: Factory section target: _blank) to more than just a simple overview and have an actual detail view with more information and bigger Picture or Video.
 
 Not all items have some information about its development, but I thought at least have the original image or the video shown. I will add some texts and relevant past blog posts to those items, later on, step by step. Then there are some items missing which will be added as well.
 

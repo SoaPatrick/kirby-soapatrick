@@ -30,4 +30,4 @@ One of the things that I adapted here is the theme and template structure, a mor
 
 Then I also got rid of all the **Gutenberg** styling and used my own, that way I could leave out all the styling for blocks I didn't use, which is a lot.
 
-There are still some things in the backlog, actually the same tasks as in my last [post](https://www.soapatrick.com/2020/03/got-some-new-pipeline-minutes/) and hopefully, I get to that sooner than later, the same with my next movie project.
+There are still some things in the backlog, actually the same tasks as in my last (link: https://www.soapatrick.com/2020/03/got-some-new-pipeline-minutes/ text: post target: _blank) and hopefully, I get to that sooner than later, the same with my next movie project.

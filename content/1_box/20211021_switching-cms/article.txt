@@ -22,20 +22,20 @@ Cover:
 
 ----
 
-Old: With my plan to extend the whole personal part of this website, meaning the [Patrick](https://www.soapatrick.com/patrick/) part, I was thinking of how to achieve my plan and if WordPress is the CMS to go forward with.
+Old: With my plan to extend the whole personal part of this website, meaning the (link: https://www.soapatrick.com/patrick/ text: Patrick target: _blank) part, I was thinking of how to achieve my plan and if WordPress is the CMS to go forward with.
 
 I've been using WordPress as my CMS for 17 years and I've got to know it quite a bit and with the Gutenberg editor, it made a huge leap forward. But there are still some drawbacks and that's why I looked at other CMSs to see what else is out there.
 
 In my search for a WordPress alternative I've looked at the following CMSs
 
-- [Automad](https://automad.org/) (flat file PHP)
-- [Grav CMS](https://getgrav.org/) (flat file PHP)
-- [Kirby](https://getkirby.com/) (flat file PHP)
-- [Statamic](https://statamic.com/) (flat file PHP)
-- [Hugo](https://gohugo.io/) (Static Site Generator)
-- [Craft CMS](https://craftcms.com/) (SQL PHP)
-- [Wagtail](https://wagtail.io/) (SQL Python)
-- [Pubii](https://getpublii.com/) (Mac OS)
+- (link: https://automad.org/ text: Automad target: _blank) (flat file PHP)
+- (link: https://getgrav.org/ text: Grav CMS target: _blank) (flat file PHP)
+- (link: https://getkirby.com/ text: Kirby target: _blank) (flat file PHP)
+- (link: https://statamic.com/ text: Statamic target: _blank) (flat file PHP)
+- (link: https://gohugo.io/ text: Hugo target: _blank) (Static Site Generator)
+- (link: https://craftcms.com/ text: Craft CMS target: _blank) (SQL PHP)
+- (link: https://wagtail.io/ text: Wagtail target: _blank) (SQL Python)
+- (link: https://getpublii.com/ text: Pubii target: _blank) (Mac OS)
 
 Among all those listed above, there were three that I looked at more closely.
 

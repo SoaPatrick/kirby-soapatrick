@@ -24,4 +24,4 @@ Cover:
 
 Old: https://vimeo.com/52345038
 
-Well I started working with [blender](http://www.blender.org), the free open source 3D modeling software, and created a 3D Model from the sheep and then added some small animation and all this within 6 hours (more or less). I'm happy with it, sure it's all very basic but that's because I'm REALLY new to all this but I plan on improving it over time.
+Well I started working with (link: http://www.blender.org text: blender target: _blank), the free open source 3D modeling software, and created a 3D Model from the sheep and then added some small animation and all this within 6 hours (more or less). I'm happy with it, sure it's all very basic but that's because I'm REALLY new to all this but I plan on improving it over time.

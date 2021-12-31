@@ -22,7 +22,7 @@ Cover:
 
 ----
 
-Old: I’ve been using [Bear](https://bear.app/) as my note-taking app for quite some time, before that, I was using Evernote and [Ulysses](https://ulysses.app). I’ve stopped using Evernote the moment they started to charge money in order for my notes to be synced between devices. Ulysses was always a very powerful markdown editor but when they switched to a subscription model I gave Bear a chance.
+Old: I’ve been using (link: https://bear.app/ text: Bear target: _blank) as my note-taking app for quite some time, before that, I was using Evernote and (link: https://ulysses.app text: Ulysses target: _blank). I’ve stopped using Evernote the moment they started to charge money in order for my notes to be synced between devices. Ulysses was always a very powerful markdown editor but when they switched to a subscription model I gave Bear a chance.
 
 Since Bear still has to support publishing directly to WordPress I thought I give Ulysses another shot since the publishing works beautifully with Gutenberg, which for me is a must these days.
 

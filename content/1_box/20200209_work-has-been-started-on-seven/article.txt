@@ -22,7 +22,7 @@ Cover:
 
 ----
 
-Old: I took a long walk today through Basel and actually continuing with my New Years' resolution from [2019](https://www.soapatrick.com/2019/01/why-not-a-look-ahead/). And during that walk, I thought of all the things I want to improve upon with the new version and when I arrived at home, I created a new repository, cloned my starter theme and made my first commits.
+Old: I took a long walk today through Basel and actually continuing with my New Years' resolution from (link: https://www.soapatrick.com/2019/01/why-not-a-look-ahead/ text: 2019 target: _blank). And during that walk, I thought of all the things I want to improve upon with the new version and when I arrived at home, I created a new repository, cloned my starter theme and made my first commits.
 
 I also decided to use `git-flow`, might as well try it now, might be useful in the near future. I'm kinda pumped about where it all leads.
 

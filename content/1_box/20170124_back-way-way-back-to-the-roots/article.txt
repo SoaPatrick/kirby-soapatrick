@@ -30,7 +30,7 @@ So this means going back to writing English which is, funny as it may seem, a la
 
 But as the title says, I won't just go back to the roots, I go way-way back, all the way back in fact. I know this sounds cryptic so let me explain. I've been actively writing on the net since around 1998 but the first online traces I found are from my Winona Ryder Fanpage AGCN (andgodcreatednoni.com) from the year 2000. So what will happen in the course of the next few weeks is that this blog will include ALL the posts I've ever written and are still available. This will be huge and I look forward to it. Back then I was already speaking my mind about all kinds of stuff and when I recently went on a trip down the memory lane and read all these old blog posts I became very nostalgic.
 
-So that's what's gonna happen here and I can't wait for all that. But now comes the bonus thing. I also made an update to the theme which I think is for the better. And back in 2012 when the brainstorming part of the blog started, [I posted a screenshot](https://www.soapatrick.com/2012/08/welcome-to-a-new-beginning/) of the current state of the design. So first here one from the previous theme before the update, when the blog main page only displayed the titles, dates, and tags and in order to read the entry you had to click for the detail view.
+So that's what's gonna happen here and I can't wait for all that. But now comes the bonus thing. I also made an update to the theme which I think is for the better. And back in 2012 when the brainstorming part of the blog started, (link: https://www.soapatrick.com/2012/08/welcome-to-a-new-beginning/ text: I posted a screenshot target: _blank) of the current state of the design. So first here one from the previous theme before the update, when the blog main page only displayed the titles, dates, and tags and in order to read the entry you had to click for the detail view.
 
 ![](https://www.soapatrick.com/wp-content/uploads/2019/05/soapatricktwo-1500x2788.png)
 
@@ -38,4 +38,4 @@ I found this to be rather annoying sometimes, especially if you just wanna read 
 
 ![](https://www.soapatrick.com/wp-content/uploads/2019/05/soapatrickthree-1500x2498.png)
 
-So this is it for the first real post since last June, hopefully, I will return to the glory days of 2012 where I was really active when it came to writing. By the way, I'm writing this on a nice [Logitech iPad keyboard](http://www.logitech.com/en-ch/product/keys-to-go) on the train and I must say it works like a charm :)
+So this is it for the first real post since last June, hopefully, I will return to the glory days of 2012 where I was really active when it came to writing. By the way, I'm writing this on a nice (link: http://www.logitech.com/en-ch/product/keys-to-go text: Logitech iPad keyboard target: _blank) on the train and I must say it works like a charm :)

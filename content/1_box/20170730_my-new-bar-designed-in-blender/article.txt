@@ -24,7 +24,7 @@ Cover:
 
 Old: ![](https://www.soapatrick.com/wp-content/uploads/2017/07/blender_bar-design-750x422.jpg)
 
-My initial plan was to create something with SketchUp to get an idea how a bar in my living room might look like. After frustrating 30 minutes with it I had to ditch SketchUp and decided to once again go back to [Blender](https://www.blender.org/). I've used Blender in the past for various small projects (like my little Sheep Animation) so I knew my way around the software.
+My initial plan was to create something with SketchUp to get an idea how a bar in my living room might look like. After frustrating 30 minutes with it I had to ditch SketchUp and decided to once again go back to (link: https://www.blender.org/ text: Blender target: _blank). I've used Blender in the past for various small projects (like my little Sheep Animation) so I knew my way around the software.
 
 In just a few minutes I had a basic room, the Billy shelves and the bar. After playing around with the right camera angle I started to fine tune everything and adding more furniture because it started to be a lot of fun. Of course, all the shapes are really simple so there's no real complexity but still.
 
@@ -42,6 +42,6 @@ The problem when having fun is you don't want to stop. so I went further and add
 
 View of the Bar in Blender from 4 different angles
 
-What started with a render-time of an hour then turned into at least 8. I had to start rendering the image over night and on a different, stronger computer. That couldn't keep me from improving it further. I decided to add bottles and glasses to the shelves but that would be it (all my other activities started to suffer because this took so much of my free time). So yesterday I rendered it for the last time in a 4k Resolution and you can view that final render image [here](https://www.soapatrick.com/blender_bar-design-hi-res/) (it's a 8mb file). The details are just amazing when zooming in.
+What started with a render-time of an hour then turned into at least 8. I had to start rendering the image over night and on a different, stronger computer. That couldn't keep me from improving it further. I decided to add bottles and glasses to the shelves but that would be it (all my other activities started to suffer because this took so much of my free time). So yesterday I rendered it for the last time in a 4k Resolution and you can view that final render image (link: https://www.soapatrick.com/blender_bar-design-hi-res/ text: here target: _blank) (it's a 8mb file). The details are just amazing when zooming in.
 
 So after a whole week of playing around with it, I consider this project (and with that I mean in Blender) to be done. After all, it needs to look good in real life and not in a 3D Render Software. But I look forward to actually build it and of course, I will keep you all up-to-date on the progress of THAT project.

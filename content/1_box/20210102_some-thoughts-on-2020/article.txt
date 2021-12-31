@@ -22,9 +22,9 @@ Cover:
 
 ----
 
-Old: Last [year](https://www.soapatrick.com/2020/01/some-thoughts-on-2019/) I started with a different kind of look back or recap on the previous year, no more top ten lists but rather an unsorted or alphabetical list of things I liked and didn't quite like. And also some notes on stuff I did.
+Old: Last (link: https://www.soapatrick.com/2020/01/some-thoughts-on-2019/ text: year target: _blank) I started with a different kind of look back or recap on the previous year, no more top ten lists but rather an unsorted or alphabetical list of things I liked and didn't quite like. And also some notes on stuff I did.
 
-The idea was to summarize and categorize the year quickly in good and bad stuff with some noteworthy things. So like [yesterday](https://www.soapatrick.com/2021/01/2020-in-numbers/)'s post, I will keep this tradition and do the same thing again with 2020.
+The idea was to summarize and categorize the year quickly in good and bad stuff with some noteworthy things. So like (link: https://www.soapatrick.com/2021/01/2020-in-numbers/ text: yesterday target: _blank)'s post, I will keep this tradition and do the same thing again with 2020.
 
 ## Things I liked
 
@@ -32,7 +32,7 @@ The idea was to summarize and categorize the year quickly in good and bad stuff 
 - **[Blender](https://www.blender.org/)**, this free tool allowed me to be able to create anything from nothing in 3D, which really lifted my spirit.
 - **Firefox**, this is my go-to browser on all my devices now and I'm glad I made the switch to a browser that I believe actually cares about privacy.
 - **Good movies from 2019**, I finally came around to seeing some missed good movies from 2019 like Ford vs Ferrari and Knives Out.
-- [**Jelle’s Marble Runs**](https://www.youtube.com/channel/UCYJdpnjuSWVOLgGT9fIzL0g), another uplifting thing that replaced all the sporting events that were canceled. I never thought marbles could deliver so much joy.
+- (link: https://www.youtube.com/channel/UCYJdpnjuSWVOLgGT9fIzL0g text: **Jelle’s Marble Runs** target: _blank), another uplifting thing that replaced all the sporting events that were canceled. I never thought marbles could deliver so much joy.
 - **Mank**, a new movie by David Fincher is always something special. Seeing it on the big screen even more special. Not his best film but certainly his most beautiful.
 - **Old movies**, saw some older movies again, due to a lack of new releases, which reminded me of better times.
 - **Red Dead Redemption 2**, is something I was addicted to and delivered much-needed escapism.

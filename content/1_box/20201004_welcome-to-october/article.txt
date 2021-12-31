@@ -26,4 +26,4 @@ Old: Yeah, it does look kinda different today, I know. It was one of those Sunda
 
 There are also some structural things I need to rethink, like the landing page or paged Blog Posts, all those things might change in the future, but for me to get an idea I need to interact with it and then find solutions.
 
-So there it is, a new design that looks different than everything beginning with [SoaPatrickFive](https://www.soapatrick.com/factory/soapatrickfive/), hope I will have as much fun with it as with all the versions before.
+So there it is, a new design that looks different than everything beginning with (link: https://www.soapatrick.com/factory/soapatrickfive/ text: SoaPatrickFive target: _blank), hope I will have as much fun with it as with all the versions before.

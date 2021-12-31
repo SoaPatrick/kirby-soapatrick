@@ -24,7 +24,7 @@ Cover:
 
 Old: https://www.youtube.com/watch?v=OcXx7NhhSBs
 
-So I've made my first video with my [new gear](https://www.soapatrick.com/2018/12/got-myself-a-new-camera/) and I thought a Promo-Video for my Bar '[Zum Lange Inseli](https://www.soapatrick.com/2017/11/zum-lange-inseli-is-officially-open-now/)' seems fitting. When you watch a lot of youtube Videos you see a lot of so-called **B-Roll**, so I thought I'd give it a try.
+So I've made my first video with my (link: https://www.soapatrick.com/2018/12/got-myself-a-new-camera/ text: new gear target: _blank) and I thought a Promo-Video for my Bar '[Zum Lange Inseli](https://www.soapatrick.com/2017/11/zum-lange-inseli-is-officially-open-now/)' seems fitting. When you watch a lot of youtube Videos you see a lot of so-called **B-Roll**, so I thought I'd give it a try.
 
 The video was shot in **100p** with only **16mbps** bitrate. The **SQS Mode** on the camera allows me to see the footage right away in slow motion on the camera compared to the 100mbps in the regular Movie Mode. That way I could immediately see if the footage was usable or not and saved me some time. Maybe there's a way to see the 100p 100mbsp footage slowed down to 24p on the camera as well and I just haven't found out how to achieve that.
 

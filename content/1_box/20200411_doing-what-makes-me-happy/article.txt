@@ -22,7 +22,7 @@ Cover:
 
 ----
 
-Old: I've been thinking a lot about this the last few days and 2 days ago it hit me. First I was kinda annoyed about myself that I kept tinkering with my website instead of doing some movie stuff and then there's the issue with [Blender not running well](https://www.soapatrick.com/2020/04/started-to-play-around-with-blender-again/) on my Mac Mini and me thinking about buying a PC.
+Old: I've been thinking a lot about this the last few days and 2 days ago it hit me. First I was kinda annoyed about myself that I kept tinkering with my website instead of doing some movie stuff and then there's the issue with (link: https://www.soapatrick.com/2020/04/started-to-play-around-with-blender-again/ text: Blender not running well target: _blank) on my Mac Mini and me thinking about buying a PC.
 
 Well, my epiphany on Thursday was: **fuck it**, let's just do what makes me happy and not force myself to work on projects. If I want to make blender stuff then I will buy a PC and if I want to tinker on my website or make a movie then I do that. The key is to do that which interests me in that given moment.
 

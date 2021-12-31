@@ -26,7 +26,7 @@ Old: In my last update, I mentioned the upcoming plan to build my first gaming P
 
 So to start it all of let's begin with the case, the part that will house all other parts. The main concern for me when I had to decide what kind of PC case I want to buy was airflow. I want to make sure all components will stay cool and not overheat and maybe even get damaged. So a case with a mesh front made the most sense. As for the size, something in the middle seemed logical, enough room for all the parts but not too big since I won't build a monster of a PC.
 
-After many different cases I looked at and compared with each other I decided to go with the [be quiet! Pure Base 500XD](https://www.bequiet.com/de/case/1854).
+After many different cases I looked at and compared with each other I decided to go with the (link: https://www.bequiet.com/de/case/1854 text: be quiet! Pure Base 500XD target: _blank).
 
 - ![](https://www.soapatrick.com/wp-content/uploads/2020/05/pc-case_01.jpg)
     

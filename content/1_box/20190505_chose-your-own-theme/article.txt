@@ -24,7 +24,7 @@ Cover:
 
 Old: Now that was a **productive** day, I kinda feel sad though that I spend the whole day in front of the computer, but when I see what I achieved I'm kinda happy.
 
-What I mentioned [yesterday](https://www.soapatrick.com/2019/05/why-the-girly-theme/) I did today. There's a new Icon in the navigation () which allows you to switch between a **light** or **dark** theme
+What I mentioned (link: https://www.soapatrick.com/2019/05/why-the-girly-theme/ text: yesterday target: _blank) I did today. There's a new Icon in the navigation () which allows you to switch between a **light** or **dark** theme
 
 I achieved that by using **CSS Variables**. There isn't a second stylesheet which gets loaded but I change **three** CSS Variables through Javascript and store that in **HTML Local Storage** so that the look keeps when you cruise around the website.
 

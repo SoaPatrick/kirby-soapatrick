@@ -22,7 +22,7 @@ Cover:
 
 ----
 
-Old: [Yesterday](https://www.soapatrick.com/2021/04/a-place-for-my-smaller-work/) I published the new section [SoapLab](https://www.soapatrick.com/lab) and with it, I thought a lot about a new structure. Actually, I thought about it for some time but with this new section, the idea to rearrange some things became more imminent.
+Old: (link: https://www.soapatrick.com/2021/04/a-place-for-my-smaller-work/ text: Yesterday target: _blank) I published the new section (link: https://www.soapatrick.com/lab text: SoapLab target: _blank) and with it, I thought a lot about a new structure. Actually, I thought about it for some time but with this new section, the idea to rearrange some things became more imminent.
 
 So I played around with it locally and I realized that it was important to do this, BUT with the current theme this is pretty difficult to achieve which means I need to start thinking of SoaPatrickNine because with SoaPatrickEight this is simply too big of a structural change to build it with the current theme. So instead of being all vague and shit why not elaborate on my new plan.
 
@@ -31,11 +31,11 @@ Everything starts with a completely new start page. The idea of just having the 
 - Latest blog posts (maybe use the sticky function)
 - Latest factory posts
 - Latest lab posts
-- My last seen movies I’ve logged on [Letterboxd](https://letterboxd.com/soapatrick/)
+- My last seen movies I’ve logged on (link: https://letterboxd.com/soapatrick/ text: Letterboxd target: _blank)
 
 With this change the whole blog moves from the root to a new subfolder called Box and everything blog-related would then live inside that Box subfolder, like Storage or Tags. I would also love to add a more detailed breadcrumbs navigation, especially for single blog posts which would show you the whole path of the blog post: SoaPatrick/box/storage/month year/blog post title
 
-I would also to incorporate 3D renderings into the design, maybe not with [Three.js](https://threejs.org/) but as simple images or maybe gif animations ([Three.js](https://threejs.org/) is a beast of its own, its cool what can be done but really javascript heavy)
+I would also to incorporate 3D renderings into the design, maybe not with (link: https://threejs.org/ text: Three.js target: _blank) but as simple images or maybe gif animations ((link: https://threejs.org/ text: Three.js target: _blank) is a beast of its own, its cool what can be done but really javascript heavy)
 
 I also think it’s time to leave out certain customization features like light/dark mode or color mode because the dark mode is integrated into so many devices, it would make much more sense to use the system settings on when to show the light or dark mode. Also with all these color options, I kinda limit myself on using SVG inline images for web design elements. Because with inline SVG images I can change the colors with CSS variables.
 
