@@ -10,7 +10,7 @@ Category: Stuff thats happening
 
 ----
 
-Tags: development, git
+Tags: Development, Git
 
 ----
 

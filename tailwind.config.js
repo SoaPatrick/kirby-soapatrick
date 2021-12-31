@@ -1,6 +1,5 @@
 module.exports = {
-  purge: ["../**/*.php"],
-  darkMode: "media", // or 'media' or 'class'
+  content: ["../**/*.php"],
   theme: {
     fontFamily: {
       sans: ["Lato", "sans-serif"],

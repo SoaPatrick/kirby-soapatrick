@@ -10,7 +10,7 @@ Category: Thoughts on stuff
 
 ----
 
-Tags: development, git, status, wordpress
+Tags: Development, Git, Status, Wordpress
 
 ----
 

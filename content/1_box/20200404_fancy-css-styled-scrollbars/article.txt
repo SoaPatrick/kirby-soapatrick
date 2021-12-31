@@ -10,7 +10,7 @@ Category: Stuff thats happening
 
 ----
 
-Tags: css, theme
+Tags: css, Theme
 
 ----
 

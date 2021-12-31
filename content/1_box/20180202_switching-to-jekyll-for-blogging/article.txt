@@ -10,7 +10,7 @@ Category: Thoughts on stuff
 
 ----
 
-Tags: git, soapatrick, wordpress, writing
+Tags: Git, Soapatrick, Wordpress, Writing
 
 ----
 

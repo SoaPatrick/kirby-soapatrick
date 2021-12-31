@@ -10,7 +10,7 @@ Category: Thoughts on stuff
 
 ----
 
-Tags: design, development, factory, wordpress
+Tags: Design, Development, Factory, Wordpress
 
 ----
 
