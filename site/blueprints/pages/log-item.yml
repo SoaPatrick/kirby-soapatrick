@@ -9,18 +9,15 @@ status:
   listed: Published
 
 columns:
-  - width: 1/2
+  - width: 1/3
     fields:
       published:
         label: Logged on
         type: date
         default: today
-
-  - width: 1/2
-    fields:
       type:
         label: Type
-        type: select
+        type: radio
         placeholder: Chose log type
         required: true
         options:

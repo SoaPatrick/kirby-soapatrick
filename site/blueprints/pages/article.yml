@@ -9,14 +9,6 @@ status:
   listed: Published
 
 columns:
-  - width: 2/3
-    fields:
-      text:
-        type: blocks
-        size: large
-      old:
-        type: textarea
-        size: large
 
 
   - width: 1/3
@@ -32,7 +24,7 @@ columns:
         layout: cards
         # uploads: false
       format:
-        type: select
+        type: radio
         default: standard
         options:
           standard: Standard
@@ -48,7 +40,7 @@ columns:
         when:
           format: video
       category:
-        type: select
+        type: radio
         placeholder: chose category
         required: true
         options: api
@@ -76,3 +68,17 @@ columns:
         options: query
         query: site.index.filterBy("template", "in", ["factory-item"])
 
+  - width: 2/3
+    fields:
+      text:
+        type: blocks
+        size: large
+      info:
+          label: 
+          type: info
+          theme: negative
+          text: The following content needs to be migrated!
+      old:
+        type: textarea
+        size: large
+        label: Old content

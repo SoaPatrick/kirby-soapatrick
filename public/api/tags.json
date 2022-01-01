@@ -50,11 +50,11 @@
     { "name": "Zum lange Inseli" }
   ],
   "box-categories": [
-    { "name": "AGCN" },
-    { "name": "Stuff from the Lab" },
+    { "name": "Thoughts on stuff" },
     { "name": "Stuff thats happening" },
+    { "name": "Stuff from the Lab" },
     { "name": "Stuff to Share" },
-    { "name": "Thoughts on stuff" }
+    { "name": "AGCN" }
   ],
   "factory-tags": [
     { "name": "3D Rendering" },
