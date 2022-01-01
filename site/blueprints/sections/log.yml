@@ -6,3 +6,4 @@ template: log-item
 layout: list
 empty: No log entry yet
 sortBy: published desc
+limit: 10

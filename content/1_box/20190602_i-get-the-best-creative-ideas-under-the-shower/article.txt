@@ -2,7 +2,27 @@ Title: I get the best creative ideas under the shower...
 
 ----
 
+Text: 
+
+----
+
+Old: I get the best creative ideas under the shower so that I suddenly had an epiphany for some sort of landing page. Just put a section in between the first and second post for the latest Factory Items and that's it. Well now I'm done with the theme, I promise.
+
+----
+
 Published: 2019-06-02
+
+----
+
+Cover: 
+
+----
+
+Format: status
+
+----
+
+Video: 
 
 ----
 
@@ -14,12 +34,4 @@ Tags: Theme
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: I get the best creative ideas under the shower so that I suddenly had an epiphany for some sort of landing page. Just put a section in between the first and second post for the latest Factory Items and that's it. Well now I'm done with the theme, I promise.
+Project: 

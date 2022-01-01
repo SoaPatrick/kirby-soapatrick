@@ -2,7 +2,31 @@ Title: I needed that pain to get where I am now.
 
 ----
 
+Text: 
+
+----
+
+Old:
+
+> I needed that pain to get where I am now.
+> 
+> John Locke, Lost S05E04
+
+----
+
 Published: 2020-09-30
+
+----
+
+Cover: 
+
+----
+
+Format: quote
+
+----
+
+Video: 
 
 ----
 
@@ -14,14 +38,4 @@ Tags: Quote, TV Show
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: > I needed that pain to get where I am now.
-> 
-> John Locke, Lost S05E04
+Project: 

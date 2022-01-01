@@ -2,7 +2,31 @@ Title: Anything is possible until your heart stops beating.
 
 ----
 
+Text: 
+
+----
+
+Old:
+
+> Anything is possible until your heart stops beating.
+> 
+> _Gabriel Stokes, The Walking Dead S07E12_
+
+----
+
 Published: 2017-03-07
+
+----
+
+Cover: 
+
+----
+
+Format: quote
+
+----
+
+Video: 
 
 ----
 
@@ -14,14 +38,4 @@ Tags: Quote, TV Show
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: > Anything is possible until your heart stops beating.
-> 
-> _Gabriel Stokes, The Walking Dead S07E12_
+Project: 

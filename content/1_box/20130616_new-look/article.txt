@@ -2,7 +2,27 @@ Title: New look
 
 ----
 
+Text: 
+
+----
+
+Old: look at that, the place has changed, not my work but I like it
+
+----
+
 Published: 2013-06-16
+
+----
+
+Cover: 
+
+----
+
+Format: status
+
+----
+
+Video: 
 
 ----
 
@@ -14,12 +34,4 @@ Tags: Design, Status
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: look at that, the place has changed, not my work but I like it
+Project: 

@@ -2,7 +2,31 @@ Title: Life is a collection of moments. The idea is to have as many good ones as
 
 ----
 
+Text: 
+
+----
+
+Old:
+
+> Life is a collection of moments. The idea is to have as many good ones as you can
+> 
+> _Jane, 5 To 7_
+
+----
+
 Published: 2018-03-01
+
+----
+
+Cover: 
+
+----
+
+Format: quote
+
+----
+
+Video: 
 
 ----
 
@@ -14,14 +38,4 @@ Tags: Movie, Quote
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: > Life is a collection of moments. The idea is to have as many good ones as you can
-> 
-> _Jane, 5 To 7_
+Project: 

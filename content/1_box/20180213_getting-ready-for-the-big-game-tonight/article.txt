@@ -2,7 +2,27 @@ Title: Getting ready for the big game tonight: FC Basel v...
 
 ----
 
+Text: 
+
+----
+
+Old: Getting ready for the big game tonight: FC Basel vs Manchester City in the Champions League 1/8 Finals. I know we don't have any chance but you don't often get to play against of the best, if not THE best team in the world right now. I'm getting excited!!!
+
+----
+
 Published: 2018-02-13
+
+----
+
+Cover: 
+
+----
+
+Format: status
+
+----
+
+Video: 
 
 ----
 
@@ -14,12 +34,4 @@ Tags: sport
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: Getting ready for the big game tonight: FC Basel vs Manchester City in the Champions League 1/8 Finals. I know we don't have any chance but you don't often get to play against of the best, if not THE best team in the world right now. I'm getting excited!!!
+Project: 

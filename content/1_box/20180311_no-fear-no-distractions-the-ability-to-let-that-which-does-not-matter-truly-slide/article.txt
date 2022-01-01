@@ -2,7 +2,31 @@ Title: No fear. No distractions. The ability to let that which does not matter t
 
 ----
 
+Text: 
+
+----
+
+Old:
+
+> No fear. No distractions. The ability to let that which does not matter truly slide
+> 
+> _The Narrator, Fight Club_
+
+----
+
 Published: 2018-03-11
+
+----
+
+Cover: 
+
+----
+
+Format: quote
+
+----
+
+Video: 
 
 ----
 
@@ -14,14 +38,4 @@ Tags: Movie, Quote
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: > No fear. No distractions. The ability to let that which does not matter truly slide
-> 
-> _The Narrator, Fight Club_
+Project: 

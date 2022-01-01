@@ -2,7 +2,27 @@ Title: Nach fast 3 Wochen harter Arbeit ist die neue Seit...
 
 ----
 
+Text: 
+
+----
+
+Old: Nach fast 3 Wochen harter Arbeit ist die neue Seite endlich Live. Nun ist es Zeit Inhalte zu liefern.
+
+----
+
 Published: 2016-03-20
+
+----
+
+Cover: 
+
+----
+
+Format: status
+
+----
+
+Video: 
 
 ----
 
@@ -14,12 +34,4 @@ Tags: Status
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: Nach fast 3 Wochen harter Arbeit ist die neue Seite endlich Live. Nun ist es Zeit Inhalte zu liefern.
+Project: 

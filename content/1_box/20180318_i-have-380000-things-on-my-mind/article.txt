@@ -2,7 +2,31 @@ Title: I have 380,000 things on my mind...
 
 ----
 
+Text: 
+
+----
+
+Old:
+
+> I have 380,000 things on my mind. It’s an air traffic control tower in there. I can’t really imagine anything else gripping me the way directing does. This is all I can do.
+> 
+> David Fincher
+
+----
+
 Published: 2018-03-18
+
+----
+
+Cover: 
+
+----
+
+Format: quote
+
+----
+
+Video: 
 
 ----
 
@@ -14,14 +38,4 @@ Tags: Movie, Quote
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: > I have 380,000 things on my mind. It’s an air traffic control tower in there. I can’t really imagine anything else gripping me the way directing does. This is all I can do.
-> 
-> David Fincher
+Project: 

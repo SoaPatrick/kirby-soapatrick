@@ -2,7 +2,31 @@ Title: Article about digital facelifting in Movies and TV Shows
 
 ----
 
+Text: 
+
+----
+
+Old:
+
+Article about digital facelifting in Movies and TV Shows
+
+[http://goo.gl/ho03IY](http://goo.gl/ho03IY)
+
+----
+
 Published: 2016-04-10
+
+----
+
+Cover: 
+
+----
+
+Format: link
+
+----
+
+Video: 
 
 ----
 
@@ -14,14 +38,4 @@ Tags: link, Movie, TV Show
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: Article about digital facelifting in Movies and TV Shows
-
-[http://goo.gl/ho03IY](http://goo.gl/ho03IY)
+Project: 

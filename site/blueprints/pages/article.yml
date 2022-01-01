@@ -36,8 +36,6 @@ columns:
         default: standard
         options:
           standard: Standard
-          image: Image
-          video: Video
           link: Link
           quote: Quote
           status: Status

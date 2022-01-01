@@ -2,7 +2,27 @@ Title: Batman v Superman spielte $82 Millionen ein am ers...
 
 ----
 
+Text: 
+
+----
+
+Old: Batman v Superman spielte $82 Millionen ein am ersten Tag in Amerika und man rechnet mit einem Startwochenende von $165-172 Millionen.
+
+----
+
 Published: 2016-03-26
+
+----
+
+Cover: 
+
+----
+
+Format: status
+
+----
+
+Video: 
 
 ----
 
@@ -14,12 +34,4 @@ Tags: Movie, News
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: Batman v Superman spielte $82 Millionen ein am ersten Tag in Amerika und man rechnet mit einem Startwochenende von $165-172 Millionen.
+Project: 

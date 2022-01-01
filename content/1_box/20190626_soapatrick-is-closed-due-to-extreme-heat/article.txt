@@ -2,7 +2,27 @@ Title: SoaPatrick is closed due to extreme heat...
 
 ----
 
+Text: 
+
+----
+
+Old: SoaPatrick is closed due to extreme heat. Once the temperature will drop to a human-friendly level, I will get back to writing and doing stuff, but for now, it's time to have cold thoughts.
+
+----
+
 Published: 2019-06-26
+
+----
+
+Cover: 
+
+----
+
+Format: status
+
+----
+
+Video: 
 
 ----
 
@@ -14,12 +34,4 @@ Tags: Status
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: SoaPatrick is closed due to extreme heat. Once the temperature will drop to a human-friendly level, I will get back to writing and doing stuff, but for now, it's time to have cold thoughts.
+Project: 

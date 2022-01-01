@@ -2,7 +2,27 @@ Title: I made some housecleaning on my blog and at the sa...
 
 ----
 
+Text: 
+
+----
+
+Old: I made some housecleaning on my blog (removed old Themes and Plugins I don't use anymore) and also some old Blogs who used up Databases. And at the same time thought I could finally use **Git** to develop and deploy changes to the theme. It's a much more streamlined development workflow now which hopefully brings lots of benefits, especially for a possible future new design.
+
+----
+
 Published: 2018-01-19
+
+----
+
+Cover: 
+
+----
+
+Format: status
+
+----
+
+Video: 
 
 ----
 
@@ -14,12 +34,4 @@ Tags: Development, Git, Status, Wordpress
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: I made some housecleaning on my blog (removed old Themes and Plugins I don't use anymore) and also some old Blogs who used up Databases. And at the same time thought I could finally use **Git** to develop and deploy changes to the theme. It's a much more streamlined development workflow now which hopefully brings lots of benefits, especially for a possible future new design.
+Project: 

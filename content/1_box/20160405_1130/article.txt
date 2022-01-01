@@ -2,7 +2,27 @@ Title: Batman v Superman hat am zweiten Wochenende in Ame...
 
 ----
 
+Text: 
+
+----
+
+Old: Batman v Superman hat am zweiten Wochenende in Amerika $51 Millionen eingespielt, was ein fall von 69% zum ersten Wochenende bedeutet. International sah es ähnlich aus. Total hat der Film nach 10 Tagen weltweit $682 Millionen eingespielt.
+
+----
+
 Published: 2016-04-05
+
+----
+
+Cover: 
+
+----
+
+Format: status
+
+----
+
+Video: 
 
 ----
 
@@ -14,12 +34,4 @@ Tags: Movie, News
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: Batman v Superman hat am zweiten Wochenende in Amerika $51 Millionen eingespielt, was ein fall von 69% zum ersten Wochenende bedeutet. International sah es ähnlich aus. Total hat der Film nach 10 Tagen weltweit $682 Millionen eingespielt.
+Project: 

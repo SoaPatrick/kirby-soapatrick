@@ -2,7 +2,27 @@ Title: Happy Star Wars Day Everybody, May The Forth be wi...
 
 ----
 
+Text: 
+
+----
+
+Old: Happy **Star Wars** Day Everybody, May The Forth be with you!
+
+----
+
 Published: 2016-05-04
+
+----
+
+Cover: 
+
+----
+
+Format: status
+
+----
+
+Video: 
 
 ----
 
@@ -14,12 +34,4 @@ Tags: Star Wars
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: Happy **Star Wars** Day Everybody, May The Forth be with you!
+Project: 

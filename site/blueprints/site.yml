@@ -3,18 +3,18 @@ title: SoaPatrick
 columns:
   - width: 1/3
     sections:
-      box: sections/box
-      log: sections/log
-
-  - width: 1/3
-    sections:
-      factory: sections/factory
       pages:
         type: pages
         templates:
           - home
           - default
           - page
+      box: sections/box
+      log: sections/log
+
+  - width: 1/3
+    sections:
+      factory: sections/factory
 
   - width: 1/3
     sections:

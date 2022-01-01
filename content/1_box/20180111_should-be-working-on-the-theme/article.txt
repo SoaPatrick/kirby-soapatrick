@@ -2,7 +2,27 @@ Title: Should be working on the Theme
 
 ----
 
+Text: 
+
+----
+
+Old: I realized that by updating daily, I need to work on the page, it desperately needs a search and an archive. So hopefully I will be able to add these features very soon. Also much more tags, not all entries can be labeled 'Thoughts'. Writing down 'Thoughts' is all I do here.
+
+----
+
 Published: 2018-01-11
+
+----
+
+Cover: 
+
+----
+
+Format: status
+
+----
+
+Video: 
 
 ----
 
@@ -14,12 +34,4 @@ Tags: Status
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: I realized that by updating daily, I need to work on the page, it desperately needs a search and an archive. So hopefully I will be able to add these features very soon. Also much more tags, not all entries can be labeled 'Thoughts'. Writing down 'Thoughts' is all I do here.
+Project: 

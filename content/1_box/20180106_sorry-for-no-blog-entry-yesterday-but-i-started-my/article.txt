@@ -2,7 +2,27 @@ Title: Sorry for no Blog entry yesterday but I started my...
 
 ----
 
+Text: 
+
+----
+
+Old: Sorry for no Blog entry yesterday but I started my yearly spring cleaning early, that kept me busy during the day. Might add an entry later tonight.
+
+----
+
 Published: 2018-01-06
+
+----
+
+Cover: 
+
+----
+
+Format: status
+
+----
+
+Video: 
 
 ----
 
@@ -14,12 +34,4 @@ Tags: Status
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: Sorry for no Blog entry yesterday but I started my yearly spring cleaning early, that kept me busy during the day. Might add an entry later tonight.
+Project: 

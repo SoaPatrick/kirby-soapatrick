@@ -11,8 +11,31 @@ columns:
         status: draft
 
       listed:
+        limit: 25
+        limitOptions:
+          - 25
+          - 50
         extends: sections/log
         headline: Published
         status: listed
+        type: pagetable
+        translations:
+          rowsPerPage: Logs displayed
+          loading: Loading Logs
+          filterPages: Filter logs…
+        columns:
+          date:
+            label: Date
+            type: date
+            text: '{{ page.published.toDate("Y-m-d") }}'
+            dateInputFormat: 'YYYY-MM-DD'
+            dateOutputFormat: 'MMM d, Y'
+          type:
+            label: Type
+            text: '{{ page.type }}'
+          title:
+            label: Title
+            text: '{{ page.title }}'
+            width: 3/4
 
 

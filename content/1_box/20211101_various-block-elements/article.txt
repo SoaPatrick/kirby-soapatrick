@@ -16,7 +16,7 @@ Cover:
 
 ----
 
-Format: video
+Format: standard
 
 ----
 

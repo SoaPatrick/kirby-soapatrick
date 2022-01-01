@@ -2,7 +2,31 @@ Title: It's not easy being drunk all the time. Everyone would do it, if it were 
 
 ----
 
+Text: 
+
+----
+
+Old:
+
+> It's not easy being drunk all the time. Everyone would do it, if it were easy.
+> 
+> _Tyrion Lannister, Game of Thrones S03E10_
+
+----
+
 Published: 2018-02-23
+
+----
+
+Cover: 
+
+----
+
+Format: quote
+
+----
+
+Video: 
 
 ----
 
@@ -14,14 +38,4 @@ Tags: Quote, TV Show
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: > It's not easy being drunk all the time. Everyone would do it, if it were easy.
-> 
-> _Tyrion Lannister, Game of Thrones S03E10_
+Project: 

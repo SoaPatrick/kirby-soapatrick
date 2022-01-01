@@ -6,3 +6,6 @@ template: article
 layout: list
 empty: No article yet
 sortBy: published desc
+limit: 10
+image:
+  query: page.cover.toFile

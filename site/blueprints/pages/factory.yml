@@ -6,12 +6,15 @@ columns:
   - width: 1/1
     sections:
       drafts:
+        layout: cards
         extends: sections/factory
         headline: In Development
         status: draft
         empty: Nothing in development yet
 
       listed:
+        limit: 18
+        layout: cards
         extends: sections/factory
         headline: Distributed
         status: listed

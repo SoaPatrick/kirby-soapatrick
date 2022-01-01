@@ -3,6 +3,11 @@ headline: Factory
 parent: kirby.page("factory")
 info: "{{ page.published }}"
 template: factory-item
-layout: list
+layout: cardlets
+image:
+  query: page.cover.toFile
+  cover: true
+  ratio: 1/1
 empty: No factory items yet
 sortBy: published desc
+limit: 10

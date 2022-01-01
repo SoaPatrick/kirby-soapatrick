@@ -2,7 +2,31 @@ Title: Tennis uses the language of life advantage, service, fault, break, love..
 
 ----
 
+Text: 
+
+----
+
+Old:
+
+> Tennis uses the language of life advantage, service, fault, break, love… every match is a life in miniature.
+> 
+> _Andre Agassi_
+
+----
+
 Published: 2018-02-03
+
+----
+
+Cover: 
+
+----
+
+Format: quote
+
+----
+
+Video: 
 
 ----
 
@@ -14,14 +38,4 @@ Tags: Quote, Sport
 
 ----
 
-Format: standard
-
-----
-
-Cover: 
-
-----
-
-Old: > Tennis uses the language of life advantage, service, fault, break, love… every match is a life in miniature.
-> 
-> _Andre Agassi_
+Project: 
