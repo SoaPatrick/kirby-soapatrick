@@ -20,7 +20,9 @@ columns:
         multiple: false
         label: Featured Image
         layout: cards
-        required: true 
+        image:
+          ratio: 1/1
+        required: true
       format:
         type: radio
         default: image

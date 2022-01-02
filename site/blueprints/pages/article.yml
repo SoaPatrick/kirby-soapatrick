@@ -22,7 +22,9 @@ columns:
         multiple: false
         label: Featured Image
         layout: cards
-        # uploads: false
+        image:
+          ratio: 1/1
+        help: Needs to be a square image
       format:
         type: radio
         default: standard
@@ -73,6 +75,40 @@ columns:
       text:
         type: blocks
         size: large
+        when:
+          format: standard
+      link-text:
+        type: writer
+        label: Text
+        marks:
+          - bold
+        when:
+          format: link
+      link-url:
+        label: URL
+        type: url
+        when:
+          format: link
+      quote-text:
+        label: Quote
+        type: writer
+        marks:
+          - bold
+        when:
+          format: quote
+      quote-source:
+        label: Source
+        type: text
+        when:
+          format: quote
+      status:
+        type: writer
+        marks:
+          - bold
+          - link
+          - code
+        when:
+          format: status
       info:
           label: 
           type: info

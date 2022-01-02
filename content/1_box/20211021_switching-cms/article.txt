@@ -6,6 +6,18 @@ Published: 2021-10-21
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,47 +26,12 @@ Tags: Kirby, Wordpress
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>With my plan to extend the whole personal part of this website, meaning the <a href=\"https:\/\/www.soapatrick.com\/patrick\/\" rel=\"noopener noreferrer\">Patrick<\/a> part, I was thinking of how to achieve my plan and if WordPress is the CMS to go forward with.<\/p> <p>I\u2019ve been using WordPress as my CMS for 17 years and I\u2019ve got to know\n it quite a bit and with the Gutenberg editor, it made a huge leap \nforward. But there are still some drawbacks and that\u2019s why I looked at \nother CMSs to see what else is out there.<\/p> <p>In my search for a WordPress alternative I\u2019ve looked at the following CMSs<\/p>"},"id":"5d2129e1-e26d-40fa-bea9-da237ed16938","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><a href=\"https:\/\/automad.org\/\" rel=\"noreferrer noopener\" target=\"_blank\">Automad<\/a> (flat file PHP)<\/li><li><a href=\"https:\/\/getgrav.org\/\" rel=\"noreferrer noopener\" target=\"_blank\">Grav CMS<\/a> (flat file PHP)<\/li><li><a href=\"https:\/\/getkirby.com\/\" rel=\"noreferrer noopener\" target=\"_blank\">Kirby<\/a> (flat file PHP)<\/li><li><a href=\"https:\/\/statamic.com\/\" rel=\"noreferrer noopener\" target=\"_blank\">Statamic<\/a> (flat file PHP)<\/li><li><a href=\"https:\/\/gohugo.io\/\" rel=\"noreferrer noopener\" target=\"_blank\">Hugo<\/a> (Static Site Generator)<\/li><li><a href=\"https:\/\/craftcms.com\/\" rel=\"noreferrer noopener\" target=\"_blank\">Craft CMS<\/a> (SQL PHP)<\/li><li><a href=\"https:\/\/wagtail.io\/\" rel=\"noreferrer noopener\" target=\"_blank\">Wagtail<\/a> (SQL Python)<\/li><li><a href=\"https:\/\/getpublii.com\/\" rel=\"noreferrer noopener\" target=\"_blank\">Pubii<\/a> (Mac OS)<\/li><\/ul>"},"id":"91bce84f-d05e-4427-876b-d0c5ec1c7f34","isHidden":false,"type":"list"},{"content":{"text":"<p>Among all those listed above, there were three that I looked at more closely.<\/p>"},"id":"457b1030-b166-4960-b1d5-f93242190715","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Statamic"},"id":"a5270b64-1aac-45f5-98bf-3482cc02809e","isHidden":false,"type":"heading"},{"content":{"text":"<p>The first one I stumbled upon was Statamic. A flat file PHP CMS. I \nlove the idea of a CMS without a SQL Database but a file-based one. The \nUI is fantastic and adding content types and fields to these content \ntypes is really easy. I could see myself recreating the structure I need\n with this CMS but there are some issues.<\/p> <p>Statamic is based on the PHP Framework Lavarel and running Lavarel on\n my hosting server is not possible. I would therefore need to build a \nstatic website and deploy those files.<\/p>"},"id":"d48a3c6f-8650-4244-bbf8-9221bc31fada","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Kirby"},"id":"c0ca3fd5-fb45-403c-86c2-6f534fecf753","isHidden":false,"type":"heading"},{"content":{"text":"<p>After Statamic I stumbled upon Kirby, one of the oldest flat-file PHP\n CMS. Kirby is easy to install and very lightweight. I can run it easily\n on my server and while the CMS has a backend GUI, adding content types \nand fields is only possible by writing YAML files in a code editor.<\/p>"},"id":"01418be5-a94a-450e-8234-b92fb3460b8b","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Hugo"},"id":"da941f4b-0b91-46a9-b540-28eedf743dfa","isHidden":false,"type":"heading"},{"content":{"text":"<p>The last one was the Static Site Generator Hugo, which uses Markdown \nfiles and frontmatter for fields and relations and generates static HTML\n files which then can be deployed to the server. It\u2019s technically the \nbiggest change to WordPress and would certainly be a big challenge.<\/p>"},"id":"e77099de-9c90-4727-8324-3a009a9457e5","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Next steps"},"id":"7c48e65a-08cd-4fb5-a970-c56fa1a5fa1b","isHidden":false,"type":"heading"},{"content":{"text":"<p>So where do I go from here? Well, The one I\u2019m still looking at right \nnow is Kirby. I started to recreate the current structure of SoaPatrick \nand see what is possible and what needs some work. But there is no urge \nto switch swiftly to a new CMS because as of right now, WordPress does \neverything for me. But it sure sounds cool to fully customize the CMS to\n my needs and get rid of everything I don\u2019t need.<\/p> <p>I\u2019m planning to build a website for my mother and I thought this \nwould be the perfect little project to put Kirby to the test and do some\n actual work with it and not just test around. Through that, I will \ndefinitely get some feedback and then I go from there. I just need to be\n sure about a possible CMS switch because currently there are close to \n650 posts here and I don\u2019t want to move them around all the time.<\/p>"},"id":"0c424197-ca1b-46a0-831a-520a450a3c4a","isHidden":false,"type":"text"}]
 
 ----
 
-Old: With my plan to extend the whole personal part of this website, meaning the (link: https://www.soapatrick.com/patrick/ text: Patrick target: _blank) part, I was thinking of how to achieve my plan and if WordPress is the CMS to go forward with.
-
-I've been using WordPress as my CMS for 17 years and I've got to know it quite a bit and with the Gutenberg editor, it made a huge leap forward. But there are still some drawbacks and that's why I looked at other CMSs to see what else is out there.
-
-In my search for a WordPress alternative I've looked at the following CMSs
-
-- (link: https://automad.org/ text: Automad target: _blank) (flat file PHP)
-- (link: https://getgrav.org/ text: Grav CMS target: _blank) (flat file PHP)
-- (link: https://getkirby.com/ text: Kirby target: _blank) (flat file PHP)
-- (link: https://statamic.com/ text: Statamic target: _blank) (flat file PHP)
-- (link: https://gohugo.io/ text: Hugo target: _blank) (Static Site Generator)
-- (link: https://craftcms.com/ text: Craft CMS target: _blank) (SQL PHP)
-- (link: https://wagtail.io/ text: Wagtail target: _blank) (SQL Python)
-- (link: https://getpublii.com/ text: Pubii target: _blank) (Mac OS)
-
-Among all those listed above, there were three that I looked at more closely.
-
-## Statamic
-
-The first one I stumbled upon was Statamic. A flat file PHP CMS. I love the idea of a CMS without a SQL Database but a file-based one. The UI is fantastic and adding content types and fields to these content types is really easy. I could see myself recreating the structure I need with this CMS but there are some issues.
-
-Statamic is based on the PHP Framework Lavarel and running Lavarel on my hosting server is not possible. I would therefore need to build a static website and deploy those files.
-
-## Kirby
-
-After Statamic I stumbled upon Kirby, one of the oldest flat-file PHP CMS. Kirby is easy to install and very lightweight. I can run it easily on my server and while the CMS has a backend GUI, adding content types and fields is only possible by writing YAML files in a code editor.
-
-## Hugo
-
-The last one was the Static Site Generator Hugo, which uses Markdown files and frontmatter for fields and relations and generates static HTML files which then can be deployed to the server. It's technically the biggest change to WordPress and would certainly be a big challenge.
-
-## Next steps
-
-So where do I go from here? Well, The one I'm still looking at right now is Kirby. I started to recreate the current structure of SoaPatrick and see what is possible and what needs some work. But there is no urge to switch swiftly to a new CMS because as of right now, WordPress does everything for me. But it sure sounds cool to fully customize the CMS to my needs and get rid of everything I don't need.
-
-I'm planning to build a website for my mother and I thought this would be the perfect little project to put Kirby to the test and do some actual work with it and not just test around. Through that, I will definitely get some feedback and then I go from there. I just need to be sure about a possible CMS switch because currently there are close to 650 posts here and I don't want to move them around all the time.
+Old: 

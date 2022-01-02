@@ -2,10 +2,6 @@ Title: AGCN Design News
 
 ----
 
-Text: [{"content":{"text":"Ok the time has come, after a lot of double shifts during the last 3 days (Yesterday I worked the whole day on the design) it's ready:)) Everything looks great but there's still one tiny problem. I couldn't solve the Netscape problem, even professional web designers couldn't help me, so you either use Internet Explorer or you accept it that it doesn't look as great as with Netscape, I'm very sorry about that:(\n\nToday I don't have any news and I'm too tired to scan something. I will work tonight and the whole day tomorrow (Job not webpage) and the new design will premiere on Sunday evening (American time). I will shut down the page in the morning and upload everything during the day and I hope you all come to the 'premiere' hehe:))"},"id":"f12a472c-2d87-4911-86fb-b8322656ad82","isHidden":false,"type":"markdown"}]
-
-----
-
 Published: 2000-07-28
 
 ----
@@ -22,7 +18,7 @@ Video:
 
 ----
 
-Category: 
+Category: AGCN
 
 ----
 
@@ -31,3 +27,31 @@ Tags: AGCN
 ----
 
 Project: 
+
+----
+
+Text: [{"content":{"text":"Ok the time has come, after a lot of double shifts during the last 3 days (Yesterday I worked the whole day on the design) it's ready:)) Everything looks great but there's still one tiny problem. I couldn't solve the Netscape problem, even professional web designers couldn't help me, so you either use Internet Explorer or you accept it that it doesn't look as great as with Netscape, I'm very sorry about that:(\n\nToday I don't have any news and I'm too tired to scan something. I will work tonight and the whole day tomorrow (Job not webpage) and the new design will premiere on Sunday evening (American time). I will shut down the page in the morning and upload everything during the day and I hope you all come to the 'premiere' hehe:))"},"id":"f12a472c-2d87-4911-86fb-b8322656ad82","isHidden":false,"type":"markdown"}]
+
+----
+
+Link-text: 
+
+----
+
+Link-url: 
+
+----
+
+Quote-text: 
+
+----
+
+Quote-source: 
+
+----
+
+Status: 
+
+----
+
+Old: 
