@@ -6,6 +6,18 @@ Published: 2021-05-13
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,38 +26,32 @@ Tags: Soapatrick, Theme
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I don\u2019t know how many hours I\u2019ve invested in the last two weeks for \nthis new theme iteration but I really like what I see now. Gone are few \nthings and I streamlined a lot of code in the back and I think the \nperformance got even better. But let\u2019s get into some details.<\/p>"},"id":"3faa8d1d-de69-4c58-91c0-600df385ef53","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Back to red"},"id":"292b4ada-8972-4322-8305-a4a05d87d6aa","isHidden":false,"type":"heading"},{"content":{"text":"<p>Gone is the dark mode and the ability to change colors, the website \nnow comes in just white with my favorite red. There are some pages with \nspecific color themes. The Lab for example has a dark mode with pink \ninstead of red. The Patrick page comes in full red and the privacy page \nin full black. I thought this gives the pages a nice touch and \ndistinctions itself from the rest of the page. But yeah red is back!<\/p>"},"id":"28134a7f-8d24-48b7-86e1-820951ff4300","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"No sidebar"},"id":"bb1c401d-2711-49ed-be49-bbf1468507e7","isHidden":false,"type":"heading"},{"content":{"text":"<p>Gone is the sidebar which usually displayed related content, I always\n had an idea to use more space in the horizontal direction but in the \nend, it started to bother me how it looked and at some point, when the \nscreen became too small, it was at the bottom anyway. So I got rid of \nit, makes it cleaner and no more strange color bars depending on your \nscreen size.<\/p>"},"id":"005eb8b6-1a8d-431e-acd0-af1ab66e99f5","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"New landingpage"},"id":"5b444eeb-d9f0-4614-b197-cc82e65510af","isHidden":false,"type":"heading"},{"content":{"text":"<p>The landing page is now showing the latest posts from the Box, the \nLab, and the Factory because sometimes I don\u2019t want to write a new blog \nentry but show my last work from the lab, and this way the website \nalways shows something new, regardless of what contest it is. There\u2019s \nalso a feed at the bottom which includes my last seen movies which I \nlogged on <a href=\"https:\/\/letterboxd.com\/soapatrick\/\" rel=\"noreferrer noopener\" target=\"_blank\">Letterboxd<\/a>.<\/p> <p>This means the actual blog now moved to the subpage box, and all \nblogposts have a new URL. I know this sucks because google has already \ncrawled all my blog posts (probably) and now they all need to be \nrecrawled but honestly, who has found this page through a google search.<\/p>"},"id":"8f0680d2-758e-482b-977d-5fac40f45f58","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"What else is coming"},"id":"31bd5d41-68df-4743-93fc-5a478c7c6ebe","isHidden":false,"type":"heading"},{"content":{"text":"<p>As always, when I release a new theme I have some ideas on what to \nchange, include or remove further down the road, and with SoaPatrickNine\n it\u2019s no different. I have an idea for some soapy graphics to include \nand because I have fixed color schemes, I want to try to include some 3D\n graphics as well. There\u2019s also an idea in my head of an animated SP \nLogo somewhere.<\/p> <p>I also want to include a quick button for RSS feeds for the \nindividual post types. Maybe someone just wants to subscribe to the Lab \nor the Factory, who knows.<\/p> <p>I might also play around with some icons and how they are displayed \n(especially for the individual blog posts) and maybe come up with a more\n compact list view for related stuff.<\/p>"},"id":"22b2220a-3829-4577-8bcc-1b73b30175fa","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"The road to 10"},"id":"a9cf31d2-b589-404d-b103-9db7b789ddc9","isHidden":false,"type":"heading"},{"content":{"text":"<p>Yes, this is version nine, and usually, a version sticks around for \naround 8 months which means a new version should be finished by the end \nof the year, oh man the pressure already. But because the next one will \nbe the 10th version I might take some more time\u2026 but who knows how \neverything will look like in 8 months, so I shouldn\u2019t worry too much and\n just enjoy what I\u2019ve created now, and so should you\u2026<\/p>"},"id":"2c0b49dd-06b4-41fe-b554-c3d7da0bf9d4","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I don't know how many hours I've invested in the last two weeks for this new theme iteration but I really like what I see now. Gone are few things and I streamlined a lot of code in the back and I think the performance got even better. But let's get into some details.
+Link-text: 
 
-## Back to red
+----
 
-Gone is the dark mode and the ability to change colors, the website now comes in just white with my favorite red. There are some pages with specific color themes. The Lab for example has a dark mode with pink instead of red. The Patrick page comes in full red and the privacy page in full black. I thought this gives the pages a nice touch and distinctions itself from the rest of the page. But yeah red is back!
+Link-url: 
 
-## No sidebar
+----
 
-Gone is the sidebar which usually displayed related content, I always had an idea to use more space in the horizontal direction but in the end, it started to bother me how it looked and at some point, when the screen became too small, it was at the bottom anyway. So I got rid of it, makes it cleaner and no more strange color bars depending on your screen size.
+Quote-text: 
 
-## New landingpage
+----
 
-The landing page is now showing the latest posts from the Box, the Lab, and the Factory because sometimes I don't want to write a new blog entry but show my last work from the lab, and this way the website always shows something new, regardless of what contest it is. There's also a feed at the bottom which includes my last seen movies which I logged on (link: https://letterboxd.com/soapatrick/ text: Letterboxd target: _blank).
+Quote-source: 
 
-This means the actual blog now moved to the subpage box, and all blogposts have a new URL. I know this sucks because google has already crawled all my blog posts (probably) and now they all need to be recrawled but honestly, who has found this page through a google search.
+----
 
-## What else is coming
+Status: 
 
-As always, when I release a new theme I have some ideas on what to change, include or remove further down the road, and with SoaPatrickNine it's no different. I have an idea for some soapy graphics to include and because I have fixed color schemes, I want to try to include some 3D graphics as well. There's also an idea in my head of an animated SP Logo somewhere.
+----
 
-I also want to include a quick button for RSS feeds for the individual post types. Maybe someone just wants to subscribe to the Lab or the Factory, who knows.
-
-I might also play around with some icons and how they are displayed (especially for the individual blog posts) and maybe come up with a more compact list view for related stuff.
-
-## The road to 10
-
-Yes, this is version nine, and usually, a version sticks around for around 8 months which means a new version should be finished by the end of the year, oh man the pressure already. But because the next one will be the 10th version I might take some more time... but who knows how everything will look like in 8 months, so I shouldn't worry too much and just enjoy what I've created now, and so should you...
+Old: 

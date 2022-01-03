@@ -12,7 +12,7 @@
     <h1 class="mt-0"><?= $page->title() ?></h1>
   </header>
   <div>
-    <?= markdown($page->text()) ?>
+    <?= markdown($page->text()->kt()) ?>
   </div>
 </article>
 <?php snippet('footer') ?>

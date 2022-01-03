@@ -2,18 +2,6 @@ Title: It's difficult to accept...
 
 ----
 
-Text: 
-
-----
-
-Old:
-
-> It's difficult to accept the difference between who you are in your head and who you are in the world.
-> 
-> _Abe Applebaum, The Kid Detective_
-
-----
-
 Published: 2021-03-24
 
 ----
@@ -39,3 +27,31 @@ Tags: Movie, Quote
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: <p>It's difficult to accept the difference between who you are in your head and who you are in the world.</p>
+
+----
+
+Quotesource: Abe Applebaum, The Kid Detective
+
+----
+
+Status: 
+
+----
+
+Old: 

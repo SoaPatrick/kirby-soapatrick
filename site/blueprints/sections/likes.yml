@@ -1,0 +1,9 @@
+type: pages
+headline: Likes
+parent: kirby.page("likes")
+info: "{{ page.category }}"
+template: like
+layout: list
+empty: No likes yet
+sortBy: published desc
+limit: 5

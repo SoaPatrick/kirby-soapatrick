@@ -2,7 +2,7 @@
 title: Home
 
 # Each page can have an icon that is shown in page listings when no preview image is available.
-icon: 🏠
+icon: home
 
 # Page options allow you to control how users can interact with the page.
 # Here we prevent changing the page status (the home page cannot be renamed or deleted by default)

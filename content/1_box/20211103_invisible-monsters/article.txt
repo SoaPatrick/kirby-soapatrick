@@ -6,6 +6,18 @@ Published: 2021-11-03
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,66 +26,32 @@ Tags: Book, Quote
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>During my vacation, I\u2019ve read my favorite book again, and I loved \nevery minute of it. It still fascinates me even after my fourth read or \nso. And this time I got very emotional at the end. So I thought I share \nsome snippets from the book, snippets that got to me or mean a lot to \nme.<\/p>"},"id":"34ad6bd5-0cff-406a-ad10-3624c49ba5e2","isHidden":false,"type":"text"},{"content":{"text":"Another thing is no matter how much you think you love somebody, you\u2019ll step back when the pool of their blood edges up too close.","citation":"","style":"default"},"id":"16910a34-8027-4ff3-9d1d-ef1f7660bfd6","isHidden":false,"type":"quote"},{"content":{"text":"<p>But hysteria is impossible without\n an audience. Panicking by yourself is the same as laughing alone in an \nempty room. You feel really silly.<\/p>","citation":"","style":"default"},"id":"d1417083-75ae-4e16-9eec-556ebd0533dd","isHidden":false,"type":"quote"},{"content":{"text":"<p>And I hate how I don\u2019t feel real enough unless people are watching<\/p>","citation":"","style":"default"},"id":"2aa28b0b-d054-4fe4-9fef-d47256509326","isHidden":false,"type":"quote"},{"content":{"text":"<p>And if you believe that we really \nhave free will, then you know that God can\u2019t really control us. And \nsince God can\u2019t control us, all God does is watch and change the \nchannels when He gets bored. Somewhere in heaven, you\u2019re live on a video\n Web site for God to surf.<\/p>","citation":"","style":"default"},"id":"c375e347-9015-443d-b7cb-d9e3f73acd0c","isHidden":false,"type":"quote"},{"content":{"text":"<p>The only reason why we ask other people how their weekend was is so we can tell them about our own weekend.<\/p>","citation":"","style":"default"},"id":"d3e66b8d-2a85-431e-b9f1-89e70445be6b","isHidden":false,"type":"quote"},{"content":{"text":"<p>When did the future switch from being a promise to being a threat.<\/p>","citation":"","style":"default"},"id":"3f7d5b10-fcb5-40c5-9cfb-d1d3388f216d","isHidden":false,"type":"quote"},{"content":{"text":"<p>Game shows are designed to make us feel better about the random, useless facts that are all we have left of our education.<\/p>","citation":"","style":"default"},"id":"6b7eb874-8c38-4e91-80c8-7bf65ad72265","isHidden":false,"type":"quote"},{"content":{"text":"<p>Only when we eat up this planet will God give us another. We\u2019ll be remembered more for what we destroy than what we create.<\/p>","citation":"","style":"default"},"id":"d6b38374-2363-4c88-85a4-f1d12f113002","isHidden":false,"type":"quote"},{"content":{"text":"<p>We are all self-composting.<\/p>","citation":"","style":"default"},"id":"d04e8f35-fb9f-4f3d-9a4f-e458e64aa94b","isHidden":false,"type":"quote"},{"content":{"text":"<p>When we don\u2019t know who to hate, we hate ourselves.<\/p>","citation":"","style":"default"},"id":"bbeb5034-b7f1-47eb-b835-bc61ee0c17e0","isHidden":false,"type":"quote"},{"content":{"text":"<p>You have to keep recycling yourself.<\/p>","citation":"","style":"default"},"id":"42d3a6bc-26d6-4650-ada0-c10deb0915ac","isHidden":false,"type":"quote"},{"content":{"text":"<p>Nothing of me is original. I am the combined effort of everybody I\u2019ve ever known.<\/p>","citation":"","style":"default"},"id":"d641e0f7-680c-45bb-ba08-131dbcf9cf65","isHidden":false,"type":"quote"},{"content":{"text":"<p>The one you love and the one who loves you are never, ever the same person.<\/p>","citation":"","style":"default"},"id":"4535c272-3b71-48de-b203-dc775a0b1426","isHidden":false,"type":"quote"},{"content":{"text":"<p>The most boring thing in the \nentire world, is nudity. The second most boring thing, is honesty. Think\n of this as a tease. It\u2019s lingerie for your face. A peekaboo nightgown \nyou wear over your whole identity.<\/p>","citation":"","style":"default"},"id":"5ecea26f-81e7-4a5d-89af-0b9cc76be90a","isHidden":false,"type":"quote"},{"content":{"text":"<p>Almost all the time, you tell yourself you\u2019re loving somebody when you\u2019re just using them. This only looks like love.<\/p>","citation":"","style":"default"},"id":"4fde65d9-a082-4781-ad22-f8c45ad81e87","isHidden":false,"type":"quote"},{"content":{"text":"<p>First your parents, they give you your life, but then they try to give you their life.<\/p>","citation":"","style":"default"},"id":"9413c8ec-8274-425a-bd4a-9c334ec10699","isHidden":false,"type":"quote"},{"content":{"text":"<p>Us in the speech therapist office,\n Brandy says, \u201cIt helps to know you\u2019re not any more responsible for how \nyou look than a car is, Brandy says. \u201cYou\u2019re a product just as much. A \nproduct of a product of a product. The people who design cars, they\u2019re \nproducts. Your parents are products. Their parents were products. Your \nteachers, products. The minister in your church, another product,\u201d \nBrandy says. Sometimes your best way to deal with shit, she says, is to \nnot hold yourself as such a precious little prize. \u201cMy point being, \u201d \nBrandy says, \u201cis you can\u2019t escape the world, and you\u2019re not responsible \nfor how you look, if you look beauticious or butt ugly. You\u2019re not \nresponsible for how you feel or what you say or how you act or anything \nyou do. It\u2019s all out of your hands,\u201d Brandy says. The same way a compact\n disk isn\u2019t responsible for what\u2019s recorded on it, that\u2019s how we are. \nYou\u2019re about as free to act as a programmed computer. You\u2019re about as \none-of-a-kind as a dollar bill. \u201cThere isn\u2019t any real you in you,\u201d she \nsays. \u201cEven your physical body, all your cells will be replaced within \neight years.\u201d Skin, bones, blood, and organs transplant from person to \nperson. Even what\u2019s inside you already, the colonies of microbes and \nbugs that eat your food for you, without them you\u2019d die. Nothing of you \nis all-the-way yours. All of you is inherited.<\/p>","citation":"","style":"default"},"id":"767d8d80-ec9d-49af-bece-b3f563f43e0f","isHidden":false,"type":"quote"},{"content":{"text":"<p>\u201cRelax,\u2019 Brandy says, \u201cWhatever \nyou\u2019re thinking, a million other folks are thinking. Whatever you do, \nthey\u2019re doing, and none of you is responsible. All of you is a \ncooperative effort.\u201d<\/p>","citation":"","style":"default"},"id":"0912d073-45d6-4c82-91c8-fa2e227547bd","isHidden":false,"type":"quote"},{"content":{"text":"<p>The best way is not to fight it, \njust go. Don\u2019t be trying all the time to fix things. What you run from \nonly stays with you longer. When you fight something, you only make it \nstronger.<\/p>","citation":"","style":"default"},"id":"573bff04-0a9f-46e3-8496-926a4aed8316","isHidden":false,"type":"quote"},{"content":{"text":"<p>She says, \u201cDon\u2019t do what you \nwant.\u201d She says, \u201cDo what you don\u2019t want. Do what you\u2019re trained not to \nwant.\u201d It\u2019s the opposite of following your bliss. Brandy tells me, \u201cDo \nthe things that scare you the most.<\/p>","citation":"","style":"default"},"id":"25a3ddbf-909d-484e-ab76-86082ac1f2b4","isHidden":false,"type":"quote"},{"content":{"text":"<p>Your birth is a mistake you\u2019ll spend your whole life trying to correct.<\/p>","citation":"","style":"default"},"id":"05e97ec5-0e68-4f70-9823-dfa4323b190f","isHidden":false,"type":"quote"},{"content":{"text":"<p>You spend your entire life becoming God and then you die.<\/p>","citation":"","style":"default"},"id":"333ded37-1c0a-4712-a141-7a622102c6bc","isHidden":false,"type":"quote"},{"content":{"text":"<p>When you don\u2019t share your problems, you resent hearing the problems of other people.<\/p>","citation":"","style":"default"},"id":"fe430a75-2787-4e87-91a7-020a31dffc6e","isHidden":false,"type":"quote"},{"content":{"text":"<p>All God does is watch us and kill us when we get boring. We must never, ever be boring.<\/p>","citation":"","style":"default"},"id":"d827d6b8-f544-435b-ad56-341928099964","isHidden":false,"type":"quote"},{"content":{"text":"<p>That\u2019s what I love about fire, how\n it would kill me as quick as anybody else. How it can\u2019t know I\u2019m its \nmother. It\u2019s so beautiful and powerful and beyond feeling anything for \nanybody, that\u2019s what I love about fire.<\/p>","citation":"","style":"default"},"id":"639fcd65-1e49-4faf-9fb3-3f8c35ad3be6","isHidden":false,"type":"quote"},{"content":{"text":"<p>And I\u2019d like to end it with this one.<\/p>"},"id":"8a7b05b5-b916-49d3-adfe-733289478d1a","isHidden":false,"type":"text"},{"content":{"text":"Thank You For NOT Sharing","citation":"","style":"large"},"id":"3e55d69f-5798-4f3c-b157-6a2694e40ffb","isHidden":false,"type":"quote"}]
 
 ----
 
-Old: During my vacation, I've read my favorite book again, and I loved every minute of it. It still fascinates me even after my fourth read or so. And this time I got very emotional at the end. So I thought I share some snippets from the book, snippets that got to me or mean a lot to me.
+Link-text: 
 
-> Another thing is no matter how much you think you love somebody, you'll step back when the pool of their blood edges up too close.
+----
 
-> But hysteria is impossible without an audience. Panicking by yourself is the same as laughing alone in an empty room. You feel really silly.
+Link-url: 
 
-> And I hate how I don’t feel real enough unless people are watching
+----
 
-> And if you believe that we really have free will, then you know that God can't really control us. And since God can't control us, all God does is watch and change the channels when He gets bored. Somewhere in heaven, you're live on a video Web site for God to surf.
+Quote-text: 
 
-> The only reason why we ask other people how their weekend was is so we can tell them about our own weekend.
+----
 
-> When did the future switch from being a promise to being a threat.
+Quote-source: 
 
-> Game shows are designed to make us feel better about the random, useless facts that are all we have left of our education.
+----
 
-> Only when we eat up this planet will God give us another. We'll be remembered more for what we destroy than what we create.
+Status: 
 
-> We are all self-composting.
+----
 
-> When we don't know who to hate, we hate ourselves.
-
-> You have to keep recycling yourself.
-
-> Nothing of me is original. I am the combined effort of everybody I've ever known.
-
-> The one you love and the one who loves you are never, ever the same person.
-
-> The most boring thing in the entire world, is nudity. The second most boring thing, is honesty. Think of this as a tease. It's lingerie for your face. A peekaboo nightgown you wear over your whole identity.
-
-> Almost all the time, you tell yourself you’re loving somebody when you’re just using them. This only looks like love.
-
-> First your parents, they give you your life, but then they try to give you their life.
-
-> Us in the speech therapist office, Brandy says, "It helps to know you're not any more responsible for how you look than a car is, Brandy says. "You're a product just as much. A product of a product of a product. The people who design cars, they're products. Your parents are products. Their parents were products. Your teachers, products. The minister in your church, another product," Brandy says. Sometimes your best way to deal with shit, she says, is to not hold yourself as such a precious little prize. "My point being, " Brandy says, "is you can't escape the world, and you're not responsible for how you look, if you look beauticious or butt ugly. You're not responsible for how you feel or what you say or how you act or anything you do. It's all out of your hands," Brandy says. The same way a compact disk isn't responsible for what's recorded on it, that's how we are. You're about as free to act as a programmed computer. You're about as one-of-a-kind as a dollar bill. "There isn't any real you in you," she says. "Even your physical body, all your cells will be replaced within eight years." Skin, bones, blood, and organs transplant from person to person. Even what's inside you already, the colonies of microbes and bugs that eat your food for you, without them you'd die. Nothing of you is all-the-way yours. All of you is inherited.
-
-> "Relax,' Brandy says, "Whatever you're thinking, a million other folks are thinking. Whatever you do, they're doing, and none of you is responsible. All of you is a cooperative effort."
-
-> The best way is not to fight it, just go. Don't be trying all the time to fix things. What you run from only stays with you longer. When you fight something, you only make it stronger.
-
-> She says, "Don't do what you want." She says, "Do what you don't want. Do what you're trained not to want." It's the opposite of following your bliss. Brandy tells me, "Do the things that scare you the most.
-
-> Your birth is a mistake you'll spend your whole life trying to correct.
-
-> You spend your entire life becoming God and then you die.
-
-> When you don't share your problems, you resent hearing the problems of other people.
-
-> All God does is watch us and kill us when we get boring. We must never, ever be boring.
-
-> That's what I love about fire, how it would kill me as quick as anybody else. How it can't know I'm its mother. It's so beautiful and powerful and beyond feeling anything for anybody, that's what I love about fire.
-
-And I'd like to end it with this one.
-
-> Thank You For NOT Sharing
+Old: 

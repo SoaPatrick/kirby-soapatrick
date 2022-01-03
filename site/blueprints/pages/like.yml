@@ -1,0 +1,34 @@
+title: Like
+
+icon: layers
+
+num: '{{ page.published.toDate("Ymd") }}'
+
+status:
+  draft: In Development
+  listed: Distributed
+
+columns:
+  - width: 1/3
+    fields:
+      published:
+        label: Published on
+        type: date
+        default: today
+      cover:
+        type: files
+        multiple: false
+        label: Featured Image
+        layout: cards
+        image:
+          ratio: 2/3
+        required: true
+      category:
+        type: radio
+        accept: options
+        options: api
+        api:
+          url: "{{ kirby.option('optionApiUrl') }}/tags.json"
+          fetch: likes-categories
+          text: "{{ item.name }}"
+          value: "{{ item.name }}"

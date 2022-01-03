@@ -7,3 +7,6 @@ layout: list
 empty: No log entry yet
 sortBy: published desc
 limit: 10
+image:
+  icon: code
+  back: gray-800

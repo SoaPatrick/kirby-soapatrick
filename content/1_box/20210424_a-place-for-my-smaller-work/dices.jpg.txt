@@ -1,0 +1,9 @@
+Alt: Falling dices made in Blender
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

@@ -33,14 +33,6 @@ columns:
           link: Link
           quote: Quote
           status: Status
-      video:
-        type: files
-        multiple: false
-        query: site.videos
-        label: Video
-        uploads: false
-        when:
-          format: video
       category:
         type: radio
         placeholder: chose category
@@ -77,31 +69,31 @@ columns:
         size: large
         when:
           format: standard
-      link-text:
+      linktext:
         type: writer
         label: Text
         marks:
           - bold
         when:
           format: link
-      link-url:
+      linkurl:
         label: URL
         type: url
         when:
           format: link
-      quote-text:
+      quotetext:
         label: Quote
         type: writer
         marks:
           - bold
         when:
           format: quote
-      quote-source:
+      quotesource:
         label: Source
         type: text
         when:
           format: quote
-      status:
+      statustext:
         type: writer
         marks:
           - bold

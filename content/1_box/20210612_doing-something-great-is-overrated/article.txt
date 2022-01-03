@@ -2,18 +2,6 @@ Title: Doing something great is overrated.
 
 ----
 
-Text: 
-
-----
-
-Old:
-
-> Doing something great is overrated. 'Cause then people expect that from you… all the time. What they don't realize is you're just as screwed up as they are.
-> 
-> Mare, Mare of Easttown S01E05
-
-----
-
 Published: 2021-06-12
 
 ----
@@ -39,3 +27,47 @@ Tags: Quote, TV Show
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: <p>Doing something great is overrated. ‘Cause then people expect that from you… all the time. What they don’t realize is you’re just as screwed up as they are.</p>
+
+----
+
+Quotesource: Mare, Mare of Easttown S01E05
+
+----
+
+Status: 
+
+----
+
+Old: asdasdasd
+
+----
+
+Link-text: 
+
+----
+
+Link-url: 
+
+----
+
+Quote-text: 
+
+----
+
+Quote-source: 

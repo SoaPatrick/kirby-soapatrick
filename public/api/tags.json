@@ -66,5 +66,10 @@
     { "name": "Short Film" },
     { "name": "Video" },
     { "name": "Webdesign" }
+  ],
+  "likes-categories": [
+    { "name": "Movie" },
+    { "name": "TV Show" },
+    { "name": "Book" }
   ]
 }

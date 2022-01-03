@@ -6,6 +6,18 @@ Published: 2021-01-02
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,47 +26,32 @@ Tags: List, Movie, Recap, TV Show
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>Last <a href=\"\/box\/some-thoughts-on-2019\/\" rel=\"noopener noreferrer\">year<\/a> I started with a different kind of look back or recap on the previous year, no more top ten lists but rather an unsorted or alphabetical list of things I liked and didn\u2019t quite like. And also some notes on stuff I did.<\/p><p>The idea was to summarize and categorize the year quickly in good and bad stuff with some noteworthy things. So like <a href=\"\/box\/2020-in-numbers\/\" rel=\"noopener noreferrer\">yesterday<\/a>\u2018s post, I will keep this tradition and do the same thing again with 2020.<\/p>"},"id":"51e83f1a-eeae-459c-a8cb-000e0ba7aef9","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Things I liked"},"id":"437a7bfe-989e-42fb-955c-cf9e7ca2bcaa","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><strong>Better Call Saul<\/strong>, the fifth season is the best new thing on TV I\u2019ve seen all year. The last three episodes were absolute nailbiters.<\/li><li><strong><a href=\"https:\/\/www.blender.org\/\" rel=\"noreferrer noopener\" target=\"_blank\">Blender<\/a><\/strong>, this free tool allowed me to be able to create anything from nothing in 3D, which really lifted my spirit.<\/li><li><strong>Firefox<\/strong>,\n this is my go-to browser on all my devices now and I\u2019m glad I made the \nswitch to a browser that I believe actually cares about privacy.<\/li><li><strong>Good movies from 2019<\/strong>, I finally came around to seeing some missed good movies from 2019 like Ford vs Ferrari and Knives Out.<\/li><li><a href=\"https:\/\/www.youtube.com\/channel\/UCYJdpnjuSWVOLgGT9fIzL0g\" rel=\"noreferrer noopener\" target=\"_blank\"><strong>Jelle&rsquo;s Marble Runs<\/strong><\/a>,\n another uplifting thing that replaced all the sporting events that were\n canceled. I never thought marbles could deliver so much joy.<\/li><li><strong>Mank<\/strong>,\n a new movie by David Fincher is always something special. Seeing it on \nthe big screen even more special. Not his best film but certainly his \nmost beautiful.<\/li><li><strong>Old movies<\/strong>, saw some older movies again, due to a lack of new releases, which reminded me of better times.<\/li><li><strong>Red Dead Redemption 2<\/strong>, is something I was addicted to and delivered much-needed escapism.<\/li><li><strong>Streamers<\/strong>, Netflix really benefited in times of a Pandemic and released new content constantly, I loved it.<\/li><li><strong>The Social Dilemma<\/strong>,\n this docu on Netflix was the final thing that I needed to go through \navoiding (but not yet deleting) Facebook and rethink my use of social \nmedia.<\/li><li><strong>Trump losing<\/strong>, seeing him finally losing was a huge relief.<\/li><li><strong>Uplifting movies<\/strong>,\n in dire times it\u2019s important to lift oneself up, especially in a year \nlike last year. Movies that lifted me up were Palm Springs, Bill & \nTed Face the Music or Soul.<\/li><\/ul>"},"id":"2639181b-dc12-49b6-abcf-6379110e6937","isHidden":false,"type":"list"},{"content":{"level":"h2","text":"Things I didn\u2019t like"},"id":"95926ad2-b121-4d93-8327-3e665aca04d1","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><strong>Cats<\/strong>, every year there are bad movies and I\u2019ve seen quite a few but nothing was as bad as this one.<\/li><li><strong>Conspiracy Theorists<\/strong>, these annoy the hell out of me and I don\u2019t quite understand how to deal with them.<\/li><li><strong>Corona (COVID-19)<\/strong>, what is there to say, is the world reacting to our overpopulation? Is this just the beginning? I don\u2019t know.<\/li><li><strong>People who think they know better than scientists<\/strong>, another group of people that annoy me, especially in a year like last year.<\/li><li><strong>Unfinished Projects<\/strong>, I started a few new short projects again this year and never finishing them, this has to stop, or at least get better.<\/li><li><strong>YouTube<\/strong>,\n as much as I love YouTube, the service has become really bad this year \nwith the constant ad-breaks. Plus I\u2019ve been watching too much of it, \nwell it was a weird year.<\/li><\/ul>"},"id":"952a7fbc-fa8a-4e8d-9338-cf30e34e21ac","isHidden":false,"type":"list"},{"content":{"level":"h2","text":"What else did I do?"},"id":"53e81e03-6d1d-431a-9d9d-d09d867b7419","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Build my own gaming\/Blender PC<\/li><li>Used the free time I got to learn Blender again<\/li><li>Released two themes (SP7 and SP8)<\/li><li>Continued again with walking through every street in Basel<\/li><li>Started to Vlog privately<\/li><li>Improved my photography skills<\/li><\/ul>"},"id":"9e672456-6a2b-4fd4-9e3b-24b8ed5470d7","isHidden":false,"type":"list"}]
 
 ----
 
-Old: Last (link: https://www.soapatrick.com/2020/01/some-thoughts-on-2019/ text: year target: _blank) I started with a different kind of look back or recap on the previous year, no more top ten lists but rather an unsorted or alphabetical list of things I liked and didn't quite like. And also some notes on stuff I did.
+Linktext: 
 
-The idea was to summarize and categorize the year quickly in good and bad stuff with some noteworthy things. So like (link: https://www.soapatrick.com/2021/01/2020-in-numbers/ text: yesterday target: _blank)'s post, I will keep this tradition and do the same thing again with 2020.
+----
 
-## Things I liked
+Linkurl: 
 
-- **Better Call Saul**, the fifth season is the best new thing on TV I've seen all year. The last three episodes were absolute nailbiters.
-- **[Blender](https://www.blender.org/)**, this free tool allowed me to be able to create anything from nothing in 3D, which really lifted my spirit.
-- **Firefox**, this is my go-to browser on all my devices now and I'm glad I made the switch to a browser that I believe actually cares about privacy.
-- **Good movies from 2019**, I finally came around to seeing some missed good movies from 2019 like Ford vs Ferrari and Knives Out.
-- (link: https://www.youtube.com/channel/UCYJdpnjuSWVOLgGT9fIzL0g text: **Jelle’s Marble Runs** target: _blank), another uplifting thing that replaced all the sporting events that were canceled. I never thought marbles could deliver so much joy.
-- **Mank**, a new movie by David Fincher is always something special. Seeing it on the big screen even more special. Not his best film but certainly his most beautiful.
-- **Old movies**, saw some older movies again, due to a lack of new releases, which reminded me of better times.
-- **Red Dead Redemption 2**, is something I was addicted to and delivered much-needed escapism.
-- **Streamers**, Netflix really benefited in times of a Pandemic and released new content constantly, I loved it.
-- **The Social Dilemma**, this docu on Netflix was the final thing that I needed to go through avoiding (but not yet deleting) Facebook and rethink my use of social media.
-- **Trump losing**, seeing him finally losing was a huge relief.
-- **Uplifting movies**, in dire times it's important to lift oneself up, especially in a year like last year. Movies that lifted me up were Palm Springs, Bill & Ted Face the Music or Soul.
+----
 
-## Things I didn’t like
+Quotetext: 
 
-- **Cats**, every year there are bad movies and I've seen quite a few but nothing was as bad as this one.
-- **Conspiracy Theorists**, these annoy the hell out of me and I don't quite understand how to deal with them.
-- **Corona (COVID-19)**, what is there to say, is the world reacting to our overpopulation? Is this just the beginning? I don't know.
-- **People who think they know better than scientists**, another group of people that annoy me, especially in a year like last year.
-- **Unfinished Projects**, I started a few new short projects again this year and never finishing them, this has to stop, or at least get better.
-- **YouTube**, as much as I love YouTube, the service has become really bad this year with the constant ad-breaks. Plus I've been watching too much of it, well it was a weird year.
+----
 
-## What else did I do?
+Quotesource: 
 
-- Build my own gaming/Blender PC
-- Used the free time I got to learn Blender again
-- Released two themes (SP7 and SP8)
-- Continued again with walking through every street in Basel
-- Started to Vlog privately
-- Improved my photography skills
+----
+
+Status: 
+
+----
+
+Old: 

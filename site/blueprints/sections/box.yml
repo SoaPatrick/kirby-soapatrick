@@ -6,6 +6,8 @@ template: article
 layout: list
 empty: No article yet
 sortBy: published desc
-limit: 10
+limit: 20
 image:
   query: page.cover.toFile
+  icon: box
+  back: gray-800

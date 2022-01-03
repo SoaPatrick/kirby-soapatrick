@@ -2,14 +2,6 @@ Title: I just need more time...
 
 ----
 
-Text: 
-
-----
-
-Old: I just need more time, the day currently has not enough hours for me to finish all the things I want to do in a day. Do some **blendering**, some **writing**, some **coding**, or just some **relaxing** and **watching** TV
-
-----
-
 Published: 2021-05-25
 
 ----
@@ -22,10 +14,6 @@ Format: status
 
 ----
 
-Video: 
-
-----
-
 Category: Stuff thats happening
 
 ----
@@ -35,3 +23,55 @@ Tags: Status
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: <p>I just need more time, the day currently has not enough hours for me to finish all the things I want to do in a day. Do some <strong>blendering</strong>, some <strong>writing</strong>, some <strong>coding</strong>, or just some <strong>relaxing</strong> and <strong>watching</strong> TV</p>
+
+----
+
+Old: 
+
+----
+
+Video: 
+
+----
+
+Link-text: 
+
+----
+
+Link-url: 
+
+----
+
+Quote-text: 
+
+----
+
+Quote-source: 
+
+----
+
+Status: <p>I just need more time, the day currently has not enough hours for me to finish all the things I want to do in a day. Do some <strong>blendering</strong>, some <strong>writing</strong>, some <strong>coding</strong>, or just some <strong>relaxing</strong> and <strong>watching</strong> TV</p>

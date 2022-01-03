@@ -10,4 +10,4 @@ image:
   ratio: 1/1
 empty: No lab items yet
 sortBy: published desc
-limit: 10
+limit: 5

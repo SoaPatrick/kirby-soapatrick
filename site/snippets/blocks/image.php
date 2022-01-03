@@ -9,13 +9,18 @@ $ratio    = $block->ratio()->or('auto');
 $src      = null;
 $lightbox = $block->lightbox()->isTrue();
 $align    = $block->align();
-$id       = $block->_uid();
+$id       = $block->id();
 
 if ($block->location() == 'web') {
     $src = $block->src()->esc();
     $dimensions = '';
 } elseif ($image = $block->image()->toFile()) {
-    $alt = $alt ?? $image->alt();
+    if ($alt->isEmpty()) {
+      $alt = $image->alt();
+    }
+    if ($caption->isEmpty()) {
+      $caption = $image->caption();
+    }
     $src = $image->url();
     $dimensions = 'width="'.$image->width().'" height="'.$image->height().'"';
 }

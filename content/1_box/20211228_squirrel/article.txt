@@ -1,0 +1,63 @@
+Title: Squirrel!
+
+----
+
+Published: 2021-12-28
+
+----
+
+Cover:
+
+- dug-squirrel.png
+
+----
+
+Format: standard
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: Personal
+
+----
+
+Project: 
+
+----
+
+Text: [{"content":{"text":"<p>I\u2019ve noticed something during this year. I have a habit to switch focus whenever I see something shiny or new. This could be like some new technology to build websites or cool software to make movies. But it happens with gadgets as well. The idea that I just need this one gadget and then I\u2019m able to do what I always wanted to is something that follows me for quite some time. Maybe these strange times with corona made me realize this even more.<\/p><p>There\u2019s a character that pretty much sums this behavior up perfectly: It\u2019s the dog from the movie Up. Frankly, I\u2019m not sure if this has everyone to a certain degree or if this behavior is more pronounced with me but I know that I need to tame it down a bit.<\/p><p>I know that one of the new year\u2019s resolutions for this <a href=\"\/box\/whats-in-store-for-2021\/\" rel=\"noopener noreferrer\">year<\/a> was <strong>to be more focused<\/strong> and I think I failed a bit, or I could do better (to not put such a negative spin on it). One way is to put a system in place which allows me to focus on tiny parts of a bigger project and in the meantime move distractions away. I think I also need to focus on fewer things because otherwise, the focus for all those things will be running thin.<\/p><p>I think I need to have an idea of what I want to do, where my creative outlet should be, and then I need to create a plan on how I achieve my goals the best way.<\/p>"},"id":"b1ca5964-402b-472c-94df-57fe951b0bae","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 
+
+----
+
+Video: 
+
+----
+
+Status: 

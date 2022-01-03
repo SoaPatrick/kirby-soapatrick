@@ -6,6 +6,18 @@ Published: 2021-09-30
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,16 +26,32 @@ Tags: Personal
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I know I\u2019m still quiet but I\u2019m crawling to the finish line and \nhopefully, this off time will give me a boost. I do have some plans for \nthat time, like doing a video course in <a href=\"https:\/\/threejs.org\/\" rel=\"noreferrer noopener\" target=\"_blank\">ThreeJS<\/a>, reading two books (one of them being my favorite one \u201c<a href=\"https:\/\/en.wikipedia.org\/wiki\/Invisible_Monsters\" rel=\"noreferrer noopener\" target=\"_blank\">Invisible Monsters<\/a>\u201c),\n taking long walks, maybe do a very spontaneous short city trip, meet \nsome friends (which is long overdue), catch up on some tv shows and \nmovies and some other stuff, but not much else.<\/p>\n\n\n\n<p>Yeah I know it\u2019s a lot, and maybe some of those things will be \nsidelined because something else comes up, that\u2019s usually what happens \nwith plans, they can change.<\/p>\n\n\n\n<p>It\u2019s not that I did nothing the last few weeks. I did some work with \nThreeJS already, but I\u2019m not yet ready to show this. I\u2019ve also done some\n small work with <a href=\"https:\/\/vuejs.org\/\" rel=\"noreferrer noopener\" target=\"_blank\">Vue.js<\/a>\n and REST-API, but that\u2019s something for some other time as well. So I \nkeep myself a bit busy from time to time but it\u2019s time-consuming and \ntime is precious right now, especially because I\u2019m tired a lot after \nwork, that break can\u2019t get here any sooner.<\/p>"},"id":"48f9cc42-0d2e-4c98-8998-e55890af62ef","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I know I'm still quiet but I'm crawling to the finish line and hopefully, this off time will give me a boost. I do have some plans for that time, like doing a video course in (link: https://threejs.org/ text: ThreeJS target: _blank), reading two books (one of them being my favorite one "(link: https://en.wikipedia.org/wiki/Invisible_Monsters text: Invisible Monsters target: _blank)"), taking long walks, maybe do a very spontaneous short city trip, meet some friends (which is long overdue), catch up on some tv shows and movies and some other stuff, but not much else.
+Link-text: 
 
-Yeah I know it's a lot, and maybe some of those things will be sidelined because something else comes up, that's usually what happens with plans, they can change.
+----
 
-It's not that I did nothing the last few weeks. I did some work with ThreeJS already, but I'm not yet ready to show this. I've also done some small work with (link: https://vuejs.org/ text: Vue.js target: _blank) and REST-API, but that's something for some other time as well. So I keep myself a bit busy from time to time but it's time-consuming and time is precious right now, especially because I'm tired a lot after work, that break can't get here any sooner.
+Link-url: 
+
+----
+
+Quote-text: 
+
+----
+
+Quote-source: 
+
+----
+
+Status: 
+
+----
+
+Old: 

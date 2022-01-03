@@ -1,0 +1,16 @@
+title: Likes
+
+icon: 🖼
+
+columns:
+  - width: 1/1
+    sections:
+      drafts:
+        extends: sections/likes
+        headline: Drafts
+        status: draft
+
+      listed:
+        extends: sections/likes
+        headline: Published
+        status: listed

@@ -34,6 +34,30 @@ Text:
 
 ----
 
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: <p>The ultimate answer to life, the universe and everything is…42!</p>
+
+----
+
+Quotesource: Douglas Adams, The Hitchhiker’s Guide to the Galaxy
+
+----
+
+Status: 
+
+----
+
+Old: 
+
+----
+
 Link-text: 
 
 ----
@@ -47,15 +71,3 @@ Quote-text: <p>The ultimate answer to life, the universe and everything is…42!
 ----
 
 Quote-source: Douglas Adams, The Hitchhiker's Guide to the Galaxy
-
-----
-
-Status: 
-
-----
-
-Old:
-
-> The ultimate answer to life, the universe and everything is…42!
-> 
-> Douglas Adams, The Hitchhiker's Guide to the Galaxy

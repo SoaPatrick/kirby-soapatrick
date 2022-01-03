@@ -6,12 +6,11 @@
   <?php else: ?>
     <div class="marginal-icon marginal-icon--large mb-2 sm:mb-0 sm:absolute grid place-items-center">
         <?= $page->icon(); ?>
-    </div>    
+    </div>
     <h1><?= $page->title() ?></h1>
     <?php $articles = $page->children()->listed()->flip()->paginate(12) ?>
     <p class="text-lg"><?= $page->description() ?></p>
   <?php endif ?>
-  <div>
 </header>
 <div>
   <div>

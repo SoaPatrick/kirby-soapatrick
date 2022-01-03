@@ -1,0 +1,9 @@
+Alt: Colored pens made with Blender
+
+----
+
+Caption: Colored pens made with Blender
+
+----
+
+Template: blocks/image

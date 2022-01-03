@@ -6,6 +6,18 @@ Published: 2021-01-01
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
+Video: 
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,26 +26,32 @@ Tags: Stats
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>Last year I <a href=\"\/box\/2019-in-numbers\/\" rel=\"noopener noreferrer\">wrote<\/a> a short post about some numbers from 2019 and I thought I keep this tradition because it\u2019s always fun to look back and see how I stack up compared to previous years.<\/p><p>So here are last years numbers:<\/p>"},"id":"fb400b28-7e84-4dc5-b4e3-cf9538385a68","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>I wrote <strong>54 Blog posts<\/strong> (11\u2019664 words)<\/li><li>I shot and finished <strong>ONE Movie<\/strong> (started more though)<\/li><li>I posted <strong>8 Fotos<\/strong> on Instagram<\/li><li>I watched <strong>120 Movies<\/strong><\/li><li>I watched <strong>208+ TV Episodes<\/strong><\/li><\/ul>"},"id":"13ec9002-7613-482a-bff1-37360590e35e","isHidden":false,"type":"list"},{"content":{"text":"<p>Some notes on those numbers. I increased the number of Blog posts, which is nice and I also wrote over 2000 words more than in 2019. On the other hand, I only shot <a href=\"\/box\/race-a-short-blender-animation\/\" rel=\"noopener noreferrer\">one movie<\/a> (though at least it was a fully animated one) and I only posted 8 images on Instagram. About that, I feel like leaving Instagram as well after I deleted Facebook from my iPhone and never really logged in on my Mac after that.<\/p><p>I did watch more movies and decreased the number of watched TV Show Episodes which is something I\u2019ve actually wanted to do, so good for me.<\/p><p>All in all, it was a productive year when you consider the circumstances. Hopefully, I can increase certain things this year, but I will go into further details about my plans in another post.<\/p>"},"id":"1b93a961-c502-4e3f-8005-e8e5b24c5f33","isHidden":false,"type":"text"}]
 
 ----
 
-Old: Last year I (link: https://www.soapatrick.com/2020/01/2019-in-numbers/ text: wrote target: _blank) a short post about some numbers from 2019 and I thought I keep this tradition because it's always fun to look back and see how I stack up compared to previous years.
+Linktext: 
 
-So here are last years numbers:
+----
 
-- I wrote 54 Blog posts (11’664 words)
-- I shot and finished ONE Movie (started more though)
-- I posted 8 Fotos on Instagram
-- I watched 120 Movies
-- I watched 208+ TV Episodes
+Linkurl: 
 
-Some notes on those numbers. I increased the number of Blog posts, which is nice and I also wrote over 2000 words more than in 2019. On the other hand, I only shot (link: https://www.soapatrick.com/2020/05/race-a-short-blender-animation/ text: one movie target: _blank) (though at least it was a fully animated one) and I only posted 8 images on Instagram. About that, I feel like leaving Instagram as well after I deleted Facebook from my iPhone and never really logged in on my Mac after that.
+----
 
-I did watch more movies and decreased the number of watched TV Show Episodes which is something I've actually wanted to do, so good for me.
+Quotetext: 
 
-All in all, it was a productive year when you consider the circumstances. Hopefully, I can increase certain things this year, but I will go into further details about my plans in another post.
+----
+
+Quotesource: 
+
+----
+
+Status: 
+
+----
+
+Old: 

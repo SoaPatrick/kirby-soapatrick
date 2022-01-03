@@ -1,6 +1,6 @@
 <?php snippet('header'); ?>
 <header class="mt-4 mb-16">
-  <img src="<?= $site->url(); ?>/assets/img/patrick3.jpg?_t=20210911" alt="Patrick" width="400" height="400" class="text-center mx-auto rounded-full text-center w-32">
+  <img src="<?= $site->url(); ?>/assets/img/patrick3.jpg?_t=20210911" alt="Patrick" width="400" height="400" class="text-center mx-auto rounded-full w-32">
   <h1 class="text-center">Soa<span class="relative top-2">Patrick</span></h1>
   <p class="text-center text-lg">
     Welcome to my small nook of <strong>space-consuming</strong> bullshit where I babble about all kinds of stuff that interests me.

@@ -19,7 +19,7 @@ fields:
     label: Style
     type: radio
     columns: 2
-    default: "default"
+    default: default
     options:
       default: Default
       large: Large

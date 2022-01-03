@@ -1,0 +1,9 @@
+Alt: this alt is on the image
+
+----
+
+Caption: this caption is on the image
+
+----
+
+Template: blocks/image
