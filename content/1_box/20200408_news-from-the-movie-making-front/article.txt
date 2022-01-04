@@ -6,6 +6,14 @@ Published: 2020-04-08
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,19 +22,32 @@ Tags: Filming, Movie
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>For the last few days of the special working condition, I was focusing on adding new cool stuff to <a href=\"\/factory\/soapatrickseven\/\" rel=\"noopener noreferrer\">SoaPatrickSeven<\/a>, played around with Blender a bit and came up with two new ideas for short films. Yes, I\u2019ve mentioned project ideas in the <a href=\"\/box\/how-long-do-we-have\/\" rel=\"noopener noreferrer\">past<\/a> which never came to fruition. I would say not YET. They are still in my head, just waiting for the right moment to go further.<\/p><p>So what are the two new ideas? Well, I can name the titles, or let\u2019s call them working titles because they still might change.<\/p>"},"id":"c02a7dbe-6b5d-40e6-a4d4-296a0728547c","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><strong>Home Office<\/strong><\/li><li><strong>Infestation<\/strong><\/li><\/ul>"},"id":"d03849f4-30af-46e6-a66d-f2b457354500","isHidden":false,"type":"list"},{"content":{"text":"<p>Yes, both titles have some relevance to the current world situation I\n think that\u2019s why those will be my next ones. One of them is (and should\n be) something smaller, while the other one is a bit a more ambitious \nproject, but I look forward to making them both.<\/p>"},"id":"c31180e8-cbf1-4780-80e9-f357b4123f64","isHidden":false,"type":"text"}]
 
 ----
 
-Old: For the last few days of the special working condition, I was focusing on adding new cool stuff to (link: https://www.soapatrick.com/factory/soapatrickseven/ text: SoaPatrickSeven target: _blank), played around with Blender a bit and came up with two new ideas for short films. Yes, I've mentioned project ideas in the (link: https://www.soapatrick.com/2019/10/how-long-do-we-have/ text: past target: _blank) which never came to fruition. I would say not YET. They are still in my head, just waiting for the right moment to go further.
+Linktext: 
 
-So what are the two new ideas? Well, I can name the titles, or let's call them working titles because they still might change.
+----
 
-- **Home Office**
-- **Infestation**
+Linkurl: 
 
-Yes, both titles have some relevance to the current world situation I think that's why those will be my next ones. One of them is (and should be) something smaller, while the other one is a bit a more ambitious project, but I look forward to making them both.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

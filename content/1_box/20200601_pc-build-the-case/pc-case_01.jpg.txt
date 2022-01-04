@@ -1,0 +1,9 @@
+Alt: be quiet! Pure Base 500XD
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

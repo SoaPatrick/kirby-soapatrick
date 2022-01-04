@@ -6,6 +6,14 @@ Published: 2020-04-04
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,36 +22,32 @@ Tags: css, Theme
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I don\u2019t know why I didn\u2019t think of that earlier, but what this place definitely was missing, is colorized fancy scrollbars!<\/p> <p>So I made a new update today (in which I also fixed the page title \nfor the Factory page) and now the scrollbar changes with the color theme\n as well.<\/p>"},"id":"ad6f432e-b350-4633-973c-a5e21057dae0","isHidden":false,"type":"text"},{"content":{"code":"\/* Scrollbar *\/\n::-webkit-scrollbar {\n  width: 8px;\n  height: 8px;\n}\n\n\/* Track *\/\n::-webkit-scrollbar-track {\n  background: transparent;\n}\n\n\/* Handle *\/\n::-webkit-scrollbar-thumb {\n  background: var(--color__highlight);\n}","language":"css"},"id":"53c2d6f3-67ec-4c6d-a8bd-0a71329dc90c","isHidden":false,"type":"code"},{"content":{"text":"<p>Now the scrollbar styling works for horizontal and vertical scrolling in <strong>Chrome<\/strong> and <strong>Safari<\/strong>, unfortunately not in Firefox and Microsoft Edge. The Edge thing is kinda strange because the latest Edge Browser uses a Chromium engine, oh well.<\/p><p>As for IE11, well I will have some interesting news about that tomorrow.<\/p>"},"id":"174d965a-4238-4e3b-99aa-a25b8bf5144b","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I don't know why I didn't think of that earlier, but what this place definitely was missing, is colorized fancy scrollbars!
+Linktext: 
 
-So I made a new update today (in which I also fixed the page title for the Factory page) and now the scrollbar changes with the color theme as well.
+----
 
-```css
-/* Scrollbar */
-::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
-}
+Linkurl: 
 
-/* Track */
-::-webkit-scrollbar-track {
-  background: transparent;
-}
+----
 
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: var(--color__highlight);
-}
-```
+Quotetext: 
 
-Now the scrollbar styling works for horizontal and vertical scrolling in **Chrome** and **Safari**, unfortunately not in Firefox and Microsoft Edge. The Edge thing is kinda strange because the latest Edge Browser uses Chromium engine, oh well.
+----
 
-As for IE11, well I will have some interesting news to that tomorrow.
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

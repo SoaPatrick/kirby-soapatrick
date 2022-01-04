@@ -6,6 +6,14 @@ Published: 2020-05-25
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,23 +22,32 @@ Tags: Blender
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"columns":2,"lightbox":"true","align":"content","images":["apartment_07.jpg","apartment_08.jpg","apartment_09.jpg","apartment_10.jpg"]},"id":"4507afca-fe90-473b-976a-2dbe10ec5079","isHidden":false,"type":"gallery"},{"content":{"text":"<p>It seems all that I\u2019m currently working on is my Apartment in \nBlender, which is only half true, there are or were other projects which\n will all become their spotlight here as well, but slowly adding more \ndetails to my living room and making it look more and more real is so \nmuch fun.<\/p> <p>The next step will be to find a way on how to add all those bottles \nand glasses to the bar without adding a ton of new objects and faces \nwhich could really make rendering those images a loooooong process. \nMaybe some array modifiers combined with clever inclusion of images \nmight do the trick.<\/p>"},"id":"f3766ed5-f1fe-45f9-8151-9075a33fec5a","isHidden":false,"type":"text"}]
 
 ----
 
-Old: - ![](https://www.soapatrick.com/wp-content/uploads/2020/05/apartmenr_07.jpg)
-    
-- ![](https://www.soapatrick.com/wp-content/uploads/2020/05/apartmenr_08.jpg)
-    
-- ![](https://www.soapatrick.com/wp-content/uploads/2020/05/apartmenr_09.jpg)
-    
-- ![](https://www.soapatrick.com/wp-content/uploads/2020/05/apartmenr_10.jpg)
-    
+Linktext: 
 
-It seems all that I'm currently working on is my Apartment in Blender, which is only half true, there are or were other projects which will all become their spotlight here as well, but slowly adding more details to my living room and making it look more and more real is so much fun.
+----
 
-The next step will be to find a way on how to add all those bottles and glasses to the bar without adding a ton of new objects and faces which could really make rendering those images a loooooong process. Maybe some array modifiers combined with clever inclusion of images might do the trick.
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

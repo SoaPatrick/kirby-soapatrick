@@ -1,0 +1,9 @@
+Alt: ASUS ROG Strix GeForce RTX 2070 SUPER
+
+----
+
+Caption: (link: https://www.asus.com/ch-de/Graphics-Cards/ROG-STRIX-RTX2070S-A8G-GAMING/ text: ASUS ROG Strix GeForce RTX 2070 SUPER target: _blank)
+
+----
+
+Template: blocks/image

@@ -6,6 +6,14 @@ Published: 2020-03-27
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,20 +22,32 @@ Tags: Status, Theme
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>It\u2019s a crazy time and I didn\u2019t expect it to get this bad, but that\u2019s the situation now, so let\u2019s make the <strong>best<\/strong> of it.<\/p><p>On my end, I was busy the first half of the month finishing the corporate website for my employer. It was an interesting project, creating such a big website with WordPress was a big learning experience. A lot of things I learned and discovered flew into SoaPatrickSeven.<\/p><p>One of the things that I adapted here is the theme and template structure, a more lean and logical structure of all the files in the theme. This structure makes it easier for other people to find things if they have to make changes to a theme. I know this isn\u2019t relevant with <strong>SoaPatrick<\/strong> but it\u2019s helpful anyway.<\/p><p>Then I also got rid of all the <strong>Gutenberg<\/strong> styling and used my own, that way I could leave out all the styling for blocks I didn\u2019t use, which is a lot.<\/p><p>There are still some things in the backlog, actually the same tasks as in my last <a href=\"\/box\/got-some-new-pipeline-minutes\/\" rel=\"noopener noreferrer\">post<\/a> and hopefully, I get to that sooner than later, the same with my next movie project.<\/p>"},"id":"844a8437-9ed3-448c-89b4-e3ea29d6acd3","isHidden":false,"type":"text"}]
 
 ----
 
-Old: It's a crazy time and I didn't expect it to get this bad, but that's the situation now, so let's make the **best** of it.
+Linktext: 
 
-On my end, I was busy the first half of the month by finishing the corporate website for my employer. It was an interesting project, creating such a big website with Wordpress was a big learning experience. A lot of things I learned and discovered flew into SoaPatrickSeven.
+----
 
-One of the things that I adapted here is the theme and template structure, a more lean and logical structure of all the files in the theme. This structure makes it easier for other people to find things if they have to make changes to a theme. I know this isn't relevant with **SoaPatrick** but it's helpful anyway.
+Linkurl: 
 
-Then I also got rid of all the **Gutenberg** styling and used my own, that way I could leave out all the styling for blocks I didn't use, which is a lot.
+----
 
-There are still some things in the backlog, actually the same tasks as in my last (link: https://www.soapatrick.com/2020/03/got-some-new-pipeline-minutes/ text: post target: _blank) and hopefully, I get to that sooner than later, the same with my next movie project.
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

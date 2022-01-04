@@ -6,6 +6,14 @@ Published: 2020-04-05
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,21 +22,32 @@ Tags: bootstrap
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>Wow, I didn\u2019t see that coming but let\u2019s talk about it a bit. According to an article on <a href=\"https:\/\/designmodo.com\/bootstrap-5\/\" rel=\"noreferrer noopener\" target=\"_blank\">designmodo.com<\/a> (there are other <a href=\"https:\/\/themesberg.com\/blog\/bootstrap\/bootstrap-5-ie-11-browser-support\" rel=\"noreferrer noopener\" target=\"_blank\">sites<\/a>\n mentioning this as well), the most popular CSS Framework will drop \nsupport for not only IE10 but IE11 as well. This is huge and I think a \nstep in the right direction. I assume there will be things within \nbootstrap to add support for it, but out of the box, it\u2019s not intended.<\/p> <p>I mean coding a website for IE11 is a pain in the ass, especially if you want to use the latest and coolest shit, like <strong>CSS Grid<\/strong> and <strong>CSS Variables<\/strong>.\n Of course, there are ways to make it work but it\u2019s always a hassle. So \nI\u2019m curious how this plays out because according to Microsoft, IE11 will\n exist as long as Windows 10 exists, which could be a looooooooooooong \ntime. Time to put a fork into it and make it die quickly.<\/p> <p>Here are some other interesting changes in Bootstrap 5:<\/p>"},"id":"d72e1ed4-0d47-4cc2-80c5-676b0d523fbd","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>jQuery was removed, switch to Vanilla JavaScript<\/li><li>Responsive Font Sizes<\/li><\/ul>"},"id":"bcb3f28b-6991-4804-a96f-32f117d2c975","isHidden":false,"type":"list"},{"content":{"text":"<p>I\u2019m glad jQuery is starting to fade, go for Vanilla JavaScript, doing that here for some time as well. And responsive Font Sizes are something I\u2019ve been using here as well, but apparently, there\u2019s an <a href=\"https:\/\/github.com\/twbs\/rfs\" target=\"_blank\" rel=\"noopener noreferrer\">engine<\/a> for this, have to look into that. Cool things are happening.<\/p>"},"id":"dbf4c871-cc4c-4419-be06-e2d842028ad7","isHidden":false,"type":"text"}]
 
 ----
 
-Old: Wow, I didn't see that coming but let's talk about it a bit. According to an article on (link: https://designmodo.com/bootstrap-5/ text: designmodo.com target: _blank) (there are other (link: https://themesberg.com/blog/bootstrap/bootstrap-5-ie-11-browser-support text: sites target: _blank) mentioning this as well), the most popular CSS Framework will drop support for not only IE10 but IE11 as well. This is huge and I think a step in the right direction. I assume there will be things within bootstrap to add support for it, but out of the box, it's not intended.
+Linktext: 
 
-I mean coding a website for IE11 is a pain in the ass, especially if you want to use the latest and coolest shit, like **CSS Grid** and **CSS Variables**. Of course, there are ways to make it work but it's always a hassle. So I'm curious how this plays out because according to Microsoft, IE11 will exist as long as Windows 10 exists, which could be a looooooooooooong time. Time to put a fork into it and make it die quickly.
+----
 
-Here are some other interesting changes in Bootstrap 5:
+Linkurl: 
 
-- jQuery was removed, switch to Vanilla JavaScript
-- Responsive Font Sizes
+----
 
-I'm glad jQuery is starting to fade, go for Vanilla JavaScript, doing that here for some time as well. And responsive Font Sizes is something I've been using here as well, but apparently there's an (link: https://github.com/twbs/rfs text: engine target: _blank) for this, have to look into that. Cool things are happening.
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

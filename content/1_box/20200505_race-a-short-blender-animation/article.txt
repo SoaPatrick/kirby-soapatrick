@@ -6,6 +6,14 @@ Published: 2020-05-05
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,18 +22,32 @@ Tags: Animation, Blender, Movie, Short
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=JVJzxMhDtpo","caption":""},"id":"8a061bfc-8e6c-41f6-a626-0568a1240a01","isHidden":false,"type":"video"},{"content":{"text":"<p>Ok,\n that wasn\u2019t actually planned, there\u2019s a draft somewhere for a blog post\n about everything that happened in April, but I never really got to \nfinish it because this beast here kept me busy for the last 3 days.<\/p> <p>What started as a test with certain Blender techniques, turned into \nthis huge project with animation and camera moves (even different ones) \nand too many render minutes.<\/p> <p>Once everything was rendered, I started After Effects where I added \nthe slight camera shakes, sound effects, some grain, and the overall \nedit. Maybe I will go into more detail on how everything came together \nwith some images of the different stages of the whole scene in Blender. \nBut now my eyes hurt and I need to see and hear something else besides \ncar rushing past me.<\/p>"},"id":"63db9f5f-54af-401c-aa3c-2605ed756326","isHidden":false,"type":"text"}]
 
 ----
 
-Old: https://youtu.be/JVJzxMhDtpo
+Linktext: 
 
-Ok, that wasn't actually planned, there's a draft somewhere for a blog post about everything that happened in April, but I never really got to finish it because this beast here kept me busy for the last 3 days.
+----
 
-What started as a test with certain Blender techniques, turned into this huge project with animation and camera moves (even different ones) and too many render minutes.
+Linkurl: 
 
-Once everything was rendered, I started After Effects where I added the slight camera shakes, sound effects, some grain, and the overall edit. Maybe I will go into more detail on how everything came together with some images of the different stages of the whole scene in Blender. But now my eyes hurt and I need to see and hear something else besides car rushing past me.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

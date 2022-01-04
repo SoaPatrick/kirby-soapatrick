@@ -6,6 +6,14 @@ Published: 2020-03-28
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,19 +22,32 @@ Tags: Status
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>With the upcoming work situation changing for the unforeseeable \nfuture, I thought it would be a good time to get back into some \nroutines. So starting with tomorrow I think I will do the following:<\/p>"},"id":"06024302-0f1d-4401-b2c2-30bbe8139a96","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>start the day with 20-30 minutes riding the bike<\/li><li>do my fitness routine every second day, at least 3 times a week<\/li><li>try to write a daily blog entry, get the ball going again.<\/li><li>define days on which I work on a project and mark them in a calendar<\/li><\/ul>"},"id":"7a45855e-a475-4974-addc-e67388a865ee","isHidden":false,"type":"list"},{"content":{"text":"<p>Hopefully, with a structured day, I will be productive over the next \nfew weeks and then some cool things will come out of it. So let\u2019s find \nout.<\/p>"},"id":"dd1d6ab7-f25b-4d7a-8235-d3e9093e1427","isHidden":false,"type":"text"}]
 
 ----
 
-Old: With the upcoming work situation changing for the unforeseeable future, I thought it would be a good time to get back into some routines. So starting with tomorrow I think I will do the following:
+Linktext: 
 
-- start the day with 20-30 minutes riding the bike
-- do my fitness routine every second day, at least 3 times a week
-- try to write a daily blog entry, get the ball going again.
-- define days on which I work on a project and mark them in a calendar
+----
 
-Hopefully, with a structured day, I will be productive over the next few weeks and then some cool things will come out of it. So let's find out.
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

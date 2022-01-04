@@ -42,7 +42,7 @@ if ($block->location() == 'web') {
 
   <?php if ($caption->isNotEmpty()): ?>
   <figcaption>
-    <?= $caption ?>
+    <?= $caption->kt() ?>
   </figcaption>
   <?php endif ?>
 </figure>

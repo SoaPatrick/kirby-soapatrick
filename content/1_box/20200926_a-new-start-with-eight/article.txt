@@ -6,6 +6,14 @@ Published: 2020-09-26
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,18 +22,32 @@ Tags: Soapatrick, Theme
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I know it looks kinda the same, and it pretty much is, but this is just the start of something that will hopefully end up being something new and different. But for right now, I like the new look, I like the simplicity of it and I like the fact that the performance of the website now is even better.<\/p><p>There is no Fontawesome anymore, yes there are still some icons but those are SVGs directly incorporated into the html. Those icons will change with custom-made icons but it takes some time. There\u2019s also a much more distinctive font for the headings, and I LOVE it. It\u2019s bold, it\u2019s fun and it looks amazing.<\/p><p>The key visual looks kinda bland right now, I\u2019m aware of that, but I have a plan, it just takes some time to create that. Like I mentioned above, a lot is still about to change.<\/p><p>There\u2019s also a new menu item that deals with <a href=\"\/patrick\/\" rel=\"noopener noreferrer\">who I am<\/a>, it\u2019s empty right now, need to text something first, but it\u2019s there. But now I relax a bit, for now, everything is good and I\u2019m happy.<\/p>"},"id":"93751c15-65b4-4c81-834d-b0546c68dfc6","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I know it looks kinda the same, and it pretty much is, but this is just the start of something that will hopefully end up being something new and different. But for right now, I like the new look, I like the simplicity of it and I like the fact that the performance of the website now is even better.
+Linktext: 
 
-There is no Fontawesome anymore, yes there are still some icons but those are SVGs directly incorporated into the html. Those icons will change with custom-made icons but it takes some time. There's also a much more distinctive font for the headings, and I LOVE it. It's bold, it's fun and it looks amazing.
+----
 
-The key visual looks kinda bland right now, I'm aware of that, but I have a plan, it just takes some time to create that. Like I mentioned above, a lot is still about to change.
+Linkurl: 
 
-There's also a new menu item which deals with (link: https://www.soapatrick.com/patrick/ text: who I am target: _blank), it's empty right now, need to text something first, but it's there. But now I relax a bit, for now, everything is good and I'm happy.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

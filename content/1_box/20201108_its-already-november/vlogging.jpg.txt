@@ -1,0 +1,9 @@
+Alt: vlogging setup
+
+----
+
+Caption: My vlogging setup
+
+----
+
+Template: blocks/image

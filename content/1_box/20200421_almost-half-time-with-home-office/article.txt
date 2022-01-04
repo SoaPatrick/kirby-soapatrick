@@ -6,6 +6,14 @@ Published: 2020-04-21
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,18 +22,32 @@ Tags: Filming, Short
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>On Sunday I shot the second half of the upcoming next short film and upon making a rough cut I realized that I need to reshoot certain scenes. I know this happens a lot with me but I\u2019m still learning things. There are some beautiful shots in there but also some rather bland ones and the idea is to replace the bland ones with better-looking ones as well. I also have some ideas to visually explain the progress of the story which I will try to incorporate into the next shooting day, which will probably be on Sunday.<\/p><p>As for things I noticed would make the whole shooting process more efficient. A bigger lens selection for sure. I still shoot everything with my Tamron 28-70mm and sometimes I wish I\u2019d have a wider lens, especially when filing at home in tight spaces. Manual lenses with a good focus ring would make pulling focus a lot easier.<\/p><p>Also better light stands, I still own those tiny very fragile light stands and sometimes I wish I had a proper C-Stand which is worthy of the word \u2018stand\u2019. A more powerful light would be nice, especially if I have to recreate daylight. and finally, a very small portable light that I can place anywhere I want for a rim light or just a background light is sometimes helpful.<\/p><p>I know I have a ton of stuff on various shopping lists and I often think about what to buy next and recently I was more hesitant with purchases, I guess I need to prove to myself that I actually need that and find out what I need the most. Well, shooting movies answers those questions perfectly.<\/p>"},"id":"4486237a-2fe3-41cf-a646-ff8614ea0376","isHidden":false,"type":"text"}]
 
 ----
 
-Old: On Sunday I shot the second half the upcoming next short film and upon making a rough cut I realized that I need to reshoot certain scenes. I know this happens a lot with me but I'm still learning things. There are some beautiful shots in there but also some rather bland ones and the idea is to replace the bland ones with better-looking ones as well. I also have some ideas to visually explain the progress of the story which I will try to incorporate into the next shooting day, which will probably be on Sunday.
+Linktext: 
 
-As for things I noticed would make the whole shooting process more efficient. A bigger lens selection for sure. I still shoot everything with my Tamron 28-70mm and sometimes I wish I'd have a wider lens, especially when filing at home in tight spaces. Manual lenses with a good focus ring would make pulling focus a lot easier.
+----
 
-Also better light stands, I still own those tiny very fragile light stands and sometimes I wish I had a proper C-Stand which is worthy of the word 'stand'. A more powerful light would be nice, especially if I have to recreate daylight. and finally, a very small portable light that I can place anywhere I want for a rim light or just a background light is sometimes helpful.
+Linkurl: 
 
-I know I have a ton of stuff on various shopping lists and I often think about what to buy next and recently I was more hesitant with purchases, I guess I need to prove to myself that I actually need that and found out what I need the most. Well, shooting movies answers those questions perfectly.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

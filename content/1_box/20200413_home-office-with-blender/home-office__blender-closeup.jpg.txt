@@ -1,0 +1,9 @@
+Alt: Blender Render for Home Office
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

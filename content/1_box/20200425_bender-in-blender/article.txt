@@ -6,6 +6,14 @@ Published: 2020-04-25
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,14 +22,32 @@ Tags: Blender
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["bender.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2020\/04\/bender-1500x1500.jpg?_t=1587847023","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"0269eeb7-9a70-4fbe-9cf7-735c1428eb76","isHidden":false,"type":"image"},{"content":{"text":"<p>I\u2019ve started with some character design and I thought Bender from \nFuturama might be the easiest one because of his shape, but still had \nsome difficulties getting it right. I also spend a lot of time fixing \nsome beginner mistakes I made early on, but I\u2019m learning new things \nevery day and I apply what I\u2019ve learned instantly and improved current \nprojects. There a lot more projects currently on my list, so I keep them\n coming.<\/p>"},"id":"f479e620-2693-4a5e-b571-c2e731582dae","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![Bender in Blender](https://www.soapatrick.com/wp-content/uploads/2020/04/bender-1500x1500.jpg?_t=1587847023)
+Linktext: 
 
-I've started with some character design and I thought Bender from Futurama might be the easiest one because of his shape, but still had some difficulties getting it right. I also spend a lot of time fixing some beginner mistakes I made early on, but I'm learning new things every day and I apply what I've learned instantly and improved current projects. There a lot more projects currently on my list, so I keep them coming.
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

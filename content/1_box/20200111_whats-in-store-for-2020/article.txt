@@ -6,6 +6,14 @@ Published: 2020-01-11
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,42 +22,32 @@ Tags: Design, Filming, Theme, Writing
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>The big question every year, what will I be doing this year? Are \nthere spillovers from last year? Can I start with new projects? The idea\n is to dive into some of these ideas I have for 2020.<\/p>"},"id":"0f19f378-98bc-46c4-aa73-ad239ea99000","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Walking through Basel"},"id":"f5745e24-46a8-4f4a-9a23-02ae9e7a3fe9","isHidden":false,"type":"heading"},{"content":{"text":"<p><a href=\"\/box\/why-not-a-look-ahead\/\" rel=\"noopener noreferrer\">Last year<\/a> I had the idea to walk through every street in Basel within a year, I didn\u2019t quite finish that, in fact, I\u2019m not even halfway there. But mid-year I realized that I won\u2019t be able to finish. It didn\u2019t bother me, the plan is still active but not tied to a timeframe, I will just continue until I\u2019m finished.<\/p>"},"id":"9dc2ecc5-bc0f-4d38-a6a4-e974e6b158b5","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Movie Projects"},"id":"99731c97-3d9d-4886-b224-4a59fdfd3b5f","isHidden":false,"type":"heading"},{"content":{"text":"<p>In <a href=\"\/box\/2019-in-numbers\/\" rel=\"noopener noreferrer\">my 2019 recap<\/a>, I listed 3 movie projects I finished in 2019 and that I plan on increasing that number. So the idea is to create at least 4 fully finished projects. I have some ideas about what kind of projects to make, but there the main goal is to just finally do it and stop thinking or talking about it.<\/p>"},"id":"ec869773-5f47-45f1-bd17-e744004f1cad","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"SoaPatrickSeven"},"id":"cb8c0d5c-f2eb-416f-8469-fac614506bdf","isHidden":false,"type":"heading"},{"content":{"text":"<p>In the last four years I released a new theme every year (<a href=\"\/box\/1036\/\" rel=\"noopener noreferrer\">2016<\/a>, <a href=\"\/box\/back-way-way-back-to-the-roots\/\" rel=\"noopener noreferrer\">2017<\/a>, <a href=\"\/box\/welcome-to-soapatrickfive\/\" rel=\"noopener noreferrer\">2018<\/a> and <a href=\"\/box\/six-will-change-some-things\/\" rel=\"noopener noreferrer\">2019<\/a>), it\u2019s never the plan but I end up doing it anyway. Five to Six was a rather small incremental step and I don\u2019t know if I have the time and energy to create a completely new design, especially since for the first time in a long time I really like the design I\u2019m using and let\u2019s face it, SoaPatrickSix sounds and looks better than SoaPatrickSeven.<\/p><p>There are a few ideas in my head though:<\/p>"},"id":"901c3212-8e35-4989-8ba0-6c5ac48f1eea","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Recreate the theme from scratch and use a much more stable \nmarkup and styling, get rid of unused elements and just refactor a lot \nof stuff. I\u2019ve learned a lot in the last year which I\u2019d like to include.<\/li><li>Using <code>vue.js <\/code>and <code>Rest API<\/code> for a new theme (that\u2019s quite a big undertaking though with a big learning curve).<\/li><li>Better SEO for people actually finding this place and the excellent content that I\u2019m writing.<\/li><\/ul>"},"id":"87d8232e-9137-4536-bd22-01c47e01e4b8","isHidden":false,"type":"list"},{"content":{"level":"h2","text":"Blog Posts"},"id":"986eb171-912c-47e7-9036-27f62e59c0cf","isHidden":false,"type":"heading"},{"content":{"text":"<p>Just like with movie projects, I plan on increasing last year\u2019s amount of blog posts (48) for this year which should be doable, actually, 48 is a laughable low number. Writing daily is nonsense, but if there\u2019s something to tell I will tell it and I doubt it will be daily, need to do other stuff as well.<\/p><p>What I want to try is to be a bit more elaborate in my blog posts. In the past, I wrote about stuff I did, and especially in the coding department I never really showed what I did. So just like with the <a href=\"\/box\/using-bitbucket-pipelines\/\" rel=\"noopener noreferrer\">bitbucket pipeline code<\/a>, I plan on showing (off) any code I wrote, maybe there\u2019s someone out there who\u2019s looking exactly for what I did, or I will look back at ugly code fragments years down the road.<\/p>"},"id":"52361f1f-f7f1-4081-a001-f4e03462c8e0","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"General"},"id":"68698aed-4e0c-46dc-a16e-f4c9955b3cda","isHidden":false,"type":"heading"},{"content":{"text":"<p>I want to find my own voice and for that, I have to start thinking \noutside the box, do crazy stuff and push my own creative boundaries a \nbit and see where it leads me. This is true for Movie Projects, taking \nFotos for my own collection or Instagram, designing Websites and also \nwriting blog posts.<\/p> <p>I mean this place is exactly designed for that, try stuff out, don\u2019t \nbe afraid to make wrong decisions and don\u2019t be discouraged if nothing \ngood comes out of it, just keep on trying. I think that is my motto for \n2019. So let\u2019s try to live by it!<\/p>"},"id":"710d60a8-87a6-450c-9082-cc6b4a220f7c","isHidden":false,"type":"text"}]
 
 ----
 
-Old: The big question every year, what will I be doing this year? Are there spillovers from last year? Can I start with new projects? The idea is to dive into some of these ideas I have for 2020.
+Linktext: 
 
-## Walking through Basel
+----
 
-(link: https://www.soapatrick.com/2019/01/why-not-a-look-ahead/ text: Last year target: _blank) I had the idea to walk through every street in Basel within a year, I didn't quite finish that, in fact, I'm not even halfway there. But mid-year I realized that I won't be able to finish. It didn't bother me, the plan is still active but not tied to a timeframe, I will just continue until I'm finished.
+Linkurl: 
 
-## Movie Projects
+----
 
-In (link: https://www.soapatrick.com/2020/01/2019-in-numbers/ text: my 2019 recap target: _blank), I listed 3 movie projects I finished in 2019 and that I plan on increasing that number. So the idea is to create at least 4 fully finished projects. I have some ideas about what kind of projects to make, but there the main goal is to just finally do it and stop thinking or talking about it.
+Quotetext: 
 
-## SoaPatrickSeven
+----
 
-In the last four years I released a new theme every year ((link: https://www.soapatrick.com/2016/03/1036/ text: 2016 target: _blank), (link: https://www.soapatrick.com/2017/01/back-way-way-back-to-the-roots/ text: 2017 target: _blank), (link: https://www.soapatrick.com/2018/04/welcome-to-soapatrickfive/ text: 2018 target: _blank) and (link: https://www.soapatrick.com/2019/05/six-will-change-some-things/ text: 2019 target: _blank)), it's never the plan but I end up doing it anyway. Five to Six was a rather small incremental step and I don't know if I have the time and energy to create a completely new design, especially since for the first time in a long time I really like the design I'm using and let's face it, SoaPatrickSix sounds and looks better than SoaPatrickSeven.
+Quotesource: 
 
-There are a few ideas in my head though:
+----
 
-- Recreate the theme from scratch and use a much more stable markup and styling, get rid of unused elements and just refactor a lot of stuff. I've learned a lot in the last year which I'd like to include.
-- Using `vue.js` and `Rest API` for a new theme (that's quite a big undertaking though with a big learning curve).
-- Better SEO for people actually finding this place and the excellent content that I'm writing.
+Statustext: 
 
-## Blog Posts
+----
 
-Just like with movie projects, I plan on increasing last year's amount of blog posts (48) for this year which should be doable, actually, 48 is a laughable low number. Writing daily is nonsense, but if there's something to tell I will tell it and I doubt it will be daily, need to do other stuff as well.
-
-What I want to try is to be a bit more elaborate in my blog posts. In the past, I wrote about stuff I did, and especially in the coding department I never really shown what I did. So just like with the (link: https://www.soapatrick.com/2019/12/using-bitbucket-pipelines/ text: bitbucket pipeline code target: _blank), I plan on showing (off) any code I wrote, maybe there's someone out there who's looking exactly for what I did, or I will look back at ugly code fragments years down the road.
-
-## General
-
-I want to find my own voice and for that, I have to start thinking outside the box, do crazy stuff and push my own creative boundaries a bit and see where it leads me. This is true for Movie Projects, taking Fotos for my own collection or Instagram, designing Websites and also writing blog posts.
-
-I mean this place is exactly designed for that, try stuff out, don't be afraid to make wrong decisions and don't be discouraged if nothing good comes out of it, just keep on trying. I think that is my motto for 2019. So let's try to live by it!
+Old: 

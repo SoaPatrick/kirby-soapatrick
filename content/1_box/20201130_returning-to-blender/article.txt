@@ -6,6 +6,14 @@ Published: 2020-11-30
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,22 +22,32 @@ Tags: Blender, Soap
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I can\u2019t believe what\u2019s happening, I really did something again in Blender and I could use the full power of my \u2018newly\u2019 build PC and render images in a timely fashion. I must admit, it came out of nowhere but I don\u2019t try to analyze why that it\u2019s happening now and just enjoy it.<\/p><p>So I tried to create an Ehrlenmeyer Flask again, and this time use all the stuff I learned in the past and make it better than my <a href=\"\/box\/soap-lab-as-a-blender-render\/\" rel=\"noopener noreferrer\">previous attempt<\/a>.<\/p>"},"id":"2ac8bf73-312d-4b86-95df-03e5c746e430","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["soap-lab.jpg"],"src":"","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"66ef4286-7f26-4734-b4e3-9fba51d2ab1f","isHidden":false,"type":"image"},{"content":{"text":"<p>I don\u2019t know if I plan on doing more with it but for the time being, I\n love the new look, I love the poisonous soapy substance with a few \nvisible bubbles. I love the reflection from the HDRi and I love the SP \nLogo on the flask.<\/p> <p>Maybe I should return to some of my older projects and try to improve them.<\/p>"},"id":"641e314e-715a-43f2-b166-3ea7600c2a20","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I can't believe what's happening, I really did something again in Blender and I could use the full power of my 'newly' build PC and render images in a timely fashion. I must admit, it came out of nowhere but I don't try to analyze why that it's happening now and just enjoy it.
+Linktext: 
 
-So I tried to create an Ehrlenmeyer Flask again, and this time use all the stuff I learned in the past and make it better than my (link: https://www.soapatrick.com/2020/04/soap-lab-as-a-blender-render/ text: previous attempt target: _blank).
+----
 
-![Soapy substance in an Ehrlenmeyer Flask done in Blender](https://www.soapatrick.com/wp-content/uploads/2020/11/soap-lab_7.jpg)
+Linkurl: 
 
-Soapy substance in an Ehrlenmeyer Flask done in Blender
+----
 
-I don't know if I plan on doing more with it but for the time being, I love the new look, I love the poisonous soapy substance with a few visible bubbles. I love the reflection from the HDRi and I love the SP Logo on the flask.
+Quotetext: 
 
-Maybe I should return to some of my older projects and try to improve them.
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

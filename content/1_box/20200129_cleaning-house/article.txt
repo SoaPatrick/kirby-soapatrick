@@ -6,6 +6,14 @@ Published: 2020-01-29
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,14 +22,32 @@ Tags: Soapatrick
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I did some house cleaning for the last 2 days. Moving some subfolders\n I had on my server to their own place in a subdomain and cleaning up \nold Databases. The main domain is much cleaner now, there\u2019s only this \nplace here and nothing else, might also change some site speed issues? \nSince apparently there\u2019s a difference between page speed and site speed.\n One measures the speed of a single page and the other the speed of all \npages combined.<\/p>\n\n\n\n<p>Anyway, I like the new clean smell of this place, let\u2019s hope I can \nkeep it up for some time and don\u2019t start to clutter everything up again.<\/p>"},"id":"5ded4a34-604d-4ba5-af2f-ffae5e1c1f37","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I did some house cleaning for the last 2 days. Moving some subfolders I had on my server to their own place in a subdomain and cleaning up old Databases. The main domain is much cleaner now, there's only this place here and nothing else, might also change some site speed issues? Since apparently there's a difference between page speed and site speed. One measures the speed of a single page and the other the speed of all pages combined.
+Linktext: 
 
-Anyway, I like the new clean smell of this place, let's hope I can keep it up for some time and don't start to clutter everything up again.
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

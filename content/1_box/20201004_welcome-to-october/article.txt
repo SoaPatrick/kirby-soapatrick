@@ -6,6 +6,14 @@ Published: 2020-10-04
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,16 +22,32 @@ Tags: Soapatrick, Theme
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>Yeah, it does look kinda different today, I know. It was one of those Sundays where I just kept working on something until I was done with it. What you see now is actually something I was planing from the beginning but in order for it to work, other things needed to be done first. Now I\u2019m not really done with it, I\u2019m sure there are a lot of bugs I will discover over the next few days\/weeks. But I wanted it to be live, I wanted to see how it looks on all the different devices I use and then I can start to fine-tune everything else, like with all the different versions before SoaPatrickEight.<\/p><p>There are also some structural things I need to rethink, as the landing page or paged Blog Posts, all those things might change in the future, but for me to get an idea I need to interact with it and then find solutions.<\/p><p>So there it is, a new design that looks different than everything beginning with <a href=\"\/factory\/soapatrickfive\/\" rel=\"noopener noreferrer\">SoaPatrickFive<\/a>, hope I will have as much fun with it as with all the versions before.<\/p>"},"id":"2c798c9f-fc89-421e-9f0a-0d08eb8050b5","isHidden":false,"type":"text"}]
 
 ----
 
-Old: Yeah, it does look kinda different today, I know. It was one of those Sundays where I just kept working on something until I was done with it. What you see now is actually something I was planing from the beginning but in order for it to work, other things needed to be done first. Now I'm not really done with it, I'm sure there are a lot of bugs I will discover over the next few day/weeks. But I wanted it to be live, I wanted to see how it looks on all the different devices I use and then I can start to fine-tune everything else, like with all the different versions before SoaPatrickEight.
+Linktext: 
 
-There are also some structural things I need to rethink, like the landing page or paged Blog Posts, all those things might change in the future, but for me to get an idea I need to interact with it and then find solutions.
+----
 
-So there it is, a new design that looks different than everything beginning with (link: https://www.soapatrick.com/factory/soapatrickfive/ text: SoaPatrickFive target: _blank), hope I will have as much fun with it as with all the versions before.
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

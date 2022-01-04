@@ -1,0 +1,9 @@
+Caption: camera tracking and Blender object included
+
+----
+
+Alt: 
+
+----
+
+Template: blocks/video

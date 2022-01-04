@@ -1,0 +1,9 @@
+Alt: AMD Ryzen 9 3900 X
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

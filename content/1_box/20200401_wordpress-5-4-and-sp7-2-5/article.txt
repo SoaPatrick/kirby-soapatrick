@@ -6,6 +6,14 @@ Published: 2020-04-01
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,24 +22,32 @@ Tags: Theme, Wordpress
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>Yup some changes are happening around here but I think these are more\n under the hood, so no one will actually notice it. But let\u2019s get into \nit:<\/p>"},"id":"5e5b3ff5-673f-44e2-90b8-483c2c6b3f5b","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"WordPress 5.4"},"id":"c66622cb-0c2f-435e-929d-4ce23141b12f","isHidden":false,"type":"heading"},{"content":{"text":"<p>I just updated this place to the latest WordPress release and I tested it locally a bit and didn\u2019t notice any strange things so I went ahead and updated the live system. I might stumble upon a few things but honestly, I\u2019ve read the changelog and no changes should affect this place here.<\/p><p>But I\u2019m very interested in where WordPress will go from here because some interesting things are happening.<\/p>"},"id":"be43525a-d698-413a-ac46-57fc1929fb45","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"SoaPatrickSeven 2.5"},"id":"f15be019-390f-4528-a6e4-0f3338f15302","isHidden":false,"type":"heading"},{"content":{"text":"<p>I plan on releasing a new version of my theme this coming Friday. Now\n with that release, I will change the Image sizes and then regenerate \nall 480 images again, and delete unused ones. Now when I tested that \nlocally all Blog posts or factory items didn\u2019t display the images \nanymore, which means I have to go through all posts and fix the broken \nlinks. It\u2019s a pain to do that but I noticed that over the years by \ncreating new image sizes and regenerating over and over again, certain \nimages have over 20 different image sizes. Now, these take up a lot of \nspace and with version 2.5 I will work with only 3 sizes. So this will \nfree up some disk space and make things more organized again.<\/p> <p>The reason I write this is because, during that time hardly any \nimages are being displayed until I fix that, it\u2019s just a heads up.<\/p>"},"id":"7ca9728e-82ce-4a55-9357-b7711108d0d2","isHidden":false,"type":"text"}]
 
 ----
 
-Old: Yup some changes are happening around here but I think these are more under the hood, so no one will actually notice it. But let's get into it:
+Linktext: 
 
-## Wordpress 5.4
+----
 
-I just updated this place to the latest Wordpress release and I tested it locally a bit and didn't notice any strange things so I went ahead and updated the live system. I might stumble upon a few things but honestly, I've read the changelog and no changes should affect this place here.
+Linkurl: 
 
-But I'm very interested where Wordpress will go from here because some interesting things are happening.
+----
 
-## SoaPatrickSeven 2.5
+Quotetext: 
 
-I plan on releasing a new version of my theme this coming Friday. Now with that release, I will change the Image sizes and then regenerate all 480 images again, and delete unused ones. Now when I tested that locally all Blog posts or factory items didn't display the images anymore, which means I have to go through all posts and fix the broken links. It's a pain to do that but I noticed that over the years by creating new image sizes and regenerating over and over again, certain images have over 20 different image sizes. Now, these take up a lot of space and with version 2.5 I will work with only 3 sizes. So this will free up some disk space and make things more organized again.
+----
 
-The reason I write this is because, during that time hardly any images are being displayed until I fix that, it's just a heads up.
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

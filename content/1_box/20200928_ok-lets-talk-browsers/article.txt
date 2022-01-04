@@ -6,6 +6,14 @@ Published: 2020-09-28
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,22 +22,32 @@ Tags: privacy, Technology
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I\u2019m reaching that point again (thanks to an update with iOS 14 where we can set a third-party default browser) where I think about switching my browser. I\u2019m currently using Chrome on every device I own but Chrome has its drawbacks, it's extremely CPU hungry (therefore drains the battery) and when it comes to privacy, well it\u2019s a Google Product. So what are the options?<\/p><p>Well, there is, of course, Safari, the built-in browser for all my devices, with improved privacy features but the UI is not my favorite especially when coming from Chrome.<\/p><p>Then there\u2019s <a href=\"https:\/\/brave.com\/\" target=\"_blank\" rel=\"noopener noreferrer\">Brave<\/a>. A browser that prides itself on being a privacy browser. It\u2019s a chromium browser which means it\u2019s the same CPU-hungry browser just like Chrome and currently, there\u2019s no way to sync bookmarks between devices (for iOS such a feature is apparently in the pipeline). Syncing bookmarks is kinda important for me.<\/p><p>There\u2019s other stuff like <a href=\"https:\/\/www.opera.com\/\" target=\"_blank\" rel=\"noopener noreferrer\">Opera<\/a> and <a href=\"https:\/\/vivaldi.com\/de\/\" target=\"_blank\" rel=\"noopener noreferrer\">Vivaldi<\/a> or the <a href=\"https:\/\/www.torproject.org\/download\/\" target=\"_blank\" rel=\"noopener noreferrer\">Tor Browser<\/a> but I don\u2019t want to try out even more. I installed <a href=\"https:\/\/duckduckgo.com\/\" target=\"_blank\" rel=\"noopener noreferrer\">DuckDuckGo<\/a> on my iPhone and I love it, but there\u2019s no desktop Version and no bookmark syncing between devices.<\/p><p>When I think about it, the logical step would be to use Safari, it\u2019s optimized for my devices, it has tab and bookmark syncing and it\u2019s much more privacy-focused than Chrome. But that damn UI.<\/p><p>I think I will test these three browsers for a bit, like work one or two days with just one and see how it goes. As for my iPhone, I will stick with DuckDuckGo for now, I mostly use the same websites anyway.<\/p>"},"id":"b8100d4c-9e21-4f1a-976a-a1c8b5744197","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I'm reaching that point again (thanks to an update with iOS 14 where we can set a third-party default browser) where I think about switching my browser. I'm currently using Chrome on every device I own but Chrome has its drawbacks, its extremely CPU hungry (therefore drains the battery) and when it comes to privacy, well it's a Google Product. So what are the options?
+Linktext: 
 
-Well, there is, of course, Safari, the built-in browser for all my devices, with improved privacy features but the UI is not my favorite especially when coming from Chrome.
+----
 
-Then there's (link: https://brave.com/ text: Brave target: _blank). A browser which prides itself on being a privacy browser. It's a chromium browser which means it's the same CPU hungry browser just like Chrome and currently, there's no way to sync bookmarks between devices (for iOS such a feature is apparently in the pipeline). Syncing bookmarks is kinda important for me.
+Linkurl: 
 
-There's other stuff like (link: https://www.opera.com/ text: Opera target: _blank) and (link: https://vivaldi.com/de/ text: Vivaldi target: _blank) or the (link: https://www.torproject.org/download/ text: Tor Browser target: _blank) but I don't want to try out even more. I installed (link: https://duckduckgo.com/ text: DuckDuckGo target: _blank) on my iPhone and I love it, but there's no desktop Version and no bookmark syncing between devices.
+----
 
-When I think about it, the logical step would be to use Safari, it's optimized for my devices, it has tab and bookmark syncing and it's much more privacy-focused than Chrome. But that damn UI.
+Quotetext: 
 
-I think I will test these three browsers for a bit, like work one or two days with just one and see how it goes. As for my iPhone, I will stick with DuckDuckGo for now, I mostly use the same websites anyway.
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

@@ -6,6 +6,16 @@ Published: 2020-10-26
 
 ----
 
+Cover:
+
+- firefox.png
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,24 +24,32 @@ Tags: privacy, Technology
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>Firefox. Yes, it\u2019s the browser I didn\u2019t even mention the <a href=\"\/box\/ok-lets-talk-browsers\/\" rel=\"noopener noreferrer\">last time<\/a>. In case you\u2019re wondering what I\u2019m talking about, I\u2019ve decided to get away from Google a bit and stop using Chrome and I was looking for a replacement Browser.<\/p><p>Now I\u2019ve used Safari and Brave for some time and DuckDuckGo on my iPhone but in the end, none of those had the full package.<\/p><p><a href=\"https:\/\/brave.com\/\" target=\"_blank\" rel=\"noopener noreferrer\">Brave<\/a> didn\u2019t support (not right now) syncing of bookmarks to iOS devices, plus it\u2019s still a chromium-based Browser. Plus I couldn\u2019t use any Atlassian Web products because of security settings.<\/p><p>Safari is fast, available on all devices but I couldn\u2019t warm myself up on that UI. I mean the browser nowadays is the most important app on a Computer and so much comes down to personal preferences and how efficient you can work with it. And after trying it for a few days I couldn\u2019t see myself keep working with it.<\/p><p><a href=\"https:\/\/duckduckgo.com\/\" target=\"_blank\" rel=\"noopener noreferrer\">DuckDuckGo<\/a> on my iPhone was nice and I loved it, but I couldn\u2019t import my bookmarks and I think in the long run this might be an issue.<\/p><p>So I tested out Firefox and now I\u2019ve got pretty much all. I can sync my bookmarks and even open tabs from all my devices, I love the UI, it\u2019s an open-source project and privacy is an important issue for Mozilla.<\/p><p>So now I run Firefox on all my devices with DuckDuckGo as my primary Search Engine, feels nice to get away from Google, even if only a little bit.<\/p>"},"id":"b452aec0-2cb3-4a63-9e48-cf563dbfe9fb","isHidden":false,"type":"text"}]
 
 ----
 
-Old: Firefox. Yes, it's the browser I didn't even mention the (link: https://www.soapatrick.com/2020/09/ok-lets-talk-browsers/ text: last time target: _blank). In case you're wondering what I'm talking about, I've decided to get away from Google a bit and stop using Chrome and I was looking for a replacement Browser.
+Linktext: 
 
-Now I've used Safari and Brave for some time and DuckDuckGo on my iPhone but in the end, none of those had the full package.
+----
 
-(link: https://brave.com/ text: Brave target: _blank) didn't support (not right now) sync of bookmarks to iOS devices, plus it's still a chromium-based Browser. Plus I couldn't use any Atlassian Web products because of security settings.
+Linkurl: 
 
-Safari is fast, available on all devices but I couldn't warm myself up on that UI. I mean the browser nowadays is the most important app on a Computer and so much comes down to personal preferences and how efficient you can work with it. And after trying it for a few days I couldn't see myself keep working with it.
+----
 
-(link: https://duckduckgo.com/ text: DuckDuckGo target: _blank) on my iPhone was nice and I loved it, but I couldn't import my bookmarks and I think in the long run this might be an issue.
+Quotetext: 
 
-So I tested out Firefox and now I've got pretty much all. I can sync my bookmarks and even open tabs from all my devices, I love the UI, it's an open-source project and privacy is an important issue for Mozilla.
+----
 
-So now I run Firefox on all my devices with DuckDuckGo as my primary Search Engine, feels nice to get away from Google, even if only a little bit.
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

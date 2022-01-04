@@ -6,6 +6,14 @@ Published: 2020-08-30
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,14 +22,32 @@ Tags: Soapatrick, Theme, Wordpress
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>It seems quite I know, but I was working hard the last two days on \nversion Eight. In fact, I\u2019m hoping that I can release the first version \nthis week. This first version won\u2019t be perfect as I best improve once my\n themes are published. It\u2019s much easier this way to create tasks for \nspecific issues and then work on them one by one and see how the theme \ndevelops from there. After all, version Seven is the result of \ncontinuous work on improving and perfecting starting with version Five.<\/p>\n\n\n\n<p>So hopefully I have some news soon, probably not earlier than \nThursday. Oh and a quick reminder to myself, keep the Blog Post titles \nshorter, is helpful for the next version.<\/p>"},"id":"8f42e235-3244-4d51-a413-3c6f6b47b605","isHidden":false,"type":"text"}]
 
 ----
 
-Old: It seems quite I know, but I was working hard the last two days on version Eight. In fact, I'm hoping that I can release the first version this week. This first version won't be perfect as I best improve once my themes are published. It's much easier this way to create tasks for specific issues and then work on them one by one and see how the theme develops from there. After all, version Seven is the result of continuous work on improving and perfecting starting with version Five.
+Linktext: 
 
-So hopefully I have some news soon, probably not earlier than Thursday. Oh and a quick reminder to myself, keep the Blog Post titles shorter, is helpful for the next version.
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

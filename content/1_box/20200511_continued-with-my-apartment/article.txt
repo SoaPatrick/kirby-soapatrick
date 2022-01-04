@@ -6,6 +6,14 @@ Published: 2020-05-11
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,18 +22,32 @@ Tags: Blender, zumlangeinseli
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["apartment_03.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2020\/05\/apartment_03.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"3d137c2e-9aeb-43dd-99a0-36a9979196f8","isHidden":false,"type":"image"},{"content":{"text":"<p>In April I had this idea to create my whole apartment in Blender, and\n render it in miniature form. But, I will add enough details to the \nobjects so that I can render close up shots as well any maybe use my \ndigitized apartment in some form for movies.<\/p> <p>For quite some time I tried to create that lamp I\u2019m having above my \nbar and today I finally figured out how to model it. I\u2019m quite happy \nwith the result so I created this moody shot of my bar.<\/p> <p>I made a new render with better light bulbs, much better this way.<\/p>"},"id":"5f972090-67b0-409b-8361-ba538fd9c09e","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![Moody Bar made in Blender](https://www.soapatrick.com/wp-content/uploads/2020/05/apartment_03.jpg)
+Linktext: 
 
-In April I had this idea to create my whole apartment in Blender, and render it in miniature form. But, I will add enough details to the objects so that I can render close up shots as well any maybe use my digitized apartment in some form for movies.
+----
 
-For quite some time I tried to create that lamp I'm having above my bar and today I finally figured out how to model it. I'm quite happy with the result so I created this moody shot of my bar.
+Linkurl: 
 
-I made a new render with better light bulbs, much better this way.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

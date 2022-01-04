@@ -6,6 +6,16 @@ Published: 2020-02-23
 
 ----
 
+Cover:
+
+- its-alive.png
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,24 +24,32 @@ Tags: Soapatrick, Theme, Wordpress
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["its-alive.png"],"src":"","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"2b1344b2-fdd1-4f6d-8d5d-88644765ace9","isHidden":false,"type":"image"},{"content":{"text":"<p>14 days after <a href=\"\/box\/work-has-been-started-on-seven\/\" rel=\"noopener noreferrer\">deciding<\/a> to start a new theme and almost 10 months since the <a href=\"\/box\/six-will-change-some-things\/\" rel=\"noopener noreferrer\">last release<\/a> I\u2019m done with an initial releasable version. I know on the front it doesn\u2019t look like anything changed, but below the hood, I did a lot of improvements. The new Stylesheet is now <strong>4kb<\/strong> smaller, but not only is it slightly smaller, everything is built much more modular and a lot more using <code>css grid<\/code>.<\/p><p>What I did change though were the Navigation Icons. I used Fontawesome\u2019s new Duotones icons and I also included them, the calendar and the tag icons, directly as SVG, so they won\u2019t be loaded through FontAwesome but are loaded as regular markup instantly and therefore no layout shift is visible.<\/p><p>Another noteworthy addition is now the ability to use this website with your keyboard only. I highlighted the focused element and you can even switch between light and dark mode and between color themes all with your keyboard. There are a few issues with special elements, but I think it\u2019s better than nothing.<\/p><p>This is now version <strong>2.0.0<\/strong> and there are tasks for further improvements. I will probably delete every image size version WordPress generated from my uploads and generate new ones with fewer different and improved sizes.<\/p><p>There are also ideas for an infinite changelog scroll, related factory items and related posts on a factory single view.<\/p><p>But for now, I relax a bit and enjoy my weekend.<\/p>"},"id":"b0226e95-eeaf-4f19-865a-bd21cbbe93ab","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2020/02/its-alive-1500x720.png)
+Linktext: 
 
-14 days after (link: https://www.soapatrick.com/2020/02/work-has-been-started-on-seven/ text: deciding target: _blank) to start a new theme and almost 10 months since the (link: https://www.soapatrick.com/2019/05/six-will-change-some-things/ text: last release target: _blank) I'm done with an initial releasable version. I know on the front it doesn't look like anything changed, but below the hood, I did a lot of improvements. The new Stylesheet is now **4kb** smaller, but not only is it slightly smaller, everything is built much more modular and a lot more using `css grid`.
+----
 
-What I did change though were the Navigation Icons. I used Fontawesome's new Duotones icons and I also included them, the calendar and the tag icons, directly as SVG, so they won't be loaded through FontAwesome but are loaded as regular markup instantly and therefor no layout shift is visible.
+Linkurl: 
 
-Another noteworthy addition is now the ability to use this website with your keyboard only. I highlighted the focused element and you can even switch between light and dark mode and between color themes all with your keyboard. There are a few issues with special elements, but I think it's better than nothing.
+----
 
-This is now version **2.0.0** and there are tasks for further improvements. I will probably delete every image size version WordPress generated from my uploads and generate new ones with fewer different and improved sizes.
+Quotetext: 
 
-There are also ideas for an infinite changelog scroll, related factory items and related posts on a factory single view.
+----
 
-But for now, I relax a bit and enjoy my weekend.
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

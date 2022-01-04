@@ -1,0 +1,9 @@
+Alt: ASUS ROG Crosshair VIII Hero (WI-FI
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

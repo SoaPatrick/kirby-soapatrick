@@ -1,0 +1,9 @@
+Alt: my Apartment in Blender
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

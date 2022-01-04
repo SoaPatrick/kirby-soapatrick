@@ -6,6 +6,14 @@ Published: 2020-02-16
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,18 +22,32 @@ Tags: Soapatrick, Theme, Wordpress
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I had a busy coding weekend where I recreated the current theme but used everything I\u2019ve learned in the last 12 months. There was a lot of code I could rewrite more efficiently or code which was not needed at all anymore but was just laying around.<\/p><p>I would have released it this weekend already, but there are some pages that need some work first. The Archive view, The Factory view and some <code>PHP<\/code> functions to run everything smoothly. I guess by the end of next week I will release it.<\/p><p>Another thing, I took a break today from all the coding to go out and get some fresh air and enjoy the nice warm weather. During that time I kept thinking of things to write, and with write, I mean <code>PHP<\/code>, <code>HTML<\/code>, <code>JS<\/code> or <code>SASS<\/code>. I mean I do this all week at work and then on a weekend I keep doing the same things and while I\u2019m outside I think about it as well. Isn\u2019t that crazy? And while I walked and thought about my WordPress Theme, I realized that I have to get to that point with making movies. Be so involved with it that I keep thinking about it every free minute.<\/p><p>Just some thoughts before I try to enjoy the last few minutes of the weekend not doing anything website-related.<\/p>"},"id":"51a82a79-c762-418a-b616-c62f5e76a481","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I had a busy coding weekend where I recreated the current theme but used everything I've learned in the last 12 months. There was a lot of code I could rewrite more efficiently or code which was not needed at all anymore but was just laying around.
+Linktext: 
 
-I would have released it this weekend already, but there are some pages that need some work first. The Archive view, The Factory view and some `PHP` functions to run everything smoothly. I guess by the end of next week I will release it.
+----
 
-Another thing, I took a break today from all the coding to go out and get some fresh air and enjoy the nice warm weather. During that time I kept thinking of things to write, and with write, I mean `PHP`, `HTML`, `JS` or `SASS`. I mean I do this all week at work and then on a weekend I keep doing the same things and while I'm outside I think about it as well. Isn't that crazy? And while I walked and thought about my Wordpress Theme, I realized that I have to get to that point with making movies. Be so involved with it that I keep thinking about it every free minute.
+Linkurl: 
 
-Just some thoughts before I try to enjoy the last few minutes of the weekend not doing anything website related.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

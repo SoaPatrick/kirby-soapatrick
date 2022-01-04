@@ -6,6 +6,14 @@ Published: 2020-04-13
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,23 +22,32 @@ Tags: Blender, Storyboard
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>The first short film is still in the planning stage but I ended up using\n Blender to recreate my Office so I could plan shots. I was using \nBlender a lot longer than I wanted to but I realized that my Mac Mini IS\n capable of some stuff.<\/p>"},"id":"8bd7f157-0621-44d1-a3ef-b0dae40f831e","isHidden":false,"type":"text"},{"content":{"columns":1,"lightbox":"true","align":"content","images":["home-office__blender-master.jpg","home-office__blender-closeup.jpg","home-office__blender-under-the-desk.jpg"]},"id":"761cf003-9635-435b-8e03-85bc732fc326","isHidden":false,"type":"gallery"},{"content":{"text":"<p>I learned a few new tricks with these pictures and for an afternoons work, they look decent.<\/p> <p>The plan is to create some storyboards and use Blender and the \nability to move around freely for new possible compositions. But it\u2019s \nalways funny that a small idea turns into a short movie with 30 or so \ndifferent shots. Sometimes I just want to make a short movie with 5 or \nso shots.<\/p>"},"id":"32133f82-825c-4f07-9772-c6c640fcad17","isHidden":false,"type":"text"}]
 
 ----
 
-Old: The first short film is still in the planning stage but I ended up using Blender to recreate my Office so I could plan shots. I was using Blender a lot longer than I wanted to but I realized that my Mac Mini IS capable of some stuff.
+Linktext: 
 
-- ![Blender Render for Home Office - Wideshoot](https://www.soapatrick.com/wp-content/uploads/2020/04/home-office__blender-master-1500x625.jpg?_t=1586806155)
-    
-- ![Blender Render for Home Office - Close Up](https://www.soapatrick.com/wp-content/uploads/2020/04/home-office__blender-closeup-1500x625.jpg?_t=1586806155)
-    
-- ![Blender Render for Home Office - under the desk](https://www.soapatrick.com/wp-content/uploads/2020/04/home-office__blender-under-the-desk-1500x625.jpg?_t=1586806155)
-    
+----
 
-I learned a few new tricks with these pictures and for an afternoons work, they look decent.
+Linkurl: 
 
-The plan is to create some storyboards and use Blender and the ability to move around freely for new possible compositions. But it's always funny that a small idea turns into a short movie with 30 or so different shots. Sometimes I just want to make a short movie with 5 or so shots.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

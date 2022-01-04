@@ -2,18 +2,6 @@ Title: Kill the boy and let the man be born
 
 ----
 
-Text: 
-
-----
-
-Old:
-
-> Kill the boy and let the man be born
-> 
-> Maester Aemon, Game of Thrones S05E05
-
-----
-
 Published: 2020-01-10
 
 ----
@@ -26,10 +14,6 @@ Format: quote
 
 ----
 
-Video: 
-
-----
-
 Category: Stuff to Share
 
 ----
@@ -39,3 +23,35 @@ Tags: Quote, TV Show
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: <p>Kill the boy and let the man be born</p>
+
+----
+
+Quotesource: Maester Aemon, Game of Thrones S05E05
+
+----
+
+Statustext: 
+
+----
+
+Old: 
+
+----
+
+Video: 

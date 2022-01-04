@@ -6,6 +6,14 @@ Published: 2020-06-02
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,29 +22,32 @@ Tags: Build, Pc
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>The next step in the PC Build process of my ongoing series is the \nmotherboard. Probably the most important part of any PC. Now I\u2019m a Mac \nuser, I\u2019ve been a Mac user for the last 16 years and it\u2019s been quite \nsome time since I\u2019ve had to deal with stuff like this. So I watched \nYoutube videos ad read tons of articles, reviews, and specs about what a\n motherboard needs to have these days.<\/p> <p>A few things were important for me, it had to be future proof (or at \nleast for a few years). Offer the latest tech and connections so that I \ncan replace parts with new ones and not need to replace the whole \nmotherboard as well. Connect for PCIe 4.0 for example, support fast RAM \nspeeds, support for USB3 and USB-C, and the ability to install maybe 2 \nGPUs in the future. One other thing was very important: Wifi, I wanted \nthe mainboard to have Wifi included already and spare me an additional \ncard to install and use up a PCI slot.<\/p> <p>So after many many hours of watching and reading about motherboards, I finally found the one perfectly for me: <a href=\"https:\/\/www.asus.com\/ch-de\/Motherboards\/ROG-Crosshair-VIII-Hero-WI-FI\/\" rel=\"noreferrer noopener\" target=\"_blank\">ASUS ROG Crosshair VIII Hero (WiFi)<\/a><\/p>"},"id":"3c44f0d4-9e7d-4fa8-bf41-4e38dfba32db","isHidden":false,"type":"text"},{"content":{"columns":2,"lightbox":"true","align":"content","images":["motherboard_01.jpeg","motherboard_04.jpeg","motherboard_03.jpeg","motherboard_02.jpeg"]},"id":"30b52a0e-3780-4d84-b071-33523bb6badf","isHidden":false,"type":"gallery"},{"content":{"text":"<p>It\u2019s one of the more expensive ones (there are definitely cheaper ones) but the reviews are all very good and it checks all the boxes for me. I\u2019ve got so many possibilities with this one that I doubt I will run out of upgrade-possibilities in the next 4 years. I could hook up 8 SSDs over SATA ports and make an internal RAID system if I want to and I can connect two SSDs over PCIe 4.0 and get read speed of 5000 Mb\/s.<\/p><p>So that\u2019s the <a href=\"\/box\/pc-build-the-case\/\" rel=\"noopener noreferrer\">case<\/a> and the motherboard, the next item will be the CPU<\/p>"},"id":"0c3824d7-d950-4fab-b2d8-2cd445e316e1","isHidden":false,"type":"text"}]
 
 ----
 
-Old: The next step in the PC Build process of my ongoing series is the motherboard. Probably the most important part of any PC. Now I'm a Mac user, I've been a Mac user for the last 16 years and it's been quite some time since I've had to deal with stuff like this. So I watched Youtube videos ad read tons of articles, reviews, and specs about what a motherboard needs to have these days.
+Linktext: 
 
-A few things were important for me, it had to be future proof (or at least for a few years). Offer the latest tech and connections so that I can replace parts with new ones and not need to replace the whole motherboard as well. Connect for PCIe 4.0 for example, support fast RAM speeds, support for USB3 and USB-C, and the ability to install maybe 2 GPUs in the future. One other thing was very important: Wifi, I wanted the mainboard to have Wifi included already and spare me an additional card to install and use up a PCI slot.
+----
 
-So after many many hours of watching and reading about motherboards, I finally found the one perfectly for me: (link: https://www.asus.com/ch-de/Motherboards/ROG-Crosshair-VIII-Hero-WI-FI/ text: ASUS ROG Crosshair VIII Hero (WiFi) target: _blank)
+Linkurl: 
 
-- ![ASUS ROG Crosshair VIII Hero (WI-FI)](https://www.soapatrick.com/wp-content/uploads/2020/06/motherboard_01.jpeg)
-    
-- ![ASUS ROG Crosshair VIII Hero (WI-FI)](https://www.soapatrick.com/wp-content/uploads/2020/06/motherboard_02.jpeg)
-    
-- ![ASUS ROG Crosshair VIII Hero (WI-FI)](https://www.soapatrick.com/wp-content/uploads/2020/06/motherboard_03.jpeg)
-    
-- ![ASUS ROG Crosshair VIII Hero (WI-FI)](https://www.soapatrick.com/wp-content/uploads/2020/06/motherboard_04.jpeg)
-    
+----
 
-It's one of the more expensive ones (there are definitely cheaper ones) but the reviews are all very good and it checks all the boxes for me. I've got so many possibilities with this one that I doubt I will run out of upgrade-possibilities in the next 4 years. I could hook up 8 SSDs over SATA ports and make an internal RAID system if I want to and I can connect two SSDs over PCIe 4.0 and get read speed of 5000 Mb/s.
+Quotetext: 
 
-So that's the (link: https://www.soapatrick.com/2020/06/pc-build-the-case/ text: case target: _blank) and the motherboard, the next item will be the CPU
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

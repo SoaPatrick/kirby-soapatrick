@@ -6,6 +6,14 @@ Published: 2020-09-23
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,16 +22,32 @@ Tags: Personal, Soapatrick
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>Ah yes\u2026 writing a lot more to overcome this hole I\u2019m finding myself in. Well, I have some good news actually. I plan on releasing SoaPatrickEight sometime this weekend. Now, this won\u2019t look like the screenshot from the last post, but more similar to <a href=\"\/factory\/soapatrickseven\/\" rel=\"noopener noreferrer\">SoaPatrickSeven<\/a>, it\u2019s actually the same base with some changes. But like I mentioned, the idea is building upon that base, and maybe one day end up somewhere similar to that screenshot.<\/p><p>The idea behind <strong>SoaPatrickEight<\/strong> is to get rid of FontAwesome, use different fonts, change the key visual part of the website, reduce the number of media queries and of course always improve performance and accessibility. The whole <a href=\"\/box\/colorize-the-shit-out-of-it\/\" rel=\"noopener noreferrer\">color concept<\/a> and <a href=\"\/box\/chose-your-own-theme\/\" rel=\"noopener noreferrer\">dark\/light<\/a> mode will stay but that might change further down the road, the interesting thing is that I never know where I end up with a new SoaPatrick version. It\u2019s always an interesting journey where I end up learning so many new things.<\/p><p>On a side note, I\u2019m hopeful that I start doing creative work again soon, maybe combining a drawing\/sketch with a new blog post. Maybe take new pictures with my camera or play around with Blender again. After all, my big fall vacation break will be soon and I always love having a small project during that time to really use all those free hours.<\/p>"},"id":"cd036a4d-f0f3-4714-9855-2ed0f2a99592","isHidden":false,"type":"text"}]
 
 ----
 
-Old: Ah yes... writing a lot more to overcome this hole I'm finding myself in. Well, I have some good news actually. I plan on releasing SoaPatrickEight sometime this weekend. Now, this won't look like the screenshot from the last post, but more similar to (link: https://www.soapatrick.com/factory/soapatrickseven/ text: SoaPatrickSeven target: _blank), it's actually the same base with some changes. But like I mentioned, the idea is building upon that base, and maybe one day end up somewhere similar to that screenshot.
+Linktext: 
 
-The idea behind **SoaPatrickEight** is to get rid of FontAwesome, use different fonts, change the key visual part of the website, reduce the number of media queries and of course always improve performance and accessibility. The whole (link: https://www.soapatrick.com/2019/10/colorize-the-shit-out-of-it/ text: color concept target: _blank) and (link: https://www.soapatrick.com/2019/05/chose-your-own-theme/ text: dark/light target: _blank) mode will stay but that might change further down the road, the interesting thing is that I never know where I end up with a new SoaPatrick version. It's always an interesting journey where I end up learning so many new things.
+----
 
-On a side note, I'm hopefull that I start doing creative work again soon, maybe combine a drawing/sketch with a new blog post. Maybe take new pictures with my camera or play around with Blender again. After all my big fall vacation break will be soon and I always love having a small project during that time to really use all those free hours.
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

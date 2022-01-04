@@ -6,6 +6,14 @@ Published: 2020-02-09
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,16 +22,32 @@ Tags: Soapatrick, Theme, Wordpress
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I took a long walk today through Basel and actually continued with my New Years\u2019 resolution from <a href=\"\/box\/why-not-a-look-ahead\/\" rel=\"noopener noreferrer\">2019<\/a>. And during that walk, I thought of all the things I want to improve upon with the new version and when I arrived at home, I created a new repository, cloned my starter theme and made my first commits.<\/p><p>I also decided to use <code>git-flow<\/code>, might as well try it now, might be useful in the near future. I\u2019m kinda pumped about where it all leads.<\/p><p>But just to clarify, the idea with version seven is to recreate this exact theme here but with a much more improved structure under the hood, there are no plans for a redesign. But I know myself, I will code a few things differently and in the end, it might look different, I don\u2019t know where the road to Seven will lead.<\/p>"},"id":"d306b8f2-0619-4919-9051-322c0a1c70ad","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I took a long walk today through Basel and actually continuing with my New Years' resolution from (link: https://www.soapatrick.com/2019/01/why-not-a-look-ahead/ text: 2019 target: _blank). And during that walk, I thought of all the things I want to improve upon with the new version and when I arrived at home, I created a new repository, cloned my starter theme and made my first commits.
+Linktext: 
 
-I also decided to use `git-flow`, might as well try it now, might be useful in the near future. I'm kinda pumped about where it all leads.
+----
 
-But just to clarify, the idea with version seven is to recreate this exact theme here but with a much more improved structure under the hood, there are no plans for a redesign. But I know myself, I will code a few things differently and in the end it might look different, I don't know where the road to Seven will lead.
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

@@ -1,0 +1,9 @@
+Alt: Pepper created in Blender
+
+----
+
+Caption: Pepper created in Blender
+
+----
+
+Template: blocks/image
