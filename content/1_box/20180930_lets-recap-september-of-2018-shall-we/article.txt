@@ -6,6 +6,14 @@ Published: 2018-09-30
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,46 +22,32 @@ Tags: Filming, Recap, Screenplay, Story
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["september-2018.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/09\/september-2018-1500x720.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"d2da57e8-a80a-4263-bb4d-40aafa9df16e","isHidden":false,"type":"image"},{"content":{"text":"<p>Ok, a whole month without one simple post which is not the recap \npost. But I was busy (and still am) with all the preparations for my \nshort film \u201c<strong>Movie Night<\/strong>\u201c.<\/p> <p>So let me write a bit where things currently are.<\/p>"},"id":"035805ac-db80-42ec-b2ab-b524ba578b45","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Screenplay"},"id":"a71354b8-9484-4e33-a7e4-2799131fff9e","isHidden":false,"type":"heading"},{"content":{"text":"<p>I always wanted to write a Screenplay, then during the whole \npreparation phase, I thought about skipping it and just list scenes or \nshots I want to shoot. Then towards the end, I just started to write and\n within two days I had the <strong>first draft<\/strong>. I\u2019m currently in the midst of writing the <strong>second<\/strong> and probably <strong>final draft<\/strong>.<\/p>"},"id":"c52e8353-6602-4fb3-8ea4-bb1b07e3f2c3","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Storyboards"},"id":"c6f8202b-e126-49b7-98cb-2e74ff129b7c","isHidden":false,"type":"heading"},{"content":{"text":"<p>Not every scene has been storyboarded but I did some for a few <strong>key shots<\/strong>\n in order for me to feel more comfortable and secure when actually \nshooting the scenes. Some other scenes are visualized in my head and \nmight find their way on paper as well and others will probably stay in \nmy head because they are not that complex. But the complex ones are \nvisualized, or will be in the next few days)<\/p>"},"id":"73bcd735-a8e2-47e4-962c-cfc1a01fb32a","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Equipment"},"id":"69e39e9c-60d2-4a5c-919a-ba0bf02f3431","isHidden":false,"type":"heading"},{"content":{"text":"<p>Thanks to <a href=\"https:\/\/www.kulturbuero.ch\/\" rel=\"noreferrer noopener\" target=\"_blank\">Kulturb\u00fcro<\/a> in Basel and Z\u00fcrich I have a solid filming equipment, I just need to pick it up next week. Other things I ordered online, like <strong>lighting<\/strong> and some small stuff to help me get the shots I want. But for future projects, I need my own camera. Unfortunately, the <strong>Canon EOS 5D Mark IV<\/strong> (the camera I rented) has a 4K Crop and doesn\u2019t shoot high frame rates in 4K or 1080p and I\u2019d love to have 2 or 3 <strong>slow motion shots<\/strong>. Not sure how I achieve that now. Another reason to get my own Camera\u2026 soon!<\/p>"},"id":"68fd74a2-f18f-4b7f-90bd-07ac38104739","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Props"},"id":"f00ae657-91e4-44d4-bb9e-b233f1fd4491","isHidden":false,"type":"heading"},{"content":{"text":"<p>All the props have been bought or are on the way and I think I \nthought of everything now, at the end of it all I will add together what\n the movie cost to make and I think I will be shocked when I see that \nfinal number.<\/p>"},"id":"648f3686-9bbc-4354-8cb5-a48daaeb45a5","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Cast"},"id":"c3bc7224-1049-49fe-9cf0-2a5281e9c72b","isHidden":false,"type":"heading"},{"content":{"text":"<p>The movie has been fully cast and we even had a whole evening where we <strong>rehearsed<\/strong>. Thoughts and notes from that evening will flow into the <strong>second draft<\/strong>.\n I\u2019m happy with my casting choice, there was definite chemistry between \nthe actors which will be beneficial for the actual shooting process.<\/p>"},"id":"afad685a-33fd-4e87-a2c7-e47f2a3f2564","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Shooting Plan"},"id":"125d660a-f495-4d54-bf9b-e994747baf74","isHidden":false,"type":"heading"},{"content":{"text":"<p>Today I made my own shot or better yet <strong>set list<\/strong> so that I don\u2019t miss anything when actually shooting. I will also start with a s<strong>ound record list<\/strong>, sounds I already know now I need to record for <strong>mixing<\/strong> the movie. That list will be updated when shooting of course.<\/p>"},"id":"7f39cbff-a9d1-4f00-b319-9d5e46f86618","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"What is missing?"},"id":"cf8139dd-acb8-4c74-b9ab-a2576c0240de","isHidden":false,"type":"heading"},{"content":{"text":"<p>Not much actually. Some minor things here and there, <strong>food<\/strong> and <strong>drinks<\/strong>\n for the crew, picking up the equipment I rented and then, well yes \nthen, I\u2019m ready to shoot my first short film in over 12 years. The scope\n is different though, this is a much bigger project but I\u2019m enjoying the\n whole process, apart from a few moments of crisis.<\/p> <p>Shooting starts next <strong>Friday<\/strong>, and I try to post some impressions on <a href=\"https:\/\/www.instagram.com\/soapatrick\/\" rel=\"noreferrer noopener\" target=\"_blank\">Instagram<\/a> during the weekend and write a recap of the shooting process once shooting is done.<\/p>"},"id":"57d39561-2b3e-4eef-99b9-24a8210c9bd2","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/09/september-2018-1500x720.jpg)
+Linktext: 
 
-Ok, a whole month without one simple post which is not the recap post. But I was busy (and still am) with all the preparations for my short film "**Movie Night**".
+----
 
-So let me write a bit where things currently are.
+Linkurl: 
 
-## Screenplay
+----
 
-I always wanted to write a Screenplay, then during the whole preparation phase, I thought about skipping it and just list scenes or shots I want to shoot. Then towards the end, I just started to write and within two days I had the **first draft**. I'm currently in the midst of writing the **second** and probably **final draft**.
+Quotetext: 
 
-## Storyboards
+----
 
-Not every scene has been storyboarded but I did some for a few **key shots** in order for me to feel more comfortable and secure when actually shooting the scenes. Some other scenes are visualized in my head and might find their way on paper as well and others will probably stay in my head because they are not that complex. But the complex ones are visualized, or will be in the next few days)
+Quotesource: 
 
-## Equipment
+----
 
-Thanks to (link: https://www.kulturbuero.ch/ text: Kulturbüro target: _blank) in Basel and Zürich I have a solid filming equipment, I just need to pick it up next week. Other things I ordered online, like **lighting** and some small stuff to help me get the shots I want. But for future projects, I need my own camera. Unfortunately, the **Canon EOS 5D Mark IV** (the camera I rented) has a 4K Crop and doesn't shoot high frame rates in 4K or 1080p and I'd love to have 2 or 3 **slow motion shots**. Not sure how I achieve that now. Another reason to get my own Camera... soon!
+Statustext: 
 
-## Props
+----
 
-All the props have been bought or are on the way and I think I thought of everything now, at the end of it all I will add together what the movie cost to make and I think I will be shocked when I see that final number.
-
-## Cast
-
-The movie has been fully cast and we even had a whole evening where we **rehearsed**. Thoughts and notes from that evening will flow into the **second draft**. I'm happy with my casting choice, there was definite chemistry between the actors which will be beneficial for the actual shooting process.
-
-## Shooting Plan
-
-Today I made my own shot or better yet **set list** so that I don't miss anything when actually shooting. I will also start with a s**ound record list**, sounds I already know now I need to record for **mixing** the movie. That list will be updated when shooting of course.
-
-## What is missing?
-
-Not much actually. Some minor things here and there, **food** and **drinks** for the crew, picking up the equipment I rented and then, well yes then, I'm ready to shoot my first short film in over 12 years. The scope is different though, this is a much bigger project but I'm enjoying the whole process, apart from a few moments of crisis.
-
-Shooting starts next **Friday**, and I try to post some impressions on (link: https://www.instagram.com/soapatrick/ text: Instagram target: _blank) during the weekend and write a recap of the shooting process once shooting is done.
+Old: 

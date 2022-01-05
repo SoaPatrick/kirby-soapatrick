@@ -6,6 +6,18 @@ Published: 2018-02-07
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,20 +26,32 @@ Tags: workflow
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I\u2019m currently trying to archive some old mini DV tapes and transfer them on the computer because the camera only has firewire output and I don\u2019t know how much longer I will own a computer that has a firewire connection. Then there\u2019s the fact that these tapes don\u2019t live forever and I would much rather have a digital copy than those tapes because at the end of the day I can make backups easily and throw the camera away (I mean the camera shoots in 480p which means a resolution of 640\u00d7480 pixel, who needs that these days)<\/p><p>The process though is frustrating, especially because the sound somehow gets distorted through the import process. So far I\u2019ve tried iMovie and Adobe Premiere Pro, Premiere Pro seemed to handle it slightly better. I will try it on the weekend again when I have a bit more time on my hands to try different settings.<\/p><p>But this made me think of a proper workflow for future movie projects. No matter what I shoot with, the question remains: how do I transfer the footage from the camera to the computer, and how do I make sure I chose a format which is readable in 10 years? Right now I import the footage to .mov files. Will I be able to open that in 10 years again? If not, what format is the best and should I export all videos to that format? What formats are other shooting devices using? Should I export them all to individual images to be sure? (The last one was a joke, but maybe that is the safest thing)<\/p><p>Then there\u2019s the storage issue. Sure having a digital copy is fine, especially if I run time machine in the background. But worst case, what if there is a fire or I get robbed. Do I need to make external backups and keep them somewhere else? Also, should I get a NAS for possible future footage which might be bigger thanks to a bigger resolution?<\/p><p>So I have to think about that a bit and come up with a workflow that covers all my requirements and is not too time-consuming, no matter what device I shot the footage with.<\/p>"},"id":"d8e9fa09-579b-469b-a7d1-fa6d19b33128","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I’m currently trying to archive some old mini DV tapes and transfer them on the computer because the camera only has firewire output and I don’t know how much longer I will own a computer who has a firewire connection. Then there’s the fact that these tapes don’t live forever and I would much rather have a digital copy than those tapes because at the end of the day I can make backups easily and throw the camera away (I mean the camera shoots in 480p which means a resolution of 640x480 pixel, who needs that these days)
+Linktext: 
 
-The process though is frustrating, especially because the sound somehow gets distorted through the import process. So far I’ve tried iMovie and Adobe Premiere Pro, Premiere Pro seemed to handle it slightly better. I will try it on the weekend again when I have a bit more time on my hands to try different settings.
+----
 
-But this made me think of a proper workflow for future movie projects. No matter what I shoot with, the question remains: how do I transfer the footage from the camera to the computer, and how do I make sure I chose a format which is readable in 10 years? Right now I import the footage to .mov files. Will I be able to open that in 10 years again? If not, what format is the best and should I export all videos to that format? What formats are other shooting devices using? Should I export them all to individual images to be sure? (The last one was a joke, but maybe that is the safest thing)
+Linkurl: 
 
-Then there’s the storage issue. Sure having a digital copy is fine, especially if I run time machine in the background. But worst case, what if there is a fire or I get robbed. Do I need to make external backups and keep them somewhere else? Also, should I get a NAS for possible future footage which might be bigger thanks to bigger resolution?
+----
 
-So I have to think about that a bit and come up with a workflow that covers all my requirements and is not too time-consuming, no matter what device I shot the footage with.
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

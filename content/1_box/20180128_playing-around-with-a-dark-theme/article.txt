@@ -6,6 +6,18 @@ Published: 2018-01-28
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,18 +26,32 @@ Tags: Design, Soapatrick
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I had some time today so I made some quick changes to my local \ninstallation to see how a dark version of the current theme might look \nlike. This was achieved with 10 lines of SASS, not everything was styled\n and a final version might change the header image as well, this one was\n just inverted. See for yourself:<\/p>"},"id":"80d95221-b837-4639-aff3-def83dcd8c6a","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["soapatrickfour-dark-theme.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/01\/soapatrickfour-dark-theme-750x2058.png","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"30e36b33-d5b6-4389-a180-be97bc7306c7","isHidden":false,"type":"image"},{"content":{"text":"<p>I think it shows what I wanted to achieve and I think it looks quite nice. Like I mentioned yesterday, the idea is to have a theme with a pure black background because on OLED displays, a Pixel displaying the color black is just a Pixel not lit up, so the device saves energy by not lighting up the background of the page is black. I think there was an article once about how much energy could be saved if Google makes their starting website black instead of white. (Found it: <a href=\"https:\/\/www.quora.com\/How-much-energy-would-be-saved-if-Google-used-a-black-screen-instead-of-white\" target=\"_blank\" rel=\"noopener noreferrer\">How much energy would be saved if Google used a black screen instead of white?<\/a>)<\/p><p>Now I\u2018m not saying I could solve the energy crisis by making my page black, but I\u2018d love the idea of having a dark theme for stylistic reasons as well and if I save a bit of battery for my visitors then all the better. But the idea is to make a completely new design, and not just turn this one black. It\u2018s too early to discuss any more details though as it\u2018s still in a \u201cthinking about\u201d stage.<\/p>"},"id":"68be260c-1f02-426f-9cd4-e2103f01e3fc","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I had some time today so I made some quick changes to my local installation to see how a dark version of the current theme might look like. This was achieved with 10 lines of SASS, not everything was styled and a final version might change the header image as well, this one was just inverted. See for yourself:
+Linktext: 
 
-![](https://www.soapatrick.com/wp-content/uploads/2018/01/soapatrickfour-dark-theme-750x2058.png)
+----
 
-I think it shows what I wanted to achieve and I think it looks quite nice. Like I mentioned yesterday, the idea is to have a theme with a pure black background because on OLED displays, a Pixel displaying the color black is just a Pixel not lit up, so the device saves energy by not lighting up the background if the page is black. I think there was an article once about how much energy could be saved if Google makes their starting website black instead of white. (Found it: [How much energy would be saved if Google used a black screen instead of white?](https://www.quora.com/How-much-energy-would-be-saved-if-Google-used-a-black-screen-instead-of-white))
+Linkurl: 
 
-Now I‘m not saying I could solve the energy crisis by making my page black, but I‘d love the idea of having a dark theme for stylistic reasons as well and if I save a bit of battery for my visitors then all the better. But the idea is to make a completely new design, and not just turn this one black. It‘s too early to discuss any more details though as it‘s still in a "thinking about" stage.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

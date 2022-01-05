@@ -2,14 +2,6 @@ Title: I'm feeling a bit under the weather, had plans for...
 
 ----
 
-Text: 
-
-----
-
-Old: I'm feeling a bit under the weather, had plans for a follow up on yesterdays Blog Post but I was missing the needed energy, therefore just a short status update.
-
-----
-
 Published: 2018-03-06
 
 ----
@@ -18,11 +10,11 @@ Cover:
 
 ----
 
-Format: status
+Files: 
 
 ----
 
-Video: 
+Format: status
 
 ----
 
@@ -35,3 +27,35 @@ Tags: Status
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: <p>I'm feeling a bit under the weather, had plans for a follow-up on yesterday's Blog Post but I was missing the needed energy, therefore just a short status update.</p>
+
+----
+
+Old: 
+
+----
+
+Video: 

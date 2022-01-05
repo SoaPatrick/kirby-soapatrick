@@ -6,6 +6,14 @@ Published: 2019-05-04
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,18 +22,32 @@ Tags: Theme
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>Yeah, what\u2019s up with the pink, and white, theme? Well since you\u2019ve asked. In my quest to improve upon version <strong>five<\/strong> I also played around with colors and with the possibility of a white, or light, theme.<\/p><p>For future theme switching, or whatever, I plan on using <strong>CSS variables<\/strong> and the ability to choose a <strong>light<\/strong> or <strong>dark<\/strong> theme and save those settings in a cookie. In the meantime, the theme will look whatever I feel like it should look.<\/p><p>I also played around with new buttons, not sure about them but I keep them for now, to see how I feel about them after a few days. I also optimized the mobile header. By making the logo <strong>smaller<\/strong>, there is more room for content now.<\/p><p>Yeah, I\u2019m typing this on my <strong>iPhone<\/strong> with a few cocktails already cruising through my bloodstream, so any typos you will find, you can stick them up your\u2026<\/p>"},"id":"43eb0a25-9b13-403c-8909-e6405b890bb0","isHidden":false,"type":"text"}]
 
 ----
 
-Old: Yeah, what's up with the pink, and white, theme? Well since you've asked. In my quest to improve upon version **five** I also played around with colors and with the possibility of a white, or light, theme.
+Linktext: 
 
-For future theme switching, or whatever, I plan on using **CSS variables** and the ability to chose a **light** or **dark** theme and save those settings in a cookie. In the meantime, the theme will look whatever I feel like it should look.
+----
 
-I also played around with new buttons, not sure about them but I keep them for now, to see how I feel about them after a few days. I also optimized the mobile header. By making the logo **smaller**, there is more room for content now.
+Linkurl: 
 
-Yeah, I'm typing this on my **iPhone** with a few cocktails already cruising through my bloodstream, so any typos you will find, you can stick them up your...
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

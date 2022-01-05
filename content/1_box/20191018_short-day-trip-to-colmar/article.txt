@@ -6,6 +6,14 @@ Published: 2019-10-18
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,28 +22,32 @@ Tags: Photograph
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["colmar_01.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2019\/10\/colmar_01-1500x1000.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"4595df04-fa00-4203-952e-5155baee63d3","isHidden":false,"type":"image"},{"content":{"text":"<p>I recently also took a short trip to the beautiful french city <strong>Colmar<\/strong>,\n the weather was changing constantly between light rain and sunshine. \nNonetheless, I took my camera with me and tried taking beautiful shots \nonce again.<\/p> <p>Some of them turned out quite nice with the reflection in the water \nor with the sky being cloudy. I missed some better opportunities but I\u2019m\n happy with what I shot that day.<\/p>"},"id":"ff4bfb6c-ba05-45c6-9803-db214ff8a724","isHidden":false,"type":"text"},{"content":{"columns":2,"lightbox":"true","align":"content","images":["colmar_02.jpg","colmar_03.jpg","colmar_04.jpg","colmar_05.jpg","colmar_06.jpg","colmar_07.jpg"]},"id":"7020dd22-9670-47d5-aaf0-ed69ae01f158","isHidden":false,"type":"gallery"}]
 
 ----
 
-Old: ![Colmar Fall 2019](https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_01-1500x1000.jpg)
+Linktext: 
 
-I recently also took a short trip to the beautiful french city **Colmar**, the weather was changing constantly between light rain and sunshine. Nonetheless, I took my camera with me and tried taking beautiful shots once again.
+----
 
-Some of them turned out quite nice with the reflection in the water or with the sky being cloudy. I missed some better opportunities but I'm happy with what I shot that day.
+Linkurl: 
 
-- [![Colmar Fall 2019](https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_02-scaled.jpg)](https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_02-scaled.jpg)
-    
-- [![Colmar Fall 2019](https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_03-scaled.jpg)](https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_03-scaled.jpg)
-    
-- [![Colmar Fall 2019](https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_04-scaled.jpg)](https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_04-scaled.jpg)
-    
-- [![Colmar Fall 2019](https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_05-scaled.jpg)](https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_05-scaled.jpg)
-    
-- [![Colmar Fall 2019](https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_06-scaled.jpg)](https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_06-scaled.jpg)
-    
-- [![Colmar Fall 2019](https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_07-scaled.jpg)](https://www.soapatrick.com/wp-content/uploads/2019/10/colmar_07-scaled.jpg)
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

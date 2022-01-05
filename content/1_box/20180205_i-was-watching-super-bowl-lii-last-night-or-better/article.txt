@@ -2,14 +2,6 @@ Title: I was watching Super Bowl LII last night or better...
 
 ----
 
-Text: 
-
-----
-
-Old: I was watching Super Bowl LII last night or better yet this morning so I'm still kinda tired. Was an awesome game though with the perfect winner. More an all this tomorrow
-
-----
-
 Published: 2018-02-05
 
 ----
@@ -18,11 +10,11 @@ Cover:
 
 ----
 
-Format: status
+Files: 
 
 ----
 
-Video: 
+Format: status
 
 ----
 
@@ -35,3 +27,35 @@ Tags: sport, Status
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: <p>I was watching Super Bowl LII last night or better yet this morning so I'm still kinda tired. Was an awesome game though with the perfect winner. More an all this tomorrow</p>
+
+----
+
+Old: 
+
+----
+
+Video: 

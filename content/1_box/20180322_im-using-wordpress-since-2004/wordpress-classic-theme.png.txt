@@ -1,0 +1,9 @@
+Alt: WordPress classic theme
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

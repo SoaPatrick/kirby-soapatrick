@@ -6,6 +6,18 @@ Published: 2018-05-05
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,14 +26,32 @@ Tags: Drawing
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>It seems that I\u2019ve settled on how my drawings look like and recently it has become a quick <strong>copy\/paste job<\/strong>\n and that\u2019s why all my drawings look the same, at least to me. I don\u2019t \ntake risks or try new things, I stay within my comfort zone and I need \nto break out of it, fast!<\/p>\n\n\n\n<p>Of course, not all drawings have to be new and groundbreaking, that \nwould put too much pressure on me, but trying different styles and \ndrawing new things should be the main goal now. I will try to deliver \nthat.<\/p>"},"id":"6714288e-f297-4cdc-afa8-502290ebdaab","isHidden":false,"type":"text"}]
 
 ----
 
-Old: It seems that I've settled on how my drawings look like and recently it has become a quick **copy/paste job** and that's why all my drawings look the same, at least to me. I don't take risks or try new things, I stay within my comfort zone and I need to break out of it, fast!
+Linktext: 
 
-Of course, not all drawings have to be new and groundbreaking, that would put too much pressure on me, but trying different styles and drawing new things should be the main goal now. I will try to deliver that.
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

@@ -1,0 +1,9 @@
+Alt: WordPress vs Jekyll
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

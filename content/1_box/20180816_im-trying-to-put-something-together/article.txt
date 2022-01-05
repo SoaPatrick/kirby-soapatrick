@@ -6,6 +6,14 @@ Published: 2018-08-16
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,18 +22,32 @@ Tags: Filming, Movie
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>It\u2019s been some time since my last blog post and while I didn\u2019t continue with the <strong>100 Days Drawing Challenge<\/strong>, I was productive in another way. I had a blast <a href=\"\/box\/shooting-a-short-video\/\" rel=\"noopener noreferrer\">shooting<\/a> and <a href=\"\/box\/video-editing-is-a-hassle\/\" rel=\"noopener noreferrer\">editing<\/a> that video I did last month (minus some slight frustration) and I\u2019ve been trying to do something new. So I thought of stories but I also questioned whether to shoot on an iPhone again or not, after all, I own a <strong>Sony A5000<\/strong>. I know it\u2019s not the latest and best and doesn\u2019t shoot 4K but it has other advantages, mostly the ability to swap lenses.<\/p><p>I then read and watched a lot about lenses and all the technical stuff that comes with them in order to better understand when to use what kind of lens and in order to get a specific image. I\u2019ve learned a lot and I know I\u2019ve got a lot more to learn but now I want to put that knowledge to good use and actually do something with it.<\/p><p>So, I\u2019ve got a long break from work in October and I decided to put together a <strong>Micro<\/strong> or <strong>Short Film<\/strong> during that time frame that means I have to hurry and set myself very clear deadlines in order to be fully prepared. The first deadline will be <strong>August 31st<\/strong>. Until then I need to have the story set, meaning I need to be able to write the screenplay based on that story or better yet already started writing it. That would leave me another 30 days to finish the screenplay and prepare everything for shooting it. Meaning <strong>actors<\/strong>, <strong>equipment<\/strong>, <strong>shooting locations<\/strong> and so on.<\/p><p>The main concern, of course, would be to<strong> NOT<\/strong> come up with a story until August 31st, that would suck but I think then I would put together something from old stuff I\u2019ve written just to be able to shoot <strong>SOMETHING<\/strong>. I will continue to post updates on the project, obviously.<\/p>"},"id":"8863338d-1a2b-4811-ae80-5796ece1c45d","isHidden":false,"type":"text"}]
 
 ----
 
-Old: It's been some time since my last blog post and while I didn't continue with the **100 Days Drawing Challenge**, I was productive in another way. I had a blast (link: https://www.soapatrick.com/2018/07/shooting-a-short-video/ text: shooting target: _blank) and (link: https://www.soapatrick.com/2018/07/video-editing-is-a-hassle/ text: editing target: _blank) that video I did last month (minus some slight frustration) and I've been trying to do something new. So I thought of stories but I also questioned whether to shoot on an iPhone again or not, after all, I own a **Sony A5000**. I know it's not the latest and best and doesn't shoot 4K but it has other advantages, mostly the ability to swap lenses.
+Linktext: 
 
-I then read and watched a lot about lenses and all the technical stuff that comes with them in order to better understand when to use what kind of lense and in order to get a specific image. I've learned a lot and I know I've got a lot more to learn but now I want to put that knowledge to good use and actually do something with it.
+----
 
-So, I've got a long break from work in October and I decided to put together a **Micro** or **Short Film** during that time frame that means I have to hurry and set myself very clear deadlines in order to be fully prepared. The first deadline will be **August 31st**. Until then I need to have the story set, meaning I need to be able to write the screenplay based on that story or better yet already started writing it. That would leave me another 30 days to finish the screenplay and prepare everything for shooting it. Meaning **actors**, **equipment**, **shooting locations** and so on.
+Linkurl: 
 
-The main concern, of course, would be to **NOT** come up with a story until August 31st, that would suck but I think then I would put together something from old stuff I've written just to be able to shoot **SOMETHING**. I will continue to post updates on the project, obviously.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

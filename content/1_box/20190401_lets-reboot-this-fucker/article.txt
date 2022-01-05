@@ -6,7 +6,7 @@ Published: 2019-04-01
 
 ----
 
-Category: Thoughts on stuff
+Cover: 
 
 ----
 
@@ -14,22 +14,40 @@ Format: standard
 
 ----
 
-Cover: 
+Category: Thoughts on stuff
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2019/04/reboot-1500x720.jpg)
+Tags: Photograph, Theme
 
-It's been some time since my last post and I think It's time to get **back to the basics**. I'm having a hard time recently thinking and doing creative things. The year started good with shooting (link: https://www.soapatrick.com/2019/02/in-the-mood-for-something-scary/ text: **Reflection** target: _blank) in January but since then I'm having trouble doing something new. I was so happy with how **Reflection** turned out that I feel like I have to raise the bar again and create something better instead of focusing on just doing anything at all.
+----
 
-So for the past 2 months, I've been joggling around dozens of ideas in my head for my next **Soap Lab Experiment** and every time I feel like I found the next story or idea for a story I start to lose focus and don't go further with it. I see the problems with the story and try to solve it and create new problems and the **endless loop** is born. Instead of doing the work I dance around it and try to perfect the story first, which I know will never really happen.
+Project: 
 
-Then there's the idea that better gear solves problems. If I just buy this **lens** or that **light**, this **slider** or that **C-Stand** I will be able to do.... do what exactly?!? I'm not even able to do stuff now, why should I be able to make something with even more cool gear? It's a **vicious circle** which needs to be broken, now!
+----
 
-Today I even thought about buying a new **Wordpress theme** and really upgrade this place and display all my work in a cool way. But I think I have to do something first, so here's the idea:
+Text: [{"content":{"location":"kirby","image":["reboot.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2019\/04\/reboot-1500x720.jpg","alt":"Rebooting","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"7686c4fa-784e-4622-bef7-88b44f89b287","isHidden":false,"type":"image"},{"content":{"text":"<p>It\u2019s been some time since my last post and I think It\u2019s time to get <strong>back to the basics<\/strong>. I\u2019m having a hard time recently thinking and doing creative things. The year started good with shooting <strong><a href=\"\/box\/in-the-mood-for-something-scary\/\" rel=\"noopener noreferrer\">Reflection<\/a><\/strong> in January but since then I\u2019m having trouble doing something new. I was so happy with how <strong>Reflection<\/strong> turned out that I feel like I have to raise the bar again and create something better instead of focusing on just doing anything at all.<\/p><p>So for the past 2 months, I\u2019ve been joggling around dozens of ideas in my head for my next <strong>Soap Lab Experiment<\/strong> and every time I feel like I found the next story or idea for a story I start to lose focus and don\u2019t go further with it. I see the problems with the story and try to solve it and create new problems and the <strong>endless loop<\/strong> is born. Instead of doing the work I dance around it and try to perfect the story first, which I know will never really happen.<\/p><p>Then there\u2019s the idea that better gear solves problems. If I just buy this <strong>lens<\/strong> or that <strong>light<\/strong>, this <strong>slider<\/strong> or that <strong>C-Stand<\/strong> I will be able to do\u2026. do what exactly?!? I\u2019m not even able to do stuff now, why should I be able to make something with even more cool gear? It\u2019s a <strong>vicious circle<\/strong> that needs to be broken, now!<\/p><p>Today I even thought about buying a new <strong>WordPress theme<\/strong> and really upgrading this place and displaying all my work in a cool way. But I think I have to do something first, so here\u2019s the idea:<\/p><p>Start to post on a <strong>regular<\/strong> basis again, put those thoughts down, write stuff, and find ways to come up with new content, be that new photographs, story ideas, drawings, logo designs or whatever. The idea is to get those creative juices flowing again (it helped the last time) and dig myself through that creative difficult time.<\/p><p>If I keep doing that and after a while, I still feel like I need a new theme I might reconsider buying a new theme for this place.<\/p><p>So, let\u2019s reboot this fucker and see where it all leads\u2026<\/p>"},"id":"b33fef9f-ac0d-4d05-9d77-af1588e0f60b","isHidden":false,"type":"text"}]
 
-Start to post on a **regular** basis again, put those thoughts down, write stuff, and find ways to come up with new content, be that new photographs, story ideas, drawings, logo designs or whatever. The idea is to get those creative juices flowing again (it helped the last time) and dig myself through that creative difficult time.
+----
 
-If I keep doing that and after a while I still feel like I need a new theme I might reconsider buying a new theme for this place.
+Linktext: 
 
-So, let's reboot this fucker and see where it all leads...
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

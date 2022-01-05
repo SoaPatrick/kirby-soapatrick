@@ -6,6 +6,18 @@ Published: 2018-06-04
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,16 +26,32 @@ Tags: Challenge, Drawing
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I thought about how to move forward, improve my drawing skills and make a fun game out of it which keeps me drawing daily. I remembered the <a href=\"\/box\/30-day-drawing-challenge\/\" rel=\"noopener noreferrer\">30 Day Drawing Challenge<\/a> I did last year and how much I learned but also how stressful it became to draw something daily. So I thought I change some tiny bits with that approach and make it easier to approach it daily.<\/p><p>So let me introduce the <strong>100 Day 10 Minutes Drawing Challenge<\/strong>. Wait, what? <strong>100 Days!?!?<\/strong> Yap, BUT, with a time limit of <strong>10 minutes<\/strong> of drawing per day. So every day for the next 100 days, I will draw something with a timer set to 10 minutes. Once the timer has run out I stop. I can continue of course if I feel like it but I don\u2019t have to. 10 minutes per day seems doable.<\/p><p>I\u2019m not gonna publish all my results, only the ones I feel good about, obviously. So starting <strong>today<\/strong> (right after the Apple Keynote) I will draw daily and hopefully improve my drawing skills and I will also post status updates once in a while with certain results.<\/p>"},"id":"1afa663e-dfa5-4961-8708-5e9d411f67c8","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I thought about how to move forward, improve my drawing skills and make a fun game out of it which keeps me drawing daily. I remembered the (link: https://www.soapatrick.com/2017/02/30-day-drawing-challenge/ text: 30 Day Drawing Challenge target: _blank) I did last year and how much I learned but also how stressful it became to draw something daily. So I thought I change some tiny bits with that approach and make it easier to approach it daily.
+Linktext: 
 
-So let me introduce the **100 Day 10 Minutes Drawing Challenge**. Wait, what? **100 Days!?!?** Yap, BUT, with a time limit of **10 minutes** of drawing per day. So Everyday for the next 100 days, I will draw something with a timer set to 10 minutes. Once the timer has run out I stop. I can continue of course if I feel like it but I don't have to. 10 minutes per day seems doable.
+----
 
-I'm not gonna publish all my results, only the ones I feel good about, obviously. So starting **today** (right after the Apple Keynote) I will draw daily and hopefully improve my drawing skills and I will also post status updates once in a while with certain results.
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

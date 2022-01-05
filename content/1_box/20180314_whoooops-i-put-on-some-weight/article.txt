@@ -6,6 +6,18 @@ Published: 2018-03-14
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,16 +26,32 @@ Tags: Drawing
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["gained-weight.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/03\/gained-weight-750x375.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"8facfb99-bf10-4c8d-bb7a-49a88cd07a48","isHidden":false,"type":"image"},{"content":{"text":"<p>Oh my, I was on schedule to get in shape for summer, for bike and \nhiking season, and now this! Somehow I gained some weight over the last \nmonth and now I have to put on some extra hours on the bike at home to \nget back on track.<\/p> <p>I actually wanted to write more and draw less, but drawing the \ncartoon took a lot longer, in fact, it took soooo long that the battery \nof my iPad and Apple Pencil drained so fast that I couldn\u2019t really \nfinish it. But then it\u2019s late and I want to go to bed. Maybe more \ntomorrow, I\u2019m just glad I drew something today. Horray Me!<\/p>"},"id":"58a9372d-f6ef-4967-b161-6b19a617e153","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/03/gained-weight-750x375.jpg)
+Linktext: 
 
-Oh my, I was on schedule to get in shape for summer, for bike and hiking season, and now this! Somehow I gained some weight over the last month and now I have to put on some extra hours on the bike at home to get back on track.
+----
 
-I actually wanted to write more and draw less, but drawing the cartoon took a lot longer, in fact, it took soooo long that the battery of my iPad and Apple Pencil drained so fast that I couldn't really finish it. But then it's late and I want to go to bed. Maybe more tomorrow, I'm just glad I drew something today. Horray Me!
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

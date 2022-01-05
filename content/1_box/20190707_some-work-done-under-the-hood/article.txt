@@ -6,6 +6,14 @@ Published: 2019-07-07
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,30 +22,32 @@ Tags: Theme
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>Ok so at work there was a lot of discussion about page speed optimization of websites, so I checked how this place is doing and I think it did ok. On <a href=\"https:\/\/developers.google.com\/speed\/pagespeed\/insights\/\" target=\"_blank\" rel=\"noopener noreferrer\">Google\u2019s Page Speed Test Website<\/a>, it scored around <strong>45 Mobile<\/strong> and over <strong>90 on the Desktop<\/strong> but there was room for improvements.<\/p><p>I looked at the final score and decided what can be optimized on my hand and what was out of reach for me.<\/p><p>The first thing I did was <strong>cache<\/strong> all the resources, it made sense to cache scripts, stylesheets, fonts and images. That was easy and it improved the mobile score. (funny thing is that there are still some resources google says are not cached, but I don\u2019t know why). I also <strong>gzip<\/strong> all text resources which made me gain a few points as well.<\/p><p>Then I activated <strong>lazy loading<\/strong>, which loads images when the browser starts to display them, and not before and <strong>reduced<\/strong> the number of Instagram images from the feed to 10. No one scrolls through 20 Images.<\/p><p>So now the main page scores <strong>61 Mobile<\/strong> and a <strong>95 on Desktop<\/strong>, that\u2019s quite alright I think.<\/p><p>Other things I still could do is <strong>compress<\/strong> all images which reduce their file size and use modern web formats (like Google\u2019s WebP). There are plugins that do all that automatically but I\u2019m not a fan of getting a plugin for everything.<\/p><p>I might as well just compress future images and leave the current ones be. But I know what you\u2019re saying<\/p>"},"id":"c194f687-9f53-4aa0-908c-5bea977062e5","isHidden":false,"type":"text"},{"content":{"text":"Why are you working on the theme again and not filming your next short film!!!!!","citation":"My two visitors","style":"large"},"id":"449c0b01-fe49-49e3-835d-002f1180beab","isHidden":false,"type":"quote"},{"content":{"text":"<p>I hear ya, I really do, I get distracted by website stuff too easily \nbecause it\u2019s quick and it\u2019s doable all by myself. Shooting a short film \nalone is hard. BUT I will hopefully deliver something by the end of the \nmonth. I need a deadline and there I just made one.<\/p>"},"id":"cb13ccd2-a475-4176-b4ba-16f9de9af4d8","isHidden":false,"type":"text"}]
 
 ----
 
-Old: Ok so at work there was a lot of discussion about page speed optimization of websites, so I checked how this place is doing and I think it did ok. On (link: https://developers.google.com/speed/pagespeed/insights/ text: Google's Page Speed Test Website target: _blank), it scored around **45 Mobile** and over **90 on the Desktop** but there was room for improvements.
+Linktext: 
 
-I looked at the final score and decided what can be optimized on my hand and what was out of reach for me.
+----
 
-The first thing I did was **caching** all the resources, it made sense to cache scripts, stylesheets, fonts and images. That was easy and it improved the mobile score. (funny thing is that there are still some resources google says are not cached, but I don't know why). I also **gzip** all text resources which made me gain a few points as well.
+Linkurl: 
 
-Then I activated **lazy loading**, which loads images when the browser starts to display them, and not before and **reduced** the number of Instagram images from the feed to 10. No one scrolls through 20 Images.
+----
 
-So now the main page scores a **61 Mobile** and a **95 on Desktop**, that's quite alright I think.
+Quotetext: 
 
-Other things I still could do is **compress** all images which reduce their file size and use modern web formats (like Google's WebP). There are plugins which do all that automatically but I'm not a fan of getting a plugin for everything.
+----
 
-I might as well just compress future images and leave the current ones be. But I know what you're saying
+Quotesource: 
 
-> Why are you working on the theme again and not film your next short film!!!!!
-> 
-> My two visitors
+----
 
-I hear ya, I really do, I get distracted by website stuff too easily because it's quick and it's doable all by myself. Shooting a short film alone is hard. BUT I will hopefully deliver something by the end of the month. I need a deadline and there I just made one.
+Statustext: 
+
+----
+
+Old: 

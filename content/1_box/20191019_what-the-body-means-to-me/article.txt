@@ -6,6 +6,14 @@ Published: 2019-10-19
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,30 +22,32 @@ Tags: Personal, TV Show
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["cosmo-grissu_01.jpeg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2019\/10\/cosmo-grissu_01-750x355.jpeg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"00d341a3-04ab-48e9-b7fe-e50db7ec4f35","isHidden":false,"type":"image"},{"content":{"text":"<p><strong>The Body<\/strong> is the 16th Episode from the 5th Season of <strong>Buffy The Vampire Slayer<\/strong> and it\u2019s a tough one. I\u2019ve been watching and rewatching Buffy a few times now and the moment this episode is on I turn into an emotional wreck. For me, this episode is one of the best hour of TV EVER!<\/p><p>The short version, this episode is about <strong>death<\/strong> and the bleakness of it. I\u2019m sure you can find tons of articles online about this episode where way better and more gifted writers and psychologists write about this episode. That\u2019s not what I want to do here, but I want to put my thoughts down about what this episode means to me shortly after I\u2019ve seen it.<\/p><p>I didn\u2019t come into contact with death much yet, thank you for that. But there\u2019s one incident which broke me. In <strong>May of 2013<\/strong>, I came home, slightly drunk from a club when I found my cat <a href=\"\/factory\/cosmo\/\" rel=\"noopener noreferrer\">Cosmo<\/a> lying on the floor, motionless. I closed the door behind me and kneeled down to pet him when I realized he\u2019s hard and stiff and didn\u2019t move.<\/p><p>The realization of him being dead broke me, literally and figuratively. I broke down crying and screaming at him to stand up but he didn\u2019t move. I laid there next to him, talking to him and in some way saying my goodbyes. What followed were tough 24 hours in which the whole family came by to say goodbye before we brought him to a vet.<\/p><p><strong>The Body<\/strong> perfectly captures these first hours and for me, it\u2019s always a reminder of what I went through back in May of 2013.<\/p><p>I still miss you Comso\u2026<\/p>"},"id":"95dba5d2-71e7-4685-a1d2-4b5890774cb9","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["cosmo-grissu_02.jpeg"],"src":"","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"de7f15f1-14a7-4bc9-9704-6de6beec63ab","isHidden":false,"type":"image"}]
 
 ----
 
-Old: ![Cosmo and Grissu together](https://www.soapatrick.com/wp-content/uploads/2019/10/cosmo-grissu_01-750x355.jpeg)
+Linktext: 
 
-The last Photograph of Comso (left)
+----
 
-**The Body** is the 16th Episode from the 5th Season of **Buffy The Vampire Slayer** and it's a tough one. I've been watching and rewatching Buffy a few times now and the moment this episode is on I turn into an emotional wreck. For me, this episode is one of the best hour of TV EVER!
+Linkurl: 
 
-The short version, this episode is about **death** and the bleakness of it. I'm sure you can find tons of articles online about this episode where way better and more gifted writers and psychologists write about this episode. That's not what I want to do here, but I want to put my thoughts down about what this episode means to me shortly after I've seen it.
+----
 
-I didn't come into contact with death much yet, thank you for that. But there's one incident which broke me. In **May of 2013**, I came home, slightly drunk from a club when I found my cat (link: https://www.soapatrick.com/factory/cosmo/ text: Cosmo target: _blank) lying on the floor, motionless. I closed the door behind me and kneeled down to pet him when I realized he's hard and stiff and didn't move.
+Quotetext: 
 
-The realization of him being dead broke me, literally and figuratively. I broke down crying and screaming at him to stand up but he didn't move. I laid there next to him, talking to him and in some way saying my goodbyes. What followed were tough 24 hours in which the whole family came by to say goodbye before we brought him to a vet.
+----
 
-**The Body** perfectly captures these first hours and for me, it's always a reminder of what I went through back in May of 2013.
+Quotesource: 
 
-I still miss you Comso...
+----
 
-![Cosmo and Grissu chilling together](https://www.soapatrick.com/wp-content/uploads/2019/10/cosmo-grissu_02-750x1046.jpeg)
+Statustext: 
 
-Cosmo and Grissu chilling together
+----
+
+Old: 

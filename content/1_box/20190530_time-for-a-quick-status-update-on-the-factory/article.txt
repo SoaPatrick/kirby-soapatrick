@@ -2,14 +2,6 @@ Title: Time for a quick status update on the Factory...
 
 ----
 
-Text: 
-
-----
-
-Old: Time for a quick status update on the Factory. I've done some more work over there, included many past projects which were missing and finally added tags to the Factory Items. I've also done some small optical changes to the website, maybe you notice them. I'm slowly working my way through my backlog.
-
-----
-
 Published: 2019-05-30
 
 ----
@@ -22,10 +14,6 @@ Format: status
 
 ----
 
-Video: 
-
-----
-
 Category: Stuff thats happening
 
 ----
@@ -35,3 +23,35 @@ Tags: Factory, Status
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: <p>Time for a quick status update on the Factory. I’ve done some more work over there, included many past projects which were missing and finally added tags to the Factory Items. I’ve also done some small optical changes to the website, maybe you notice them. I’m slowly working my way through my backlog.</p>
+
+----
+
+Old: 
+
+----
+
+Video: 

@@ -6,6 +6,14 @@ Published: 2019-04-02
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,20 +22,32 @@ Tags: Personal, resolution
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>My most important <a href=\"\/box\/why-not-a-look-ahead\/\" rel=\"noopener noreferrer\">New Years Resolution<\/a> this year was the one about walking through <strong>EVERY<\/strong> street in<strong> Basel<\/strong>. It\u2019s an ambitious project and one that people often underestimate. People don\u2019t realize what that actually means, but there are so many small roads and tiny alleys that you have to walk through some streets more than once in order to cover it all.<\/p>"},"id":"343e431c-401f-4e77-b74b-2d8986578ac9","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["basel-march.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2019\/04\/basel-march-750x1125.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"de0912fa-2aad-4215-90ef-428d6199b5c0","isHidden":false,"type":"image"},{"content":{"text":"<p>It\u2019s an interesting project nonetheless. You think after many many years living here in Basel I\u2019ve seen it all but there are so many areas where I\u2019ve never been, which is a shame actually, but that\u2019s the idea here, to change all that.<\/p><p>Right now is actually the perfect season because it\u2019s neither cold anymore and nor really hot yet because I kinda fear a hot summer where it\u2019s just unbearable to walk around in town all day on hot concrete.<\/p><p>But for now, I try to use the perfect weather conditions and get as much done as possible.<\/p>"},"id":"6089746a-90e9-4d57-ae2e-d0db93296391","isHidden":false,"type":"text"}]
 
 ----
 
-Old: My most important (link: https://www.soapatrick.com/2019/01/why-not-a-look-ahead/ text: New Years Resolution target: _blank) this year was the one about walking through **EVERY** street in **Basel**. It's an ambitious project and one that people often under estimate. People don't realize what that actually means, but there are so many small roads and tiny alleys that you have to walk through some streets more than once in order to cover it all.
+Linktext: 
 
-![](https://www.soapatrick.com/wp-content/uploads/2019/04/basel-march-750x1125.jpg)
+----
 
-It's an interesting project none the less. You think after many many years living here in Basel I've seen it all but there are so many areas where I've never been, which is a shame actually, but that's the idea here, to change all that.
+Linkurl: 
 
-Right now is actually the perfect season because it's neither cold anymore and nor really hot yet because I kinda fear a hot summer where it's just unbearable to walk around in town all day on hot concrete.
+----
 
-But for now I try to use the perfect weather conditions and get as much done as possible.
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

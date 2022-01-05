@@ -6,6 +6,18 @@ Published: 2018-02-08
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,16 +26,32 @@ Tags: Movie, Trailer
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["movie_deadpool-2.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/02\/movie_deadpool-2-750x375.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"ef0f76d2-25ed-48b8-92ba-614a8e7e5304","isHidden":false,"type":"image"},{"content":{"text":"<p>The <em>Deadpool<\/em> Marketing Machine keeps getting funnier and \nfunnier and is still very meta (they have to be careful about becoming \ntoo meta though). It all started with the first <a href=\"https:\/\/youtu.be\/I4tFNfROlqk\" rel=\"noreferrer noopener\" target=\"_blank\">Teaser<\/a> shown before <em>Logan<\/em> back in March of 2017 and then it picked up 8 months later again with a funny <a href=\"https:\/\/youtu.be\/2-5Wv9UGkN8\" rel=\"noreferrer noopener\" target=\"_blank\">Bob Ross spoof<\/a> in November and now we finally have <em>Deadpool<\/em> introduce the main antagonist Cable in this funny <a href=\"https:\/\/youtu.be\/vKEqQrk98kI\" rel=\"noreferrer noopener\" target=\"_blank\">Teaser<\/a>.<\/p> <p>I like where all this is going and I\u2019m sure we will get many many more cool clips and posters and whatnot from <em>Deadpool<\/em> until the movie opens. The Marketing Campaign for the first one was already clever so I expect nothing less from the sequel.<\/p>"},"id":"087d337a-fd58-4a57-b1db-5cf3e82fbe91","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/02/movie_deadpool-2-750x375.jpg)
+Linktext: 
 
-The _Deadpool_ Marketing Machine keeps getting funnier and funnier and is still very meta (they have to be careful about becoming too meta though). It all started with the first (link: https://youtu.be/I4tFNfROlqk text: Teaser target: _blank) shown before _Logan_ back in March of 2017 and then it picked up 8 months later again with a funny (link: https://youtu.be/2-5Wv9UGkN8 text: Bob Ross spoof target: _blank) in November and now we finally have _Deadpool_ introduce the main antagonist Cable in this funny (link: https://youtu.be/vKEqQrk98kI text: Teaser target: _blank).
+----
 
-I like where all this is going and I’m sure we will get many many more cool clips and posters and whatnot from _Deadpool_ until the movie opens. The Marketing Campaign for the first one was already clever so I expect nothing less from the sequel.
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

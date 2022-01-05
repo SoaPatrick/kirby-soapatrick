@@ -6,6 +6,14 @@ Published: 2019-04-06
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,20 +22,32 @@ Tags: TV Show
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>Wait what? Did I miss something? No no, it\u2019s April I know, but still, the most important Winter is finally here. 8 more days and the most <strong>anticipated<\/strong> season of all time will finally arrive.<\/p><p>Ok for those who have no idea what I\u2019m talking about: <strong>Game of Thrones<\/strong> the last Season will start in 8 days with its final 6 episodes and conclude an epic saga an epic bang, hopefully. Full <strong>two years<\/strong> we had to wait since the last episode and now it\u2019s only 8 more days. I\u2019ve been watching one episode per day for the last <strong>60 days<\/strong> in my 2 month long Game of Thrones marathon, and now I will watch the 7th Season with its 7 episodes which lead nicely to the first episode of the 8th Season next Monday.<\/p><p>It\u2019s one of the reasons I didn\u2019t have much time for much else the last two months, but <strong>rewatching<\/strong> all the episodes back-to-back was helpful to get once again up to date on what was happening and most of all who are all those people again.<\/p><p>If you\u2019ve never seen Game of Thrones, you\u2019re missing out, definitely. It\u2019s definitely one of the <strong>greats<\/strong> when it comes to TV Shows. The production value is out of this world and the stories are told with so much care that it\u2019s a pleasure to watch it unfold.<\/p><p>But enough chit-chat, time to watch another episode.<\/p>"},"id":"b32299c8-5f9b-4905-87c7-88a1daf3651c","isHidden":false,"type":"text"}]
 
 ----
 
-Old: Wait what? Did I miss something? No no, it's April I know, but still, the most important Winter is finally here. 8 more days and the most **anticipated** Season of all time will finally arrive.
+Linktext: 
 
-Ok for those who have no idea what I'm talking about: **Game of Thrones** the last Season will start in 8 days with its final 6 episodes and conclude an epic saga an epic bang, hopefully. Full **two years** we had to wait since the last episode and now it's only 8 more days. I've been watching one episode per day for the last **60 days** in my 2 months long Game of Thrones marathon, and now I will watch the 7th Season with its 7 episodes which lead nicely to the first episode of the 8th Season next Monday.
+----
 
-It's one of the reasons I didn't have much time for much else the last two months, but **rewatching** all the episodes back-to-back was helpful to get once again up to date on what was happening and most of all who are all those people again.
+Linkurl: 
 
-If you've never seen Game of Thrones, you're missing out, definitely. It's definitely one of the **greats** when it comes to TV Shows. The production value is out of this world and the stories are told with so much care that it's a pleasure to watch it unfold.
+----
 
-But enough chit chat, time to watch another episode.
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

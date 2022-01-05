@@ -2,14 +2,6 @@ Title: Did a lot of work behind the scenes...
 
 ----
 
-Text: 
-
-----
-
-Old: Did a lot of work behind the scenes. Redesigned the Status, Link and Quotes Formats and I went through all 500+ Blog Posts and reformated them for Gutenberg. I might go through them once more and choose Tags much more wisely. But now I'm tired and will rest a bit.
-
-----
-
 Published: 2019-05-08
 
 ----
@@ -22,10 +14,6 @@ Format: status
 
 ----
 
-Video: 
-
-----
-
 Category: Stuff thats happening
 
 ----
@@ -35,3 +23,35 @@ Tags: Status
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: <p>Did a lot of work behind the scenes. Redesigned the Status, Link and Quotes Formats and I went through all 500+ Blog Posts and reformated them for Gutenberg. I might go through them once more and choose Tags much more wisely. But now I’m tired and will rest a bit.</p>
+
+----
+
+Old: 
+
+----
+
+Video: 

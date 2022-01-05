@@ -1,0 +1,9 @@
+Alt: My new camera
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

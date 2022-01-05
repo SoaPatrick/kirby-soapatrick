@@ -6,6 +6,18 @@ Published: 2018-04-20
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,18 +26,32 @@ Tags: Drawing, joke
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["flurina-birthday.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/04\/flurina-birthday-1500x916.png","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"3d57502e-83c7-42d2-a505-2b7a3ed9f34f","isHidden":false,"type":"image"},{"content":{"text":"<p>This week was the birthday of a very good friend of mine, so I bought her a gift, obviously, and decided to draw a possible outcome of me giving her the gift as a Comic Strip, and give her that as well. It took me around <strong>10 hours<\/strong> to draw and colorize it but the end result is worth it. The interesting was publishing it on Instagram where you flip through the six panels by swiping. I really think <a href=\"https:\/\/www.instagram.com\/SoaPatrick\/\" rel=\"noopener noreferrer\">Instagram<\/a> is a cool way to publish comics in panel form (well rather easy square ones of course).<\/p><p>Of course, this was a rather special occasion and maybe I won\u2019t colorize them all, but I won\u2019t make a six-panel comic strip that quick again but rather reduce the number of panels to three. On the other hand, it can be more difficult to reduce a joke down to three images but then I have to get creative which is also fun.<\/p><p>On a side note. I did some more tinkering with the theme (all can be checked out in the <a href=\"\/log\" rel=\"noopener noreferrer\">Log<\/a>) so just in case you think I haven\u2019t been doing much lately.<\/p>"},"id":"09e8b655-472c-4df9-af53-6233cac7fbc5","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/04/flurina-birthday-1500x916.png)
+Linktext: 
 
-This week was the birthday of a very good friend of mine, so I bought her a gift, obviously, and decided to draw a possible outcome of me giving her the gift as a Comic Strip, and giver her that as well. I took me around **10 hours** to draw and colorize it but the end result is worth it. (the final result in hi-res can be seen (link: https://www.soapatrick.com/wp-content/uploads/2018/04/flurina-birthday.png text: here target: _blank)) The interesting was publishing it on Instagram where you flip through the six panels by swiping. I really think (link: https://www.instagram.com/SoaPatrick/ text: Instagram target: _blank) is a cool way to publish comics in panel form (well rather easy square ones of course).
+----
 
-Of course, this was a rather special occasion and maybe I won't colorize them all, but I won't make a six-panel comic strip that quick again but rather reduce the number of panels to three. On the other hand, it can be more difficult to reduce a joke down to three images but then I have to get creative which is also fun.
+Linkurl: 
 
-On a side not. I did some more tinkering with the theme (all can be check out in the [Log](/log)) so just in case you think I haven't been doing much lately.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

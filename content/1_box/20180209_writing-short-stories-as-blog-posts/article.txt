@@ -6,6 +6,18 @@ Published: 2018-02-09
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,16 +26,32 @@ Tags: Story, Writing
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>Finding new topics for the daily Blog Posts is kinda hard, there are times when a topic is relevant which makes the theme of the Post obvious, like a new trailer or something political or whatnot. But there are times where my daily work life isn\u2018t just that adventurous or exciting, so coming up with a new topic is kinda hard. Then I thought why not just write some short stories, you know like 500 words stories. This could improve my storytelling abilities and techniques. At the same time, I bring some originality to the blog and at best entertain my very few readers.<\/p><p>I remember in the old days there were two instances where I just started typing whatever came to my mind first, never lifting the fingers from the keyboard until I was either exhausted or done with the story. These were wild stories that took very unexpected turns, obviously. This could be a fun exercise during my train rides.<\/p><p>So next time I\u2018m out of ideas for a Blog Post (there are a few stories in the pipeline, but usually they are bigger ones on which I want to spend more time) I will write a short story during a train ride with whatever comes to my mind first. I\u2018m psyched!<\/p>"},"id":"150b3012-e330-4da0-a338-d598464e0fac","isHidden":false,"type":"text"}]
 
 ----
 
-Old: Finding new topics for the daily Blog Posts is kinda hard, there are times when a topic is relevant which makes the theme of the Post obvious, like a new trailer or something political or whatnot. But there are times where my daily work life isn‘t just that adventurous or exciting, so coming up with a new topic is kinda hard. Then I thought why not just write some short stories, you know like 500 words stories. This could improve my storytelling abilities and techniques. At the same time, I bring some originality to the blog and at best entertain my very few readers.
+Linktext: 
 
-I remember in the old days there were two instances where I just started typing whatever came to my mind first, never lifting the fingers from the keyboard until I was either exhausted or done with the story. These were wild stories which took very unexpected turns, obviously. This could be a fun exercise during my train rides.
+----
 
-So next time I‘m out of ideas for a Blog Post (there are a few stories in the pipeline, but usually they are bigger ones on which I want to spend more time) I will write a short story during a train ride with whatever comes to my mind first. I‘m psyched!
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

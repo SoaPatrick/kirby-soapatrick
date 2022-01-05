@@ -6,6 +6,18 @@ Published: 2018-06-21
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,14 +26,32 @@ Tags: Challenge, Drawing
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>No not the end of this place here, rather the end of the work project\n meaning more time again for this place and I kinda look forward diving \ninto my <strong>own little world<\/strong> again. In the meantime, I will\n continue drawing my daily challenge (on day 16 now). Here is \nyesterday\u2019s challenge, even though it was a day late because his \nBirthday was on June 19th.<\/p>"},"id":"adca21b0-4d7a-4247-85eb-e9ef352818b9","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["100daydrawingchallenge-day-15.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/06\/100daydrawingchallenge-day-15-750x750.png","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"517e9d7c-2b38-42a4-b5a0-0c3c1a8a8386","isHidden":false,"type":"image"}]
 
 ----
 
-Old: No not the end of this place here, rather the end of the work project meaning more time again for this place and I kinda look forward diving into my **own little world** again. In the meantime, I will continue drawing my daily challenge (on day 16 now). Here is yesterday's challenge, even though it was a day late because his Birthday was on June 19th.
+Linktext: 
 
-![](https://www.soapatrick.com/wp-content/uploads/2018/06/100daydrawingchallenge-day-15-750x750.png)
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

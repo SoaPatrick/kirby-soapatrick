@@ -6,6 +6,18 @@ Published: 2018-03-25
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,14 +26,32 @@ Tags: Drawing
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["different-variations.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/03\/different-variations-750x375.png","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"6a333e08-03c4-4081-8d1f-6029fa0566ca","isHidden":false,"type":"image"},{"content":{"text":"<p>I took yesterday\u2019s cartoon version of me and used it as a base. So I tested different versions of it, different head-shapes mostly to see what works best. I also tested different ears and shapes for the ears. I must say I\u2019m happy with the different versions and I have some favorites but I don\u2019t think I\u2019m done with the \u2018finding my style\u2019 process yet. But it\u2019s fun to just draw around and test different things. I tried different noses and eyes but I kinda like the simple style, especially when the next step would be to animate it. Sooner or later I will move on to body parts, add arms and hands with fingers and try different things there as well. The cool thing is that all this gives me practice and I think I get faster with certain things. The last one (which is one of my favorites) was drawn very fast actually because I had certain things down on how to draw it.<\/p>"},"id":"de37f47f-9bda-4602-9b5a-e44883a3df17","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/03/different-variations-750x375.png)
+Linktext: 
 
-I took yesterday's cartoon version of me and used it as a base. So I tested different versions of it, different head-shapes mostly to see what works best. I also tested different ears and shapes for the ears. I must say I'm happy with the different versions and I have some favorites but I don't think I'm done with the 'finding my style' process yet. But it's fun to just draw around and test different things. I tried different noses and eyes but I kinda like the simple style, especially when a next step would be to animate it. Sooner or later I will move on to body parts, add arms and hands with fingers and try different things there as well. The cool thing is that all this gives me practice and I think I get faster with certain things. The last one (which is one of my favorites) was drawn very fast actually because I had certain things down on how to draw it.
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

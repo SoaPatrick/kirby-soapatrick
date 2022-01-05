@@ -6,6 +6,18 @@ Published: 2018-06-30
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,20 +26,32 @@ Tags: Challenge, Drawing, Recap
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["june-2018.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/06\/june-2018-1500x720.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"d0698c76-3104-4f75-8d4b-0f5b0de69bb6","isHidden":false,"type":"image"},{"content":{"text":"<p>I feel like the number of posts per month is dropping rapidly (8 in May and only 4 in June) which is not a good sign and I need to change that fast, so that\u2019s one of my resolutions for July. Apart from that, it was a somewhat productive month with my <strong>100 Day Drawing Challenge<\/strong> (currently on day 25) and the design project at work which sucked up a lot of creative energy and it seems to go on a bit further. On the other hand, I need to learn to have multiple projects at the same time!<\/p><p>I was also drawing on real paper for once and bought myself a drawing book to draw in, but the pressure there is a lot higher because correcting something drawn with ink is not possible but it\u2019s a fun alternative to drawing on the iPad.<\/p><p>I also bought a <a href=\"https:\/\/www.myfonts.com\/fonts\/stawix\/amsi-pro\/\" target=\"_blank\" rel=\"noopener noreferrer\">new font<\/a> for the headings, the <a href=\"https:\/\/www.myfonts.com\/fonts\/radomir-tinkov\/qanelas\/\" target=\"_blank\" rel=\"noopener noreferrer\">old one<\/a> was nice and all but the non-upper-case style and the width of certain characters started to bother me, so I looked for a new font type and found one which I think looks much much better.<\/p><p>So what is the plan for July, the hottest month of the year? Post more, keep drawing and damn it <strong>start writing stories<\/strong> or just <strong>film stuff<\/strong> and don\u2019t worry about how good it is, I cannot improve if I never start something!<\/p>"},"id":"e9189be5-9f5d-4642-a80f-a595eb4a7dba","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/06/june-2018-1500x720.jpg)
+Linktext: 
 
-I feel like the number of posts per month is dropping rapidly (8 in May and only 4 in June) which is not a good sign and I need to change that fast, so that's one of my resolutions for July. Apart from that, it was a somewhat productive month with my **100 Day Drawing Challenge** (currently on day 25) and the design project at work which sucked up a lot of creative energy and it seems to go on a bit further. On the other hand, I need to learn to have multiple projects at the same time!
+----
 
-I was also drawing on real paper for once and bought myself a drawing book to draw in, but the pressure there is a lot higher because correcting something drawn with ink is not possible but it's a fun alternative to drawing on the iPad.
+Linkurl: 
 
-I also bought a (link: https://www.myfonts.com/fonts/stawix/amsi-pro/ text: new font target: _blank) for the headings, the (link: https://www.myfonts.com/fonts/radomir-tinkov/qanelas/ text: old one target: _blank) was nice and all but the non-upper-case style and the width of certain characters started to bother me, so I looked for a new font-type and found one which I think looks much much better.
+----
 
-So what is the plan for July, the hottest month of the year? Post more, keep drawing and damn it **start writing stories** or just **film stuff** and don't worry about how good it is, I cannot improve if I never start something!
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

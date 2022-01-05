@@ -6,6 +6,14 @@ Published: 2019-05-26
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,16 +22,32 @@ Tags: Writing
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I\u2019ve been using <a href=\"https:\/\/bear.app\/\" rel=\"noreferrer noopener\" target=\"_blank\">Bear<\/a> as my note-taking app for quite some time, before that, I was using Evernote and <a href=\"https:\/\/ulysses.app\" rel=\"noreferrer noopener\" target=\"_blank\">Ulysses<\/a>.\n I\u2019ve stopped using Evernote the moment they started to charge money in \norder for my notes to be synced between devices. Ulysses was always a \nvery powerful markdown editor but when they switched to a subscription \nmodel I gave Bear a chance.<\/p>\n\n\n\n<p>Since Bear still has to support publishing directly to WordPress I \nthought I give Ulysses another shot since the publishing works \nbeautifully with Gutenberg, which for me is a must these days.<\/p>\n\n\n\n<p>Of course, not all will work since I can\u2019t use Block elements in \nUlysses, ones like Gallery, Video, and so on. But for basic text \nentries, just an initial draft or writing on the go with their iOS App, \nthis is perfect. And since I plan on finally adding three years of AGCN \nposts (from July 2000 to July 2003) this could be an easier and faster \napproach than writing them in WordPress directly.<\/p>"},"id":"30749c22-6f69-4214-bd1f-302be85d1562","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I’ve been using (link: https://bear.app/ text: Bear target: _blank) as my note-taking app for quite some time, before that, I was using Evernote and (link: https://ulysses.app text: Ulysses target: _blank). I’ve stopped using Evernote the moment they started to charge money in order for my notes to be synced between devices. Ulysses was always a very powerful markdown editor but when they switched to a subscription model I gave Bear a chance.
+Linktext: 
 
-Since Bear still has to support publishing directly to WordPress I thought I give Ulysses another shot since the publishing works beautifully with Gutenberg, which for me is a must these days.
+----
 
-Of course, not all will work since I can’t use Block elements in Ulysses, ones like Gallery, Video, and so on. But for basic text entries, just an initial draft or writing on the go with their iOS App, this is perfect. And since I plan on finally adding three years of AGCN posts (from July 2000 to July 2003) this could be an easier and faster approach than writing them in WordPress directly.
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

@@ -6,6 +6,14 @@ Published: 2019-08-05
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,16 +22,32 @@ Tags: Filming
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>In <a href=\"\/box\/progress-on-cursor\/\" rel=\"noopener noreferrer\">yesterday's<\/a> post, I talked about how I realize what shots I need once I cut something together. Today I found the song I want to use for <strong>Cursor<\/strong> and that changes the mood and the tempo of the movie so I need to rethink how I shoot and cut it together even more.<\/p><p>So instead of imagining how it looks in my head and then shooting it for real, why not make quick <strong>videoboards<\/strong> with my iPhone and cut it together with <a href=\"https:\/\/www.adobe.com\/products\/premiere-rush.html\" target=\"_blank\" rel=\"noopener noreferrer\">Adobe Rush<\/a> to get a sense of how it would actually look like.<\/p><p>It\u2019s quick, fast and easy to do directly on an iPhone. I think this could be my way of <strong>previsualizing<\/strong> scenes before actually shooting them plus it will also function as a shot list which is always handy.<\/p>"},"id":"0ae5041d-faf4-4f39-9fa9-9ce57c416f39","isHidden":false,"type":"text"}]
 
 ----
 
-Old: In (link: https://www.soapatrick.com/2019/08/progress-on-cursor/ text: yesterdays target: _blank) post I talked about how I realize what shots I need once I cut something together. Today I found the song I want to use for **Cursor** and that changes the mood and the tempo of the movie so I need to rethink how I shoot and cut it together even more.
+Linktext: 
 
-So instead of imagining how it looks in my head and then shoot it for real, why not make quick **videoboards** with my iPhone and cut it together with (link: https://www.adobe.com/products/premiere-rush.html text: Adobe Rush target: _blank) to get a sense of how it would actually look like.
+----
 
-It's quick, fast and easy to do directly on an iPhone. I think this could be my way of **previsualizing** scenes before actually shooting it plus it will also function as a shot list which is always handy.
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

@@ -1,0 +1,9 @@
+Alt: Cartoon family portrait
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

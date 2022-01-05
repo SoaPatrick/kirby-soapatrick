@@ -6,6 +6,18 @@ Published: 2018-05-08
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,16 +26,32 @@ Tags: Drawing
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["reading-material.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/05\/reading-material-750x360.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"5c8d871c-2cdd-499f-a3c6-1b5ba4cc8c23","isHidden":false,"type":"image"},{"content":{"text":"<p>I stumbled upon some drawing books I\u2019ve found in one of my boxes in the cellar: <a href=\"https:\/\/www.amazon.de\/Drawing-Dynamic-Cutting-Watson-Guptill-Paperback\/dp\/0823003124\/\" rel=\"noreferrer noopener\" target=\"_blank\">Drawing Dynamic Comics<\/a> and <a href=\"https:\/\/www.amazon.de\/Drawing-Cutting-Edge-Comics-Christopher\/dp\/0823023974\" rel=\"noreferrer noopener\" target=\"_blank\">Drawing Cutting Edge Comics<\/a>. Then I also found <a href=\"https:\/\/www.amazon.de\/Inspired-3D-Short-Film-Production\/dp\/1592001173\" rel=\"noreferrer noopener\" target=\"_blank\">Inspired 3D Short Film Production<\/a>, a book I bought for one of the classes in school, that one might be helpful. And I bought <a href=\"https:\/\/www.amazon.de\/Draw-Jazza-Creating-Characters-Cartoons\/dp\/1440344949\" rel=\"noreferrer noopener\" target=\"_blank\">Creating Characters<\/a> from Draw with Jazza, that one as an eBook, plus <a href=\"https:\/\/www.amazon.de\/Animators-Survival-Kit-Principles-Classical\/dp\/086547897X\" rel=\"noreferrer noopener\" target=\"_blank\">The Animator\u2019s Survival Kit<\/a> which\n is on its way. The goal here is clear, study the whole drawing process \nand practice as much as possible. I need to learn the basics in order to\n draw faster and more freely.<\/p> <p>I know it\u2019s a lot and I hope I find the time (reading on the train is\n simply not possible, I fall asleep as soon as I read a few lines) but \nin the end, if this whole animation thing is really that important to me\n then I will make time!<\/p>"},"id":"c0c1a7d8-545a-4bce-a183-af8bfbe181f2","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/05/reading-material-750x360.jpg)
+Linktext: 
 
-I stumbled upon some drawing books I've found in one of my boxes in the cellar: (link: https://www.amazon.de/Drawing-Dynamic-Cutting-Watson-Guptill-Paperback/dp/0823003124/ text: Drawing Dynamic Comics target: _blank) and (link: https://www.amazon.de/Drawing-Cutting-Edge-Comics-Christopher/dp/0823023974 text: Drawing Cutting Edge Comics target: _blank). Then I also found (link: https://www.amazon.de/Inspired-3D-Short-Film-Production/dp/1592001173 text: Inspired 3D Short Film Production target: _blank), a book I bought for one of the classes in school, that one might be helpful. And I bought (link: https://www.amazon.de/Draw-Jazza-Creating-Characters-Cartoons/dp/1440344949 text: Creating Characters target: _blank) from Draw with Jazza, that one as an eBook, plus (link: https://www.amazon.de/Animators-Survival-Kit-Principles-Classical/dp/086547897X text: The Animator's Survival Kit target: _blank) which is on its way. The goal here is clear, study the whole drawing process and practice as much as possible. I need to learn the basics in order to draw faster and more freely.
+----
 
-I know it's a lot and I hope I find the time (reading on the train is simply not possible, I fall asleep as soon as I read a few lines) but in the end, if this whole animation thing is really that important to me then I will make time!
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

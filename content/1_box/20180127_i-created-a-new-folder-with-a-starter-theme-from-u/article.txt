@@ -2,14 +2,6 @@ Title: I created a new folder with a starter theme from u...
 
 ----
 
-Text: 
-
-----
-
-Old: I created a new folder with a starter theme from (link: https://underscores.me/ text: underscores target: _blank) for a possible version Five. I'm not sure when and IF this page gets a new design, but I love the idea of a dark theme, you know to save battery on all those OLED screens, so I'll see where this will go.
-
-----
-
 Published: 2018-01-27
 
 ----
@@ -18,11 +10,11 @@ Cover:
 
 ----
 
-Format: status
+Files: 
 
 ----
 
-Video: 
+Format: status
 
 ----
 
@@ -35,3 +27,35 @@ Tags: Design, Soapatrick, Status
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: <p>I created a new folder with a starter theme from <a href="https://underscores.me/" target="_blank" rel="noopener noreferrer">https://underscores.me/</a> for a possible version Five. I'm not sure when and IF this page gets a new design, but I love the idea of a dark theme, you know to save battery on all those OLED screens, so I'll see where this will go.</p>
+
+----
+
+Old: 
+
+----
+
+Video: 

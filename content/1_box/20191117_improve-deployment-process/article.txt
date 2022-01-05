@@ -6,6 +6,14 @@ Published: 2019-11-17
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,14 +22,32 @@ Tags: Development, Git
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>Back in <a href=\"\/box\/i-made-some-housecleaning-on-my-blog-and-at-the-sa\/\" rel=\"noopener noreferrer\">January 2018<\/a> I (finally) switched to Git for my WordPress Theme development and since then everything I change gets a new commit. After that <a href=\"https:\/\/buddy.works\/\" target=\"_blank\" rel=\"noopener noreferrer\">Buddy.Works<\/a> checks my repository and updates the theme on every push.<\/p><p>Now since all styling changes are made through my <code>SCSS<\/code> files I used to commit the compiled <code>CSS<\/code> file as well which, let\u2019s be honest, was never really ideal. So for a new project, I took a closer look at Buddy.Works and read tons of tutorials. With <code>Node.js<\/code> and a <code>Gulp<\/code> task I was able to compile SCSS files within the building and deploying process and I can finally stop committing compiled CSS files.<\/p>"},"id":"8e700b3d-d957-40bb-87fb-2836beeb3cc0","isHidden":false,"type":"text"}]
 
 ----
 
-Old: Back in (link: https://www.soapatrick.com/2018/01/i-made-some-housecleaning-on-my-blog-and-at-the-sa/ text: January 2018 target: _blank) I (finally) switched to Git for my Wordpress Theme development and since then everything I change gets a new commit. After that (link: https://buddy.works/ text: Buddy.Works target: _blank) checks my repository and updates the theme on every push.
+Linktext: 
 
-Now since all styling changes are made through my `SCSS` files I used to commit the compiled `CSS` file as well which, let's be honest, was never really ideal. So for a new project I took a closer look at Buddy.Works and read tons of tutorials. With `Node.js` and a `Gulp` task I was able to compile SCSS files within the building and deploying process and I can finally stop committing compiled CSS files.
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

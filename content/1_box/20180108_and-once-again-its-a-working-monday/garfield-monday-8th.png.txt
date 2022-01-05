@@ -1,0 +1,9 @@
+Alt: Garfield strip
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

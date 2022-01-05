@@ -6,6 +6,18 @@ Published: 2018-03-08
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,14 +26,32 @@ Tags: Factory, Wordpress
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>With my plan on doing animations, I thought about my Portfolio\/Factory section which should really have some sort of comeback. I mean it would be nice to collect all these things I created somewhere and display them nicely. For a second I really thought about buying a WordPress Theme with a portfolio already included because right now I don\u2019t feel like creating the portfolio part of my page myself. BUT with a quick search through possible themes, I once again realized that most themes have always been something I don\u2019t like or are much too bloated.<\/p><p>So I probably end up doing something myself and keeping it simple for starters.<\/p>"},"id":"8a8c25d7-fb77-4da6-877b-8eb661c517db","isHidden":false,"type":"text"}]
 
 ----
 
-Old: With my plan on doing animations, I thought about my Portfolio/Factory section which should really have some sort of comeback. I mean it would be nice to collect all these things I created somewhere and displayed nicely. For a second I really thought about buying a Wordpress Theme with a portfolio already included because right now I don’t feel like creating the portfolio part of my page myself. BUT with a quick search through possible themes, I once again realized that most themes have always something I don’t like or are much too bloated.
+Linktext: 
 
-So I probably end up doing something myself and keep it simple for starters.
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

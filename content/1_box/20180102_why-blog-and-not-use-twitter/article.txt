@@ -6,6 +6,18 @@ Published: 2018-01-02
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,22 +26,32 @@ Tags: Wordpress
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["tweeting.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/01\/tweeting-750x375.jpg","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"c2f688c8-89ef-48d7-81bd-67be8056439d","isHidden":false,"type":"image"},{"content":{"text":"<p>One could ask why I would keep on using a blog to write down my \nthoughts and not use what everyone else is using: Twitter. With Twitter,\n you can reach a lot more people a lot easier. I think the issue for me \nis habit and length. I\u2019m used to writing blog entries now for almost 18 \nyears and I\u2019m not sure I can write down my thoughts or just short \nsnippets of them with 280 characters. As a side note, I don\u2019t know if I \neven want to reach more people.<\/p> <p>This place here is my place and I like that it\u2019s so unknown that I \ncan write down my thoughts without much repercussion.Plus with Twitter \nyou need followers and you need to follow, you need to retweet and like \nand \u2026 ugh, seems to be too much work right now. The reason I love \nInstagram is that it\u2019s in picture form, just take a snapshot of \nsomething cool and publish it for your friends (and maybe more) to see. \nBut my thoughts are either longer or just for a few people in a personal\n conversation.<\/p> <p>I don\u2019t know, that\u2019s my thinking right now, it might change in the \nfuture, I\u2019m not bound to this view forever, like this quote eloquently \nput it<\/p>"},"id":"5449a5bb-dd59-4212-aa72-0bf196f7de44","isHidden":false,"type":"text"},{"content":{"text":"You have no obligation to your former self. They are dumber than you, and they don\u2019t exist","citation":"Hank Green","style":"large"},"id":"5e0aa6e4-b72b-4432-8956-54f74b92c26b","isHidden":false,"type":"quote"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/01/tweeting-750x375.jpg)
+Linktext: 
 
-One could ask why I would keep on using a blog to write down my thoughts and not use what everyone else is using: Twitter. With Twitter, you can reach a lot more people a lot easier. I think the issue for me is habit and length. I'm used to writing blog entries now for almost 18 years and I'm not sure I can write down my thoughts or just short snippets of them with 280 characters. As a side note, I don't know if I even want to reach more people.
+----
 
-This place here is my place and I like that it's so unknown that I can write down my thoughts without much repercussion.Plus with Twitter you need followers and you need to follow, you need to retweet and like and ... ugh, seems to be too much work right now. The reason I love Instagram is that it's in picture form, just take a snapshot of something cool and publish it for your friends (and maybe more) to see. But my thoughts are either longer or just for a few people in a personal conversation.
+Linkurl: 
 
-I don't know, that's my thinking right now, it might change in the future, I'm not bound to this view forever, like this quote eloquently put it
+----
 
-> You have no obligation to your former self. They are dumber than you, and they don't exist
-> 
-> Hank Green
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

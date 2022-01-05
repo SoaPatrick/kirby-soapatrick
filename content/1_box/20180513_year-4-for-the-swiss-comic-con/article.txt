@@ -6,6 +6,18 @@ Published: 2018-05-13
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,26 +26,32 @@ Tags: fantasy-basel
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["fantasy-basel-2018.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/05\/fantasy-basel-2018-1500x720.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"9eee6e2b-9c08-4efb-ad97-7f0721b43709","isHidden":false,"type":"image"},{"content":{"text":"<p>I\u2019ve been attending the <strong>Fantasy Basel<\/strong> for the <a href=\"\/box\/fantasy-basel-die-schweizer-comic-con-wachst\/\" rel=\"noopener noreferrer\">second time<\/a> and I\u2019m still curious where it will lead in the future but here are some impressions from my short visit. First things first, the number of places to get some food has <strong>greatly improved<\/strong>. There were so many places to get something to eat that there weren\u2019t long lines and you could actually get some food in a reasonable amount of time. The variation of food was also quite nice I must admit.<\/p><p>But of course, people don\u2019t go to conventions for the food, so let\u2019s talk about the <strong>important<\/strong> things, and keep in mind, these are my opinions. The convention was split up into 3 floors, the <strong>games\/e-sport<\/strong> floor, the <strong>Film &amp; TV<\/strong> floor and the <strong>Cosplay\/Japan\/Art<\/strong> floor.<\/p><p>Since I\u2019m not so much into gaming the first floor wasn\u2019t really my thing. I wanted to test out some VR but there were too many people waiting so I only tested one with mixed feelings. The resolution has to improve and then we\u2019re talking. There were many gaming booths with people playing games and also lots of companies showing and selling their products. Like I said it wasn\u2019t my thing.<\/p><p>The <strong>Film &amp; TV floor<\/strong> was a disappointment, I don\u2019t know if there wasn\u2019t any interest from companies to really fill up the floor but half of the floor was games and e-scooters.<\/p><p>But the main reason for me to go this year was the <strong>Art part<\/strong> of the third floor. I wanted to see independent artists and their work and get inspired. There were a few that I really liked and it\u2019s the thing I take away from the convention. You can draw simple things and still make them look cool and special.<\/p><p>So, all in all, it was an ok Convention, sometimes a bit too many people or not enough space to walk around (note for next time, keep the Backpack at home) but compared to two years ago I thought there was a decline in quality. there are also more sketchy booths which all seem to sell the same stuff. I might be wrong with the sketchy part but I could do with less of them. There are also some cool booths with very rare stuff and surprisingly my <a href=\"https:\/\/www.movieart.ch\/\" target=\"_blank\" rel=\"noopener noreferrer\">favorite place<\/a> to get my posters was there too this year.<\/p><p>To summarize, I think it would be important to have a good mix of Big Players showing up to attract the crowd mixed with Independent Players who could use the exposure, so here\u2019s me hoping for next year.<\/p>"},"id":"d83ac5ef-11aa-4ff7-9dba-1ffae85fab5f","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/05/fantasy-basel-2018-1500x720.jpg)
+Linktext: 
 
-I've been attending the **Fantasy Basel** for the (link: https://www.soapatrick.com/2016/05/fantasy-basel-die-schweizer-comic-con-wachst/ text: second time target: _blank) and I'm still curious where it will lead in the future but here are some impressions from my short visit. First things first, the number of places to get some food has **greatly improved**. There were so many places to get something to eat that there weren't long lines and you could actually get some food in a reasonable amount of time. The variation of food was also quite nice I must admit.
+----
 
-But of course people don't go to conventions for the food, so let's talk about the **important** things, and keep in mind, these are my opinions. The convention was split up onto 3 floors, the **games/e-sport** floor, the **Film & TV** floor and the **Cosplay/Japan/Art** floor.
+Linkurl: 
 
-Since I'm not so much into gaming the first floor wasn't really my thing. I wanted to test out some VR but there were too many people waiting so I only tested one with mixed feeling. The resolution has to improve and then we're talking. There were many gaming booths with people playing games and also lots of companies showing and selling their products. Like I said it wasn't my thing.
+----
 
-The **Film & TV floor** was a disappointment, I don't know if there wasn't any interest from companies to really fill up the floor but half of the floor was games and e-scooters.
+Quotetext: 
 
-But the main reason for me to go this year was the **Art part** of the third floor. I wanted to see independent artists and their work and get inspired. There were a few that I really liked and it's the thing I take away from the convention. You can draw simple things and still make them look cool and special.
+----
 
-So, all in all, it was an ok Convention, sometimes a bit too many people or not enough space to walk around (note for next time, keep the Backpack at home) but compared to two years ago I thought there was a decline in quality. there are also more sketchy booths which all seem to sell the same stuff. I might be wrong with the sketchy part but I could do with less of them. There are also some cool booths with very rare stuff and surprisingly my (link: https://www.movieart.ch/ text: favorite place target: _blank) to get my posters was there too this year.
+Quotesource: 
 
-To summarize, I think it would be important to have a good mix of Big Players showing up to attract the crowd mixed with Independent Players who could use the exposure, so here's me hoping for next year.
+----
+
+Statustext: 
+
+----
+
+Old: 

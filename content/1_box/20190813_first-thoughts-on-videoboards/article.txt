@@ -6,6 +6,14 @@ Published: 2019-08-13
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,14 +22,32 @@ Tags: Filming
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I did start on making videoboards with my <strong>iPhone<\/strong> and then editing them on the iPhone itself with <strong>Adobe Rush<\/strong> or syncing it to my Mac and editing it there. It\u2019s still a pain to film myself and not really know if I\u2019m in the shot or not, BUT then I adjust the angle and reshoot it quickly. There\u2019s no need to set focus because I shot everything in autofocus. Acting and continuation are also not that important. I even shot some stuff handheld. So all that makes it easy to get quick results and impressions on what works and what doesn\u2019t. But it\u2019s still something that I want to improve upon over time.<\/p><p>So what does this mean for <strong>Cursor<\/strong>? Since I\u2019m rather busy during the weekdays this week, I hope to finish the videoboards this weekend and then shoot the real thing the weekend after. All this should make it possible to release it this August.<\/p>"},"id":"673ae985-b85c-48d9-920f-7e31702793ea","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I did start on making videoboards with my **iPhone** and then editing them on the iPhone itself with **Adobe Rush** or sync it to my Mac and edit it there. It's still a pain to film myself and not really know if I'm in the shot or not, BUT then I adjust the angle and reshoot it quickly. There's no need to set focus because I shot everything in autofocus. Acting and continuation are also not that important. I even shot some stuff handheld. So all that makes it easy to get quick results and impressions on what works and what doesn't. But it's still something that I want to improve upon over time.
+Linktext: 
 
-So what does this mean for **Cursor**? Since I'm rather busy during the weekdays this week, I hope to finish the videoboards this weekend and then shoot the real thing the weekend after. All this should make it possible to release it this August.
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

@@ -25,6 +25,9 @@ columns:
         image:
           ratio: 1/1
         help: Needs to be a square image
+      files:
+        type: files
+        layout: list
       format:
         type: radio
         default: standard

@@ -2,14 +2,6 @@ Title: Today is my 40th Birthday
 
 ----
 
-Text: 
-
-----
-
-Old: Today is my 40th Birthday, so I thought it was fitting to change something on this page. A quick Illustrator session to create a vector 40 to replace the SP, but just for today.
-
-----
-
 Published: 2019-10-23
 
 ----
@@ -22,10 +14,6 @@ Format: status
 
 ----
 
-Video: 
-
-----
-
 Category: Stuff thats happening
 
 ----
@@ -35,3 +23,35 @@ Tags: Personal
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: <p>Today is my 40th Birthday, so I thought it was fitting to change something on this page. A quick Illustrator session to create a vector 40 to replace the SP, but just for today.</p>
+
+----
+
+Old: 
+
+----
+
+Video: 

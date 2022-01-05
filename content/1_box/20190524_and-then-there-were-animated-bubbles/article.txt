@@ -6,6 +6,14 @@ Published: 2019-05-24
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,16 +22,32 @@ Tags: Design, Theme
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I thought this place could use some playfulness, something that\u2019s unique and sticks out so I came up with the animation of bubbles (which are also in the Soap Lab logo). I dig the result and I\u2019m proud of the way of how I achieved that.<\/p><p>First, the thing is fully realized with CSS, there\u2019s no Javascript involved. Second, because it\u2019s fully CSS and uses <strong>CSS Variables<\/strong>, the bubbles switch instantly when you toggle between dark and bright mode. And third, I used a <strong>mixin<\/strong> to loop over all the bubbles and randomize the whole thing. But since it uses the SCSS Method <strong>random()<\/strong>, it only is generated once during the compiling process and not every time you reload the page.<\/p><p>There are optimizations, of course, <strong>performance<\/strong> seems to be an issue on older devices because right now there are 25 bubbles that are animated individually. I might find ways to optimize that further, but for now, I just enjoy the result. Makes the whole thing look more like bubbles and less like clouds, which is nice.<\/p>"},"id":"02788b17-5cbf-4fcb-b200-823be20aee2d","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I thought this place could use some playfulness, something that's unique and sticks out so I came up with the animation of bubbles (which are also in the Soap Lab logo). I dig the result and I'm proud of the way of how I achieved that.
+Linktext: 
 
-First, the thing is fully realized with CSS, there's no Javascript involved. Second, because it's fully CSS and uses **CSS Variables**, the bubbles switch instantly when you toggle between dark and bright mode. And third, I used a **mixin** to loop over all the bubbles and randomize the whole thing. But since it uses the SCSS Method **random()**, it only is generated once during the compiling process and not every time you reload the page.
+----
 
-There are optimizations, of course, **performance** seems to be an issue on older devices because right now there are 25 bubbles who are animated individually. I might find ways to optimize that further, but for now, I just enjoy the result. Makes the whole thing look more like bubbles and less like clouds, which is nice.
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

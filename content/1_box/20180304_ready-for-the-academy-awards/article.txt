@@ -2,14 +2,6 @@ Title: Ready for the Academy Awards, will be another long...
 
 ----
 
-Text: 
-
-----
-
-Old: Ready for the Academy Awards, will be another long night and hopefully one with a few nice surprises. Unfortunately, I didn't see all the nominees but I'm hoping for certain winners. There will be a longer and more interesting update tomorrow.
-
-----
-
 Published: 2018-03-04
 
 ----
@@ -18,11 +10,11 @@ Cover:
 
 ----
 
-Format: status
+Files: 
 
 ----
 
-Video: 
+Format: status
 
 ----
 
@@ -35,3 +27,35 @@ Tags: Status
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: <p>Ready for the Academy Awards, will be another long night and hopefully one with a few nice surprises. Unfortunately, I didn't see all the nominees but I'm hoping for certain winners. There will be a longer and more interesting update tomorrow.</p>
+
+----
+
+Old: 
+
+----
+
+Video: 

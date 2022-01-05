@@ -2,18 +2,6 @@ Title: A designer knows he has achieved perfection not when there is nothing lef
 
 ----
 
-Text: 
-
-----
-
-Old:
-
-> A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away
-> 
-> _Antoine de Saint-Exupéry_
-
-----
-
 Published: 2018-01-21
 
 ----
@@ -22,11 +10,11 @@ Cover:
 
 ----
 
-Format: quote
+Files: 
 
 ----
 
-Video: 
+Format: quote
 
 ----
 
@@ -39,3 +27,35 @@ Tags: Design, Quote
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: <p>A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away</p>
+
+----
+
+Quotesource: Antoine de Saint-Exupéry
+
+----
+
+Statustext: 
+
+----
+
+Old: 
+
+----
+
+Video: 

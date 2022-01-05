@@ -6,6 +6,18 @@ Published: 2018-02-06
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,34 +26,32 @@ Tags: sport, Trailer
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["superbowl52.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/02\/superbowl52-750x375.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"3fc14e81-4bea-4996-9ecc-16ec6792be9e","isHidden":false,"type":"image"},{"content":{"text":"<p>I\u2019ve been watching the Super Bowl for the last 20 years or so, it\u2018s one of my traditions, so I\u2019ve seen my fair share of games and there have been some turds over the years. But what I\u2019ve seen on Sunday Night was spectacular. It was pure offense spectacle and I\u2018ve never seen so much passing yards, I think it set a new record after 3 quarters already. I thoroughly enjoyed the game throughout its entirety, of course, it helps that Brady got his ass kicked.<\/p>"},"id":"2108a934-fdb7-4cf4-925c-bd824564eab9","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Justin\u2019s Halftime Show"},"id":"e9f7ac47-7d8b-4384-aeee-fcd356a96007","isHidden":false,"type":"heading"},{"content":{"text":"<p>The halftime show wasn\u2018t bad, Justin Timberlake played his greatest \nhits and there even was a nice homage to Price, or the Artist formerly \nknown as Prince. But The mixing wasn\u2018t the best as I had problems \nhearing his voice and differentiating it from the background playback, \nbut he entertained me while eating tasty burgers!<\/p>"},"id":"27751d1b-752b-4983-a690-903736b0f632","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Big Game Trailers"},"id":"7372942e-f81c-4229-bab8-fc0c0e7cf251","isHidden":false,"type":"heading"},{"content":{"text":"<p>Thanks to the NFL Game Pass I was able to see all the commercials and there were a few which really stood out, but I\u2018m more interested in the latest Big Game Trailers for all the upcoming Movie Blockbusters. There are four highlights.<\/p><p>First, there was the first ever publicity for the <em><a href=\"https:\/\/youtu.be\/dNW0B0HsvVs\" target=\"_blank\" rel=\"noopener noreferrer\">Solo: A Star Wars Story<\/a><\/em>. The Teaser was quite good, some nice images, but I don\u2018t know about Alden Ehrenreichs\u2019 performance as Han Solo, I\u2018m ok with him not doing an impression but I\u2018m not sold yet, though I\u2018m not of the people who have a problem with his casting. His performance in <em>Hail Ceaser!<\/em> was actually the highlight of that movie.<\/p><p>Then there was a short Spot for <em><a href=\"https:\/\/youtu.be\/pVxOVlm_lE8\" target=\"_blank\" rel=\"noopener noreferrer\">Avengers Infinity Wars<\/a><\/em>, some cool shots there and a menacing clip of Thanos, I really don\u2018t have to see anything further to look forward to this movie, I\u2018m already sold with what I\u2018ve seen so far.<\/p><p>We\u2019ve also got a very stylish teaser for the second season of <em><a href=\"https:\/\/youtu.be\/qUmfriZoMw0\" target=\"_blank\" rel=\"noopener noreferrer\">Westworld<\/a><\/em> which is suddenly so near, it\u2019s a good pastime until April 2019 when the last season of <em>Game of Thrones<\/em> finally arrives.<\/p><p>But for me, the biggest highlight was a kick-ass trailer for <em><a href=\"https:\/\/youtu.be\/wb49-oV0F78\" target=\"_blank\" rel=\"noopener noreferrer\">Mission Impossible Fallout<\/a><\/em>. The 6th entry in the Mission Impossible Franchise sure looks like they haven\u2018t kept back, Tom Cruise sure didn\u2018t, even his foot breaking scene is in the trailer. Love or Hate the guy, he sure is a pro when it comes to doing his job.<\/p>"},"id":"19dba4d5-4ada-4c8b-9d05-3ed5eb8ddfc7","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Funny Commercials"},"id":"b38f4968-471c-4e3f-ac59-e0e26218817a","isHidden":false,"type":"heading"},{"content":{"text":"<p>Then there were the usual commercials for services and products and there for me is one clear winner: <a href=\"https:\/\/www.youtube.com\/watch?v=6gGXnE1Dbh0\" rel=\"noreferrer noopener\" target=\"_blank\">It\u2018s a Tide ad<\/a>. Having David Harbour from <em>Stranger Things<\/em> in it is a plus but damn that was clever and fun marketing.<\/p>"},"id":"ea17bced-7e69-405c-bbeb-d8a1d5b7071d","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/02/superbowl52-750x375.jpg)
+Linktext: 
 
-I’ve been watching the Super Bowl for the last 20 years or so, it‘s one of my traditions, so I’ve seen my fair share of games and there have been some turds over the years. But what I’ve seen on Sunday Night was spectacular. It was pure offense spectacle and I‘ve never seen so much passing yards, I think it set a new record after 3 quarters already. I thoroughly enjoyed the game throughout its entirety, of course it helps that Brady got his ass kicked.
+----
 
-## Justin’s Halftime Show
+Linkurl: 
 
-The halftime show wasn‘t bad, Justin Timberlake played his greatest hits and there even was a nice homage to Price, or the Artist formerly known as Prince. But The mixing wasn‘t the best as I had problems hearing his voice and differentiating it from the background playback, but he entertained me while eating tasty burgers!
+----
 
-## Big Game Trailers
+Quotetext: 
 
-Thanks to the NFL Game Pass I was able to see all the commercials and there were a few which really stood out, but I‘m more interested in the latest Big Game Trailers for all the upcoming Movie Blockbusters. There are four highlights.
+----
 
-First the there was there first ever publicity for the _(link: https://youtu.be/dNW0B0HsvVs text: Solo: A Star Wars Story target: _blank)_. The Teaser was quite good, some nice images, but I don‘t know about Alden Ehrenreichs’ performance as Han Solo, I‘m ok with him not doing an impression but I‘m not sold yet, though I‘m not of the people who have a problem with his casting. His performance in _Hail Ceaser!_ was actually the highlight of that movie.
+Quotesource: 
 
-Then there was a short Spot for (link: https://youtu.be/pVxOVlm_lE8 text: _Avengers Infinity Wars_ target: _blank), some cool shots there and a menacing clip of Thanos, I really don‘t have to see anything further to look forward to this movie, I‘m already sold with what I‘ve seen so far.
+----
 
-We've also got a very stylish teaser for the second season of (link: https://youtu.be/qUmfriZoMw0 text: _Westworld_ target: _blank) which is suddenly so near, it's a good pastime until April 2019 when the last season of _Game of Thrones_ finally arrives.
+Statustext: 
 
-But for me, the biggest highlight was a kick-ass trailer for _(link: https://youtu.be/wb49-oV0F78 text: Mission Impossible Fallout target: _blank)_. The 6th entry in the Mission Impossible Franchise sure looks like they haven‘t kept back, Tom Cruise sure didn‘t, even his foot breaking scene is in the trailer. Love or Hate the guy, he sure is a pro when it comes to doing his job.
+----
 
-## Funny Commercials
-
-Then there were the usual commercials for services and products and there for me is one clear winner: (link: https://www.youtube.com/watch?v=6gGXnE1Dbh0 text: It‘s a Tide ad target: _blank). Having David Harbour from _Stranger Things_ in it is a plus but damn that was clever and fun marketing.
+Old: 

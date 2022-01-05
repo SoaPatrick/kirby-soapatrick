@@ -6,6 +6,14 @@ Published: 2018-11-14
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,14 +22,32 @@ Tags: Filming
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I\u2018ve been thinking a lot about the next project (obviously), which \nwill be shot this Saturday, and what kind of future projects I plan on \ndoing. I once made the bold statement to a friend of doing at least <strong>12 short movies<\/strong> next year, one for each month, just to put pressure on myself with all these <strong>deadlines<\/strong>.\n I know that it\u2018s kinda crazy to do these once a month but my goal is \nnot to have 12 huge projects lined up but rather just shoot 12 different\n movie projects (short or microfilm, a sketch or just something with an \nidea) to practice.<\/p>\n\n\n\n<p>Because let\u2018s face it, right now the main goal has to be to <strong>improve my skills<\/strong>\n on every level and not worry about quality THAT much but rather just go\n out and do stuff on a daily, weekly or monthly basis and get better \nevery time. Let me worry about quality later on when I\u2018m on a level the \ngood ideas get the treatment they deserve.<\/p>"},"id":"c606d9f4-edd0-4049-b649-9387f21fe6c3","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I‘ve been thinking a lot about the next project (obviously), which will be shot this Saturday, and what kind of future projects I plan on doing. I once made the bold statement to a friend of doing at least **12 short movies** next year, one for each month, just to put pressure on myself with all these **deadlines**. I know that it‘s kinda crazy to do these once a month but my goal is not to have 12 huge projects lined up but rather just shoot 12 different movie projects (short or microfilm, a sketch or just something with an idea) to practice.
+Linktext: 
 
-Because let‘s face it, right now the main goal has to be to **improve my skills** on every level and not worry about quality THAT much but rather just go out and do stuff on a daily, weekly or monthly basis and get better every time. Let me worry about quality later on when I‘m on a level the good ideas get the treatment they deserve.
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

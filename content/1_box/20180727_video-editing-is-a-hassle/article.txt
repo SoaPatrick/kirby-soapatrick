@@ -6,6 +6,14 @@ Published: 2018-07-27
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,20 +22,32 @@ Tags: editing
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["basel-urban-editing.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/07\/basel-urban-editing-750x360.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"a34d8df7-134d-4a13-9ce4-84edd8854ca1","isHidden":false,"type":"image"},{"content":{"text":"<p>I\u2019ve been editing I think for more than a day and it\u2019s a pain in the \nass when you\u2019re working with an 8-Year-old iMac. There were a number of \nissues, first I cannot work with <strong>4K Videos<\/strong>, so I had to shoot in <strong>Full HD<\/strong>\n to even be able to edit the footage. This meant that zooming in on \nfootage in post for better framing wasn\u2019t possible. Second I shot some \nstuff in <strong>Slow Motion with 120 FPS<\/strong> but I wasn\u2019t even \nable to play them properly on my iMac, so working with all these videos \nhad to be scratched. What was left to work with was regular 1080p \nfootage either regular 30FPS or time-lapsed.<\/p> <p>But with all those restrictions editing was still no smooth process. Of course, I haven\u2019t used <strong>Premiere Pro<\/strong>\n for a LONG TIME, so I had to look up how to do even simple tasks. But \nI\u2019ve seen the loading beachball too many times which sooner or later \nstarted to frustrate me.<\/p> <p>But enough complaining (I will get to that at the end again). Apart \nfrom all that I still learned a lot just by editing the footage to a \nsong. That\u2019s also the reason I can\u2019t post the final result here, because\n of <strong>copyright restriction<\/strong>, but that\u2019s ok, for me it was\n a start to shoot and edit more videos and practice a lot more in order \nto get better and especially faster.<\/p> <p>Back to the complaining, <strong>I need a new Mac<\/strong>, but \nbecause Apple never really announces product updates in advance all I \ncan do is wait and I fear I have to wait until at least October for \nApple to drop them.<\/p>"},"id":"645f2e63-be55-4b04-b302-4d6edc5d63e3","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/07/basel-urban-editing-750x360.jpg)
+Linktext: 
 
-I've been editing I think for more than a day and it's a pain in the ass when you're working with an 8-Year-old iMac. There were a number of issues, first I cannot work with **4K Videos**, so I had to shoot in **Full HD** to even be able to edit the footage. This meant that zooming in on footage in post for better framing wasn't possible. Second I shot some stuff in **Slow Motion with 120 FPS** but I wasn't even able to play them properly on my iMac, so working with all these videos had to be scratched. What was left to work with was regular 1080p footage either regular 30FPS or time-lapsed.
+----
 
-But with all those restrictions editing was still no smooth process. Of course, I haven't used **Premiere Pro** for a LONG TIME, so I had to look up how to do even simple tasks. But I've seen the loading beachball too many times which sooner or later started to frustrate me.
+Linkurl: 
 
-But enough complaining (I will get to that at the end again). Apart from all that I still learned a lot just by editing the footage to a song. That's also the reason I can't post the final result here, because of **copyright restriction**, but that's ok, for me it was a start to shoot and edit more videos and practice a lot more in order to get better and especially faster.
+----
 
-Back to the complaining, **I need a new Mac**, but because Apple never really announces product updates in advance all I can do is wait and I fear I have to wait until at least October for Apple to drop them.
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

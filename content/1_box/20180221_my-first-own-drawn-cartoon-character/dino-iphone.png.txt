@@ -1,0 +1,9 @@
+Alt: Dino cartoon
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

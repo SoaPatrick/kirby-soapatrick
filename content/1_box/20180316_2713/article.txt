@@ -2,14 +2,6 @@ Title: Was preparing something cool for tomorrow so there...
 
 ----
 
-Text: 
-
-----
-
-Old: Was preparing something cool for tomorrow so there won't be a big update today, but be sure to check back tomorrow! Oh and I've improved the drawing from (link: https://www.soapatrick.com/2018/03/whoooops-i-put-on-some-weight/ text: Wednesday target: _blank).
-
-----
-
 Published: 2018-03-16
 
 ----
@@ -18,11 +10,11 @@ Cover:
 
 ----
 
-Format: status
+Files: 
 
 ----
 
-Video: 
+Format: status
 
 ----
 
@@ -35,3 +27,35 @@ Tags: Soapatrick, Status
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: <p>Was preparing something cool for tomorrow so there won’t be a big update today, but be sure to check back tomorrow! Oh and I’ve improved the drawing from <a href="/box/whoooops-i-put-on-some-weight/" rel="noopener noreferrer">Wednesday</a>.</p>
+
+----
+
+Old: 
+
+----
+
+Video: 

@@ -6,7 +6,11 @@ Published: 2018-03-19
 
 ----
 
-Category: Thoughts on stuff
+Cover: 
+
+----
+
+Files: 
 
 ----
 
@@ -14,10 +18,40 @@ Format: standard
 
 ----
 
-Cover: 
+Category: Thoughts on stuff
 
 ----
 
-Old: I'm still a bit tired from the weekend, I mean I fell asleep on the couch just now. So I will keep this one short. If I only knew what to keep short, I have no idea what to write today, nothing. So I could force myself to think of something clever and interesting or I could just admit that today nothing interesting will be said and keep it at that. Oh wait, one tiny thing: I've read about some cool drawing exercises I want to try out, but for that, I need to be in a bit better shape with more time on my hands, definitely something for the weekend though. It's Monday and Monday's usually suck because all you crave is the weekend when you just had one and now it takes another 4 days for the next one.
+Tags: Personal
 
-So tomorrow I've got something better to tell, so see you then.
+----
+
+Project: 
+
+----
+
+Text: [{"content":{"text":"<p>I\u2019m still a bit tired from the weekend, I mean I fell asleep on the couch just now. So I will keep this one short. If I only knew what to keep short, I have no idea what to write today, nothing. So I could force myself to think of something clever and interesting or I could just admit that today nothing interesting will be said and keep it at that. Oh, wait, one tiny thing: I\u2019ve read about some cool drawing exercises I want to try out, but for that, I need to be in a bit better shape with more time on my hands, definitely something for the weekend though. It\u2019s Monday and Mondays usually suck because all you crave is the weekend when you just had one and now it takes another 4 days for the next one.<\/p><p>So tomorrow I\u2019ve got something better to tell, so see you then.<\/p>"},"id":"ff6959dc-636d-4e88-8e42-02aa8326c57f","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

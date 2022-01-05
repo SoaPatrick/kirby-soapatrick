@@ -6,6 +6,14 @@ Published: 2018-08-01
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,18 +22,32 @@ Tags: Challenge, Drawing
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I thought it would be a good idea to recap the <strong>100 Days Drawing Challenge<\/strong> with <strong>days 25 to 36<\/strong>, even though I\u2019m currently not drawing any further. Glancing over all the days, there\u2019s of course day which stands out and that would be <strong>day 36<\/strong>. That day even got its own <a href=\"\/box\/my-first-good-self-portrait\/\" rel=\"noopener noreferrer\">Blog post<\/a>. But another thing that I notice is the different styles used which shows how I started to experiment with certain things. Some of the drawings were drawn with no reference and some were.<\/p>"},"id":"3a66a52d-802d-4a7e-a732-0b0e0ba258a7","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["100daydrawingchallenge-25-36-days.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/07\/100daydrawingchallenge-25-36-days-750x453.png","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"1fc9661b-f378-462f-bd74-ad9156d39803","isHidden":false,"type":"image"},{"content":{"text":"<p>One Subject was me being pissed at the battery performance of my Apple Watch (<strong>Day 35<\/strong>), another was my Brain going crazy because I had too many thoughts (<strong>Day 33<\/strong>).\n And then there was a short phase where it was just too hot and I \njokingly cooled myself down with standing in front of my fridge (<strong>Day 25<\/strong>).<\/p> <p>Tomorrow I will post the rest of the missing days <strong>IF<\/strong> I will find the time besides work and <em>Mission Impossible: Fallout<\/em>, yes will go to the movies tomorrow.<\/p>"},"id":"d2028f1c-d3df-48cb-8c0c-72ae14d5d4da","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I thought it would be a good idea to recap the **100 Days Drawing Challenge** with **days 25 to 36**, even though I'm currently not drawing any further. Glancing over all the days, there's of course day which stands out and that would be **day 36**. That day even got its own (link: https://www.soapatrick.com/2018/07/my-first-good-self-portrait/ text: Blog post target: _blank). But another thing that I notice is the different styles used which shows how I started to experiment with certain things. Some of the drawings were drawn with no reference and some were.
+Linktext: 
 
-![](https://www.soapatrick.com/wp-content/uploads/2018/07/100daydrawingchallenge-25-36-days-750x453.png)
+----
 
-One Subject was me being pissed at the battery performance of my Apple Watch (**Day 35**), another was my Brain going crazy because I had too many thoughts (**Day 33**). And then there was a short phase where it was just too hot and I jokingly cooled myself down with standing in front of my fridge (**Day 25**).
+Linkurl: 
 
-Tomorrow I will post the rest of the missing days **IF** I will find the time besides work and _Mission Impossible: Fallout_, yes will go to the movies tomorrow.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

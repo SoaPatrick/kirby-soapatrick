@@ -2,18 +2,6 @@ Title: I feel like there's a lot of goodness in me...
 
 ----
 
-Text: 
-
-----
-
-Old:
-
-> I feel like there's a lot of goodness in me, a lot of greatness, but I can't get it out of me. I can't give it to the world. I have ideas. I'm not an echo. I make things in my mind, but I can't get them into the world. I can't get past this. It's like a trap. Like the world won't see the… me… the real me.
-> 
-> _Joe MacMillan, Halt and Catch Fire S02E08_
-
-----
-
 Published: 2018-01-16
 
 ----
@@ -22,11 +10,11 @@ Cover:
 
 ----
 
-Format: quote
+Files: 
 
 ----
 
-Video: 
+Format: quote
 
 ----
 
@@ -39,3 +27,35 @@ Tags: Quote, TV Show
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: <p>I feel like there's a lot of goodness in me, a lot of greatness, but I can't get it out of me. I can't give it to the world. I have ideas. I'm not an echo. I make things in my mind, but I can't get them into the world. I can't get past this. It's like a trap. Like the world won't see the… me… the real me.</p>
+
+----
+
+Quotesource: Joe MacMillan, Halt and Catch Fire S02E08
+
+----
+
+Statustext: 
+
+----
+
+Old: 
+
+----
+
+Video: 

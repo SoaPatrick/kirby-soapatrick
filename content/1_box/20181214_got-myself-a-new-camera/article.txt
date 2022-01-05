@@ -6,6 +6,14 @@ Published: 2018-12-14
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,20 +22,32 @@ Tags: gear, Photograph
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["new-gear.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/12\/new-gear-1500x720.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"ef98e7d2-80e5-42a7-a8ad-bd43e215f7b5","isHidden":false,"type":"image"},{"content":{"text":"<p>After <strong><a href=\"\/box\/juicy-finish-a-new-short-film\/\" rel=\"noopener noreferrer\">Juicy Finish<\/a><\/strong> (which was shot on my old Sony a5000) the realization that I\u2019m in need of a new camera got even bigger. So with the recent Black-Friday and tons of special offers left and right I was clever and got the <strong>Sony a7III<\/strong> Body for a really great price.<\/p><p>Then there was another offer just last weekend on everything camera-related from Sony where I purchased the <strong>Sony 50mm 1.8 lens<\/strong>. Now I know that lens ain\u2019t the best (actually I already ordered the Sigma Art 50mm 1.4 for triple the price of the Sony lens but then canceled that order because it seemed overkill, plus that lens is HUGE and HEAVY) but it\u2019s the perfect prime lens for me to start.<\/p><p>I also ordered the popular <strong>Tamron 28-75mm 2.8<\/strong> because I think this is the perfect allrounder. That lens should arrive today or next week.<\/p><p>so I should be fully prepared for the holidays where I plan on shooting my next short film with me starring. Yes, I know, me in front of the camera, but then again I think it\u2019s important to have that experience as well, and who knows, maybe I will like it.<\/p>"},"id":"770163e5-aa78-4805-8f81-ee2a40e99db8","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/12/new-gear-1500x720.jpg)
+Linktext: 
 
-After **[Juicy Finish](https://www.soapatrick.com/2018/12/juicy-finish-a-new-short-film/)** (which was shot on my old Sony a5000) the realization that I'm in need of a new camera got even bigger. So with the recent Black-Friday and tons of special offers left and right I was clever and got the **Sony a7III** Body for a really great price.
+----
 
-Then there was another offer just last weekend on everything camera related from Sony where I purchased the **Sony 50mm 1.8 lens**. Now I know that lens ain't the best (actually I already ordered the Sigma Art 50mm 1.4 for triple the price of the Sony lens but then canceled that order because it seemed overkill, plus that lens is HUGE and HEAVY) but it's the perfect prime lens for me to start.
+Linkurl: 
 
-I also ordered the popular **Tamron 28-75mm 2.8** because I think this is the perfect allrounder. That lens should arrive today or next week.
+----
 
-so I should be fully prepared for the holidays where I plan on shooting my next short film with me starring. Yes, I know, me in front of the camera, but then again I think it's important to have that experience as well, and who knows, maybe I will like it.
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

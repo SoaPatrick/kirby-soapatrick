@@ -6,6 +6,14 @@ Published: 2019-08-04
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,20 +22,32 @@ Tags: Filming
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["cursor-promo.jpg"],"src":"","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"3ff4de96-0c5c-4beb-a61f-8f3c86764083","isHidden":false,"type":"image"},{"content":{"text":"<p>I thought it would be a good idea to share some progress updates on <strong>Cursor<\/strong>, my next micro-film. I\u2019ve shot some material last Sunday with the help of a friend, and I\u2019m currently trying to cut it together. During that process, I realized that I need to <strong>reshoot<\/strong> certain scenes. (that\u2019s the beauty of shooting it almost all alone, I can plan them whenever I have time for that)<\/p><p>Of course, it\u2019s not ideal to reshoot scenes for every film I do once I cut it together, but that\u2019s the learning process I\u2019m currently in I guess. And sooner than later I hope I think of things when I\u2019m actually shooting and not editing it. Plus doing it all alone can be tedious and <strong>time-consuming<\/strong>, so certain things get <strong>forgotten<\/strong> or <strong>overlooked<\/strong>.<\/p><p>So the idea is to cut it together with what I have and then reshoot those scenes that need to be reshot with a much <strong>clearer vision<\/strong>.<\/p><p>On the plus side, I\u2019m also working on my <strong>next<\/strong> micro-film which will be more on the <strong>personal<\/strong> side. There\u2019s an idea that needs to be fleshed out a bit more and I even plan on writing a <strong>screenplay<\/strong> and drawing <strong>storyboards<\/strong>, I need to be better prepared when shooting movies.<\/p>"},"id":"dd44b69a-284e-4d89-99fa-b3225fbe1e8b","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2019/08/cursor-promo-750x300.jpg)
+Linktext: 
 
-I thought it would be a good idea to share some progress updates on **Cursor**, my next micro-film. I've shot some material last Sunday with the help of a friend, and I'm currently trying to cut it together. During that process, I realized that I need to **reshoot** certain scenes. (that's the beauty of shooting it almost all alone, I can plan them whenever I have time for that)
+----
 
-Of course, it's not ideal to reshoot scenes for every film I do once I cut it together, but that's the learning process I'm currently in I guess. And sooner than later I hope I think of things when I'm actually shooting and not editing it. Plus doing it all alone can be tedious and **time-consuming**, so certain things get **forgotten** or **overlooked**.
+Linkurl: 
 
-So the idea is to cut it together with what I have and then reshoot those scenes that need to be reshoot with a much **clearer vision**.
+----
 
-On the plus side, I'm also working on my **next** micro-film which will be more on the **personal** side. There's an idea which needs to be fleshed out a bit more and I even plan on writing a **screenplay** and draw **storyboards**, I need to be better prepared when shooting movies.
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

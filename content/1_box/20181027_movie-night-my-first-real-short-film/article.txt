@@ -6,6 +6,14 @@ Published: 2018-10-27
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,63 +22,32 @@ Tags: Filming, Short, Video
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=T95YRXuh_j4","caption":""},"id":"7eff30b6-6185-43cf-a8ae-61fa09c04ed5","isHidden":false,"type":"video"},{"content":{"text":"<p>It was a long long process but the finished film has finally been released. It\u2019s shocking when I look back to the <a href=\"\/box\/im-trying-to-put-something-together\/\" rel=\"noopener noreferrer\">inception phase<\/a> of this small project and how long it took and how it all turned out now. First, it took me <strong>two weeks<\/strong> to find a story, then another <strong>month<\/strong> to prepare everything from screenplay, storyboards, actors, and equipment to then shooting the movie in <strong>three days<\/strong> and finally editing and mixing it all together, which took another <strong>two weeks<\/strong>. All that for a<strong> 6 and a half minute<\/strong> short film (or microfilm).<\/p><p>Of course, it being my first project like this in a really long time meant that some things will take longer and that I will make mistakes in the process of creating it. So let\u2019s get into that a bit:<\/p>"},"id":"1c4aa89e-1383-42f7-8c23-a41c2d1d2fd4","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Pre-Production"},"id":"e029f1d0-9b30-469d-84ca-85d633164d36","isHidden":false,"type":"heading"},{"content":{"text":"<p>In the process of getting ready for the movie I always had the goal to write a <strong>screenplay<\/strong> and draw as many <strong>storyboards<\/strong> as possible, especially since I didn\u2019t own the camera I was about to rent and only have it for a short amount of time. So having a clear vision beforehand was important. But through the whole pre-production process, other things took longer and certain things seemed even more important (like staging the set for various shots) that I never had the movie fully visualized on paper and just in my head. I also didn\u2019t create a detailed <strong>shot list<\/strong> which meant I forgot to shoot certain scenes from specific angles.<\/p><p>The screenplay itself was written without most of the dialogues and more with directions of what is happening. The dialogues for most of the scenes were put together on set with the actors which was nice to have them be more involved in the process.<\/p><p>The equipment I rented was maybe a bit overkill, but for me, it was important to see where I need to invest in good equipment and what can be bought much cheaper for future projects.<\/p>"},"id":"31be48ea-1a4b-47b5-beed-ef26a37237e5","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Shooting"},"id":"7b70b633-0a5b-41bd-a91d-2e02bced0f2b","isHidden":false,"type":"heading"},{"content":{"text":"<p>The shooting took place over two and a half days with the one-half day being the one for the woods scenes. That was also the <strong>first thing we shot<\/strong>.\n The equipment was picked up only a few hours before which meant that I \nhad like three hours to get to know the camera before we started \nshooting, which was a bad idea when I look back now. The sun was going \ndown fast which meant the scenes ending up in the movie turned out \ndarker than I previously planned.<\/p> <p><strong>The second day<\/strong> we created the dialogue for the \nopening scene in the morning and rehearsed that before shooting it all \nin the afternoon. We took two trips that day as well. One for the <strong>street scenes<\/strong> during the day, and one for the <strong>open field scenes<\/strong>\n later in the evening. The energy was low at that point, for obvious \nreasons and so we kept that short, too short obviously and I missed \nshooting a few more scenes there, unfortunately.<\/p> <p><strong>The next morning<\/strong>, very early in the morning, I took \nthe camera and found better angles for the opening scene and when the \nwhole cast and crew arrived I let them know that we would reshoot the \nwhole <strong>opening scene<\/strong> again. (Talk about killing the mood\n there) But because I was a lot more prepared and knew the camera a lot \nbetter, reshooting it took only 2 hours before we moved on to the end of\n the movie.<\/p> <p>Unfortunately, this is once again where the lack of preparation bit me in the ass. For the <strong>end scenes<\/strong>,\n I didn\u2019t get all the shots needed and because it was another long day \n(after a previously already long day) everybody was tired and so I wrap \nit up rather quickly, too quickly maybe.<\/p>"},"id":"1fdda813-99bd-43b8-ab99-83dc4787b1c4","isHidden":false,"type":"text"},{"content":{"columns":2,"lightbox":"true","align":"content","images":["movie-night-bts_1.jpg","movie-night-bts_2.jpg","movie-night-bts_3.jpg","movie-night-bts_4.jpg"]},"id":"ac7ac31b-fe76-420d-8a65-37425ac18c29","isHidden":false,"type":"gallery"},{"content":{"level":"h2","text":"Post-Production"},"id":"17e8d5d5-eade-4ae0-92ab-a1169269b54a","isHidden":false,"type":"heading"},{"content":{"text":"<p>The first day after the last day of shooting I looked at all the footage, listened to all the recordings and started to work on a <strong>first rough cut<\/strong>. Since I did have all the equipment for that day I did some small <strong>reshooting<\/strong> for shots I completely missed (Shot-list, very important). I couldn\u2019t do much because the cast and crew weren\u2019t available anymore so I was handicapped with what I could actually shoot.<\/p><p>The sound which was recorded was good but I felt like we could do better. So I decided early on to <strong>re-record all the dialogues<\/strong> in post-production again. I bought myself my own sound recorder and microphone for this and future projects and all the actors came by again to record their lines. (though I need to soundproof my room to remove all the reverb).<\/p><p>I also recorded all the sounds or found better ones at <a href=\"https:\/\/freesound.org\/\" target=\"_blank\" rel=\"noopener noreferrer\">freesound.org<\/a> and spend a whole week <strong>mixing the movie<\/strong>. During that time I kept tinkering with the cut of the movie until I was finally happy with the material I had. But working on a <strong>15\u2033 laptop<\/strong> sure isn\u2019t the best way to edit and mix a short film, let\u2019s hope Apple will release shiny new iMacs on Tuesday so I can buy myself a new workstation.<\/p><p>I didn\u2019t spend that much time <strong>color grading<\/strong> the movie because I had to come to an end with it all. But having the <strong>white balance<\/strong> not on manual really made it hard to have a cohesive look throughout the movie.<\/p>"},"id":"5129808e-fcd3-412d-933d-ff7d84ebd02a","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Conclusion"},"id":"9788c88f-0903-43df-9b6b-fb132a531b68","isHidden":false,"type":"heading"},{"content":{"text":"<p>The movie isn\u2019t perfect, I know that, but for me, it was never about making the perfect first short film. This was a <strong>starting point<\/strong> for me. Make an ambitious first short and learn as much as possible which can be improved upon in future projects. Have <strong>complete storyboards<\/strong> before starting to shoot it. Have a <strong>detailed shot-list<\/strong> in order to not forget anything. <strong>Know your gear<\/strong>\n inside out to be as efficient as possible. Those are some of the \nlearnings I take with it. But it was important for me to do this now and\n not keep postponing any possible idea or project I came up with.<\/p>"},"id":"8a91cea4-ed42-4c91-9026-db996dcd7bee","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"What comes next"},"id":"362d46ed-c89b-4644-b20d-c04184b9bb99","isHidden":false,"type":"heading"},{"content":{"text":"<p>All this brings me to what will happen next. Like I said this was a starting point, the next step will be me buying myself a new <strong>workstation<\/strong> that lets me easily edit and mix movies on a <strong>big screen<\/strong> and be much more efficient in post-production. Then there\u2019s the <strong>next projec<\/strong>t which is already in pre-production. The plan for that one is to release it before the end of the year. There\u2019s also the plan for <strong>my own camera<\/strong> but I don\u2019t rush that decision. The focus on the next few projects will be to <strong>improve<\/strong> on certain aspects and <strong>try out<\/strong> new things. They will be shorter and a lot simpler so that I can produce more projects much faster.<\/p><p>So I hope I can update you soon on my next project, stay tuned.<\/p>"},"id":"87e097e8-ca49-4d5b-9791-1cb7a538bc95","isHidden":false,"type":"text"}]
 
 ----
 
-Old: https://www.youtube.com/watch?v=T95YRXuh\_j4
+Linktext: 
 
-It was a long long process but the finished film has finally been released. It's shocking when I look back to the (link: https://www.soapatrick.com/2018/08/im-trying-to-put-something-together/ text: inception phase target: _blank) of this small project and how long it took and how it all turned out now. First, it took me **two weeks** to find a story, then another **month** to prepare everything from screenplay, storyboards, actors, and equipment to then shooting the movie in **three days** and finally editing and mixing it all together, which took another **two weeks**. All that for a **6 and a half minute** short film (or micro film).
+----
 
-Of course, it being my first project like this in a really long time meant that some things will take longer and that I will make mistake in the process of creating it. So let's get into that a bit:
+Linkurl: 
 
-## Pre-Production
+----
 
-In the process of getting ready for the movie I always had the goal to write a **screenplay** and draw as many **storyboards** as possible, especially since I didn't own the camera I was about to rent and only have it for a short amount of time. So having a clear vision beforehand was important. But through the whole pre-production process, other things took longer and certain things seemed even more important (like staging the set for various shots) that I never had the movie fully visualized on paper and just in my head. I Also didn't create a detailed **shot list** which meant I forgot to shoot certain scenes from specific angles.
+Quotetext: 
 
-The screenplay itself was written without most of the dialogues and more with directions of what is happening. The dialogues for most of the scenes were put together on set with the actors which was nice to have them be more involved in the process.
+----
 
-The equipment I rented was maybe a bit overkill, but for me, it was important to see where I need to invest in good equipment and what can be bought much cheaper for future projects.
+Quotesource: 
 
-## Shooting
+----
 
-The shooting took place over two and a half days with the one-half day being the one for the woods scenes. That was also the **first thing we shot**. The equipment was picked up only a few hours before which meant that I had like three hours to get to know the camera before we started shooting, which was a bad idea when I look back now. The sun was going down fast which meant the scenes ending up in the movie turned out darker than I previously planned.
+Statustext: 
 
-**The second day** we created the dialogue for the opening scene in the morning and rehearsed that before shooting it all in the afternoon. We took two trips that day as well. One for the **street scenes** during the day, and one for the **open field scenes** later in the evening. The energy was low at that point, for obvious reasons and so we kept that short, too short obviously and I missed shooting a few more scenes there, unfortunately.
+----
 
-**The next morning**, very early in the morning, I took the camera and found better angles for the opening scene and when the whole cast and crew arrived I let them know that we would reshoot the whole **opening scene** again. (Talk about killing the mood there) But because I was a lot more prepared and knew the camera a lot better, reshooting it took only 2 hours before we moved on to the end of the movie.
-
-Unfortunately, this is once again where the lack of preparation bit me in the ass. For the **end scenes**, I didn't get all the shots needed and because it was another long day (after a previously already long day) everybody was tired and so I wrap it up rather quickly, too quickly maybe.
-
-- ![](https://www.soapatrick.com/wp-content/uploads/2019/05/movie-night-bts_1-750x750.jpg)
-    
-- ![](https://www.soapatrick.com/wp-content/uploads/2019/05/movie-night-bts_2-750x750.jpg)
-    
-- ![](https://www.soapatrick.com/wp-content/uploads/2019/05/movie-night-bts_3-750x750.jpg)
-    
-- ![](https://www.soapatrick.com/wp-content/uploads/2019/05/movie-night-bts_4-750x750.jpg)
-    
-
-## Post-Production
-
-The first day after last day of shooting I looked at all the footage, listened to all the recordings and started to work on a **first rough cut**. Since I did have all the equipment for that day I did some small **reshooting** for shots I completely missed (Shot-list, very important). I couldn't do much because the cast and crew weren't available anymore so I was handicapped with what I could actually shoot.
-
-The sound which was recorded was good but I felt like we could do better. So I decided early on to **re-record all the dialogues** in post-production again. I bought myself my own sound recorder and microphone for this and future projects and all the actors came by again to record their lines. (though I need to soundproof my room to remove all the reverb).
-
-I also recorded all the sounds or found better ones at (link: https://freesound.org/ text: freesound.org target: _blank) and spend a whole week **mixing the movie**. During that time I kept tinkering with the cut of the movie until I was finally happy with the material I had. But working on a **15" laptop** sure isn't the best way to edit and mix a short film, let's hope Apple will release shiny new iMacs on Tuesday so I can buy myself a new workstation.
-
-I didn't spend that much time **color grading** the movie because I had to come to an end with it all. But having the **white-balance** not on manual really made it hard to have a cohesive look throughout the movie.
-
-## Conclusion
-
-The movie isn't perfect, I know that, but for me, it was never about making the perfect first short film. This was a **starting point** for me. Make an ambitious first short and learn as much as possible which can be improved upon in future projects. Have **complete storyboards** before starting to shoot it. Have a **detailed shot-list** in order to not forget anything. **Know your gear** inside out to be as efficient as possible. Those are some of the learnings I take with it. But it was important for me to do this now and not keep postponing any possible idea or project I came up with.
-
-## What comes next
-
-All this brings me to what will happen next. Like I said this was a starting point, the next step will be me buying myself a new **workstation** which lets me easily edit and mix movies on a **big screen** and be much more efficient in post-production. Then there's the **next projec**t which is already in pre-production. The plan for that one is to release it before the end of the year. There's also the plan for **my own camera** but I don't rush that decision. The focus on the next few projects will be to **improve** on certain aspects and **try out** new things. They will be shorter and a lot simpler so that I can produce more projects much faster.
-
-So I hope I can update you soon on my next project, stay tuned.
+Old: 

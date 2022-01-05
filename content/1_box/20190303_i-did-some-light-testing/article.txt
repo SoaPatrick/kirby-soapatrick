@@ -6,6 +6,14 @@ Published: 2019-03-03
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,22 +22,32 @@ Tags: Photograph
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["light-testing.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2019\/03\/light-testing-1500x720.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"b4706c35-cd19-4447-8524-15ce49b7f2ef","isHidden":false,"type":"image"},{"content":{"text":"<p>I played around with the camera this weekend. First I did take some cool <a href=\"https:\/\/www.instagram.com\/p\/Bui-vD_laXR\/\" target=\"_blank\" rel=\"noopener noreferrer\">Photographs<\/a> at dawn from the Roche Tower yesterday evening and today I wanted to play around with my lights at home and practice different kinds of lighting set-ups.<\/p><p>I recently purchased some color gels and a large light reflector which I all used today. Having a helping hand helps a lot because doing it all alone is VERY time-consuming. Below are some of the best shots from this testing session:<\/p>"},"id":"311d46e9-d290-4796-a0e4-26c099a7ea58","isHidden":false,"type":"text"},{"content":{"columns":2,"lightbox":"true","align":"content","images":["light-test_03.jpg","light-test_02.jpg","light-test_01.jpg"]},"id":"bbc85835-5f55-49de-ab50-6765a9cbfbe0","isHidden":false,"type":"gallery"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2019/03/light-testing-1500x720.jpg)
+Linktext: 
 
-I played around with the camera this weekend. First I did take some cool (link: https://www.instagram.com/p/Bui-vD_laXR/ text: Photographs target: _blank) at dawn from the Roche Tower yesterday evening and today I wanted to play around with my lights at home and practice different kinds of lighting set-ups.
+----
 
-I recently purchased some color gels and a large light reflector which I all used today. Having a helping hand helps a lot because doing it all alone is VERY time consuming. Below are some of the best shots from this testing session:
+Linkurl: 
 
-- ![](https://www.soapatrick.com/wp-content/uploads/2019/03/light-test_02-750x1125.jpg)
-    
-- ![](https://www.soapatrick.com/wp-content/uploads/2019/03/light-test_03-750x1125.jpg)
-    
-- ![](https://www.soapatrick.com/wp-content/uploads/2019/03/light-test_01-1-750x500.jpg)
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

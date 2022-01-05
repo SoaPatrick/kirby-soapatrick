@@ -6,6 +6,14 @@ Published: 2019-04-03
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,14 +22,32 @@ Tags: Movie
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"level":"h1","text":""},"id":"35c72802-39c7-499e-8ae5-554059d8068b","isHidden":false,"type":"heading"},{"content":{"text":"<p>I guess you must be wondering why they're suddenly is a counter on top and why abandon the red color and use purple now? Well, this whole look isn\u2019t new, <a href=\"\/box\/im-all-giddy\/\" rel=\"noopener noreferrer\">a year ago<\/a> I had this look already and it\u2019s the same reason this year. <strong>Avengers Endgame<\/strong> will soon be upon us and I\u2019m so pumped up how a 10-year long area will end.<\/p><p>The counter is more for me, a daily reminder of how much closer I am to watching the movie, yes I\u2019m a sucker for dramatic gestures. But not to worry, the counter will be removed and the site go back to red once I\u2019ve seen the movie. Nothing against purple but my color <strong>is red!<\/strong><\/p>"},"id":"43ddabb3-258a-454f-a48e-58cce041c5b5","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I guess you must be wondering why there suddenly is a counter on top and why abandon the red color and use purple now? Well, this whole look isn't new, (link: https://www.soapatrick.com/2018/04/im-all-giddy/ text: a year ago target: _blank) I had this look already and it's the same reason this year. **Avengers Endgame** will soon be upon us and I'm so pumped up how a 10-year long area will end.
+Linktext: 
 
-The counter is more for me, a daily reminder how much closer I am to watching the movie, yes I'm a sucker for dramatic gestures. But not to worry, the counter will be removed and the site go back to red once I've seen the movie. Nothing against purple but my color **is red!**
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

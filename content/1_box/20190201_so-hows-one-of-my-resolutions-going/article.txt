@@ -6,6 +6,14 @@ Published: 2019-02-01
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,16 +22,32 @@ Tags: resolution
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>When I <a href=\"\/box\/why-not-a-look-ahead\/\" rel=\"noopener noreferrer\">posted<\/a> about my plans for 2019 there was one about walking through <strong>every street<\/strong> in Basel-City. Well after one month I think I\u2019m already making lots of progress. So I took an image of the current status and keep in mind that it was January, meaning it\u2019s cold and once it gets warmer I will walk around<strong> a lot more<\/strong>. So when you look at it I think this could be done by October already. But of course, it\u2019s not about how fast but what I discover on this journey. There are a lot of <strong>nice buildings<\/strong> I\u2019ve already seen thanks to the fact that I actually look at my surroundings instead of just walking with <strong>blinders<\/strong> on, not knowing what\u2019s around me.<\/p>"},"id":"b6672822-a293-4c73-b092-f65d21a50ce4","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["basel-january.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2019\/02\/basel-january-750x750.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"33428d36-42ff-4254-9016-ff6e887e330b","isHidden":false,"type":"image"}]
 
 ----
 
-Old: When I (link: https://www.soapatrick.com/2019/01/why-not-a-look-ahead/ text: posted target: _blank) about my plans for 2019 there was one about walking through **every street** in Basel-City. Well after one month I think I'm already making lots of progress. So I took an image of the current status and keep in mind that it was January, meaning it's cold and once it gets warmer I will walk around **a lot more**. So when you look at it I think this could be done by October already. But of course, it's not about how fast but what I discover on this journey. There are a lot of **nice buildings** I've already seen thanks to the fact that I actually look at my surroundings instead of just walking with **blinders** on, not knowing what's around me.
+Linktext: 
 
-![](https://www.soapatrick.com/wp-content/uploads/2019/02/basel-january-750x750.jpg)
+----
 
-Progress from January, looks like a face with a hat
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

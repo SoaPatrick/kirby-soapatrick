@@ -6,6 +6,18 @@ Published: 2018-04-25
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,14 +26,32 @@ Tags: Factory
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>For the third time within a bit more than a year, I use the phrase <strong>The Soap Factory just opened its doors<\/strong>. The first time in <a href=\"\/box\/1687\/\" rel=\"noopener noreferrer\">January 2018<\/a> and then again early this year in <a href=\"\/box\/the-soap-factory-just-opened-its-doors-once-again\/\" rel=\"noopener noreferrer\">March<\/a>. I know it\u2019s getting tired of me closing and opening it again and again but I\u2019m hoping to have it stay open now. I also added all the recent drawings I\u2019ve made.<\/p><p>I\u2019m having a good pace right now for doing work on the page, each day something small but I won\u2019t be able to keep it up. The final piece that\u2019s missing and kinda urgent is the Factory Detail Page. I don\u2019t have an idea yet on how to structure that with all its pieces, but maybe I have an epiphany during a warm shower. It wouldn\u2019t be the first time.<\/p>"},"id":"f18a1bec-9ec0-4de2-851b-083187785614","isHidden":false,"type":"text"}]
 
 ----
 
-Old: For the third time within a bit more than a year, I use the phrase **The Soap Factory just opened its doors**. The first time in (link: https://www.soapatrick.com/2017/01/1687/ text: January 2018 target: _blank) and then again early this year in (link: https://www.soapatrick.com/2018/03/the-soap-factory-just-opened-its-doors-once-again/ text: March target: _blank). I know it's getting tired of me closing and opening it again and again but I'm hoping to have it stay open now. I also added all the recent drawings I've made.
+Linktext: 
 
-I'm having a good pace right now for doing work on the page, each day something small but I won't be able to keep it up. The final piece that's missing and kinda urgent is the Factory Detail Page. I don't have an idea yet on how to structure that with all it's pieces, but maybe I have an epiphany during a warm shower. It wouldn't be the first time.
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

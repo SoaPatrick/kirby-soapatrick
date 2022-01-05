@@ -6,7 +6,11 @@ Published: 2018-01-26
 
 ----
 
-Category: Thoughts on stuff
+Cover: 
+
+----
+
+Files: 
 
 ----
 
@@ -14,14 +18,40 @@ Format: standard
 
 ----
 
-Cover: 
+Category: Thoughts on stuff
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/01/beard-750x375.jpg)
+Tags: Personal
 
-I'm growing a beard now since mid-October. First, it was because I wasn't in the mood of trimming it every other week during my vacation and I thought why not grow it a bit. And second, the beard received great feedback so I kept it and I kept growing it. Just sometimes I had to trim it slightly and then right before Christmas it started to become long and even annoying sometimes and because I didn't have a trimming machine at home which could cut longer than 10mm I decided to look for a barber. Unfortunately, my timing wasn't the best, everyone wanted to look their best for Christmas so getting an appointment wasn't possible. I decided to trim it back myself to 10mm max but I wasn't too happy with how short it suddenly looked so I started growing it again.
+----
 
-Now more than a month later it's getting long again and I'm faced with the same decision once more. Cut back to 10mm, make an appointment at a barber OR, and that's another possibility, use the hair trimmer with longer trimming attachment. I think for me my ideal beard length is around 20mm, I think. So I want to be able to cut back to that length at the front and keep the side a bit short, the question is trim it myself?
+Project: 
 
-But whatever I decide, a beard this long is temporary, the moment it gets warmer I will cut it back to the 3mm I used to wear for the past 5 years now. It's just more comfortable with all the humidity and extremely high temperatures during the summer. In colder months a nice long beard keeps the face warm though, which is nice.
+----
+
+Text: [{"content":{"location":"kirby","image":["beard.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/01\/beard-750x375.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"ae44a599-be21-4352-b127-5df42eb595d1","isHidden":false,"type":"image"},{"content":{"text":"<p>I\u2019m growing a beard now since mid-October. First, it was because I \nwasn\u2019t in the mood of trimming it every other week during my vacation \nand I thought why not grow it a bit. And second, the beard \nreceived great feedback so I kept it and I kept growing it. Just \nsometimes I had to trim it slightly and then right before Christmas it \nstarted to become long and even annoying sometimes and because I didn\u2019t \nhave a trimming machine at home which could cut longer than 10mm I \ndecided to look for a barber. Unfortunately, my timing wasn\u2019t the best, \neveryone wanted to look their best for Christmas so getting an \nappointment wasn\u2019t possible. I decided to trim it back myself to 10mm \nmax but I wasn\u2019t too happy with how short it suddenly looked so I \nstarted growing it again.<\/p> <p>Now more than a month later it\u2019s getting long again and I\u2019m faced \nwith the same decision once more. Cut back to 10mm, make an appointment \nat a barber OR, and that\u2019s another possibility, use the hair trimmer \nwith longer trimming attachment. I think for me my ideal beard length is\n around 20mm, I think. So I want to be able to cut back to that length \nat the front and keep the side a bit short, the question is trim it \nmyself?<\/p> <p>But whatever I decide, a beard this long is temporary, the moment it \ngets warmer I will cut it back to the 3mm I used to wear for the past 5 \nyears now. It\u2019s just more comfortable with all the humidity and \nextremely high temperatures during the summer. In colder months a nice \nlong beard keeps the face warm though, which is nice.<\/p>"},"id":"21458335-7437-41ad-b89c-4c1ffc8fd5cb","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

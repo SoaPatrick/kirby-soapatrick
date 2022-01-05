@@ -6,11 +6,11 @@ Published: 2018-03-20
 
 ----
 
-Category: agcn
+Cover: 
 
 ----
 
-Tags: agcn
+Files: 
 
 ----
 
@@ -18,16 +18,40 @@ Format: standard
 
 ----
 
-Cover: 
+Category: AGCN
 
 ----
 
-Old: Wow, one of my first big Web pages just got old enough to vote, damn I'm getting old. I‘ve had homepages before, most notably the Jennifer Love Hewitt Fanpage **The Love Chronicle** and **The Love Corner** but on March 20th of 2000 the Winona Ryder Fanpage **And God Created Noni**, or **AGCN** short, celebrated its birth. It was an interesting journey where I met interesting Winona fans from all over the world (even met some face to face on a vacation in San Francisco). But it wasn‘t just me who met people. **The Soap Community** was a place for people to talk about anything and for some, it was a place where they found love.
+Tags: agcn
 
-I thought it would be fitting to dedicate this day once again to AGCN. The last version, before I took it offline in October 2006, is still (link: https://agcn.soapatrick.com/ text: online target: _blank) along with the complete picture gallery. There are also [Comic drawings](https://agcn.soapatrick.com/pictures/categories.php?cat_id=6) from French Artist (link: http://mapage.noos.fr/herval/ text: Herval target: _blank) who did, among other things, four Anniversary Comics.
+----
 
-Ah, the good old days. It makes me proud to see what I achieved back then. After all, it was back then when I fell in love with designing and creating websites. I remember how I annoyed everyone by constantly changing the design of AGCN. Through AGCN I also got into Wordpress, I think I started using it around version 1.7 or so.
+Project: 
 
-![](https://www.soapatrick.com/wp-content/uploads/2018/03/agcn-2nd-anniversary.jpg)
+----
 
-I still have tons of updates in hardcoded HTML files from before using Wordpress. I want to include all into this blog to have a complete archive of all (well not all, but like 90%) my Blog Posts from the last 18 Years. I will get to that someday, hopefully.
+Text: [{"content":{"text":"<p>Wow, one of my first big Web pages just got old enough to vote, damn I\u2019m getting old. I\u2018ve had homepages before, most notably the Jennifer Love Hewitt Fanpage <strong>The Love Chronicle<\/strong> and <strong>The Love Corner<\/strong> but on March 20th of 2000 the Winona Ryder Fanpage <strong>And God Created Noni<\/strong>, or <strong>AGCN<\/strong> short, celebrated its birth. It was an interesting journey where I met interesting Winona fans from all over the world (even met some face-to-face on vacation in San Francisco). But it wasn\u2018t just me who met people. <strong>The Soap Community<\/strong> was a place for people to talk about anything and for some, it was a place where they found love.<\/p><p>I thought it would be fitting to dedicate this day once again to AGCN. The last version, before I took it offline in October 2006, is still <a href=\"https:\/\/agcn.soapatrick.com\/\" target=\"_blank\" rel=\"noopener noreferrer\">online<\/a> along with the complete picture gallery. There are also <a href=\"https:\/\/agcn.soapatrick.com\/pictures\/categories.php?cat_id=6\" target=\"_blank\" rel=\"noopener noreferrer\">Comic drawings<\/a> from French Artist <a href=\"http:\/\/mapage.noos.fr\/herval\/\" target=\"_blank\" rel=\"noopener noreferrer\">Herval<\/a> who did, among other things, four Anniversary Comics.<\/p><p>Ah, the good old days. It makes me proud to see what I achieved back then. After all, it was back then that I fell in love with designing and creating websites. I remember how I annoyed everyone by constantly changing the design of AGCN. Through AGCN I also got into WordPress, I think I started using it around version 1.7 or so.<\/p>"},"id":"7af39f2b-16fa-4468-b033-3bef91e165b4","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["agcn-2nd-anniversary.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/03\/agcn-2nd-anniversary.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"da94d381-3a96-46ab-b841-d5e6e103ef05","isHidden":false,"type":"image"},{"content":{"text":"<p>I still have tons of updates in hardcoded HTML files from before \nusing WordPress. I want to include all into this blog to have a complete\n archive of all (well not all, but like 90%) my Blog Posts from the last\n 18 Years. I will get to that someday, hopefully.<\/p>"},"id":"7aa7f86e-8a7f-4989-9054-bc5a0ecfec5c","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

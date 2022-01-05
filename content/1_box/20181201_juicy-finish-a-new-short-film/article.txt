@@ -6,6 +6,14 @@ Published: 2018-12-01
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,32 +22,32 @@ Tags: Filming, Short, Video
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=8s20Q2KKhLw","caption":""},"id":"dbe2d26e-a2f8-4913-b169-73e7688e5fd0","isHidden":false,"type":"video"},{"content":{"text":"<p>After a rather long, intense and costly first short-film process with <strong><a href=\"\/box\/movie-night-my-first-real-short-film\/\" rel=\"noopener noreferrer\">Movie Night<\/a><\/strong> I was in the mood for something rather simple and quick. I had this idea of making a film with <strong>fast cuts<\/strong> and some <strong>humorous bits<\/strong> and making it rather <strong>silly<\/strong>. Having a simple shoot with just one location and fewer actors and experimenting with some stuff in the editing process seemed possible doing it within 30 days.<\/p><p>The subject with how I personally eat a pizza and how people always make fun of me for it seemed a good fit.<\/p>"},"id":"5eb3f729-8f89-4b56-835c-149435f21a99","isHidden":false,"type":"text"},{"content":[],"id":"b7dd7af1-f4ba-4160-a6bb-0aeff9e951df","isHidden":false,"type":"line"},{"content":{"text":"<p><em><strong>Side Note:<\/strong> Yes I eat Pizzas from the outside to \nthe center starting with the pizza crust and working myself toward the \njuicy center, hence the name of the Short Film<\/em><\/p>"},"id":"e087ba64-654c-4cdc-b8e3-61a4cc5567d9","isHidden":false,"type":"text"},{"content":[],"id":"452dcf51-5cb9-418f-96dd-8ce036f866d1","isHidden":false,"type":"line"},{"content":{"text":"<p>The whole movie was shot on a day with my own camera, the <strong>Sony a5000<\/strong>. The camera is really bad in low light and even though I lit up the whole room with 3 lights I still had to go to ISO 400 and increase brightness in post. The footage has a lot of grain, now I don\u2019t know if it\u2019s the camera or something in the settings but I knew what I get into when I decided on shooting it on the a5000. There was a brief moment where I thought about shooting it on my <strong>iPhone X<\/strong> but the quality didn\u2019t impress me, even though I used the App Filmic Pro.<\/p><p>We had some throwbacks on the set, like the pizzas we ordered. We specifically said not cut and yet all three pizzas were delivered <strong>pre-cut<\/strong>. So instead of ordering new ones, we ate those and bought new ones from the local supermarket and garnished them with ham and salami. There was also the <strong>light issue<\/strong>. The backdrop of the set was the window with sunlight shining through the curtains. That light was actually lit with a light source since it wasn\u2019t that bright on that day but I don\u2019t think someone will notice, that\u2019s the magic of movies! Apart from that, the shooting went smoothly and we had a blast goofing around.<\/p><p>When I started editing I noticed some problems with <strong>continuity<\/strong> and I had to cut certain scenes we shot. Also, pre-visualize <strong>EVERYTHING<\/strong>. I\u2019m simply not experienced enough yet to freestyle a movie shoot. I had a clear vision for the start and end of the movie, but for the middle part, I just thought I shoot some stuff and edit that together in post. It\u2019s not that simple and it was also the part which I worked on the longest and tried various versions when compared to the beginning and end which I cut together real fast and it just worked from the start. I also used <strong>After Effects<\/strong> for some visuals like the thinking bubbles and the writing of the title at the end. Used some motion tracking to have the bubbles move with the head which was fun to do.<\/p><p>So in conclusion, I repeat myself again, <strong>storyboards storyboards storyboards!<\/strong> It\u2019s really again something which should not be underestimated. It uses more time in pre-production but you gain so much when shooting the movie and editing it. I need to be faster, shoot faster and edit faster if I want to reach my goal of 1 movie per month next year.<\/p><p>But I don\u2019t want to sound too critical like on my recap for <strong>Movie Night<\/strong> which some people pointed out. I<strong> loved<\/strong> doing Juicy Finish and I really like how it turned out and for all involved, it was a fun experience which we all would love to share again in the near future. (yes the next one is already in the planning stage)<\/p>"},"id":"88485f99-e534-4943-87a4-a679512e9519","isHidden":false,"type":"text"}]
 
 ----
 
-Old: https://www.youtube.com/watch?v=8s20Q2KKhLw
+Linktext: 
 
-After a rather long, intense and costly first short-film process with (link: https://www.soapatrick.com/2018/10/movie-night-my-first-real-short-film/ text: **Movie Night** target: _blank) I was in the mood for something rather simple and quick. I had this idea of making a film with **fast cuts** and some **humorous bits** and make it rather **silly**. Having a simple shoot with just one location and fewer actors and experiment with some stuff in the editing process seemed possible doing it within 30 days.
+----
 
-The subject with how I personally eat a pizza and how people always make fun of me for it seemed a good fit.
+Linkurl: 
 
-* * *
+----
 
-_**Side Note:** Yes I eat Pizzas from the outside to the center starting with the pizza crust and working myself toward the juicy center, hence the name of the Short Film_
+Quotetext: 
 
-* * *
+----
 
-The whole movie was shot on a day with my own camera, the **Sony a5000**. The camera is really bad in low light and even though I lit up the whole room with 3 lights I still had to go to ISO 400 and increase brightness in post. The footage has a lot of grain, now I don't know if it's the camera or something in the settings but I knew what I get into when I decided on shooting it on the a5000. There was a brief moment where I thought about shooting it on my **iPhone X** but the quality didn't impress me, even though I used the App Filmic Pro.
+Quotesource: 
 
-We had some throwbacks on the set, like the pizzas we ordered. We specifically said not cut and yet all three pizzas were delivered **pre-cut**. So instead of ordering new ones, we ate those and bought new ones from the local supermarket and garnished with ham and salami. There was also the **light issue**. The backdrop of the set was the window with sunlight shining through the curtains. That light was actually lit with a light source since it wasn't that bright on that day but I don't think someone will notice, that's the magic of movies! Apart from that, the shooting went smoothly and we had a blast goofing around.
+----
 
-When I started editing I noticed some problems with **continuity** and I had to cut certain scenes we shot. Also, pre-visualize **EVERYTHING**. I'm simply not experienced enough yet to freestyle a movie shoot. I had a clear vision for the start and end of the movie, but for the middle part, I just thought I shoot some stuff and edit that together in post. It's not that simple and it was also the part which I worked on the longest and tried various versions when compared to the beginning and end which I cut together real fast and it just worked from the start. I also used **After Effects** for some visuals like the thinking bubbles and the writing of the title at the end. Used some motion tracking to have the bubbles move with the head which was fun to do.
+Statustext: 
 
-So in conclusion, I repeat myself again, **storyboards storyboards storyboards!** It's really again something which should not be underestimated. It uses more time in pre-production but you gain so much when shooting the movie and editing it. I need to be faster, shoot faster and edit faster if I want to reach my goal of 1 movie per month next year.
+----
 
-But I don't want to sound too critical like on my recap for **Movie Night** which some people pointed out. I **loved** doing Juicy Finish and I really like how it turned out and for all involved, it was a fun experience which we all would love to share again in the near future. (yes the next one is already in the planning stage)
+Old: 

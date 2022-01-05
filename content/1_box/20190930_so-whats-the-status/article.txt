@@ -6,6 +6,14 @@ Published: 2019-09-30
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,26 +22,32 @@ Tags: Filming, Theme
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I thought I write a short status on what is happening right now and get at least one post in September.<\/p>"},"id":"3882397a-87a2-4512-91da-b4f7f3b5ea97","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"SoaPatrickSix"},"id":"8ffcd28d-6b03-4807-b959-2e713333b5aa","isHidden":false,"type":"heading"},{"content":{"text":"<p>I did some small changes to the theme as you might have noticed when \nlooking at it on a desktop. There are two changes on the front and some \nsmall changes on the back.<\/p> <p>I changed the Navigation and with that put the main content area on a\n different plane, now I actually like the light version more again. \nThere\u2019s also the possibility that I will couple the dark\/light mode your\n OS has with the design here, so if you\u2019re using the dark mode in your \nOS the page is in dark mode as well. This is possible thanks to the new <strong>prefers-color-scheme<\/strong> media query which detects the system light or dark mode.<\/p> <p>Below the hood, I further optimized caching and performance in order \nto make the page even faster. Maybe you notice a difference, on my end, \nit\u2019s snappy as hell when I switch between pages.<\/p>"},"id":"b2787877-bd75-4ea0-b6d0-395cc73e1af5","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"The Cursor"},"id":"0b14422c-dab2-4515-98e3-3fab8b90a69c","isHidden":false,"type":"heading"},{"content":{"text":"<p>So what\u2019s happening on the movie front? Well actually I shot the \nmovie and even started editing, but for me, it\u2019s a rather complex short \nfilm and therefore I need more time with it, but I\u2019m coming along even \nthough it\u2019s hard to work on it during the weekdays. I do hope to finish \nit completely within the next two weeks, it\u2019s about time to focus on \nsomething new.<\/p> <p>So this is it, that\u2019s what\u2019s been happening in my life recently \n(among other things of course). So hopefully October will pick up on the\n blogging part as well.<\/p>"},"id":"2b4b76bf-9452-4419-ad71-d13641cbe8bd","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I thought I write a short status on what is happening right now and get at least one post in September.
+Linktext: 
 
-## SoaPatrickSix
+----
 
-I did some small changes to the theme as you might have noticed when looking at it on a desktop. There are two changes on the front and some small changes on the back.
+Linkurl: 
 
-I changed the Navigation and with that put the main content area on a different plane, now I actually like the light version more again. There's also the possibility that I will couple the dark/light mode your OS has with the design here, so if you're using the dark mode in your OS the page is in dark mode as well. This is possible thanks to the new **prefers-color-scheme** media query which detects the system light or dark mode.
+----
 
-Below the hood, I further optimized caching and performance in order to make the page even faster. Maybe you notice a difference, on my end, it's snappy as hell when I switch between pages.
+Quotetext: 
 
-## The Cursor
+----
 
-So what's happening on the movie front? Well actually I shot the movie and even started editing, but for me, it's a rather complex short film and therefore I need more time with it, but I'm coming along even though it's hard to work on it during the weekdays. I do hope to finish it completely within the next two weeks, it's about time to focus on something new.
+Quotesource: 
 
-So this is it, that's what's been happening in my life recently (among other things of course). So hopefully October will pick up on the blogging part as well.
+----
+
+Statustext: 
+
+----
+
+Old: 

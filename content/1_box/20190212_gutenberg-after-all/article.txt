@@ -6,6 +6,14 @@ Published: 2019-02-12
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,12 +22,32 @@ Tags: Wordpress
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I was trying out the new <strong>Gutenberg<\/strong> Editor for a project at work and I think it improved quite a bit since my first <a href=\"\/box\/wordpress-will-have-a-new-editor\/\" rel=\"noopener noreferrer\">test<\/a> with it back in <strong>August<\/strong>. I was so pleased with how it worked that I decided to implement it here. I made a quick <strong>test<\/strong> with the basic elements and it works quite nicely but more testing and adding new <strong>styling<\/strong> rules are required. So I will incorporate it very <strong>soon<\/strong> and use it for the <strong>Factory Detail<\/strong> view and maybe for the <strong>landing page<\/strong> as well.<\/p>"},"id":"3ae09c5b-0be6-4211-9d0f-aa9a8439312d","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I was trying out the new **Gutenberg** Editor for a project at work and I think it improved quite a bit since my first (link: https://www.soapatrick.com/2018/08/wordpress-will-have-a-new-editor/ text: test target: _blank) with it back in **August**. I was so pleased with how it worked that I decided to implement it here. I made a quick **test** with the basic elements and it works quite nicely but more testing and adding new **styling** rules is required. So I will incorporate it very **soon** and use it for the **Factory Detail** view and maybe for the **landing page** as well.
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

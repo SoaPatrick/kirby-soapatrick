@@ -2,18 +2,6 @@ Title: It’s science. Just unusual science. The way that six different alcohols
 
 ----
 
-Text: 
-
-----
-
-Old:
-
-> It’s science. Just unusual science. The way that six different alcohols create a flavor identical to iced tea.
-> 
-> _Walter Bishop, Fringe S04E11_
-
-----
-
 Published: 2018-02-16
 
 ----
@@ -22,11 +10,11 @@ Cover:
 
 ----
 
-Format: quote
+Files: 
 
 ----
 
-Video: 
+Format: quote
 
 ----
 
@@ -39,3 +27,35 @@ Tags: Quote, TV Show, zumlangeinseli
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: <p>It’s science. Just unusual science. The way that six different alcohols create a flavor identical to iced tea.</p>
+
+----
+
+Quotesource: Walter Bishop, Fringe S04E11
+
+----
+
+Statustext: 
+
+----
+
+Old: 
+
+----
+
+Video: 

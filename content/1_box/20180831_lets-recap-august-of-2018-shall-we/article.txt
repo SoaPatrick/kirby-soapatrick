@@ -6,6 +6,14 @@ Published: 2018-08-31
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,22 +22,32 @@ Tags: Filming, Recap, Story
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["august-2018.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/08\/august-2018-1500x720.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"217c8260-d5fc-48ca-bd23-d5147800e477","isHidden":false,"type":"image"},{"content":{"text":"<p>Another month has passed which means time for the usual recap. So what happened this month? Well, a lot! It all started with the <a href=\"\/box\/im-trying-to-put-something-together\/\" rel=\"noopener noreferrer\">plan<\/a> to <strong>write<\/strong> and <strong>shoot<\/strong> a micro\/short film. Since then I\u2019ve been doing lots of research for <strong>shooting procedures<\/strong>, for <strong>renting equipment<\/strong> and kept my mind busy with the basic shape and scope of the story.<\/p><p>I set myself a deadline for the story which is actually today. So how far have I come? Well, I\u2019d say the story is pretty much set, there are some details and minor kinks which I need to iron out during the <strong>scripting process<\/strong> but generally, I feel comfortable with what I have in order to take the next step. I now have an entire month for the <strong>screenplay<\/strong>, the <strong>storyboards<\/strong> and <strong>planning<\/strong> the shooting schedule. As for the promised \u2018Logline\u2019, I don\u2019t feel comfortable sharing that yet, also because I haven\u2019t really written it but I do have an idea floating in my head. I can share the title though:<\/p><p><strong>\u201cMOVIE NIGHT\u201d<\/strong><\/p><p>I know it sounds generic but I think it fits the story quite well. There\u2019s also an idea for a <strong>poster<\/strong> which I\u2019ve sketched. I know that I shouldn\u2019t worry that much about things like the poster but I had an idea in my head that fits perfectly so why not create that poster.<\/p><p>I think that\u2019s all for this recap because apart from that nothing worthy of writing down here has happened.<\/p>"},"id":"4e9f268b-6e40-4158-86d0-9166818f790c","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/08/august-2018-1500x720.jpg)
+Linktext: 
 
-Another month has passed which means time for the usual recap. So what happened this month? Well, a lot! It all started with the (link: https://www.soapatrick.com/2018/08/im-trying-to-put-something-together/ text: plan target: _blank) to **write** and **shoot** a micro/short film. Since then I've been doing lots of research for **shooting procedure**, for **renting equipment** and kept my mind busy with the basic shape and scope of the story.
+----
 
-I set myself a deadline for the story which is actually today. So how far have I come? Well, I'd say the story is pretty much set, there are some details and minor kinks which I need to iron out during the **scripting process** but generally, I feel comfortable with what I have in order to take the next step. I now have an entire month for the **screenplay**, the **storyboards** and **planning** the shooting schedule. As for the promised 'Logline', I don't feel comfortable sharing that yet, also because I haven't really written it but I do have an idea floating in my head. I can share the title though:
+Linkurl: 
 
-**"MOVIE NIGHT"**
+----
 
-I know it sounds generic but I think it fits the story quite well. There's also an idea for a **poster** which I've sketched. I know that I shouldn't worry that much about things like the poster but I had an idea in my head which fits perfectly so why not create that poster.
+Quotetext: 
 
-I think that's all for this recap because apart from that nothing worthy of writing down here has happened.
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

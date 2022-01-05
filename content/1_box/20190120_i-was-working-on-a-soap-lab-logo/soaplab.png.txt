@@ -1,0 +1,9 @@
+Alt: A Soap Lab Experiment Logo
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

@@ -6,6 +6,14 @@ Published: 2019-06-23
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,18 +22,32 @@ Tags: Short, Theme
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>It\u2019s been a while but I\u2019m having an idea for a new <strong>micro movie<\/strong>\n and I started to write down some notes, draw some storyboards and test \nsome shots. I don\u2019t wanna put TOO much pressure on me with a timeframe \nso I take it step-by-step.<\/p> <p>But of course, I have to move forward. The idea is to give me another\n week for the full story with storyboards and then start shooting. I \nwon\u2019t reveal anything else at this point, like theme or premise, since I\n love having these things close to the chest until they are ready for \nrelease.<\/p>"},"id":"1477ca5c-c165-4186-a424-e57c8b814b78","isHidden":false,"type":"text"},{"content":[],"id":"92030d28-1019-447c-9300-f96a419bd35e","isHidden":false,"type":"line"},{"content":{"text":"<p><strong>On a side note<\/strong>: I did change something on this \ntheme, even though in my last blog post I promised that I\u2019m done, but I \nthought I should reduce the header height on subpages to put content \nfirst. Not every page needs to have those animated bubbles.<\/p>"},"id":"7173aee1-9197-4ee6-9e91-0bdbdc728439","isHidden":false,"type":"text"}]
 
 ----
 
-Old: It's been a while but I'm having an idea for a new **micro movie** and I started to write down some notes, draw some storyboards and test some shots. I don't wanna put TOO much pressure on me with a timeframe so I take it step-by-step.
+Linktext: 
 
-But of course, I have to move forward. The idea is to give me another week for the full story with storyboards and then start shooting. I won't reveal anything else at this point, like theme or premise, since I love having these things close to the chest until they are ready for release.
+----
 
-* * *
+Linkurl: 
 
-**On a side note**: I did change something on this theme, even though in my last blog post I promised that I'm done, but I thought I should reduce the header height on subpages to put content first. Not every page needs to have those animated bubbles.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

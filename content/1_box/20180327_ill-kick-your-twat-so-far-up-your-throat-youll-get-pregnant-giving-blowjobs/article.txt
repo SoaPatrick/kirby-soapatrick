@@ -2,18 +2,6 @@ Title: I'll kick your twat so far up your throat you'll get pregnant giving blow
 
 ----
 
-Text: 
-
-----
-
-Old:
-
-> I'll kick your twat so far up your throat you'll get pregnant giving blowjobs
-> 
-> _Santa Clarita Diet, S02E02_
-
-----
-
 Published: 2018-03-27
 
 ----
@@ -22,11 +10,11 @@ Cover:
 
 ----
 
-Format: quote
+Files: 
 
 ----
 
-Video: 
+Format: quote
 
 ----
 
@@ -39,3 +27,35 @@ Tags: Quote, TV Show
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: <p>I'll kick your twat so far up your throat you'll get pregnant giving blowjobs</p>
+
+----
+
+Quotesource: Santa Clarita Diet, S02E02
+
+----
+
+Statustext: 
+
+----
+
+Old: 
+
+----
+
+Video: 

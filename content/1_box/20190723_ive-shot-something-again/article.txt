@@ -6,6 +6,14 @@ Published: 2019-07-23
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,14 +22,32 @@ Tags: Filming
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>It\u2019s been a long time since I\u2019ve shot something with my camera which wasn\u2019t a photograph, it was <a href=\"\/factory\/reflection\/\" rel=\"noopener noreferrer\">Reflection<\/a> way back in <a href=\"\/box\/in-the-mood-for-something-scary\/\" rel=\"noopener noreferrer\">February<\/a>. So I was happy that the last two weeks I actually shot <strong>two<\/strong> things. One will be ready to be released on <strong>Friday<\/strong> if all goes well. The other will be reshot this following weekend and probably needs another week of post-production until that one can be released.<\/p><p>So look come back on Friday for the release of <strong>Milk<\/strong>, that\u2019s what I call the first one for now.<\/p>"},"id":"d3fb1d5e-b3ce-4648-a479-c9e6f124b081","isHidden":false,"type":"text"}]
 
 ----
 
-Old: It's been a long time since I've shot something with my camera which wasn't a photograph, it was (link: https://www.soapatrick.com/factory/reflection/ text: Reflection target: _blank) way back in (link: https://www.soapatrick.com/2019/02/in-the-mood-for-something-scary/ text: February target: _blank). So I was happy that the last two weeks I actually shot **two** things. One will be ready to be released on **Friday** if all goes well. The other will be reshot this following weekend and probably needs another week of post-production until that one can be released.
+Linktext: 
 
-So look come back on Friday for the release of **Milk**, that's what I call the first one for now.
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

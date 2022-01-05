@@ -1,0 +1,9 @@
+Alt: admissions language version
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

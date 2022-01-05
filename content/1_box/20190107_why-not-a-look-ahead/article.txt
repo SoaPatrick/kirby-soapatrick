@@ -6,6 +6,14 @@ Published: 2019-01-07
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,50 +22,32 @@ Tags: Filming, social-media
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["reflection-screencap.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2019\/01\/reflection-screencap-1500x720.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"dada525f-3211-4b01-9517-8f8e36c5841c","isHidden":false,"type":"image"},{"content":{"text":"<p>I thought it might be more fun and interesting to write about <strong>2019<\/strong> instead of looking back again, after all if one is interesting, there is a dozen of <strong>recaps<\/strong> from last year (<a href=\"\/box\/lets-recap-january-of-2018-shall-we\/\" rel=\"noopener noreferrer\">January<\/a>, <a href=\"\/box\/lets-recap-february-of-2018-shall-we\/\" rel=\"noopener noreferrer\">February<\/a>, <a href=\"\/box\/lets-recap-march-of-2018-shall-we\/\" rel=\"noopener noreferrer\">March<\/a>, <a href=\"\/box\/lets-recap-april-of-2018-shall-we\/\" rel=\"noopener noreferrer\">April<\/a>, <a href=\"\/box\/lets-recap-may-of-2018-shall-we\/\" rel=\"noopener noreferrer\">May<\/a>, <a href=\"\/box\/lets-recap-june-of-2018-shall-we\/\" rel=\"noopener noreferrer\">June<\/a>, <a href=\"\/box\/lets-recap-july-of-2018-shall-we\/\" rel=\"noopener noreferrer\">July<\/a>, <a href=\"\/box\/lets-recap-august-of-2018-shall-we\/\" rel=\"noopener noreferrer\">August<\/a>, <a href=\"\/box\/lets-recap-september-of-2018-shall-we\/\" rel=\"noopener noreferrer\">September<\/a>, <a href=\"\/box\/lets-recap-october-of-2018-shall-we\/\" rel=\"noopener noreferrer\">October<\/a>, <a href=\"\/box\/lets-recap-november-of-2018-shall-we\/\" rel=\"noopener noreferrer\">November<\/a> and <a href=\"\/box\/lets-recap-december-of-2018-shall-we\/\" rel=\"noopener noreferrer\">December<\/a>). But I do want to split this up into different sections.<\/p>"},"id":"1e9fae40-64a7-4b51-9444-fc8ad873cd21","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Basel Stadt"},"id":"a4c742bb-7fa6-46cd-8795-3c0c4e59d84f","isHidden":false,"type":"heading"},{"content":{"text":"<p>One of the ideas for a <strong>personal project<\/strong> I had last year was to take a <strong>city map<\/strong> from <strong>Basel<\/strong> and walk through every street there is at least once, that way I can honestly say I\u2019ve seen <strong>every corner<\/strong>\n of my hometown. So I took that city map and placed it within a frame \nand hung that on the wall. Now every time I walk through a street for \nthe first time, I <strong>mark<\/strong> that street with a red marker. I will take weekly photos from that map to see the <strong>progress<\/strong> I\u2019ve been making over time.<\/p>"},"id":"82942453-4560-4396-b814-226ebcbb02b2","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Movie Projects"},"id":"0e55c88e-c0ee-4976-9e5e-011aefe44b7e","isHidden":false,"type":"heading"},{"content":{"text":"<p>Last year I had the bold idea of doing <strong>12 movie projects<\/strong>\n in 2019, one for every month. I\u2019m still committed to this plan and I\u2019m \nalready at work on my short film for January. But I want to refine that \nidea bit more right now.<\/p>"},"id":"851ace75-93e4-4a0c-8aae-24c37bfd4417","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Soap Lab"},"id":"0a1ddb25-a234-4641-b444-e1fa48c74df7","isHidden":false,"type":"heading"},{"content":{"text":"<p>I\u2019m playing around with the idea of making all these upcoming movie projects under a new name. Either <strong>A Soap Lab Experiment<\/strong> if it\u2019s more of an experimental thing, or <strong>A Soap Lab Production<\/strong> if it\u2019s something more serious. There\u2019s even an idea for <strong>A Soap Lab Accident <\/strong>if\n it\u2019s something really crazy. So right now I\u2019m brainstorming for some \nsort of Logo for this or intro for all future movie projects.<\/p>"},"id":"a6b11549-8ec7-473a-92e5-b6702376bebf","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Reflection"},"id":"5cdc6fe8-4cec-4449-a879-d79c186d5e29","isHidden":false,"type":"heading"},{"content":{"text":"<p>Last weekend I shot and edited all by myself the January movie project called <strong>Reflection<\/strong>.\n I did make some mistakes while shooting (damn auto white balance) and \nrealized while editing what was missing and what needs to be redone or \nchanged. It\u2019s a rather complex short film because of <strong>timing<\/strong> and <strong>space constriction<\/strong> and the fact that I\u2019m starring and directing at the same time, but I was able to do it all in <strong>4 hours<\/strong>. So I will make some adjustments, plan everything a bit better and reshot everything again very soon.<\/p>"},"id":"759a6c0d-f7d6-4775-b36e-4f33ed1f416a","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Story Ideas"},"id":"b70db261-4b99-46f0-98ca-1ee8f77749e0","isHidden":false,"type":"heading"},{"content":{"text":"<p>While shooting <strong>Reflection<\/strong>, I realized that I \nsometimes I\u2019m having trouble finding new stories to shoot, or I\u2019m too \npicky about what to shoot. So in order to shoot faster and a lot more \nstuff, I could <strong>reshoot<\/strong> scenes from movies or TV Shows which are doable. That way I learn from professionals by trying to <strong>recreate<\/strong>\n something and I don\u2019t have to worry about coming up with a story (Those\n would fall under the Soap Lab Experiment Banner) and these videos could\n be more popular and generate more traffic. Because if Reflection taught\n me anything, it\u2019s that shooting, editing and releasing a movie project <strong>within a day or two<\/strong> is absolutely doable, it\u2019s the whole story part that\u2019s taking up more time.<\/p> <p>Now I\u2019m not saying I\u2019m doing anything original anymore but maybe I keep it <strong>simple stupid<\/strong> from a story perspective in order to practice the technical elements of making movies.<\/p>"},"id":"0fc61051-0723-47e9-a73a-9938f099a9ec","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"To Conclude"},"id":"facc7b1c-0f81-4455-b0fe-325af336eab7","isHidden":false,"type":"heading"},{"content":{"text":"<p>I plan on releasing at least <strong>12 short<\/strong> movie projects this year, <strong>one per month<\/strong>,\n and they will be experimental, short, crazy and maybe even a bit more \nsophisticated once in a while, but this year is all about <strong>quantity<\/strong>, doing the work and practicing like crazy so that I can focus more <strong>quality<\/strong> next year.<\/p>"},"id":"13b02173-f38b-43c7-8e68-445a886813dc","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"SoaPatrickSix?"},"id":"eab5191a-34b1-4192-9fab-21d2ecb88639","isHidden":false,"type":"heading"},{"content":{"text":"<p>All these projects need to be <strong>highlighted<\/strong> a lot more here and like I previously wrote about it <a href=\"\/box\/soapatrick-needs-to-change-a-bit\/\" rel=\"noopener noreferrer\">here<\/a>, I\u2019m not really sure which way to go. Add these features to <strong>SoaPatrickFive<\/strong>? Make a new <strong>SoaPatrickSix<\/strong> or <strong>buy a theme<\/strong> with all the functionality and therefore be able to focus on my movie projects? I\u2019m still not quite sure what the best way to do here is and I think I won\u2019t start doing something until I\u2019m sure what I actually want. Making a completely new theme is tempting though.<\/p>"},"id":"d93f9681-2f6f-432f-879d-738c81bbc838","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Social Media"},"id":"a77f052a-03ae-4e95-8da8-652885a5bbf0","isHidden":false,"type":"heading"},{"content":{"text":"<p>Making movies is fun and all but if no one is actually watching them then what\u2019s the point, that\u2019s why I need to be more <strong>active<\/strong> on social media and <strong>promote<\/strong> my work. This starts with being more <strong>proactive<\/strong>, making more interesting content and getting people to <strong>follow<\/strong> my work. I still think the best way to achieve that is proving to people that I do create new content on a <strong>regular basis<\/strong> and people like to get notified when new content is published (in case they like it of course)<\/p><p>So this is it, this is my plan for <strong>2019<\/strong> and I\u2019m curious what will come to fruition from all those plans. When I look back on my <strong>resolution<\/strong> for this place in <a href=\"\/box\/welcome-to-the-year-2018\/\" rel=\"noopener noreferrer\">January 2018<\/a> I must admit that I didn\u2019t post daily throughout the year (I did the first 3 months though, which I think is impressive) but I think it helped me to get to where I am now, <strong>actually making short films<\/strong>, so it all turned out nicely in the end<\/p>"},"id":"47d519a9-25c4-45c9-b166-6ba525541452","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2019/01/reflection-screencap-1500x720.jpg)
+Linktext: 
 
-I thought it might be more fun and interesting to write about **2019** instead of looking back again, after all if one is interesting, there is a dozen of **recaps** from last year ((link: https://www.soapatrick.com/2018/01/lets-recap-january-of-2018-shall-we/ text: January target: _blank), (link: https://www.soapatrick.com/2018/02/lets-recap-february-of-2018-shall-we/ text: February target: _blank), (link: https://www.soapatrick.com/2018/03/lets-recap-march-of-2018-shall-we/ text: March target: _blank), (link: https://www.soapatrick.com/2018/04/lets-recap-april-of-2018-shall-we/ text: April target: _blank), (link: https://www.soapatrick.com/2018/05/lets-recap-may-of-2018-shall-we/ text: May target: _blank), (link: https://www.soapatrick.com/2018/06/lets-recap-june-of-2018-shall-we/ text: June target: _blank), (link: https://www.soapatrick.com/2018/07/lets-recap-july-of-2018-shall-we/ text: July target: _blank), (link: https://www.soapatrick.com/2018/08/lets-recap-august-of-2018-shall-we/ text: August target: _blank), (link: https://www.soapatrick.com/2018/09/lets-recap-september-of-2018-shall-we/ text: September target: _blank), (link: https://www.soapatrick.com/2018/10/lets-recap-october-of-2018-shall-we/ text: October target: _blank), (link: https://www.soapatrick.com/2018/11/lets-recap-november-of-2018-shall-we/ text: November target: _blank) and (link: https://www.soapatrick.com/2018/12/lets-recap-december-of-2018-shall-we/ text: December target: _blank)). But I do want to split this up into different sections.
+----
 
-## Basel Stadt
+Linkurl: 
 
-One of the ideas for a **personal project** I had last year was to take a **city map** from **Basel** and walk through every street there is at least once, that way I can honestly say I've seen **every corner** of my hometown. So I took that city map and placed it within a frame and hung that on the wall. Now every time I walk through a street for the first time, I **mark** that street with a red marker. I will take weekly photos from that map to see the **progress** I've been making over time.
+----
 
-## Movie Projects
+Quotetext: 
 
-Last year I had the bold idea of doing **12 movie projects** in 2019, one for every month. I'm still committed to this plan and I'm already at work on my short film for January. But I want to refine that idea bit more right now.
+----
 
-### Soap Lab
+Quotesource: 
 
-I'm playing around with the idea of making all these upcoming movie projects under a new name. Either **A Soap Lab Experiment** if it's more of an experimental thing, or **A Soap Lab Production** if it's something more serious. There's even an idea for **A Soap Lab Accident** if it's something really crazy. So right now I'm brainstorming for some sort of Logo for this or intro for all future movie projects.
+----
 
-### Reflection
+Statustext: 
 
-Last weekend I shot and edited all by myself the January movie project called **Reflection**. I did make some mistakes while shooting (damn auto white balance) and realized while editing what was missing and what needs to be redone or changed. It's a rather complex short film because of **timing** and **space constriction** and the fact that I'm starring and directing at the same time, but I was able to do it all in **4 hours**. So I will make some adjustments, plan everything a bit better and reshot everything again very soon.
+----
 
-### Story Ideas
-
-While shooting **Reflection**, I realized that I sometimes I'm having trouble finding new stories to shoot, or I'm too picky about what to shoot. So in order to shoot faster and a lot more stuff, I could **reshoot** scenes from movies or TV Shows which are doable. That way I learn from professionals by trying to **recreate** something and I don't have to worry about coming up with a story (Those would fall under the Soap Lab Experiment Banner) and these videos could be more popular and generate more traffic. Because if Reflection taught me anything, it's that shooting, editing and releasing a movie project **within a day or two** is absolutely doable, it's the whole story part that's taking up more time.
-
-Now I'm not saying I'm doing anything original anymore but maybe I keep it **simple stupid** from a story perspective in order to practice the technical elements of making movies.
-
-### To Conclude
-
-I plan on releasing at least **12 short** movie projects this year, **one per month**, and they will be experimental, short, crazy and maybe even a bit more sophisticated once in a while, but this year is all about **quantity**, doing the work and practicing like crazy so that I can focus more **quality** next year.
-
-## SoaPatrickSix?
-
-All these projects need to be **highlighted** a lot more here and like I previously wrote about it (link: https://www.soapatrick.com/2018/12/soapatrick-needs-to-change-a-bit/ text: here target: _blank), I'm not really sure which way to go. Add these features to **SoaPatrickFive**? Make a new **SoaPatrickSix** or **buy a theme** with all the functionality and therefore be able to focus on my movie projects? I'm still not quite sure what the best way to do here is and I think I won't start doing something until I'm sure what I actually want. Make a completely new theme is tempting though.
-
-## Social Media
-
-Making movies is fun and all but if no one is actually watching them then what's the point, that's why I need to be more **active** on social media and **promote** my work. This starts with being more **proactive**, make more interesting content and get people to **follow** my work. I still think the best way to achieve that is proving to people that I do create new content on a **regular basis** and people like to get notified when new content is published (in case they like it of course)
-
-So this is it, this is my plan for **2019** and I'm curious what will come to fruiting from all those plans. When I look back on my **resolution** for this place in (link: https://www.soapatrick.com/2018/01/welcome-to-the-year-2018/ text: January 2018 target: _blank) I must admit that I didn't post daily throughout the year (I did the first 3 months though, which I think is impressive) but I think it helped me to get to where I am now, **actually making short films**, so it all turned out nicely in the end
+Old: 

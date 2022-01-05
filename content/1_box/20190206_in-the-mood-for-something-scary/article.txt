@@ -6,6 +6,14 @@ Published: 2019-02-06
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,18 +22,32 @@ Tags: Filming, Short, Video
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=1DEMQ4ilwRg","caption":""},"id":"17bdbeb4-8874-45ad-b955-96c729ebcc7c","isHidden":false,"type":"video"},{"content":{"text":"<p>Ok let me explain, I had this idea for some time now (I think it all started in <a href=\"\/box\/lets-recap-december-of-2018-shall-we\/\" rel=\"noopener noreferrer\">December<\/a>) and I actually shot <strong>three different versions<\/strong> on three different weekends. The general idea was to shoot something simple and <strong>all alone<\/strong> and try to use <strong>masking<\/strong> for special effects. While shooting the second weekend I had a different idea which now turned into the final result. Shooting alone was an <strong>interesting<\/strong> yet <strong>complicated<\/strong> experience. Not knowing how a shot turned out until I rewatch it was time-consuming, also that I couldn\u2019t properly <strong>block<\/strong> scenes because I didn\u2019t know how it looked when there was no one I could use as a stand-in.<\/p><p>So with the last idea, there was suddenly a <strong>second<\/strong> actress and with that came the realization that I need more help, so with the help of an <strong>additional<\/strong> friend we <strong>shot<\/strong> the movie on Saturday within 6 hours. I <strong>cut<\/strong> the movie together on Sunday and on Monday I started to <strong>edit the music<\/strong>, which was the most important aspect of this short film. The idea was always to create a scary mood with <strong>sound<\/strong>, and not have jump scares and light flickering and whatever you find in today\u2019s trashy horror films.<\/p><p>So I hope you all enjoy it, the <strong>feedback<\/strong> I\u2019ve received so far is that people were feeling uneasy when watching it and that was the main goal, so I say this <strong>Soap Lab Experiment<\/strong> was a success.<\/p>"},"id":"723701f7-3ed6-4fe9-815f-904bb1f7be3d","isHidden":false,"type":"text"}]
 
 ----
 
-Old: https://www.youtube.com/watch?v=1DEMQ4ilwRg
+Linktext: 
 
-Ok let me explain, I had this idea for some time now (I think it all started in [December](https://www.soapatrick.com/2018/12/lets-recap-december-of-2018-shall-we/)) and I actually shot **three different versions** on three different weekends. The general idea was to shoot something simple and **all alone** and try to use **masking** for special effects. While shooting the second weekend I had a different idea which now turned into the final result. Shooting alone was an **interesting** yet **complicated** experience. Not knowing how a shot turned out until I rewatch it was time-consuming, also that I couldn't properly **block** scenes because I didn't know how it looked when there was no one I could use as a stand-in.
+----
 
-So with the last idea, there was suddenly a **second** actress and with that came the realization that I need more help, so with the help of an **additional** friend we **shot** the movie on Saturday within 6 hours. I **cut** the movie together on Sunday and on Monday I started to **edit the music**, which was the most important aspect of this short film. The idea was always to create a scary mood with **sound**, and not have jump scares and light flickering and whatever you find in today's trashy horror films.
+Linkurl: 
 
-So I hope you all enjoy it, the **feedback** I've received so far is that people were feeling uneasy when watching it and that was the main goal, so I say this **Soap Lab Experiment** was a success.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

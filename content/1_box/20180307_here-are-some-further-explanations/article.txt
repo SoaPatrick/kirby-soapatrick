@@ -6,6 +6,18 @@ Published: 2018-03-07
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,36 +26,32 @@ Tags: Animation, workflow
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>Sooooo the last two days and the respective blog posts were a bit off\n and so was I, still not feeling good but I try to keep it together for \nthis entry where I try to further explain my realization and my plan on \nhow to go forward.<\/p>"},"id":"e493c0bd-a558-454b-a365-f46237001305","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Animated Videos"},"id":"eb97c4fe-e6aa-40f2-9f13-39e26c2468e1","isHidden":false,"type":"heading"},{"content":{"text":"<p>First, let me go further into details about the whole plan on doing animation and I might repeat things from previous blog posts, but bear with me. I always had the issue of trying to do too many things because I just love creating stuff. But lack of time and maybe even lack of interest of diving deeper (but mainly its lack of time) and trying to learn too many things at the same time kept me from really improving and finishing something.<\/p><p>So when I saw how easy it has become to create animations I realized the possibility of combining a few of my passions into one field where the only limit of what I can do is my imagination. So with animation, I can keep drawing and improve my drawing. I can fine-tune the drawings with illustrator and keep learning how to do that, and I mean not all drawings have to be animated, some are just drawings and illustrations that stay that way. And then there\u2019s the movie aspect of it, write a story with these characters and put them into scenes and make a movie out of it. There I can practice After Effects and Premiere Pro and how to compose and edit scenes.<\/p><p>So you see how so many passions flow into this and the cool thing is, I have all the tools already at my disposal and I can do it all by myself which is a big bonus. Now maybe I find someone who joins me on this journey so that we can tell bigger stories, but for starters, it will be just me and smaller stories.<\/p>"},"id":"9b5766d5-8f2e-44cf-82b1-40361744b591","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Workstation"},"id":"429d5c28-2596-40d4-94f1-77780e77a581","isHidden":false,"type":"heading"},{"content":{"text":"<p>The only issue with this plan is my infrastructure. My iMac is running fine for most of the stuff I do but for some extensive work, like with Character Animator or After Effects, it reaches its limits. So in order to have a fluid and hassle-free workflow, I need to update my workstation and now that I know what I plan on doing I know what my workstation needs.<\/p><p>I was always unsure if I should go mobile or stationary or both. With so many things I wanted to do I didn\u2019t know how much power I\u2019d need. If I just write stories, a simple MacBook would be enough, but if I want to edit a 4K video I would need either an iMac or a MacBook Pro.<\/p><p>So now that I know what to do I looked at all the options, only on the Mac side of the course. Obviously, I\u2019d love to have a MacBook Pro, but the 15\u201c is just a tad too big for carrying around and also very expensive, the 13\u201c on the other hand just doesn\u2019t have the horsepower to handle much. Then there\u2019s the additional Monitor I would want to use at home which also costs money. So I thought how often would I want to do extensive work somewhere else other than my desk? And I had to be honest with myself here and realize that probably never.<\/p><p>Then I looked at the iMacs and it\u2019s amazing what kind of package you get for that amount of money. Big 5k screen, faster processor, better graphics card and more storage than any of the laptops. So there was my answer. I would do all the editing work on the desk and stuff like drawing and writing I can do on the go on either my iPad Pro or my old MacBook Air.<\/p>"},"id":"5ad78d1b-454b-4cf8-b2a4-af955b0e718d","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Conclusion"},"id":"63e3ff25-8450-480c-972e-16bd6f50ca57","isHidden":false,"type":"heading"},{"content":{"text":"<p>I know some things I mentioned before but I wanted to dive deeper into my thought process. So I will practice these tools with simple animation while waiting for new iMacs to come out later this year and then replace my workstation with a new Powerhouse.<\/p><p>But wait, what about the weekly tasks? I will try to keep doing them, maybe with a focus on writing, drawing, and animation (last week's result was my own cartoon character) or maybe show the current status of bigger projects. I keep all doors open for now.<\/p>"},"id":"3f26b01e-47ba-469a-aded-b2d39d40f188","isHidden":false,"type":"text"}]
 
 ----
 
-Old: Sooooo the last two days and the respective blog posts were a bit off and so was I, still not feeling good but I try to keep it together for this entry where I try to further explain my realization and my plan on how to go forward.
+Linktext: 
 
-## Animated Videos
+----
 
-First, let me go further into details about the whole plan on doing animation and I might repeat things from previous blog posts, but bear with me. I always had the issue of trying to do too many things because I just love creating stuff. But lack of time and maybe even lack of interest of diving deeper (but mainly it’s lack of time) and trying to learn too many things at the same time kept me from really improving and finishing something.
+Linkurl: 
 
-So when I saw how easy as it has become to create animations I realized the possibility of combining a few of my passions into one field where the only limit of what I can do is my imagination. So with animation, I can keep drawing and improve my drawing. I can fine tune the drawings with illustrator and keep learning how to do that, and I mean not all drawings have to be animated, some are just drawings and illustrations that stay that way. And then there’s the movie aspect of it, write a story with these characters and put them into scenes and make a movie out of it. There I can practice After Effects and Premiere Pro and how to compose and edit scenes.
+----
 
-So you see how so many passions flow into this and the cool thing is, I have all the tools already at my disposal and I can do it all by myself which is a big bonus. Now maybe I find someone who joins me on this journey so that we can tell bigger stories, but for starters, it will be just me and smaller stories.
+Quotetext: 
 
-## Workstation
+----
 
-The only issue with this plan is my infrastructure. My iMac is running fine for most of the stuff I do but for some extensive work, like with Character Animator or After Effects, it reaches its limits. So in order to have a fluid and hassle-free workflow, I need to update my workstation and now that I know what I plan on doing I know what my workstation needs.
+Quotesource: 
 
-I was always unsure if I should go mobile or stationary or both. With so many things I wanted to do I didn’t know how much power I’d need. If I just write stories, a simple MacBook would be enough, but if I want to edit a 4K video I would need either an iMac or a MacBook Pro.
+----
 
-So now that I know what to do I looked at all the options, only on the Mac side of course. Obviously, I’d love to have a MacBook Pro, but the 15“ is just a tad too big for carrying around and also very expensive, the 13“ on the other hand just doesn’t have the horsepower to handle much. Then there’s the additional Monitor I would want to use at home which also costs money. So I thought how often would I want to do extensive work somewhere else other than my desk? And I had to be honest with myself here and realize that probably never.
+Statustext: 
 
-Then I looked at the iMacs and it’s amazing what kind of package you get for that amount of money. Big 5k screen, faster processor, better graphics card and more storage than any of the laptop. So there was my answer. I would do all the editing work on the desk and stuff like drawing and writing I can do on the go on either my iPad Pro or my old MacBook Air.
+----
 
-## Conclusion
-
-I know some things I mentioned before but I wanted to dive deeper into my thought process. So I will practice these tools with simple animation while waiting for new iMacs to come out later this year and then replace my workstation with a new Powerhouse.
-
-But wait, what about the weekly tasks? I will try to keep doing them, maybe with a focus on writing, drawing, and animation (last weeks result was my own cartoon character) or maybe show the current status of bigger projects. I keep all doors open for now.
+Old: 

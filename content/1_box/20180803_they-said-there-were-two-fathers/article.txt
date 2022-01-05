@@ -2,18 +2,6 @@ Title: They said there were two fathers...
 
 ----
 
-Text: 
-
-----
-
-Old:
-
-> They said there were two fathers. One above and one below. They lied. There was only ever the devil. And when you look up from the bottom, it was just his reflection, laughing back down at you.
-> 
-> _James Delos, Westworld S02E04_
-
-----
-
 Published: 2018-08-03
 
 ----
@@ -26,10 +14,6 @@ Format: quote
 
 ----
 
-Video: 
-
-----
-
 Category: Stuff to Share
 
 ----
@@ -39,3 +23,35 @@ Tags: Quote, TV Show
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: <p>They said there were two fathers. One above and one below. They lied. There was only ever the devil. And when you look up from the bottom, it was just his reflection, laughing back down at you.</p>
+
+----
+
+Quotesource: James Delos, Westworld S02E04
+
+----
+
+Statustext: 
+
+----
+
+Old: 
+
+----
+
+Video: 

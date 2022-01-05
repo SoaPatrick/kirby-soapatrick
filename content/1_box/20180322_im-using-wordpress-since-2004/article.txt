@@ -6,6 +6,18 @@ Published: 2018-03-22
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,18 +26,32 @@ Tags: Wordpress
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I seem to be on a nostalgia trip recently. First the look back on the <a href=\"\/box\/18-years-ago-today-i-started-agcn\/\" rel=\"noopener noreferrer\">18 Birthday of AGCN<\/a>, then looking back at <a href=\"\/box\/my-first-attempts-at-making-movies\/\" rel=\"noopener noreferrer\">old Movies I\u2019ve shot<\/a> with some friends and I also looked at other videos in different formats and listened to old cassette tapes. And today at work I talked about WordPress and that it\u2019s the most popular blogging platform in the world. That thought got me thinking about how much I actually work with WordPress.<\/p><p>With a little bit of research I found out that I\u2019ve been using it since 2004, actually, I\u2019ve been using WordPress since version 1.0. It\u2019s remarkable what has happened in the last 14 years, I slightly remember the old admin interface. I have a better memory of the old <a href=\"https:\/\/wordpress.org\/themes\/classic\/\" target=\"_blank\" rel=\"noopener noreferrer\">classic theme<\/a><\/p><p>I look forward to many more years with it, I still think it\u2019s one of the best CMS out there and for sure the best Blogging Platform.<\/p>"},"id":"a8234e26-edc0-411f-bd0a-718572dec0cc","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["wordpress-classic-theme.png"],"src":"","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"547f5cc4-47e5-4bd2-8991-626e61501b73","isHidden":false,"type":"image"}]
 
 ----
 
-Old: I seem to be on a nostalgia trip recently. First the look back on the [18 Birthday of AGCN](https://www.soapatrick.com/2018/03/18-years-ago-today-i-started-agcn/), then looking back at [old Movies I’ve shot](https://www.soapatrick.com/2018/03/my-first-attempts-at-making-movies/) with some friends and I also looked at other Videos in different formats and listened to old cassette tapes. And today at work I talked about Wordpress and that it’s the most popular blogging platform in the world. That thought got me thinking about how much I actually work with Wordpress.
+Linktext: 
 
-With a little bit of research I found out that I’ve been using it since 2004, actually, I’ve been using Wordpress since version 1.0. It’s remarkable what has happened in the last 14 years, I slightly remember the old admin interface. I have a better memory of the old [classic theme](https://wordpress.org/themes/classic/)
+----
 
-I look forward to many more years with it, I still think it’s one of the best CMS out there and for sure the best Blogging Platform.
+Linkurl: 
 
-![](https://www.soapatrick.com/wp-content/uploads/2018/03/wordpress-classic-theme-750x1620.png)
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

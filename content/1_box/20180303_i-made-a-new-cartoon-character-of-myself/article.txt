@@ -6,6 +6,18 @@ Published: 2018-03-03
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,16 +26,32 @@ Tags: Drawing, Soapatrick
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["cartoon-patrick.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/03\/cartoon-patrick-750x375.png","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"fe6ba3a7-71b4-442e-8be3-485d688713b8","isHidden":false,"type":"image"},{"content":{"text":"<p>I thought I could draw myself again with a clear goal in mind and \nthis is the result (so far). I once again started to draw on the iPad \nwith <a href=\"https:\/\/procreate.art\/\" rel=\"noreferrer noopener\" target=\"_blank\">Procreate<\/a>,\n then once I had a very good base (colors included) I thought I could go\n one step further this time and redraw it in Illustrator to give it this\n smooth look and have a vector image for lots of possibilities. I had \nsome problems first but the longer I worked on it, the faster and better\n I got (oh what a surprise). For easy redrawing, I used <a href=\"https:\/\/astropad.com\/\" rel=\"noreferrer noopener\" target=\"_blank\">Astropad<\/a>\n which allowed me to use the iPad as an input device for the mac and \nthen could draw the shapes with the Apple Pencil. Then I googled a bit \non how to animate that now in After Effects and then I discovered <a href=\"https:\/\/www.adobe.com\/products\/character-animator.html\" rel=\"noreferrer noopener\" target=\"_blank\">Adobe Character Animator<\/a>\n and I felt like I discovered something magical. So I played around with\n it a bit and there\u2019s a small learning curve but once you have your \ncharacter puppet you can do so much cool stuff.<\/p> <p>So I\u2019m not ready to show some animation but the goal is clear. But \none thing I noticed, my 8-year-old iMac is not suitable to really do \nextensive animation, probably have to really consider buying a new Mac \nsoon.<\/p>"},"id":"e5e5b2f0-1c1f-42ae-898e-13cae9ec0a18","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/03/cartoon-patrick-750x375.png)
+Linktext: 
 
-I thought I could draw myself again with a clear goal in mind and this is the result (so far). I once again started to draw on the iPad with (link: https://procreate.art/ text: Procreate target: _blank), then once I had a very good base (colors included) I thought I could go one step further this time and redraw it in Illustrator to give it this smooth look and have a vector image for lots of possibilities. I had some problems first but the longer I worked on it, the faster and better I got (oh what a surprise). For easy redrawing, I used (link: https://astropad.com/ text: Astropad target: _blank) which allowed me to use the iPad as an input device for the mac and then could draw the shapes with the Apple Pencil. Then I googled a bit on how to animate that now in After Effects and then I discovered (link: https://www.adobe.com/products/character-animator.html text: Adobe Character Animator target: _blank) and I felt like I discovered something magical. So I played around with it a bit and there's a small learning curve but once you have your character puppet you can do so much cool stuff.
+----
 
-So I'm not ready to show some animation but the goal is clear. But one thing I noticed, my 8-year-old iMac is not suitable to really do extensive animation, probably have to really consider buying a new Mac soon.
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

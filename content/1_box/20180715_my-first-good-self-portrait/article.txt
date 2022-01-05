@@ -6,6 +6,14 @@ Published: 2018-07-15
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,14 +22,32 @@ Tags: Challenge, Drawing
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["self-portrait.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/07\/self-portrait-1500x720.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"036f7487-ba17-4769-865c-410712aa9364","isHidden":false,"type":"image"},{"content":{"text":"<p>I\u2019ve been drawing now for 40 days in the <strong>100 Day Drawing Challenge<\/strong> and I\u2019m past the moment where I draw for just 10 minutes a long time ago. But who cares right? I\u2019m drawing that\u2019s what counts. Well on Friday I started with a new attempt on a self-portrait and more than <strong>two hours<\/strong> later I was done and really really really happy with it. It just looks like me. Well, there\u2019s also a speed drawing <strong>video<\/strong>. The ear was probably the hardest thing to draw, as you can see in the video by how often I changed it or completely redrawn it.<\/p>"},"id":"e705b3e5-52de-433c-9503-daade800dbcd","isHidden":false,"type":"text"},{"content":{"align":"content","location":"kirby","video":["self-portrait.mp4"],"url":"","caption":""},"id":"2384093d-5ef4-4620-b456-2447ee594fe7","isHidden":false,"type":"video"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/07/self-portrait-1500x720.jpg)
+Linktext: 
 
-I've been drawing now for 40 days in the **100 Day Drawing Challenge** and I'm passed the moment where I draw for just 10 minutes a long time ago. But who cares right? I'm drawing that's what counts. Well on Friday I started with a new attempt on a self-portrait and more than **two hours** later I was done and really really really happy with it. It just looks like me. Well, there's also a speed drawing **video**. The ear was probably the hardest thing to draw, as you can see in the video by how often I changed it or completely redrawn it.
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

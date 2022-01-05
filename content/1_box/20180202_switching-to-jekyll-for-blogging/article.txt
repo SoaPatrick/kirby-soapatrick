@@ -6,6 +6,18 @@ Published: 2018-02-02
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,20 +26,32 @@ Tags: Git, Soapatrick, Wordpress, Writing
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["wordpress-vs-jekyll.png"],"src":"","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"28ea4394-45bf-48c0-999e-c40b5865c038","isHidden":false,"type":"image"},{"content":{"text":"<p>I cleaned up my WordPress the last few days, got rid of plugins I didn\u2018t need anymore, removed all unnecessary themes and made some performance optimizations to the current theme. Through that process, I thought about how to improve it even further and how to speed up my writing process. The reason I asked myself is that right now, during commuting, I don\u2018t write my Blog Post drafts directly in WordPress but in <a href=\"http:\/\/www.bear-writer.com\/\" target=\"_blank\" rel=\"noopener noreferrer\">Bear<\/a>, the Markdown Notes App for Mac and iOS. I don\u2018t always want to make a hotspot and connect to WordPress and write in there. And yeah I know there\u2018s a WordPress app but I love the clean and simple look and feel of Bear. So once at home, I copy the content from Bear to WordPress and let <a href=\"https:\/\/www.grammarly.com\/\" target=\"_blank\" rel=\"noopener noreferrer\">Grammarly<\/a> correct any spelling or grammar mistakes before publishing it.<\/p><p>Now a much easier approach would be to publish the markdown \u201cFiles\u201d directly to WordPress. Well, <a href=\"https:\/\/ulyssesapp.com\/\" target=\"_blank\" rel=\"noopener noreferrer\">Ulysses<\/a> does that, but they\u2018ve recently changed their pricing model and it got a bit too expensive (but maybe I should check that out once again? Maybe I\u2018m missing out on something). So then I googled a bit and stumbled upon <a href=\"https:\/\/jekyllrb.com\/\" target=\"_blank\" rel=\"noopener noreferrer\">Jekyll<\/a>. Jekyll\u2018s approach is to commit markdown files to Github and then together with a template structure a simple and fast webpage is built. There\u2018s no database anymore because every markdown file is a Page (or Blog Post).<\/p><p>For simple pages, this is a genius approach but I\u2018m not sure how I would feel leaving WordPress behind. I\u2018ve come so accustomed to it and I love the flexibility of just adding plugins if I need something special, maybe even open up comments one day or I don\u2018t know what the future holds. But I think when it comes to speed, I did make some improvements with last week's optimization and this theme in general. And I will continue the trend of avoiding any CSS frameworks or jQuery. With Flexbox or CSS Grid there\u2018s really no need for a Grid Framework anymore and jQuery can be a bloated framework if you just use it out of convenience, vanilla JavaScript is sometimes the better approach.<\/p><p>So I will stick with WordPress and instead try to minimize dependencies on external sources. That sounds like a good plan, for now.<\/p>"},"id":"78842447-cb64-46f6-a32a-cdb49642b536","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/02/wordpress-vs-jekyll-750x375.png)
+Linktext: 
 
-I cleaned up my WordPress the last few days, got rid of plugins I didn‘t need anymore, removed all unnecessary themes and made some performance optimizations to the current theme. Through that process, I thought about how to improve it even further and how to speed up my writing process. The reason I asked myself is because right now, during commuting, I don‘t write my Blog Post drafts directly in WordPress but in (link: http://www.bear-writer.com/ text: Bear target: _blank), the Markdown Notes App for Mac and iOS. I don‘t always want to make a hotspot and connect to WordPress and write in there. And yeah I know there‘s a WordPress app but I love the clean and simple look and feel of Bear. So once at home, I copy the content from Bear to WordPress and let (link: https://www.grammarly.com/ text: Grammarly target: _blank) correct any spelling or grammar mistakes before publishing it.
+----
 
-Now a much easier approach would be to publish the markdown "Files" directly to WordPress. Well, (link: https://ulyssesapp.com/ text: Ulysses target: _blank) does that, but they‘ve recently changed their pricing model and it got a bit too expensive (but maybe I should check that out once again? Maybe I‘m missing out on something). So then I googled a bit and stumbled upon (link: https://jekyllrb.com/ text: Jekyll target: _blank). Jekyll‘s approach is to commit markdown files to Github and then together with a template structure a simple and fast webpage is built. There‘s no database anymore because every markdown file is a Page (or Blog Post).
+Linkurl: 
 
-For simple pages, this is a genius approach but I‘m not sure how I would feel leaving WordPress behind. I‘ve come so accustomed to it and I love the flexibility of just adding plugins if I need something special, maybe even open up comments one day or I don‘t know what the future holds. But I think when it comes to speed, I did make some improvements with last weeks optimization and this theme in general. And I will continue the trend of avoiding any CSS frameworks or jQuery. With Flexbox or CSS Grid there‘s really no need for a Grid Framework anymore and jQuery can be a bloated framework if you just use it out of convenience, vanilla JavaScript is sometimes the better approach.
+----
 
-So I will stick with WordPress and instead try to minimize dependencies on external sources. That sounds like a good plan, for now.
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

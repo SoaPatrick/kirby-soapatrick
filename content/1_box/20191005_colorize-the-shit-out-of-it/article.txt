@@ -6,6 +6,14 @@ Published: 2019-10-05
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,24 +22,32 @@ Tags: Theme
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I couldn\u2019t really keep myself from further work on this theme but it was so much fun to do this. Now you can not only switch between <strong>Light<\/strong> and <strong>Dark<\/strong> mode, no, now you can also choose your own <strong>color theme<\/strong>.<\/p><p>In the Settings window, you can choose between <strong>6 colors<\/strong> and of course, that color gets saved in your browser's local storage, so when you come back later, the color and the dark\/light mode are the same as last time.<\/p><p>The Settings window is also <strong>draggable<\/strong>, meaning you can move the window around with your mouse (touch is not supported).<\/p><p>With all those changes one could assume the page speed is suffering from all that, but I also did extensive work under the hood. In my last update I mentioned caching and performance so let me elaborate that a bit.<\/p><p>All the pages get rendered and saved as static html files, meaning no PHP server-side rendering is done instead you get a pure HTML file which makes the site really really fast. Then I also outsourced all the images to a CDN server and also used the new FontAwesome Kit function, which loads the icons from a CDN as well and only the ones in use.<\/p><p>All this leads to a Google Page Speed of friggin\u2019 <strong>95 on Mobile and 99 on Desktop<\/strong>. It may not mean much for you, but for me, this is a spectacular score (I was starting around 40 before I really invested in optimizing the site).<\/p><p>So hopefully I can now call this theme done and move on to other stuff.<\/p>"},"id":"b74da7e2-96ab-4688-ab4b-8be466ee3496","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I couldn't really keep myself from further work on this theme but it was so much fun to do this. Now you can not only switch between **Light** and **Dark** mode, no, now you can also choose your own **color theme**.
+Linktext: 
 
-In the Settings window, you can choose between **6 colors** and of course that color gets saved in your browsers local storage, so when you come back later, the color and the dark/light mode are the same as last time.
+----
 
-The Settings window is also **draggable**, meaning you can move the window around with your mouse (touch is not supported).
+Linkurl: 
 
-With all those changes one could assume the page speed is suffering from all that, but I also did extensive work under the hood. In my last update I mentioned caching and performance so let me elaborate that a bit.
+----
 
-All the pages get rendered and saved as static html files, meaning no PHP server-side rendering is done instead you get a pure HTML file which makes the site really really fast. Then I also outsourced all the images to a CDN server and also used the new FontAwesome Kit function, which loads the icons from a CDN as well and only the ones in use.
+Quotetext: 
 
-All this leads to a Google Page Speed of friggin' **95 on Mobile and 99 on Desktop**. It may not mean much for you, but for me, this is a spectacular score (I was starting around 40 before I really invested in optimizing the site).
+----
 
-So hopefully I can now call this theme done and move on to other stuff.
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

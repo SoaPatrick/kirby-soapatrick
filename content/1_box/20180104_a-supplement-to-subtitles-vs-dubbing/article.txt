@@ -6,6 +6,18 @@ Published: 2018-01-04
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,24 +26,32 @@ Tags: Movie
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["subtitles-vs-dubbing_02.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/01\/subtitles-vs-dubbing_02-750x375.jpg","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"6d76edb9-6d43-47b7-b02d-021c90233d99","isHidden":false,"type":"image"},{"content":{"text":"<p>After <a href=\"\/box\/subtitles-vs-dubbed-movies\/\" rel=\"noopener noreferrer\">yesterday's<\/a> blog entry I decided to check the yearly report from <a href=\"https:\/\/www.procinema.ch\/de\/statistics\/factsfigures\/\" target=\"_blank\" rel=\"noopener noreferrer\">ProCinema<\/a> and see if they have any stats on original versus dubbed Movies.<\/p><p>What I found are two stats actually, the first one shows how many tickets were sold throughout all of Switzerland for Original Version, German Version, French Version and Italien Version. Now this shows more movie tickets were sold for the Original Versions. The problem with this is I don\u2019t know how the admissions for Original Versions were split over the three language Regions because every Region has their part of sold tickets for Original Content, but nonetheless, this is an interesting statistic.<\/p>"},"id":"99c88f04-99bb-4a76-8db6-6be70b2d3660","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["admissions-language-version.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/01\/admissions-language-version-750x443.png","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"daa4c2a3-bb8d-4c51-9f71-4a367d0b3523","isHidden":false,"type":"image"},{"content":{"text":"<p>Another graph shows how the ratio between admissions for Original and\n Synchronized (or Dubbed) Version has changed over the last 13 Years. \nWhile in 2003 more than 50% of all tickets were sold for Original Movies\n now it\u2019s the other way round. But the really interesting graphs are the\n three small ones below. The German Region has actually seen a drop of \n30% of Original Version submissions in Key Cities, compared the French \nRegion (which almost stayed the same) and the Italien Region (which \nactually has seen a small rise).<\/p>"},"id":"4f857aae-ec31-43ca-b8ea-c797d81d4c39","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["admissions-original-vs-dubbed-graphs.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/01\/admissions-original-vs-dubbed-graphs-750x481.png","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"49b30aec-b1d5-4ffc-967b-8332cbb6669a","isHidden":false,"type":"image"},{"content":{"text":"<p>So why is that? Is the German Speaking population just not into \nreading at the cinema? I somehow find that discrepancy between the \ndifferent Regions troubling and I for one would love to know why. Maybe \nthere will be a third Blog entry about this subject, when I\u2019ve found \nsome answers to my questions, as for now I just leave it like this and \nlet you guys make up your own mind.<\/p>"},"id":"c107cf02-28f0-42c3-a029-02d882c0c81c","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/01/subtitles-vs-dubbing_02-750x375.jpg)
+Linktext: 
 
-After (link: https://www.soapatrick.com/2018/01/subtitles-vs-dubbed-movies/ text: yesterdays target: _blank) blog entry I decided to check the yearly report from (link: https://www.procinema.ch/de/statistics/factsfigures/ text: ProCinema target: _blank) and see if they have any stats on original versus dubbed Movies.
+----
 
-What I found are two stats actually, the first one shows how many tickets were sold throughout all of Switzerland for Original Version, German Version, French Version and Italien Version. Now this shows more movie tickets were sold for the Original Versions. The problem with this is I don't know how the admissions for Original Versions were split over the three language Regions because every Region has their part of sold tickets for Original Content, but nonetheless, this is an interesting statistic.
+Linkurl: 
 
-![](https://www.soapatrick.com/wp-content/uploads/2018/01/admissions-language-version-750x443.png)
+----
 
-Another graph shows how the ratio between admissions for Original and Synchronized (or Dubbed) Version has changed over the last 13 Years. While in 2003 more than 50% of all tickets were sold for Original Movies now it's the other way round. But the really interesting graphs are the three small ones below. The German Region has actually seen a drop of 30% of Original Version submissions in Key Cities, compared the French Region (which almost stayed the same) and the Italien Region (which actually has seen a small rise).
+Quotetext: 
 
-![](https://www.soapatrick.com/wp-content/uploads/2018/01/admissions-original-vs-dubbed-graphs-750x481.png)
+----
 
-So why is that? Is the German Speaking population just not into reading at the cinema? I somehow find that discrepancy between the different Regions troubling and I for one would love to know why. Maybe there will be a third Blog entry about this subject, when I've found some answers to my questions, as for now I just leave it like this and let you guys make up your own mind.
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

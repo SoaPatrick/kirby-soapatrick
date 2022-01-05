@@ -6,6 +6,18 @@ Published: 2018-05-01
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,18 +26,32 @@ Tags: Drawing, Movie, Review
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["avengers-infinity-war.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2018\/05\/avengers-infinity-war-1500x720.png","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"b95c85f3-fc76-4aa5-99d5-4c1f4814f19c","isHidden":false,"type":"image"},{"content":{"text":"<p><strong>Avengers Infinity War<\/strong> is not really a movie, it\u2019s an event, an event 10 years in the making. I think Infinity War is best described as the <strong>Season Finale<\/strong> of Season 3 (or Phase Three when speaking in Marvel Cinematic Universe terms). So the anticipation was high and the movie delivered on all fronts. It\u2019s a 2 hours and 40 minutes movie and there is no slow moment or a scene I think could be cut. It\u2019s an amazing thrill ride with a gut-punch ending. I\u2019m not going into details here and this is not supposed to be a review, I\u2019m not qualified enough to really review a movie.<\/p><p>So what is this then? Well, a reason to showcase my latest work and express how I felt watching the movie. The movie really shocked me and it took me some time to process what I saw on both an emotional and spectacle level. So I sat down today and decided to draw the star of the movie: <strong>Thanos<\/strong>. There\u2019s also an idea for a short comic strip so that one might follow soon.<\/p><p>So if you\u2019ve seen your share of Marvel movies and you liked them, go check it out, preferably on a big screen. It\u2019s an event you can\u2019t miss. Watching this nice put-together <a href=\"https:\/\/youtu.be\/U5sb8LBeaQQ\" target=\"_blank\" rel=\"noopener noreferrer\">summary<\/a> helps to catch you up on all the important things for Infinity War.<\/p>"},"id":"92a19452-5ec4-4db4-926e-fd8753e71a97","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2018/05/avengers-infinity-war-1500x720.png)
+Linktext: 
 
-**Avengers Infinity War** is not really a movie, it's an event, an event 10 years in the making. I think Infinity War is best described as the **Season Finale** of Season 3 (or Phase Three when speaking in Marvel Cinematic Universe terms). So the anticipation was high and the movie delivered on all fronts. It's a 2 hours and 40 minutes movie and there is no slow moment or a scene I think could be cut. It's an amazing thrill ride with a gut punch ending. I'm not going into details here and this is not supposed to be a review, I'm not qualified enough to really review a movie.
+----
 
-So what is this then? Well, a reason to showcase my latest work and express how I felt watching the movie. The movie really shocked me and it took me some time to process what I saw on both an emotional and spectacle level. So I sat down today and decided to draw the star of the movie: **Thanos**. There's also an idea for a short comic strip so that one might follow soon.
+Linkurl: 
 
-So if you've seen your share of Marvel movies and you liked them, go check it out, preferably on a big screen. It's an event you can't miss. Watching this nice put together (link: https://youtu.be/U5sb8LBeaQQ text: summary target: _blank) helps to catch you up on all the important things for Infinity War.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

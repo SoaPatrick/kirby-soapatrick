@@ -6,6 +6,14 @@ Published: 2019-04-05
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,18 +22,32 @@ Tags: Stats
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>For work, I had to dive into <strong>Google Tag Manager<\/strong> which was for me a completely new area. It\u2019s a complex area but I think I slowly get the hang of it, even though it\u2019s not really my favorite subject but I thought in order to get even more out of it I could implement it here on my own website and play around with it.<\/p><p>It\u2019s amazing what can be tracked these days. What someone <strong>clicks<\/strong>, how far people <strong>scroll<\/strong>, what text they <strong>copy<\/strong>, how long they <strong>stay<\/strong> on an individual page and a lot more. Now I know that <strong>privacy<\/strong> is a big issue these days and don\u2019t worry, <strong>IF<\/strong> I start tracking all those things, I would let my few readers know. Then I would of course also <strong>anonymize<\/strong> the IP Address. I still have to do some research about an <strong>Opt-Out<\/strong> option.<\/p><p>But mostly I would be interested here in <strong>scrolling<\/strong> behavior (after all the page is rather long and it would be interesting to see how far down people scroll). Then of course the ratio between <strong>Mobile<\/strong> and <strong>Desktop<\/strong> users and what people click.<\/p><p>As I said, when the time comes I will write down in great detail what is being tracked, and maybe even explain why. So I will keep you guys posted on how this project is developing.<\/p>"},"id":"642acd05-26a4-4ffb-ad3c-2aa594702d41","isHidden":false,"type":"text"}]
 
 ----
 
-Old: For work, I had to dive into **Google Tag Manager** which was for me a completely new area. It's a complex area but I think I slowly get the hang of it, even though it's not really my favorite subject but I thought in order to get even more out of it I could implement it here on my own website and play around with it.
+Linktext: 
 
-It's amazing what can be tracked these days. What someone **clicks**, how far people **scroll**, what text they **copy**, how long they **stay** on an individual page and a lot more. Now I know that **privacy** is a big issue these days and don't worry, **IF** I start tracking all those things, I would let my few readers know. Then I would of course also **anonymize** the IP Address. I still have to do some research about an **Opt-Out** option.
+----
 
-But mostly I would be interested here in **scrolling** behaviour (after all the page is rather long and it would be interesting to see how far down people scroll). Then of course the ratio between **Mobile** and **Desktop** users and what people click.
+Linkurl: 
 
-As I said, when the time comes I will write down in great detail what is being tracked, and maybe even explain why. So I will keep you guys posted on how this project is developing.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

@@ -6,6 +6,18 @@ Published: 2018-03-21
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,14 +26,32 @@ Tags: Movie, Short
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>My uncle bought himself an old camcorder on eBay to play and transfer Video 8 and HI8 tapes. I too have four old tapes and yesterday I watched what was actually on these tapes because I had no idea. To my surprise, there are old recordings of me and some friends <em>trying<\/em> to shoot movies. It was fun to see this rare footage and I look forward to actually transferring that to my Mac and maybe, MAYBE even finally editing some of these to actual \u201cshort movies*.<\/p><p>What I noticed while watching the footage was that we never really cared how good the scripts were (if we even had one) but when we had a stupid idea, we just held the camera and started shooting. Of course, the outcome isn\u2018t really good but that was beside the point, we just had fun doing stuff. Sometimes, I kinda miss this feeling but I do feel like I\u2018m getting back to that with writing daily blog entries and drawing something from time to time, I just love the actual process and don\u2019t care that much about the outcome.<\/p>"},"id":"dfb79b89-5c64-4224-bb9e-cd5a8062406e","isHidden":false,"type":"text"}]
 
 ----
 
-Old: My uncle bought himself an old camcorder on eBay to play and transfer Video 8 and HI8 tapes. I too have four old tapes and yesterday I watched what was actually on these tapes because I had no Idea. To my surprise, there are old recordings of me and some friends _trying_ to shoot movies. It was fun to see this rare footage and I look forward to actually transfer that to my Mac and maybe, MAYBE even finally edit some of these to actual "short movies\*.
+Linktext: 
 
-What I noticed while watching the footage was that we never really cared how good the scripts were (if we even had one) but when we had a stupid idea, we just held the camera and started shooting. Of course, the outcome isn‘t really good but that was beside the point, we just had fun doing stuff. Sometimes, I kinda miss this feeling but I do feel like I‘m getting back to that with writing daily blog entries and drawing something from time to time, I just love the actual process and don't care that much about the outcome.
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

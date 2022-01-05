@@ -2,18 +2,6 @@ Title: It's not that I have something to hide. I have nothing I want you to see
 
 ----
 
-Text: 
-
-----
-
-Old:
-
-> It's not that I have something to hide. I have nothing I want you to see
-> 
-> _The Girl, Anon_
-
-----
-
 Published: 2018-05-07
 
 ----
@@ -22,11 +10,11 @@ Cover:
 
 ----
 
-Format: quote
+Files: 
 
 ----
 
-Video: 
+Format: quote
 
 ----
 
@@ -39,3 +27,35 @@ Tags: Movie, Quote
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: <p>It's not that I have something to hide. I have nothing I want you to see</p>
+
+----
+
+Quotesource: The Girl, Anon
+
+----
+
+Statustext: 
+
+----
+
+Old: 
+
+----
+
+Video: 

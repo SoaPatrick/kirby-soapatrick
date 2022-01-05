@@ -6,6 +6,14 @@ Published: 2019-05-05
 
 ----
 
+Cover: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,18 +22,32 @@ Tags: Theme
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>Now that was a <strong>productive<\/strong> day, I kinda feel sad though that I spend the whole day in front of the computer, but when I see what I achieved I\u2019m kinda happy.<\/p><p>What I mentioned <a href=\"\/box\/why-the-girly-theme\/\" rel=\"noopener noreferrer\">yesterday<\/a> I did today. There\u2019s a new Icon in the navigation () which allows you to switch between a <strong>light<\/strong> or <strong>dark<\/strong> theme<\/p><p>I achieved that by using <strong>CSS Variables<\/strong>. There isn\u2019t a second stylesheet that gets loaded but I change <strong>three<\/strong> CSS Variables through Javascript and store that in <strong>HTML Local Storage<\/strong> so that the look keeps when you cruise around the website.<\/p><p>Then I added a WordPress Customization to my Theme, which allows me to change the Color through a <strong>Color Picker<\/strong>. Same with the dark\/light theme, all I do is change one single<strong> CSS Variable<\/strong> to change the color of the whole Page. The idea, I think, is to have different sections use different colors, but that\u2019s the plan for another day.<\/p>"},"id":"0f1ece4a-e744-4fbb-a7be-5ebf82906d6e","isHidden":false,"type":"text"}]
 
 ----
 
-Old: Now that was a **productive** day, I kinda feel sad though that I spend the whole day in front of the computer, but when I see what I achieved I'm kinda happy.
+Linktext: 
 
-What I mentioned (link: https://www.soapatrick.com/2019/05/why-the-girly-theme/ text: yesterday target: _blank) I did today. There's a new Icon in the navigation () which allows you to switch between a **light** or **dark** theme
+----
 
-I achieved that by using **CSS Variables**. There isn't a second stylesheet which gets loaded but I change **three** CSS Variables through Javascript and store that in **HTML Local Storage** so that the look keeps when you cruise around the website.
+Linkurl: 
 
-Then I added a Wordpress Customization to my Theme, which allows me to change the Color through a **Color Picker**. Same with the dark/light theme, all I do is change one single **CSS Variable** to change the color of the whole Page. The idea, I think, is to have different sections use different colors, but that's the plan for another day.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

@@ -1,0 +1,9 @@
+Alt: Cartoon Patrick
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
