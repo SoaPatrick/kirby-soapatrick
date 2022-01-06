@@ -6,6 +6,18 @@ Published: 2016-05-25
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,34 +26,32 @@ Tags: Movie, Review
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["movie_captain-america-civil-war_01.jpg"],"src":"","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"83ed5583-d8a3-4391-b9c3-d93619889395","isHidden":false,"type":"image"},{"content":{"text":"<p><em>Captain America: Civil War<\/em> startet die dritte Phase des Marvel Cinematic Universe und dies gleich mit einem Kracher. Die Messlatte die <em>Winter Soldier<\/em> gelegt hatte war hoch, doch Civil War meistert die H\u00fcrde, wenn auch knapp.<\/p> <p>Im Jahre 2008 hat <em>Iron Man<\/em>, keiner der bekannten \nSuperhelden, das Universum mit einem Urknall ins Leben gerufen und was \nfolgte ist eine Erfolgsgeschichte die mittlerweile jedes Studio versucht\n zu reproduzieren, mit unterschiedlichem Erfolg. Marvel hingegen geht \nerfolgreich seinen Weg weiter und landet mit einer beeindruckender \nRegelm\u00e4ssigkeit einen erfolgreicher Film nach dem anderen.<\/p> <p>Der beste Marvel Film f\u00fcr mich ist und bleibt <em>The Avengers<\/em>, der Inbegriff einer Comic-Verfilmung: pure Unterhaltung. <em>Captain America: Civil War<\/em> geht in eine andere Richtung, was nichts schlechtes sein muss, aber aus einer rein unterhalterischen Sichtweise ist <em>The Avengers<\/em> der bessere Film. <em>Civil War<\/em>, wie auch <em>Winter Soldier<\/em>\n davor, beeindruckt vielmehr durch die Ernsthaftigkeit und den Mut einen\n Marvel Film zu sein der mehr ist als nur ein Comic Film.<\/p> <p>Doch genug drumrum geschrieben. <em>Civil War<\/em> ist ein richtig \nguter Film, der jedoch viel Vorwissen voraussetzt um auch alle \nStorypoints zu verstehen. Aber ist dies der Fall, so wird einem eine \nMenge geboten f\u00fcrs Geld. Die Geschichte setzt dort an wo <em>Winter Soldier<\/em> und <em>Age of Ultron<\/em> aufgeh\u00f6rt haben und auch wenn<em> Civil War<\/em>\n auf dem Poster steht und Iron Man gross abgebildet ist, so ist es im \nKern ein Captain America Film und ein Film \u00fcber Freundschaft, Loyalit\u00e4t \nund Betrug.<\/p> <p>Doch da hat es noch diese andere Geschichte bei der viel auf dem \nSpiel steht. Die Zeit des Spr\u00fccheklopfens ist vorbei und das Duo Chris \nEvans &amp; Robert Downey Jr. liefern sich ein Duell auf h\u00f6chstem \nNiveau. Beide haben ihre Standpunkte was den Konflikt des Films angeht \nund ich kann beide Seiten nachvollziehen und ehrlich gesagt f\u00e4llt es mir\n schwer mich f\u00fcr eine Seite zu entscheiden und das macht die Problematik\n so glaubhaft.<\/p> <p>Ein Highlight des Filmes ist die oft erw\u00e4hnte Flughafenszene, der \nShowdown aller Comic Figuren, und es ist ein cineastischer Leckerbissen \nwelcher f\u00fcr alle was zu bieten hat. Die Show stehlen jedoch Spider-Man \nund Ant-Man. Alleine ihre Auftritte sind das Eintrittsgeld wert. Ist der\n Showdown des 2. Aktes an Gr\u00f6sse nicht zu \u00fcberbieten, so ist das Finale \nklein und pers\u00f6nlich und f\u00fcr mich seit langem das beste Finale eines \nMarvel Filmes da man bewusst auf ein MEGA Showdown verzichtet.<\/p>"},"id":"98d53233-cc79-4561-bd7b-07ebf743e876","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["movie_captain-america-civil-war_02.png"],"src":"","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"506c8f95-e21d-4bc7-82b9-1d98bbf19092","isHidden":false,"type":"image"},{"content":{"text":"<p>Der Film hat nebst all seinen St\u00e4rken jedoch auch ein paar \nSchwachpunkte. So ist der B\u00f6sewicht leider wieder einmal ein \nSchwachpunkt in einem Marvel Film, und ich stelle mir die Frage ob er \n\u00fcberhaupt notwendig ist, denn auch ohne einen B\u00f6sewicht gibt es genug \nKonfliktpotential. Der erste Akt hat nebst einer sehr nerv\u00f6sen und \nwackligen Actionszene auch einige L\u00e4ngen aber nach rund 30 Minuten nimmt\n der Film so richtig fahrt auf und bleibt auf sehr hohem Niveau.<\/p> <p>Um mich ein wenig mehr mit dem Thema auseinanderzusetzen, habe ich \nbeschlossen die Comic Reihe Civil War zu lesen und war \u00e4usserst angetan \nvon der Geschichte. Die Gr\u00f6sse des Konflikts ist etwas was in keinem \nFilm funktionieren w\u00fcrde und eher in einer Serie oder Mini-Serie \naufgezeigt werden k\u00f6nnte. Auch die unglaubliche Ansammlung von \nSuperhelden w\u00fcrde jeden Film sprengen. Aber es sind doch gewisse \nElemente im Film wiederzufinden. So ist es auch im Comic eine Frage von \nIdealen mit zwei Seiten welche von Captain America und Iron Man in \nF\u00fchrungsrollen repr\u00e4sentiert werden. Auch der Zentrale Grund f\u00fcr den \nKrieg ist sowohl im Film wie auch im Comic der selbe, wird jedoch im \nComic auf andere Weise herbeigef\u00fchrt und mit einem schrecklicheren \nEreignis.<\/p> <p>Aber nun wieder zur\u00fcck zum Film. Ich kann jedem empfehlen <em>Captain America Civil War<\/em> auf\n der Grossleinwand zu sehen. F\u00fcr jeden Marvel Fan ist es schlicht ein \nTraum all diese Figuren auf der Grossleinwand vereint zu sehen und das \nin einem Film der auch ernste Themen anspricht und dabei eine \u00e4usserst \ngute Figur macht. Das Niveau von Superhelden Filmen wurde erneut \nangehoben.<\/p>"},"id":"6f695883-3375-45ff-80f3-f5a56c90d017","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2016/04/movie_captain-america-civil-war_04-750x375.jpg)
+Linktext: 
 
-_Captain America: Civil War_ startet die dritte Phase des Marvel Cinematic Universe und dies gleich mit einem Kracher. Die Messlatte die _Winter Soldier_ gelegt hatte war hoch, doch Civil War meistert die Hürde, wenn auch knapp.
+----
 
-Im Jahre 2008 hat _Iron Man_, keiner der bekannten Superhelden, das Universum mit einem Urknall ins Leben gerufen und was folgte ist eine Erfolgsgeschichte die mittlerweile jedes Studio versucht zu reproduzieren, mit unterschiedlichem Erfolg. Marvel hingegen geht erfolgreich seinen Weg weiter und landet mit einer beeindruckender Regelmässigkeit einen erfolgreicher Film nach dem anderen.
+Linkurl: 
 
-Der beste Marvel Film für mich ist und bleibt _The Avengers_, der Inbegriff einer Comic-Verfilmung: pure Unterhaltung. _Captain America: Civil War_ geht in eine andere Richtung, was nichts schlechtes sein muss, aber aus einer rein unterhalterischen Sichtweise ist _The Avengers_ der bessere Film. _Civil War_, wie auch _Winter Soldier_ davor, beeindruckt vielmehr durch die Ernsthaftigkeit und den Mut einen Marvel Film zu sein der mehr ist als nur ein Comic Film.
+----
 
-Doch genug drumrum geschrieben. _Civil War_ ist ein richtig guter Film, der jedoch viel Vorwissen voraussetzt um auch alle Storypoints zu verstehen. Aber ist dies der Fall, so wird einem eine Menge geboten fürs Geld. Die Geschichte setzt dort an wo _Winter Soldier_ und _Age of Ultron_ aufgehört haben und auch wenn _Civil War_ auf dem Poster steht und Iron Man gross abgebildet ist, so ist es im Kern ein Captain America Film und ein Film über Freundschaft, Loyalität und Betrug.
+Quotetext: 
 
-Doch da hat es noch diese andere Geschichte bei der viel auf dem Spiel steht. Die Zeit des Sprücheklopfens ist vorbei und das Duo Chris Evans & Robert Downey Jr. liefern sich ein Duell auf höchstem Niveau. Beide haben ihre Standpunkte was den Konflikt des Films angeht und ich kann beide Seiten nachvollziehen und ehrlich gesagt fällt es mir schwer mich für eine Seite zu entscheiden und das macht die Problematik so glaubhaft.
+----
 
-Ein Highlight des Filmes ist die oft erwähnte Flughafenszene, der Showdown aller Comic Figuren, und es ist ein cineastischer Leckerbissen welcher für alle was zu bieten hat. Die Show stehlen jedoch Spider-Man und Ant-Man. Alleine ihre Auftritte sind das Eintrittsgeld wert. Ist der Showdown des 2. Aktes an Grösse nicht zu überbieten, so ist das Finale klein und persönlich und für mich seit langem das beste Finale eines Marvel Filmes da man bewusst auf ein MEGA Showdown verzichtet.
+Quotesource: 
 
-![Die Flughafen Schlacht ist eine der besten Comic-Action Szene aller Zeiten](https://www.soapatrick.com/wp-content/uploads/2016/04/movie_captain-america-civil-war_05-750x394.png)
+----
 
-Die Flughafen Schlacht ist vielleicht eine der besten Comic-Action Szene aller Zeiten
+Statustext: 
 
-Der Film hat nebst all seinen Stärken jedoch auch ein paar Schwachpunkte. So ist der Bösewicht leider wieder einmal ein Schwachpunkt in einem Marvel Film, und ich stelle mir die Frage ob er überhaupt notwendig ist, denn auch ohne einen Bösewicht gibt es genug Konfliktpotential. Der erste Akt hat nebst einer sehr nervösen und wackligen Actionszene auch einige Längen aber nach rund 30 Minuten nimmt der Film so richtig fahrt auf und bleibt auf sehr hohem Niveau.
+----
 
-Um mich ein wenig mehr mit dem Thema auseinanderzusetzen, habe ich beschlossen die Comic Reihe Civil War zu lesen und war äusserst angetan von der Geschichte. Die Grösse des Konflikts ist etwas was in keinem Film funktionieren würde und eher in einer Serie oder Mini-Serie aufgezeigt werden könnte. Auch die unglaubliche Ansammlung von Superhelden würde jeden Film sprengen. Aber es sind doch gewisse Elemente im Film wiederzufinden. So ist es auch im Comic eine Frage von Idealen mit zwei Seiten welche von Captain America und Iron Man in Führungsrollen repräsentiert werden. Auch der Zentrale Grund für den Krieg ist sowohl im Film wie auch im Comic der selbe, wird jedoch im Comic auf andere Weise herbeigeführt und mit einem schrecklicheren Ereignis.
-
-Aber nun wieder zurück zum Film. Ich kann jedem empfehlen _Captain America Civil War_ auf der Grossleinwand zu sehen. Für jeden Marvel Fan ist es schlicht ein Traum all diese Figuren auf der Grossleinwand vereint zu sehen und das in einem Film der auch ernste Themen anspricht und dabei eine äusserst gute Figur macht. Das Niveau von Superhelden Filmen wurde erneut angehoben.
+Old: 

@@ -1,0 +1,9 @@
+Alt: Soap v6b
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

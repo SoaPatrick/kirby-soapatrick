@@ -10,11 +10,11 @@ Cover:
 
 ----
 
-Format: quote
+Files: 
 
 ----
 
-Video: 
+Format: quote
 
 ----
 
@@ -50,11 +50,19 @@ Quotesource: Mare, Mare of Easttown S01E05
 
 ----
 
-Status: 
+Statustext: 
 
 ----
 
-Old: asdasdasd
+Old: 
+
+----
+
+Video: 
+
+----
+
+Status: 
 
 ----
 

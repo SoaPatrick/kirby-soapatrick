@@ -6,7 +6,11 @@ Published: 2012-10-10
 
 ----
 
-Category: Thoughts on stuff
+Cover: 
+
+----
+
+Files: 
 
 ----
 
@@ -14,10 +18,40 @@ Format: standard
 
 ----
 
-Cover: 
+Category: Thoughts on stuff
 
 ----
 
-Old: It seems that the page is dead once again but that's not the case, it was just a very stressfull time recently and with school and private life there wasn't much time to think about all those projects.
+Tags: Personal
 
-But I slowly arrive in this semester and find more time to do my things again. I'm not fully there yet but soon.
+----
+
+Project: 
+
+----
+
+Text: [{"content":{"text":"<p>It seems that the page is dead once again but that\u2019s not the case, it was just a very stressful time recently and with school and private life there wasn\u2019t much time to think about all those projects.<\/p><p>But I slowly arrive this semester and find more time to do my things again. I\u2019m not fully there yet but soon.<\/p>"},"id":"da17b7b8-cbbf-4015-a67f-a2a031cd42a0","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

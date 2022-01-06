@@ -26,7 +26,7 @@ Project:
 
 ----
 
-Text: [{"content":{"location":"kirby","image":["pepper.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2020\/04\/pepper-1500x844.jpg?_t=1587750107","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"aec0d903-7f82-45c2-8516-e8a746b6ba30","isHidden":false,"type":"image"},{"content":{"text":"<p>I\u2019ve created a blender version of something I truly hate but it was \ngood practice to test out some stuff. I actually tried to make an \nanimation where dozens of peppers are rolling down the street, but after\n using 20 my Mac Mini wasn\u2019t responding anymore.<\/p> <p>I\u2019ve noticed that as soon as I play around with animation and a few \nobjects, my Mac is not playing nice anymore, so I guess I focus on still\n images instead for the time being.<\/p>"},"id":"f931677f-4fcf-4a9a-a1ad-b85bcabd4936","isHidden":false,"type":"text"}]
+Text: [{"content":{"location":"kirby","image":["pepper.jpg"],"src":"","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"aec0d903-7f82-45c2-8516-e8a746b6ba30","isHidden":false,"type":"image"},{"content":{"text":"<p>I\u2019ve created a blender version of something I truly hate but it was \ngood practice to test out some stuff. I actually tried to make an \nanimation where dozens of peppers are rolling down the street, but after\n using 20 my Mac Mini wasn\u2019t responding anymore.<\/p> <p>I\u2019ve noticed that as soon as I play around with animation and a few \nobjects, my Mac is not playing nice anymore, so I guess I focus on still\n images instead for the time being.<\/p>"},"id":"f931677f-4fcf-4a9a-a1ad-b85bcabd4936","isHidden":false,"type":"text"}]
 
 ----
 

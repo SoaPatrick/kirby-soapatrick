@@ -1,0 +1,9 @@
+Alt: Soap Factory Stamp
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

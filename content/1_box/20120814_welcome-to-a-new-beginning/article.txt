@@ -6,7 +6,11 @@ Published: 2012-08-14
 
 ----
 
-Category: Thoughts on stuff
+Cover: 
+
+----
+
+Files: 
 
 ----
 
@@ -14,24 +18,40 @@ Format: standard
 
 ----
 
-Cover: 
+Category: Thoughts on stuff
 
 ----
 
-Old: What you see here is the start to a new beginning of the soap. Gone are the days of an just a logo on the main page and back is the good old content. But what kind of content will fill the soap? Well I thought long and hard about what to do with the place and why keeping the domain name when I could move on.
+Tags: Soap, Personal
 
-Well finally I came to the conclusion that instead of thinking about what to do and how it should look like, then do it and present the finished product, I could use the page for exactly that, keeping a log about the work and it's progress. This way I can go back and look how it all started (in case I ever finish what I plan to start)
+----
 
-So what is the work I wanna do? Well it's 3 things actually
+Project: 
 
-1. Come up with a new Soap logo
-2. Create a new design for the-soap.com
-3. Make a (short) movie
+----
 
-Now I don't know how it will work out and I don't set myself a deadline nor an order in which I have to finish these 3 things, I will simply work on them and publish whatever I come up with here. This might be graphics, screenshots, textsnippets or whatever is created in the process. This also means the blog you see is a default theme, and the theme will change over the course of this project and will hopefully move step by step to a finished design.
+Text: [{"content":{"text":"<p>What you see here is the start to a new beginning of the soap. Gone are the days of just a logo on the main page and back is the good old content. But what kind of content will fill the soap? Well, I thought long and hard about what to do with the place and why keeping the domain name when I could move on.<\/p><p>Well, finally I came to the conclusion that instead of thinking about what to do and how it should look like, then do it and present the finished product, I could use the page for exactly that, keeping a log about the work and its progress. This way I can go back and look at how it all started (in case I ever finish what I plan to start)<\/p><p>So what is the work I wanna do? Well it\u2019s 3 things actually<\/p>"},"id":"12465eb1-aa58-4682-8200-b20550b22d03","isHidden":false,"type":"text"},{"content":{"text":"<ol><li>Come up with a new Soap logo<\/li><li>Create a new design for the-soap.com<\/li><li>Make a (short) movie<\/li><\/ol>"},"id":"e3ee9928-484d-4110-9f3a-8a331160d1ee","isHidden":false,"type":"list"},{"content":{"text":"<p>Now I don\u2019t know how it will work out and I don\u2019t set myself a deadline nor an order in which I have to finish these 3 things, I will simply work on them and publish whatever I come up with here. This might be graphics, screenshots, text snippets or whatever is created in the process. This also means the blog you see is a default theme, and the theme will change over the course of this project and will hopefully move step by step to a finished design.<\/p><p>Since these 3 things are constantly in my head (and have been for quite some time) and therefore was working on them and will continue working on them I assume there will be things to post here. It might also be a good idea for me to put the thoughts and ideas down and look at them instead of juggling them in my head and getting nowhere.<\/p><p>So this is it, the game plan for the soap, let\u2019s see where it will lead me. Finally, I will post a screenshot of the page now to look back further down the road and see how it all started. (I will keep doing that for all the design changes to the blog by the way)<\/p>"},"id":"505878d2-08cb-4304-b907-c4cec8e8a841","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["the-soap_081412.png"],"src":"","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"0ea485ac-861c-44b5-b75e-ea08c7dd4b67","isHidden":false,"type":"image"}]
 
-Since these 3 things are constantly in my head (and have been for quite some time) and therefor was working on them and will continue working on them I assume there will be things to post here. It might also be a good idea for me to put the thouughts and ideas down and look at them instead of juggling them in my head and get nowhere.
+----
 
-So this is it, the gameplan for the soap, let's see where it will lead me. Finally I will post a screenshot of the page now to look back further down the road and see how it all started. (I will keep doing that for all the design changes to the blog by the way)
+Linktext: 
 
-![](https://www.soapatrick.com/wp-content/uploads/2012/08/the-soap_081412-750x707.png)
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

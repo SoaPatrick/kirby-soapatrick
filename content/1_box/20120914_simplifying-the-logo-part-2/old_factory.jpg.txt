@@ -1,0 +1,9 @@
+Alt: Old Factory
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

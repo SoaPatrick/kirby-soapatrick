@@ -1,0 +1,9 @@
+Alt: Logo v3
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

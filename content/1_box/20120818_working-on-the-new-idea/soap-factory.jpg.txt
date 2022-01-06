@@ -1,0 +1,9 @@
+Alt: Soap Factory
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

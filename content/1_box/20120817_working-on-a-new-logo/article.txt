@@ -6,6 +6,18 @@ Published: 2012-08-17
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,18 +26,32 @@ Tags: Design, Logo, Soap
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["soap-factory.jpg"],"src":"","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"29a49632-01c7-44d2-8965-a277ae3a0894","isHidden":false,"type":"image"},{"content":{"text":"<p>Well after looking back at the old logos the other day, I decided to take that first one, the simple font logo and try to expand it with an icon. Like I mentioned back then, the 3 things that come to mind when thinking about the-soap are: bubbles, soap bar, factory. So I looked at various images on google by searching for those words to get some inspiration and this is what I came up with.<\/p><p>So I added a simple factory to the logo, first I wasn\u2019t sure where to put it. On my first try, I had it on the left side but then the whole thing got too crowded, so I put it on the right but there it was too dominant, so I added the text Factory inside the factory to take away some of its heaviness. I added some bubbles as clouds coming out of the chimney and that was it.<\/p><p>I\u2019m really happy for now with how it looks, I put it on my desktop as a wallpaper so I can look at it from time to time and maybe see something I can improve. But then just this morning under the shower (the best ideas sometimes come there when there\u2019s no real distraction) I had an idea for a logo that involves the factory again but in a different way. I\u2019m off to work soon and I will probably try to put my idea on paper and then go from there.<\/p>"},"id":"298eccc5-4f18-41c9-948d-b7ed791d07ec","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2012/08/logo-v6-750x313.jpg)
+Linktext: 
 
-Well after loooking back at the old logos the other day, I decided to take that first one, the simple font logo and try to expand it with an icon. Like I mentioned back then, the 3 things that come to mind when thinking about the-soap are: bubbles, soapbar, factory. So I looked at various images on google by searching for those words to get some inspiration and this is what I came up with.
+----
 
-So I added a simple factory to the logo, first I wasn't sure where to put it. On my first try I had it on the left side but then the whole thing got too crowded, so I put it on the right but there it was too dominant, so I added the text Factory inside the factory to take away some of it's heavyness. I added some bubbles as clouds coming out of the chimney and that was it.
+Linkurl: 
 
-I'm really happy for now with how it looks, I put on my desktop as a wallpaper so I can look at it from time to time and maybe see something I can improve. But then just this morning under the shower (the best ideas sometimes come there when there's no real destraction) I had an idea for a logo which involves the factory again but in a different way. I'm off to work soon and I will probably try to put my idea on paper and then go from there.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

@@ -30,7 +30,7 @@ Project:
 
 ----
 
-Text: [{"content":{"location":"kirby","image":["movie_christmas-vacation.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2016\/01\/movie_christmas-vacation-750x422.png","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"aee720ef-d052-47e2-8b47-5129d473bc21","isHidden":false,"type":"image"},{"content":{"text":"<p>An old Christmas classic, but it didn\u2019t hold up too well, Of course, there are the classic scenes, like the whole light decoration scene, the bobsled scene, the cat chase scene and a few more. But then there are also some annoying ones, like pretty much everything with Randy Quaid. And some scenes in between just fall a bit flat. A funny sidenote is a young Leonard Hofstadter as Rusty Griswold.<\/p>"},"id":"32e79bb9-2296-475f-8627-c3a27d6a3e19","isHidden":false,"type":"text"}]
+Text: [{"content":{"location":"kirby","image":["movie_christmas-vacation.png"],"src":"","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"aee720ef-d052-47e2-8b47-5129d473bc21","isHidden":false,"type":"image"},{"content":{"text":"<p>An old Christmas classic, but it didn\u2019t hold up too well, Of course, there are the classic scenes, like the whole light decoration scene, the bobsled scene, the cat chase scene and a few more. But then there are also some annoying ones, like pretty much everything with Randy Quaid. And some scenes in between just fall a bit flat. A funny sidenote is a young Leonard Hofstadter as Rusty Griswold.<\/p>"},"id":"32e79bb9-2296-475f-8627-c3a27d6a3e19","isHidden":false,"type":"text"}]
 
 ----
 

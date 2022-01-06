@@ -6,6 +6,18 @@ Published: 2012-10-10
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,14 +26,32 @@ Tags: Animation, Sheep, Short, Storyboard
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>With a template from the professor, I redrew all the storyboards and made some things clearer. The next step now is to import those storyboards into Adobe Premiere and create a 2D animatic scene which gives me a time feeling of the scene and shows me a lot more about what\u2019s missing and where do I need to improve.<\/p>"},"id":"f8a230e2-bfef-4918-ab99-0f74de9cfbd4","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["storyboard.png"],"src":"","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"33265ea7-a99a-4824-ae20-21d9b33ee63b","isHidden":false,"type":"image"}]
 
 ----
 
-Old: With a template from the professor, I redrew all the storyboards and made some things more clearer. The next step now is to import those storyboards into Adobe Premiere and create a 2D animatic scene which gives me a time feeling of the scene and shows me a lot more what's missing and where do I need to improve.
+Linktext: 
 
-![](https://www.soapatrick.com/wp-content/uploads/2012/10/storyboard.png)
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

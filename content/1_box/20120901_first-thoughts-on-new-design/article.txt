@@ -6,6 +6,18 @@ Published: 2012-09-01
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,20 +26,32 @@ Tags: Design, Soap
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I think in order to keep writing stuff even after a finished design I shouldn\u2019t set myself limits as to what the content should be. But it still needs to be structured and there lies a problem so far.<\/p><p>What I thought about was to have a production part of the future part where EVERYTHING creative will be stored. Stories, drawings, designs or movie snippets, anything. So this part should have under categories: <strong>in planning<\/strong>, <strong>in development<\/strong>, <strong>in production<\/strong> and <strong>finished<\/strong> and the status of these projects will change over time of course.<\/p><p>So each project gets its own page and here is where it gets complicated. Blog posts and pictures or media snippets should all be listed on that project page and none of that should be done manually but automatically. The only thing done manually is changing the status of the project and the content of the project page. For this to work I have to associate a category or a tag to a specific page and so far I have no idea how to do that.<\/p><p>Also in order to keep writing blog posts, I should be fully open with ideas and write them down and not worry about people reading in because honestly, who else reads this than me. The writing down also helps me to move forward as the logo development has shown.<\/p><p>Design-wise I have an idea for a very content-driven design but I\u2019m not sure if I like a basic design. I think I would also like to try something different than standard design structures.<\/p>"},"id":"a92f5ea3-0a88-4fea-af39-1edb4fed6828","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I think the in order to keep writing stuff even after a finished design I shouldn't set myself limits as to what the content should be. But it still needs to be struktured and there lies a problem so far.
+Linktext: 
 
-What I thought about was to have a production part of the future part where EVERYTHING creative will be stored. Stories, drawings, designs or movie snippets, anything. So this part should have under categories: **in planning**, **in development**, **in production** and **finished** and the status of these projects will change over time of course.
+----
 
-So each project gets its own page and here is where it gets complicated. Blog post and pictures or media snippets should all be listed on that project page and none of that should be done manually but automatically. The only thing done manually is changing the status of the project and the content of the project page. For this to work I have to associate a category or a tag to a specific page and so far I have no idea how to do that.
+Linkurl: 
 
-Also in order to keep writing blog posts I should be fully open with ideas and write them down and not worry about people reading in because honestly, who else reads this than me. The writing down also helps me to move forward as the logo development has shown.
+----
 
-Design wise I have an idea for a very content driven design but I'm not sure if I like a basic design. I think I would also like to try something different than standart design structures.
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

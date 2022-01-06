@@ -6,6 +6,18 @@ Published: 2012-11-19
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,14 +26,32 @@ Tags: Animation, Sheep, Short
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>I started to think about a different story for my sheep movie and currently, I\u2019m headed in a direction that is very straightforward when it comes to the whole 3-act structure. There\u2019s the <em>inciting incident<\/em> followed by p<em>lot point #1<\/em> which ends the 1st act. What follows are some obstacles and the <em>midpoint<\/em> and then the <em>plot point #2<\/em> which ends the 2nd act, then we have the <em>climax<\/em> in the 3rd act.<\/p><p>The problem I\u2019m having is plot point #2 because it shouldn\u2019t come out of nowhere. But then why use a 3-act structure for a 2-5 minutes movie? Well, I got inspired by <a href=\"http:\/\/en.wikipedia.org\/wiki\/Knick_Knack\" target=\"_blank\" rel=\"noopener noreferrer\">Knick Knack<\/a>, the Pixar short but it could be shorter and simpler and be more of a gag short with no real act structure. Well, I will keep thinking about it.<\/p>"},"id":"9b362408-baf0-4c07-82ac-52743d708746","isHidden":false,"type":"text"}]
 
 ----
 
-Old: I started to think about a different story for my sheep movie and currently I'm headed in a direction which is very straight forward when it comes to the whole 3-act structure. There's the _inciting incident_ following by the p_lot point #1_ which ends the 1st act. What follows are some obstactles and the _midpoint_ and then the _plot point #2_ which ends the 2nd act, then we have the _climax_ in the 3rd act.
+Linktext: 
 
-The problem I'm having is the plot point #2 because it shouldn't come out of nowhere. But then why use a 3-act structure for a 2-5 minutes movie? Well I got inspired by (link: http://en.wikipedia.org/wiki/Knick_Knack text: Knick Knack target: _blank), the Pixar short but it could be shorter and simpler and be more of a gag short with no real act structure. Well I will keep thinking about it.
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

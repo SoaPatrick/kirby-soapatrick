@@ -6,6 +6,18 @@ Published: 2012-09-18
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,20 +26,32 @@ Tags: Story, writerwar
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>The day before yesterday when talking with a friend about writing stories I suddenly had an idea for a short movie, I\u2019m talking about a 5-minute movie here. Well, yesterday I couldn\u2019t sleep because I was having all these ideas in my head so now I will write them down so that they are out of my head and I can focus on other things.<\/p><p><strong>The Idea:<\/strong><\/p>"},"id":"049b710b-d595-4480-86f1-d05586aab1c8","isHidden":false,"type":"text"},{"content":{"text":"Basically, it\u2019s about a writer sitting in front of a typewriter (maybe a really old one) and typing a story, maybe we hear a voice in the off telling the audience what the writer is typing. When suddenly the typewriter becomes a living thing and starts to battle the writer on the story (maybe because the typewriter doesn\u2019t like the story).","citation":"","style":"default"},"id":"11bbe2f3-6544-4b64-a79b-ff74bbc62bba","isHidden":false,"type":"quote"},{"content":{"text":"<p>That\u2019s the idea I\u2019m having. Usually what happens is that it starts small, with the typewriter blocking a specific letter the writer needs to finish a word\/sentence and ends in total chaos, right before something happens, the twist which I haven\u2019t figured out yet.<\/p><p>Apart from making the typewriter type for itself, I think it\u2019s a rather easy setup for a short film.<\/p>"},"id":"8d3e11cd-c617-4e9b-ad99-eb319306f28e","isHidden":false,"type":"text"}]
 
 ----
 
-Old: The day before yesterday when talking with a friend about writing stories I suddenly had an idea for a short movie, I'm talking about a 5 minute movie here. Well yesterday I couldn't sleep because I was having all these ideas in my head so now I will write them down so that they are out of my head and I can focus on other things.
+Linktext: 
 
-**The Idea:**
+----
 
-> Basically it's about a writer sitting in front of a typewriter (maybe a really old one) and typing a story, maybe we hear a voice in the off telling the audience what the writer is typing. When suddenly the typewriter becomes a living thing and starts to battle the writer on the story (maybe because the typewriter doesn't like the story).
+Linkurl: 
 
-That's the idea I'm having. Usually what happens is that it starts small, with the typewriter blocking a specific letter the writer needs to finish a word/sentence and ends in total chaos, right before something happens, the twist which I haven't figured out yet.
+----
 
-Apart from making the typwriter type for itself, I think it's a rather easy setup for a short film.
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

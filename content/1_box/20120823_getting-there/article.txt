@@ -6,6 +6,18 @@ Published: 2012-08-23
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,16 +26,32 @@ Tags: Design, Logo, Soap
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>Well, that was a fruitful night yesterday. I think for 3 hours straight I was working on this with Adobe Illustrator because I was so excited where it was all leading that I couldn\u2019t go to bed before I had all my ideas out there. at 2 am I was finally in bed and done, but not before I picked up work again this morning and finished it in photoshop to add some final artistic details to it.<\/p><p>I really really really like where I\u2019m going with this but I don\u2019t wanna say that this is the final version, I might tinker around with it some more but for the most part, I think this is it. Or maybe I won\u2019t tinker with it any longer and call this the new logo, I don\u2019t know, depends on how I like it tomorrow :p<\/p>"},"id":"6376d5a6-fee5-4100-aa0b-47082efc58aa","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["soap-factory-stamp.png"],"src":"","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"c24dbc26-8a1c-4cee-bb40-fb35978ae54e","isHidden":false,"type":"image"}]
 
 ----
 
-Old: Well that was a fruitfull night yesterday. I think for 3 hours straight I was working on this with illustrator because I was so excited where it was all leading that I couldn't go to bed before I had all my ideas outthere. at 2am I was finally in bed and done, but not before I picked up work again this morning and finished it in photoshop to add some final artistic details to it.
+Linktext: 
 
-I really really really like where I'm going with this but I don't wanna say that this is the final version, I might tinker around with it some more but for the most part I think this is it. Or maybe I won't tinker with it any longer and call this the new logo, I don't know, depends on how I like it tomorrow :p
+----
 
-![soapfactory_v7d](https://www.soapatrick.com/wp-content/uploads/2012/08/soapfactory_v7d.png)
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

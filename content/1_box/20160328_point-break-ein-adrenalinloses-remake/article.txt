@@ -6,6 +6,18 @@ Published: 2016-03-28
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,26 +26,32 @@ Tags: Movie, Review
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["movie_point-break-2015.jpg"],"src":"","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"ed87adc4-7d25-48b3-b55f-831c053e55dc","isHidden":false,"type":"image"},{"content":{"text":"<p>Point Break mit Patrick Swayze und Keanu Reeves ist ein Film f\u00fcr \nAction-Liebhaber, kein wirklich guter Film aber ein Film den man immer \nwieder gerne sieht, auch weil er sehr unterhaltsam ist, das Remake ist \nes nicht<\/p> <p>Hollywood, in dem verzweifeltem Versuch, aus alten Filmen wieder Geld\n zu machen, hat beschlossen auch diesen Film einem remake zu \nunterziehen. Dies obwohl The Fast and the Furious im Grunde genommen \nschon eines war. Nun gut jetzt haben wir den Salat.<\/p> <p>Die Figuren sind die selben, die Geschichte im grossen ganzen auch \nund ich werde diese hier nicht rezitieren, lieber empfehle ich das \nOriginal zu sehn.  Ein Film von Kathrin Bigelow welche sp\u00e4ter f\u00fcr The \nHurt Locker einen Oscar bekommen hat.<\/p> <p>Point Break das Remake ist ein Extreme-Sport Werbefilm welcher mit \nschauspielern best\u00fcckt ist die kein Charisma besitzen und eine Story die\n nur dazu dient den n\u00e4chsten Stunt zu rechtfertigen. Man mag vom \nOriginal halten was man will, aber Keanu Reeves als Johnny Utah und \nspeziell Patrick Swayze als Surf-Guru Bodhi hatten Charisma und das \nmachten gewisse Charakter-Entscheidungen auch nachvollziehbar. Beim \nRemake habe ich beim besten Willen keine Ahnung warum Johnny Utah sich \nvon Bodhi so angezogen f\u00fchlt, da dieser wie eine Schlaftablette wirkt.<\/p> <p>Die Stunts sind sch\u00f6n anzusehen aber mit belanglosen Figuren bleibt \nes beim zusehen. Da das mitfiebern mit den blassen Figuren nicht m\u00f6glich\n ist fehlt es dem Film auch an Intensit\u00e4t und die Actionszenen wirken \nadrenalinlos, etwas was dem Original sehr gut gelang, man erinnere sich \nnur an die 10 Minuten Verfolgungsjagd zu fuss.<\/p> <p>Der Gipfel des Filmes war das Ende, und hier nun eine <strong>Spoiler Warnung<\/strong> f\u00fcr das Original wie auch f\u00fcr das Remake.<\/p> <p>Im Original m\u00f6chte Bodhi, der auf der Flucht ist, sein \nJahrhundertsturm erleben und die Wahnsinnswelle reiten, auch wenn ihn \ndas sein leben kosten wird. Utah jedoch ihn aufgesp\u00fcrt und will ihn \nwegen Bank\u00fcberf\u00e4llen und Mord verhaften. Es kommt zu einer \nAuseinandersetzung zwischen den beiden am Strand in welcher Bodhi \nwiederholt erkl\u00e4rt was ihm dieser Wellenritt bedeutet. Sie pr\u00fcgeln sich \nund nur wiederwillig, mit dem wissen das Bodhi diesen Ritt nie \u00fcberleben\n wird und ein Mensch wie Bodhi in einem Gef\u00e4ngnis zu Grunde gehen w\u00fcrde,\n l\u00e4sst Utah ihn gehen. Im Remake fliegt Utah zu Bodhi auf das Meer \nhinaus welcher auf einem kleinen boot auf die Wellen wartet. Dort \nverlangt Utah von Bodhi das dieser mitkommen solle. Dieser lehnt ab mit \nder Begr\u00fcndung er will diese Welle hier reiten und Utah zieht sofort \nwieder ab. Wo ist der Konflikt und die Auseinandersetzung dieser zwei \nFiguren? Nirgends, Utah akzeptiert sofort. Nun Bodhi stirbt in den \nriesigen Wellen und Utah vergn\u00fcgt sich anschliessend beim \nExtreme-Snowboarden. Was folgt sind unbeschreibliche 15 Minuten \nEndcredits!<\/p>"},"id":"82fe7319-d6e0-4168-9e40-87e24d8975b4","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2016/03/movie_point-break-2015-750x422.jpg)
+Linktext: 
 
-Point Break mit Patrick Swayze und Keanu Reeves ist ein Film für Action-Liebhaber, kein wirklich guter Film aber ein Film den man immer wieder gerne sieht, auch weil er sehr unterhaltsam ist, das Remake ist es nicht
+----
 
-Hollywood, in dem verzweifeltem Versuch, aus alten Filmen wieder Geld zu machen, hat beschlossen auch diesen Film einem remake zu unterziehen. Dies obwohl The Fast and the Furious im Grunde genommen schon eines war. Nun gut jetzt haben wir den Salat.
+Linkurl: 
 
-Die Figuren sind die selben, die Geschichte im grossen ganzen auch und ich werde diese hier nicht rezitieren, lieber empfehle ich das Original zu sehn.  Ein Film von Kathrin Bigelow welche später für The Hurt Locker einen Oscar bekommen hat.
+----
 
-Point Break das Remake ist ein Extreme-Sport Werbefilm welcher mit schauspielern bestückt ist die kein Charisma besitzen und eine Story die nur dazu dient den nächsten Stunt zu rechtfertigen. Man mag vom Original halten was man will, aber Keanu Reeves als Johnny Utah und speziell Patrick Swayze als Surf-Guru Bodhi hatten Charisma und das machten gewisse Charakter-Entscheidungen auch nachvollziehbar. Beim Remake habe ich beim besten Willen keine Ahnung warum Johnny Utah sich von Bodhi so angezogen fühlt, da dieser wie eine Schlaftablette wirkt.
+Quotetext: 
 
-Die Stunts sind schön anzusehen aber mit belanglosen Figuren bleibt es beim zusehen. Da das mitfiebern mit den blassen Figuren nicht möglich ist fehlt es dem Film auch an Intensität und die Actionszenen wirken adrenalinlos, etwas was dem Original sehr gut gelang, man erinnere sich nur an die 10 Minuten Verfolgungsjagd zu fuss.
+----
 
-Der Gipfel des Filmes war das Ende, und hier nun eine **Spoiler Warnung** für das Original wie auch für das Remake.
+Quotesource: 
 
-Im Original möchte Bodhi, der auf der Flucht ist, sein Jahrhundertsturm erleben und die Wahnsinnswelle reiten, auch wenn ihn das sein leben kosten wird. Utah jedoch ihn aufgespürt und will ihn wegen Banküberfällen und Mord verhaften. Es kommt zu einer Auseinandersetzung zwischen den beiden am Strand in welcher Bodhi wiederholt erklärt was ihm dieser Wellenritt bedeutet. Sie prügeln sich und nur wiederwillig, mit dem wissen das Bodhi diesen Ritt nie überleben wird und ein Mensch wie Bodhi in einem Gefängnis zu Grunde gehen würde, lässt Utah ihn gehen. Im Remake fliegt Utah zu Bodhi auf das Meer hinaus welcher auf einem kleinen boot auf die Wellen wartet. Dort verlangt Utah von Bodhi das dieser mitkommen solle. Dieser lehnt ab mit der Begründung er will diese Welle hier reiten und Utah zieht sofort wieder ab. Wo ist der Konflikt und die Auseinandersetzung dieser zwei Figuren? Nirgends, Utah akzeptiert sofort. Nun Bodhi stirbt in den riesigen Wellen und Utah vergnügt sich anschliessend beim Extreme-Snowboarden. Was folgt sind unbeschreibliche 15 Minuten Endcredits!
+----
+
+Statustext: 
+
+----
+
+Old: 
