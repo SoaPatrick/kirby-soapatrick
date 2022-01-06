@@ -52,9 +52,6 @@ Quotesource:
 
 Statustext: <p>I've added 'Find Stuff' functionality and a Storage. The search looks quite good, but the Storage is done in a way that it works for now but I might tinker with it some more later on. That was probably the most urgent thing to do, anything else, for now, is a bonus.</p>
 
-----
-
-Old: 
 
 ----
 

@@ -52,9 +52,6 @@ Quotesource: David Fincher
 
 Statustext: 
 
-----
-
-Old: 
 
 ----
 

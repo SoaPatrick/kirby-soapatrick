@@ -47,7 +47,3 @@ Quotesource:
 ----
 
 Statustext: 
-
-----
-
-Old: 

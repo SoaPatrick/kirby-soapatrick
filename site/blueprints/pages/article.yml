@@ -104,12 +104,3 @@ columns:
           - code
         when:
           format: status
-      info:
-          label: 
-          type: info
-          theme: negative
-          text: The following content needs to be migrated!
-      old:
-        type: textarea
-        size: large
-        label: Old content

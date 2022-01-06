@@ -51,7 +51,3 @@ Quotesource:
 ----
 
 Statustext: 
-
-----
-
-Old: 

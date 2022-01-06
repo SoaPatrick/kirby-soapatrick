@@ -49,7 +49,3 @@ Quotesource:
 ----
 
 Statustext: 
-
-----
-
-Old: 

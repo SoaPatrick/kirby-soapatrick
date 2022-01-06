@@ -52,9 +52,6 @@ Quotesource:
 
 Statustext: <p>Ich sollte noch eine Movie-Review von _The Jungle Book_ nachliefern (ausgezeichneter Film) und morgen schon werde ich <strong>Captain America: Civil War</strong> sehen. Es wird was kommen, ich brauche nur ein wenig mehr Zeit.</p>
 
-----
-
-Old: 
 
 ----
 

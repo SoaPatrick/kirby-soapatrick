@@ -48,9 +48,6 @@ Quotesource:
 
 Statustext: <p>I just need more time, the day currently has not enough hours for me to finish all the things I want to do in a day. Do some <strong>blendering</strong>, some <strong>writing</strong>, some <strong>coding</strong>, or just some <strong>relaxing</strong> and <strong>watching</strong> TV</p>
 
-----
-
-Old: 
 
 ----
 

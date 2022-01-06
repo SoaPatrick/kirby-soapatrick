@@ -35,7 +35,3 @@ Text: [{"content":{"text":"<p>It\u2019s been another weird year with many ups an
 ----
 
 Status: 
-
-----
-
-Old: 

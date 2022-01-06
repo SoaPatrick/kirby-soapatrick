@@ -52,9 +52,6 @@ Quotesource:
 
 Statustext: <p>The Soap Factory just opened its doors again! Hopefully, new things will be produced in the near future :)</p>
 
-----
-
-Old: 
 
 ----
 
