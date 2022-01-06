@@ -2,14 +2,6 @@ Title: Some changes are coming soon! Stay tuned... oh and...
 
 ----
 
-Text: 
-
-----
-
-Old: Some changes are coming soon! Stay tuned... oh and it's time to go back to english.
-
-----
-
 Published: 2017-01-21
 
 ----
@@ -18,11 +10,11 @@ Cover:
 
 ----
 
-Format: status
+Files: 
 
 ----
 
-Video: 
+Format: status
 
 ----
 
@@ -35,3 +27,35 @@ Tags: Status
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: <p>Some changes are coming soon! Stay tuned... oh and it's time to go back to English.</p>
+
+----
+
+Old: 
+
+----
+
+Video: 

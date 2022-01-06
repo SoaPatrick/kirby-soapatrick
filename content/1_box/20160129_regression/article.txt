@@ -6,6 +6,18 @@ Published: 2016-01-29
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,14 +26,32 @@ Tags: Movie, Review
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["movie_regression.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2016\/01\/movie_regression-750x422.jpg","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"4ed8c712-e918-44cf-8e48-865fb84e73ce","isHidden":false,"type":"image"},{"content":{"text":"<p>The trailer looked suspenseful and creepy so I decided to give the \nmovie a shot since I also liked the lead actors but damn was this movie \nboring. Sure there\u2019s this brooding atmosphere throughout the movie but \nthis can become rather boring if nothing of interest happens and the \ncharacters aren\u2019t interesting. I think the movie failed because our main\n protagonist wasn\u2019t that compelling and his behavior was somewhat weird.\n Mix that with an underused Emma Watson and you are left with a movie \nwhere you more than once check for your clock and scratch your head at \nthe story and where it\u2019s heading<\/p>"},"id":"a4449930-d76d-4cb4-aa8f-d416181a9c60","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2016/01/movie_regression-750x422.jpg)
+Linktext: 
 
-The trailer looked suspenseful and creepy so I decided to give the movie a shot since I also liked the lead actors but damn was this movie boring. Sure there's this brooding atmosphere throughout the movie but this can become rather boring if nothing of interest happens and the characters aren't interesting. I think the movie failed because our main protagonist wasn't that compelling and his behavior was somewhat weird. Mix that with an underused Emma Watson and you are left with a movie where you more than once check for your clock and scratch your head at the story and where it's heading
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

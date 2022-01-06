@@ -6,6 +6,18 @@ Published: 2016-02-01
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,34 +26,32 @@ Tags: Movie, Review
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["movie_the-last-witchhunter.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2016\/02\/movie_the-last-witchhunter-750x422.jpg","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"38cd4ad8-dbe7-4ca2-8235-440efe821cfe","isHidden":false,"type":"image"},{"content":{"text":"<p>A Fantasy movie with Vin Diesel fighting witches which is nice to look at but the story never really grabbed me.<\/p>"},"id":"5321fd9e-0dcc-44ea-a955-cfaa659ab918","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Story"},"id":"8299b057-3653-4e03-8f15-4d01173e2594","isHidden":false,"type":"heading"},{"content":{"text":"<p>Vin Diesel plays Kaulder who was once damned by the Witch Queen to eternal life and since then works for an organization to keep the witches on earth in check. As a new threat is rising, he\u2019s confronted with his past.<\/p>"},"id":"2b100f2a-b1f4-4d7e-91c9-ebbb34dff574","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Acting"},"id":"c1ad8591-3793-48f2-a0a4-9b2dfc7b3f92","isHidden":false,"type":"heading"},{"content":{"text":"<p>Vin Diesel is presenting his usual Persona, with a lot of growling (Thanks for Subtitles) and coolness but no real depth. He receives help from Game of Thrones scene-stealer Rose Leslie and Elijah Wood. It\u2019s all good with nothing really standing out except for Rose Leslie who manages to breathe some life into the movie as the other actors bring no real emotion to the table.<\/p>"},"id":"471f9dca-60b5-4316-b44d-0d92b078f3f2","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Technical"},"id":"deb049c8-0880-462c-8503-c65366531941","isHidden":false,"type":"heading"},{"content":{"text":"<p>I was pleasantly surprised by the lack of CGI fest as someone might expect from this kind of movie, sure there are some big scenes but mostly they keep it small which keeps it from going campy. There are some green screen scenes that look out of place and some big showdown scenes that look over the top but apart from that, it looks really good.<\/p>"},"id":"9ff42664-7c50-46a2-8681-e0ec1137791a","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"The Bad"},"id":"462f53af-271b-4aee-b5ef-194801e47cec","isHidden":false,"type":"heading"},{"content":{"text":"<p>Vin Diesel's story arch is really nothing noteworthy, what is lacking is a real danger for a guy who\u2019s immortal and therefore I never really feared for him (he even mentions once in the movie that he doesn\u2019t fear anything).<\/p>"},"id":"497d4252-77f9-4b59-88aa-f54b01f6e4cd","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"The Good"},"id":"47aa5bc4-577b-42dc-b789-f557f869e495","isHidden":false,"type":"heading"},{"content":{"text":"<p>Rose Leslie really stands out in this movie as a witch fighting their own. Her Journey (compared to Vin Diesels one) is actually an interesting one that could have been explored a lot more. I also liked the subdue special effects for most of the movie.<\/p>"},"id":"b54f40f5-2555-4505-8771-bcdc21ef4f58","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2016/02/movie_the-last-witchhunter-750x422.jpg)
+Linktext: 
 
-A Fantasy movie with Vin Diesel fighting witches which is nice to look at but the story never really grabbed me.
+----
 
-## Story
+Linkurl: 
 
-Vin Diesel plays Kaulder who was once damned by the Witch Queen to eternal life and since then works for an organisation to keep the witches on earth in check. As a new threat is rising, he’s confronted with his past.
+----
 
-## Acting
+Quotetext: 
 
-Vin Diesel is presenting his usual Persona, with a lot of growling (Thanks for Subtitles) and coolness but no real depth. He receives help from Game of Thrones scene stealer Rose Leslie and Elijah Wood. It’s all good with nothing really standing out except for Rose Leslie who manages to breath some life into the movie as the other actors bring no real emotion to the table.
+----
 
-## Technical
+Quotesource: 
 
-I was pleasantly surprised by the lack of CGI fest as someone might expect from this kind of movie, sure there are some big scenes but mostly they keep it small which keeps it from going campy. There are some green screen scenes which look out of place and some big showdown scenes which look over the top but apart from that it looks really good.
+----
 
-## The Bad
+Statustext: 
 
-Vin Diesels story arch is really nothing noteworthy, what is lacking is real danger for a guy who’s immortal and therefor I never really feared for him (he even mentions once in the movie that he doesn’t fear anything).
+----
 
-## The Good
-
-Rose Leslie really stands out in this movie as a witch fighting their own. Her Journey (compared to Vin Diesels one) is actually an interesting one which could have been explored a lot more. I also liked the subdue special effects for most of the movie.
+Old: 

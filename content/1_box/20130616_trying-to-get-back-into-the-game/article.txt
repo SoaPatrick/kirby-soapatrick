@@ -6,7 +6,13 @@ Published: 2013-06-16
 
 ----
 
-Category: Thoughts on stuff
+Cover:
+
+- soap.png
+
+----
+
+Files: 
 
 ----
 
@@ -14,14 +20,40 @@ Format: standard
 
 ----
 
-Cover: 
+Category: Thoughts on stuff
 
 ----
 
-Old: I know that it's been quite some time since my last post but with school, the bachelor thesis and work, especially work, it was kinda hard to work on this place as well. So now I try to dedicate some time again on this place here but not really think about giving this whole place a new look but rather filling it with content.
+Tags: Logo, Soap
 
-So I put a new logo variation to the top and I removed the day count because it was rather depressing to see the huge day count spike between updates.
+----
 
-![](https://www.soapatrick.com/wp-content/uploads/2013/06/logo.png)
+Project: 
 
-But I added a instagram photostream widget to the sidebar so that all the new pictures I take with instagram will be shown there. More small changes might follow and I maybe use a different theme (not one I did myself) soon.
+----
+
+Text: [{"content":{"text":"<p>I know that it\u2019s been quite some time since my last post but with \nschool, the bachelor thesis and work, especially work, it was kinda hard\n to work on this place as well. So now I try to dedicate some time again\n on this place here but not really think about giving this whole place a\n new look but rather filling it with content.<\/p> <p>So I put a new logo variation to the top and I removed the day count \nbecause it was rather depressing to see the huge day count spike between\n updates.<\/p>"},"id":"ed3bf351-2015-4cee-85cd-7e9beb96942b","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["soap.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2013\/06\/logo.png","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"c988484c-7887-4f55-8f18-5474d1cd5158","isHidden":false,"type":"image"},{"content":{"text":"<p>But I added a instagram photostream widget to the sidebar so that all\n the new pictures I take with instagram will be shown there. More small \nchanges might follow and I maybe use a different theme (not one I did \nmyself) soon.<\/p>"},"id":"1a5d5e70-dec1-4930-adf2-e3d3140ceca9","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

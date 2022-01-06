@@ -6,6 +6,18 @@ Published: 2017-07-20
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,18 +26,32 @@ Tags: Movie, Trailer
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=4qab3TMg42k","caption":""},"id":"75a2a804-4acf-4666-a997-7f8d8729a31d","isHidden":false,"type":"video"},{"content":{"text":"<p>The worst movie ever made, the best bad movie ever, the <em>Citizen Kane<\/em> of bad movies. There are many ways to describe the phenomenon that is <em>The Room<\/em>. After all, the movie is 14 years old and people are still talking about it nothing seems to stop it. There are thousands of YouTube videos about the movie, to this day there are also sold-out shows around the globe and now there\u2019s even a movie coming out with James Franco in the lead.<\/p><p>It all seems just surreal. If you have no idea what the fuzz is about, I recommend you watch the movie. If you ever thought you\u2019ve seen a bad movie, I guarantee you The Room will make it look like a masterpiece in comparison. There is so much to discover and talk about that the fun never seems to stop. So give the movie a try, favorably watching it with a group of fun people.<\/p><p>Anyway, the trailer for <em>The Disaster Artist<\/em> has been released. The Movie is based upon the same title Book written by the Co-Star of Tommy Wiseau (Director, Screenwriter, Producer and Star of the movie). How much of it actually has happened we don\u2019t know, there are different stories to the making of the movie, but it could be a fun addition to The Room phenomenon.<\/p>"},"id":"a926f4d2-093f-4d8e-a213-d1d34098bb60","isHidden":false,"type":"text"}]
 
 ----
 
-Old: https://www.youtube.com/watch?v=4qab3TMg42k
+Linktext: 
 
-The worst movie ever made, the best bad movie ever, the _Citizen Kane_ of bad movies. There are many ways to describe the phenomenon that is _The Room_. After all, the movie is 14 years old and people are still talking about it nothing seems to stop it. There are thousands of YouTube videos about the movie, to this day there are also sold out shows around the globe and now there's even a movie coming out with James Franco in the lead.
+----
 
-It all seems just surreal. If you have no idea what the fuzz is about, I recommend you watch the movie. If you ever thought you've seen a bad movie, I guarantee you The Room will make it look like a masterpiece in comparison. There is so much to discover and talk about that the fun never seems to stop. So give the movie a try, favorably watching it with a group of fun people.
+Linkurl: 
 
-Anyway, the trailer for _The Disaster Artist_ has been released. The Movie is based upon the same title Book written by the Co-Star of Tommy Wiseau (Director, Screenwriter, Producer and Star of the movie). How much of it actually has happened we don't know, there are different stories to the making of the movie, but it could be a fun addition to The Room phenomenon.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

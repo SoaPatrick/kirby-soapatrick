@@ -6,6 +6,20 @@ Published: 2016-04-08
 
 ----
 
+Cover: 
+
+----
+
+Files:
+
+- movie_rogue-one.jpg
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,18 +28,32 @@ Tags: Movie, Star Wars, Trailer
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=Wji-BZ0oCwg","caption":""},"id":"3c60f13a-da4b-4078-b94c-c7ed7d740169","isHidden":false,"type":"video"},{"content":{"text":"<p>Der erste Star Wars Film der <em>A Star Wars Story <\/em>Serie kommt \ndiesen Dezember ins Kino und schon jetzt l\u00e4uft die Marketing Maschinerie\n von Disney um all uns Fans auf dieses Event heiss zu machen.<\/p> <p>Kann man genug haben von Star Wars Filmen? Meiner Meinung nach geht \ndas nicht! Nach \u00fcber 30 Jahren (die Prequels mal ausgeschlossen) \nWarterei kommen wir Star Wars Fans in den Genuss von einem j\u00e4hrlichen \nFilm und das l\u00e4sst das Herz h\u00f6her schlagen. Ich weiss auch nicht ob ich \nTrailer und Filme objektiv bewerten kann aber beim schauen dieses \nTrailers hatte ich G\u00e4nsehaut.<\/p> <p>Schon die original Stormtroopers oder Star Destroyers wieder zu sehen\n ist eine riesen Freude. Allein die Tatsache, dass der Film unmittelbar \nvor A New Hope spielt erh\u00f6ht nat\u00fcrlich die Chance das ein gewisser Darth\n Vader ebenfalls einen Auftritt haben wird. So viele Gedanken schiessen \nmir durch den Kopf beim betrachten dieses Trailers und es wird \ninteressant zu sehen sein wie Disney die Spannung bis zum Start des \nFilmes im Dezember hoch halten wird. Ein erster Schritt ist auf jeden \nfall gemacht, ein sehr erfolgreicher Schritt!<\/p>"},"id":"cf97c6e5-c0c8-4c69-986d-37323ff0506a","isHidden":false,"type":"text"}]
 
 ----
 
-Old: https://www.youtube.com/watch?v=Wji-BZ0oCwg
+Linktext: 
 
-Der erste Star Wars Film der _A Star Wars Story_ Serie kommt diesen Dezember ins Kino und schon jetzt läuft die Marketing Maschinerie von Disney um all uns Fans auf dieses Event heiss zu machen.
+----
 
-Kann man genug haben von Star Wars Filmen? Meiner Meinung nach geht das nicht! Nach über 30 Jahren (die Prequels mal ausgeschlossen) Warterei kommen wir Star Wars Fans in den Genuss von einem jährlichen Film und das lässt das Herz höher schlagen. Ich weiss auch nicht ob ich Trailer und Filme objektiv bewerten kann aber beim schauen dieses Trailers hatte ich Gänsehaut.
+Linkurl: 
 
-Schon die original Stormtroopers oder Star Destroyers wieder zu sehen ist eine riesen Freude. Allein die Tatsache, dass der Film unmittelbar vor A New Hope spielt erhöht natürlich die Chance das ein gewisser Darth Vader ebenfalls einen Auftritt haben wird. So viele Gedanken schiessen mir durch den Kopf beim betrachten dieses Trailers und es wird interessant zu sehen sein wie Disney die Spannung bis zum Start des Filmes im Dezember hoch halten wird. Ein erster Schritt ist auf jeden fall gemacht, ein sehr erfolgreicher Schritt!
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

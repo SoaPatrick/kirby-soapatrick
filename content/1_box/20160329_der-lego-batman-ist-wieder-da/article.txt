@@ -6,6 +6,18 @@ Published: 2016-03-29
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,24 +26,32 @@ Tags: lego, Movie, Trailer
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["movie_lego-batman-movie.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2016\/03\/movie_lego-batman-movie-750x422.png","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"99958ca4-7172-4913-abcb-63943188ca25","isHidden":false,"type":"image"},{"content":{"text":"<p>Im ganzen Batman v Superman Hype hat Warner Bros. auch die ersten \nTeaser f\u00fcr den Lego Batman Movie ver\u00f6ffentlicht und sie zeigen, dass man\n mit Batman auch Spass haben kann.<\/p> <p>Wem der neue Batman Film zu d\u00fcster und grimmig war, kann sich an den \nneuen Teaser f\u00fcr den Spinoff Film des Lego Movies erfreuen. War Batman \nim Lego Movie noch ein Sidekick, etwas das er nie und nimmer zugeben \nw\u00fcrde, so ist er hier front and center. Alles dreht sich um den Caped \nCrusader, und es scheint ihm sichtlich spass zu machen.<\/p> <p>Beide Teaser bestehen aus kurzen Szenen die den Alltag von Batman auf\n am\u00fcsante Art und Weise zeigen, und man hat fast schon ein wenig Mitleid\n mit dem armen kleinen Kerlchen. Will Arnett, der Sprecher von Batman, \nist einfach perfekt f\u00fcr den gr\u00fcblerischen Batman. Die Animationen sind \nwie schon beim Lego Movie mit viel Liebe zum Detail umgesetzt und es \nbleibt zu hoffen die Qualit\u00e4t des Endproduktes ist \u00e4hnlich gut wie dies \nbeim Lego Movie der Fall war.<\/p> <p>Hier die zwei ver\u00f6ffentlichten Teaser, viel Spass:<\/p>"},"id":"79feb787-a6ea-4419-85bd-9ddc180cf558","isHidden":false,"type":"text"},{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=C0mN1WM7UqM","caption":""},"id":"ea4a56c5-fc7e-471c-a2b0-e2d73deb6f93","isHidden":false,"type":"video"},{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=X9ZoKKQsxis","caption":""},"id":"a8a82931-f1d7-4c7c-9e92-c0ed555adc07","isHidden":false,"type":"video"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2016/03/movie_lego-batman-movie-750x422.png)
+Linktext: 
 
-Im ganzen Batman v Superman Hype hat Warner Bros. auch die ersten Teaser für den Lego Batman Movie veröffentlicht und sie zeigen, dass man mit Batman auch Spass haben kann.
+----
 
-Wem der neue Batman Film zu düster und grimmig war, kann sich an den neuen Teaser für den Spinoff Film des Lego Movies erfreuen. War Batman im Lego Movie noch ein Sidekick, etwas das er nie und nimmer zugeben würde, so ist er hier front and center. Alles dreht sich um den Caped Crusader, und es scheint ihm sichtlich spass zu machen.
+Linkurl: 
 
-Beide Teaser bestehen aus kurzen Szenen die den Alltag von Batman auf amüsante Art und Weise zeigen, und man hat fast schon ein wenig Mitleid mit dem armen kleinen Kerlchen. Will Arnett, der Sprecher von Batman, ist einfach perfekt für den grüblerischen Batman. Die Animationen sind wie schon beim Lego Movie mit viel Liebe zum Detail umgesetzt und es bleibt zu hoffen die Qualität des Endproduktes ist ähnlich gut wie dies beim Lego Movie der Fall war.
+----
 
-Hier die zwei veröffentlichten Teaser, viel Spass:
+Quotetext: 
 
-https://www.youtube.com/watch?v=C0mN1WM7UqM
+----
 
-https://www.youtube.com/watch?v=X9ZoKKQsxis
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

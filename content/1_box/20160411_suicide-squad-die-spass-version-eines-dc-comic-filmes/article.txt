@@ -6,6 +6,20 @@ Published: 2016-04-11
 
 ----
 
+Cover: 
+
+----
+
+Files:
+
+- movie_suicide-squad.jpg
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,22 +28,32 @@ Tags: Movie, Trailer
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=CmRih_VtVAs","caption":""},"id":"ce9f4151-a5fa-4c94-9370-ed0d8ec32f8f","isHidden":false,"type":"video"},{"content":{"text":"<p>Nach\n dem d\u00fcsteren und grimmigen Batman v Superman wird Warner Bros. diesen \nSommer die etwas andere Comic Verfilmung rausbringen, eine die nach viel\n Spass aussieht. Die Trailer haben es auf jeden Fall in sich.<\/p> <p>Schon der erste Trailer hatte mit dem genialen Queen Song <em>Bohemian Rhapsody <\/em>(einer\n meiner Absoluten Lieblings-Songs)ein Rock Klassiker als Begleitmusik, \nwelcher perfekt auf die Action abgestimmt wurde. Der neue Trailer \nbekommt nun den Rock Klassiker, <em>The Ballroom Blitz<\/em> von Sweet. Auch hier passt die Musik perfekt zum Sound und die Energie des Trailers \u00fcbertr\u00e4gt sich sofort auf den Zuschauer.<\/p> <p>Auch wenn das ganze dem Marketing von <em>Guardians Of The Galaxy<\/em>\n \u00e4hnelt, so ist es doch sehr effektiv. Die Bilder sind weiterhin sehr \naufregend und die Schauspieler, allen voran Margot Robbie und Jared \nLeto, scheinen eine heiden Spass zu haben. Batman ist auch ein wenig \nprominenter vertreten in diesem Trailer, was auch Sinn macht nach der \npositiven Kritiken zu Batman aus <em>Batman v Superman<\/em>.<\/p> <p>Das erw\u00e4hnen von Superman kommt mir jedoch ein wenig merkw\u00fcrdig und \ndeplatziert vor, wurde doch gerade diese Frage von Batman in <em>Batman v Superman<\/em>\n zur gen\u00fcge gestellt. Aber vielleicht so soll das DC Cinematic Universe \naufgezeigt werden und wer weiss, vielleicht hat sogar Superman einen \nAuftritt im Film.<\/p> <p>An dieser Stelle w\u00fcrde ich mir w\u00fcnschen dies w\u00e4re der letzte Trailer,\n da ich nicht noch mehr Bildmaterial brauche um den Film sehen zu \nwollen. Die bisherigen zwei Trailer haben mich \u00fcberzeugt und nun ist \ngut, doch leider wird sehr wahrscheinlich noch einen weiterer Trailer \nmit unz\u00e4hligen TV Spots folgen.<\/p>"},"id":"68bd2d16-565c-49a1-9477-83873c2db509","isHidden":false,"type":"text"}]
 
 ----
 
-Old: https://www.youtube.com/watch?v=CmRih\_VtVAs
+Linktext: 
 
-Nach dem düsteren und grimmigen Batman v Superman wird Warner Bros. diesen Sommer die etwas andere Comic Verfilmung rausbringen, eine die nach viel Spass aussieht. Die Trailer haben es auf jeden Fall in sich.
+----
 
-Schon der erste Trailer hatte mit dem genialen Queen Song _Bohemian Rhapsody_ (einer meiner Absoluten Lieblings-Songs)ein Rock Klassiker als Begleitmusik, welcher perfekt auf die Action abgestimmt wurde. Der neue Trailer bekommt nun den Rock Klassiker, _The Ballroom Blitz_ von Sweet. Auch hier passt die Musik perfekt zum Sound und die Energie des Trailers überträgt sich sofort auf den Zuschauer.
+Linkurl: 
 
-Auch wenn das ganze dem Marketing von _Guardians Of The Galaxy_ ähnelt, so ist es doch sehr effektiv. Die Bilder sind weiterhin sehr aufregend und die Schauspieler, allen voran Margot Robbie und Jared Leto, scheinen eine heiden Spass zu haben. Batman ist auch ein wenig prominenter vertreten in diesem Trailer, was auch Sinn macht nach der positiven Kritiken zu Batman aus _Batman v Superman_.
+----
 
-Das erwähnen von Superman kommt mir jedoch ein wenig merkwürdig und deplatziert vor, wurde doch gerade diese Frage von Batman in _Batman v Superman_ zur genüge gestellt. Aber vielleicht so soll das DC Cinematic Universe aufgezeigt werden und wer weiss, vielleicht hat sogar Superman einen Auftritt im Film.
+Quotetext: 
 
-An dieser Stelle würde ich mir wünschen dies wäre der letzte Trailer, da ich nicht noch mehr Bildmaterial brauche um den Film sehen zu wollen. Die bisherigen zwei Trailer haben mich überzeugt und nun ist gut, doch leider wird sehr wahrscheinlich noch einen weiterer Trailer mit unzähligen TV Spots folgen.
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

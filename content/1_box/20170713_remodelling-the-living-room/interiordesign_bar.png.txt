@@ -1,0 +1,9 @@
+Alt: Interior Design Bar
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

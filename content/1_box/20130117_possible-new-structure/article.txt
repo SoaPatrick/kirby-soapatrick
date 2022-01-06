@@ -6,7 +6,11 @@ Published: 2013-01-17
 
 ----
 
-Category: Thoughts on stuff
+Cover: 
+
+----
+
+Files: 
 
 ----
 
@@ -14,21 +18,40 @@ Format: standard
 
 ----
 
-Cover: 
+Category: Thoughts on stuff
 
 ----
 
-Old: I was thinking about new possible domain names just recently because the one I was thinking of was rather long so I checked some alternatives. This led me to look at the page once again and think about what I plan on doing with it.
+Tags: Soap
 
-After a lot of back and forth and checking the availability of domain names it hit me. The domain the-soap.com is just fine and I can play with it. So this is the idea I'm having.
+----
 
-- **the-soap.com** (main page)
-- **the-soap.com/box** (blog, since a soapbox is a plattform from which a speech is delivered)
-- **the-soap.com/lab** (is like the brainstorming part of the page for possible future projects)
-- **the-soap.com/factory** (is where I actually start the production of projects)
-- **the-soap.com/productions** (is like the portfolio of the page)
-- **the-soap.com/company** (is like the about sections)
+Project: 
 
-I'm not yet sure if there will be a main page because I don't like the idea of having a page where there's nothing but links to other pages, or if the page starts with the blog imediately.
+----
 
-I also have some vague design idea so far, which will be the next step of this process
+Text: [{"content":{"text":"<p>I was thinking about new possible domain names just recently because the one I was thinking of was rather long so I checked some alternatives. This led me to look at the page once again and think about what I plan on doing with it.<\/p><p>After a lot of back and forth and checking the availability of domain names, it hit me. The domain the-soap.com is just fine and I can play with it. So this is the idea I\u2019m having.<\/p>"},"id":"d72bbf76-beb4-434e-b5a5-ae7475ae480d","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><strong>the-soap.com<\/strong> (main page)<\/li><li><strong>the-soap.com\/box<\/strong> (blog, since a soapbox is a platform from which a speech is delivered)<\/li><li><strong>the-soap.com\/lab<\/strong> (is like the brainstorming part of the page for possible future projects)<\/li><li><strong>the-soap.com\/factory<\/strong> (is where I actually start the production of projects)<\/li><li><strong>the-soap.com\/productions<\/strong> (is like the portfolio of the page)<\/li><li><strong>the-soap.com\/company<\/strong> (is like the about sections)<\/li><\/ul>"},"id":"4c0b79af-bed7-48fb-84af-8eaf3b6be898","isHidden":false,"type":"list"},{"content":{"text":"<p>I\u2019m not yet sure if there will be a main page because I don\u2019t like the idea of having a page where there\u2019s nothing but links to other pages, or if the page starts with the blog immediately.<\/p><p>I also have some vague design ideas so far, which will be the next step of this process<\/p>"},"id":"a83014f4-c32f-407e-a597-8aae06af4fb0","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

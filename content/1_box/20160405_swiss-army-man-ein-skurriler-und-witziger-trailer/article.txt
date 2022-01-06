@@ -6,6 +6,20 @@ Published: 2016-04-05
 
 ----
 
+Cover: 
+
+----
+
+Files:
+
+- movie_swiss-army-man.jpg
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,18 +28,32 @@ Tags: Movie, Trailer
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=yrK1f4TsQfM","caption":""},"id":"94f456d7-dbd2-4782-a0e8-25cae1294b54","isHidden":false,"type":"video"},{"content":{"text":"<p>Swiss\n Army Man, bei dem Titel kommen einem vielleicht viele Gedanken, aber \neinen besseren Titel kommt mir schlicht nicht in den Sinn f\u00fcr diesen \nFilm.<\/p> <p>Es kommt selten vor dass mich ein Trailer so \u00fcberrascht, aber dieser \njedoch hat dies geschafft, und wie. Ich m\u00f6chte irgendwie an dieser \nStelle gar nicht mehr erz\u00e4hlen, sondern einfach den Trailer zeigen, so \ndass sich jeder selbst \u00fcberraschen lassen kann.<\/p> <p>Ich bewundere Daniel Radcliffe f\u00fcr seine Rollenwahl, ich glaube es \nist auch der richtige Weg um nicht immer als Harry Potter angesehen zu \nwerden sondern um zu zeigen, dass man mehr kann. Auch finde ich es immer\n wieder erfrischend wenn Filme mit speziellen Ideen umgesetzt werden. \nIch auf jeden fall habe mir den Film notiert und werde ihn mir sicher \nansehen, somit hat der Trailer sein Ziel erreicht.<\/p>"},"id":"e7acfce0-35c7-4af3-911f-d7ab1148785a","isHidden":false,"type":"text"}]
 
 ----
 
-Old: https://www.youtube.com/watch?v=yrK1f4TsQfM
+Linktext: 
 
-Swiss Army Man, bei dem Titel kommen einem vielleicht viele Gedanken, aber einen besseren Titel kommt mir schlicht nicht in den Sinn für diesen Film.
+----
 
-Es kommt selten vor dass mich ein Trailer so überrascht, aber dieser jedoch hat dies geschafft, und wie. Ich möchte irgendwie an dieser Stelle gar nicht mehr erzählen, sondern einfach den Trailer zeigen, so dass sich jeder selbst überraschen lassen kann.
+Linkurl: 
 
-Ich bewundere Daniel Radcliffe für seine Rollenwahl, ich glaube es ist auch der richtige Weg um nicht immer als Harry Potter angesehen zu werden sondern um zu zeigen, dass man mehr kann. Auch finde ich es immer wieder erfrischend wenn Filme mit speziellen Ideen umgesetzt werden. Ich auf jeden fall habe mir den Film notiert und werde ihn mir sicher ansehen, somit hat der Trailer sein Ziel erreicht.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

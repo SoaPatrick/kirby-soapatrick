@@ -6,6 +6,18 @@ Published: 2016-03-29
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,22 +26,32 @@ Tags: Movie, Review
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["movie_the-big-short.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2016\/03\/movie_the-big-short-750x422.jpg","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"d82bc9aa-a2e7-4039-8d28-ec51b97ab737","isHidden":false,"type":"image"},{"content":{"text":"<p>Im Jahre 2008 kam es an der Wall-Street zum knall. W\u00e4hrend \nan verschiedenen Banken massenhaft Mitarbeiter entlassen wurden, \nrutschte die Welt in eine Wirtschaftskrise. The Big Short zeigt wie all \ndies entstanden ist.<\/p> <p>Was im September 2008 genau passiert ist, k\u00f6nnen wahrscheinlich nur \nwenige richtig beurteilen geschweige denn verstehen. Betroffen waren \njedoch fast alle und die Auswirkungen sp\u00fcrte man rund um den Globus. Mit\n Adam McKay, bekannt durch Kom\u00f6dien wie den Anchorman Filmen, nahm sich \njemand dieser Thematik an den man so nicht erwarten durfte.<\/p> <p>The Big Short ist eine Verfilmung des gleichnamigen Buches vom \nFinanzjournalist Michael Lewis und zeigt die Geschehnisse anhand von \nwenigen Figuren die fr\u00fchzeitig Warnsignale entdeckten und auf das \nPlatzen der Blase am US-Immobilienmarkt Zerfall setzten und somit von \nder Krise profitierten. Das Thema ist komplex und es werden Begriffe \nverwendet die f\u00fcr viele keine Bedeutung haben. Der Film ist sich dessen \nsehr wohl bewusst und w\u00e4hlt eine interessante Methode um es verst\u00e4ndlich\n zu machen. Doch gerade in den wichtigen Passagen gegen Ende des Filmes \nging es mir dann ein wenig zu schnell. So wurde es zwar spannend \numgesetzt aber vieles dabei habe ich nicht zu 100% verstanden.<\/p> <p>Vielleicht ist es auch zu viel verlangt bei Filmen \u00fcber die \nWall-Street alles zu verstehen, doch wenn gerade das \u201cWarum\/Weshalb\u201d im \nZentrum steht, und nicht die Story von Menschen, dann ist es wichtig das\n dies verst\u00e4ndlich vermittelt wird. Die Schauspieler, allesamt grosse \nund bekannte Namen, machen alle einen guten Job, aber sie stehen hier \nnicht im Fokus, sie dienen lediglich dem Zuschauer die Informationen zu \nvermitteln.<\/p> <p>W\u00e4hrend des Filmes habe ich oft an den Dokumentarfilm <a href=\"http:\/\/www.imdb.com\/title\/tt1645089\/\" rel=\"noreferrer noopener\" target=\"_blank\">Inside Job<\/a> gedacht, welcher sich auch diesem Stoff annahm. Ich hatte das Gef\u00fchl, dass ich es dort besser verstanden habe.<\/p>"},"id":"ebc6aea1-8701-4190-a9c2-39b0d9b1cd54","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2016/03/movie_the-big-short-750x422.jpg)
+Linktext: 
 
-Im Jahre 2008 kam es an der Wall-Street zum knall. Während an verschiedenen Banken massenhaft Mitarbeiter entlassen wurden, rutschte die Welt in eine Wirtschaftskrise. The Big Short zeigt wie all dies entstanden ist.
+----
 
-Was im September 2008 genau passiert ist, können wahrscheinlich nur wenige richtig beurteilen geschweige denn verstehen. Betroffen waren jedoch fast alle und die Auswirkungen spürte man rund um den Globus. Mit Adam McKay, bekannt durch Komödien wie den Anchorman Filmen, nahm sich jemand dieser Thematik an den man so nicht erwarten durfte.
+Linkurl: 
 
-The Big Short ist eine Verfilmung des gleichnamigen Buches vom Finanzjournalist Michael Lewis und zeigt die Geschehnisse anhand von wenigen Figuren die frühzeitig Warnsignale entdeckten und auf das Platzen der Blase am US-Immobilienmarkt Zerfall setzten und somit von der Krise profitierten. Das Thema ist komplex und es werden Begriffe verwendet die für viele keine Bedeutung haben. Der Film ist sich dessen sehr wohl bewusst und wählt eine interessante Methode um es verständlich zu machen. Doch gerade in den wichtigen Passagen gegen Ende des Filmes ging es mir dann ein wenig zu schnell. So wurde es zwar spannend umgesetzt aber vieles dabei habe ich nicht zu 100% verstanden.
+----
 
-Vielleicht ist es auch zu viel verlangt bei Filmen über die Wall-Street alles zu verstehen, doch wenn gerade das "Warum/Weshalb" im Zentrum steht, und nicht die Story von Menschen, dann ist es wichtig das dies verständlich vermittelt wird. Die Schauspieler, allesamt grosse und bekannte Namen, machen alle einen guten Job, aber sie stehen hier nicht im Fokus, sie dienen lediglich dem Zuschauer die Informationen zu vermitteln.
+Quotetext: 
 
-Während des Filmes habe ich oft an den Dokumentarfilm (link: http://www.imdb.com/title/tt1645089/ text: Inside Job target: _blank) gedacht, welcher sich auch diesem Stoff annahm. Ich hatte das Gefühl, dass ich es dort besser verstanden habe.
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

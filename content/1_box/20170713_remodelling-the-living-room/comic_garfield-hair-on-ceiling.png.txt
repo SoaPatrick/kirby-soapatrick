@@ -1,0 +1,9 @@
+Alt: Garfield
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

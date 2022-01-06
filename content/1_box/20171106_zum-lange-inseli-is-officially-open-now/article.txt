@@ -1,8 +1,20 @@
-Title: \"Zum lange Inseli\" is officially open now
+Title: "Zum lange Inseli" is officially open now
 
 ----
 
 Published: 2017-11-06
+
+----
+
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
 
 ----
 
@@ -14,18 +26,32 @@ Tags: Interiour Design, zumlangeinseli
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["zumlangeinseli.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2017\/11\/zumlangeinseli-750x471.jpg","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"8de25f65-ffaa-4030-86a9-88273fbd77cc","isHidden":false,"type":"image"},{"content":{"text":"<p>I remember when I had the idea for my own bar this July. Now 3 months later and with a lot of money spend my bar is done. Last weekend the place had its opening with friends coming over celebrating my birthday and of course, the first of hopefully many more evenings having people over and mixing fine drinks.<\/p><p>When I write <em>the bar is done, <\/em>that of course is not really the truth because this is something that keeps on evolving but I\u2019ve reached a state where I can say it\u2019s the first of many more steps. More picture frames with images of me with friends, other wacky stuff and of course more different kinds of alcohol, cause I need to be able to mix many different drinks.<\/p><p>So far I\u2019ve already discovered fine new drinks like the <strong>Castro Cooler<\/strong>,<strong> The Godfather <\/strong>and a very taste<strong> Amaretto Sour<\/strong>. So I\u2019m curious what other drinks I will discover in the near future.<\/p>"},"id":"48e7cb07-106f-471e-8aea-557d35d0b6c2","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2017/11/zumlangeinseli-750x471.jpg)
+Linktext: 
 
-I remember when I had the idea for my own bar this July. Now 3 months later and a lot of money spend my bar is done. Last weekend the place had its opening with friends coming over celebrating my birthday and of course, the first of hopefully many more evenings having people over and mixing fine drinks.
+----
 
-When I write _the bar is done,_ that of course not really the truth because this is something that keeps on evolving but I've reached a state where I can say it's the first of many more steps. More picture frames with images of me with friends, other wacky stuff and of course more different kinds of alcohol, cause I need to be able to mix many different drinks.
+Linkurl: 
 
-So far I've already discovered fine new drinks like the **Castro Cooler**, **The Godfather** and a very taste **Amaretto Sour**. So I'm curious what other drinks I will discover in the near future.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

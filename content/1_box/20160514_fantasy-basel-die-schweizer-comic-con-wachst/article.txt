@@ -6,6 +6,18 @@ Published: 2016-05-14
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,26 +26,32 @@ Tags: fantasy-basel
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["fantasy-basel-2016.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2016\/05\/story_fantasy-basel-2016-e1462733387763-750x422.png","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"bfba78fb-50f0-4355-a1d1-3f480ae14875","isHidden":false,"type":"image"},{"content":{"text":"<p>Im zweiten Jahr der Fantasy Basel, hat die Messe ihre Ausstellungsfl\u00e4che verdoppelt und dabei auch fast die Besucherzahl.<\/p> <p>Ich war gespannt was mich an der Fantasy Basel erwarten w\u00fcrde, \nwieviele Besucher hat es, wieviele davon sind verkleidet, was werden die\n St\u00e4nde pr\u00e4sentieren? Nun die Messe hat mich in vielen Dingen positiv \n\u00fcberrascht, aber sie hat definitiv noch Steigerungspotential und ich bin\n Zuversichtlich, dass hier was Interessantes am wachsen ist.<\/p> <p>Aus dem Tram zu steigen und die endlose Warteschlange sehen war \neindr\u00fccklich, auch die \u00fcberraschend hohe Zahl an Cosplays. Von diesem \nMoment an wusste ich, dass dies ein interessanter Tag werden k\u00f6nnte. \nNach 40 Minuten anstehen ging es dann endlich ins Innere. Die ersten \nSt\u00e4nde haben vielleicht noch nicht viel Charme verspr\u00fcht und die \nAtmosph\u00e4re der Halle hat mich auch nicht \u00fcberzeugt, aber was die St\u00e4nde \nverkauften hat doch das ein oder andere Mal ein Schmunzel verursacht. \nNat\u00fcrlich hat es auch Dinge gegeben, die ich gerne gekauft h\u00e4tte aber \nich habe mich bewusst zur\u00fcck genommen.<\/p> <p>In der moderneren Halle ging es dann richtig zur Sache. Auf der einen\n Seite hatte es unz\u00e4hlige K\u00fcnstler die ihre Werke pr\u00e4sentierten, und es \nwaren unglaubliche K\u00fcnstler darunter, auf der anderen Seite fand man die\n grossen Unternehmen oder Studios die ihre Neuheiten vorstellten. Als \nFan f\u00fchlte ich mich wie im Schlaraffenland und wusste nicht wo hinsehen \noder hinlaufen. Star Wars Figuren, Comic Figuren und ein Jack Sparrow \nCosplay der dem Original be\u00e4ngstigend nahe kam.<\/p> <p>Doch die Messe war zu klein um sich Tickets f\u00fcr alle drei Tage zu \nkaufen (ausser man hatte Interesse an all den Veranstaltungen die sich \n\u00fcber die drei Tage verteilten). Denn nach kurzer Zeit habe ich das \nWichtigste gesehen ich habe mich mehrmals vor den gleichen St\u00e4nden \nwieder gefunden.<\/p> <p>Auch die M\u00f6glichkeit zu trinken oder essen muss verbessert werden. \nDas Angebot war schlicht zu klein und zu fokussiert auf einen Ort. Aber \nes muss ja Verbesserungspotential geben.<\/p> <p>N\u00e4chstes Jahr werde ich wieder am Start sein und vielleicht sogar verkleidet!<\/p>"},"id":"056928dd-3939-4652-b59a-1ece1b548aba","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2016/05/story_fantasy-basel-2016-e1462733387763-750x422.png)
+Linktext: 
 
-Im zweiten Jahr der Fantasy Basel, hat die Messe ihre Ausstellungsfläche verdoppelt und dabei auch fast die Besucherzahl.
+----
 
-Ich war gespannt was mich an der Fantasy Basel erwarten würde, wieviele Besucher hat es, wieviele davon sind verkleidet, was werden die Stände präsentieren? Nun die Messe hat mich in vielen Dingen positiv überrascht, aber sie hat definitiv noch Steigerungspotential und ich bin Zuversichtlich, dass hier was Interessantes am wachsen ist.
+Linkurl: 
 
-Aus dem Tram zu steigen und die endlose Warteschlange sehen war eindrücklich, auch die überraschend hohe Zahl an Cosplays. Von diesem Moment an wusste ich, dass dies ein interessanter Tag werden könnte. Nach 40 Minuten anstehen ging es dann endlich ins Innere. Die ersten Stände haben vielleicht noch nicht viel Charme versprüht und die Atmosphäre der Halle hat mich auch nicht überzeugt, aber was die Stände verkauften hat doch das ein oder andere Mal ein Schmunzel verursacht. Natürlich hat es auch Dinge gegeben, die ich gerne gekauft hätte aber ich habe mich bewusst zurück genommen.
+----
 
-In der moderneren Halle ging es dann richtig zur Sache. Auf der einen Seite hatte es unzählige Künstler die ihre Werke präsentierten, und es waren unglaubliche Künstler darunter, auf der anderen Seite fand man die grossen Unternehmen oder Studios die ihre Neuheiten vorstellten. Als Fan fühlte ich mich wie im Schlaraffenland und wusste nicht wo hinsehen oder hinlaufen. Star Wars Figuren, Comic Figuren und ein Jack Sparrow Cosplay der dem Original beängstigend nahe kam.
+Quotetext: 
 
-Doch die Messe war zu klein um sich Tickets für alle drei Tage zu kaufen (ausser man hatte Interesse an all den Veranstaltungen die sich über die drei Tage verteilten). Denn nach kurzer Zeit habe ich das Wichtigste gesehen ich habe mich mehrmals vor den gleichen Ständen wieder gefunden.
+----
 
-Auch die Möglichkeit zu trinken oder essen muss verbessert werden. Das Angebot war schlicht zu klein und zu fokussiert auf einen Ort. Aber es muss ja Verbesserungspotential geben.
+Quotesource: 
 
-Nächstes Jahr werde ich wieder am Start sein und vielleicht sogar verkleidet!
+----
+
+Statustext: 
+
+----
+
+Old: 

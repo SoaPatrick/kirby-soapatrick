@@ -6,6 +6,18 @@ Published: 2014-04-27
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,18 +26,32 @@ Tags: Design, Logo, Soap
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["logo-v16.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2014\/04\/logo-v16b-1500x671.png","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"71e9437e-9bae-4427-9da4-9c1b52fad3af","isHidden":false,"type":"image"},{"content":{"text":"<p>I wanted to change the look of the page for a long time now but I never had the time or the idea of what it should look like. For work, I looked into the Bootstrap framework and realized how simple it is to create a responsive layout with it. So over Eastern, I had some time and started to create a simple layout with Bootstrap for SoaPatrick. Now, this weekend I moved that layout into a WordPress theme and this is what it looks like so far. Some things are still missing or not yet implemented (like the Portfolio or Archive) but I thought it\u2019s enough to make it public and work with it further on the live version.<\/p><p>What\u2019s also new is a slightly changed look of the logo on the left. I took the <a href=\"\/box\/and-another-try-at-a-soap-logo\" rel=\"noopener noreferrer\">old one<\/a> and rotated it slightly to make it look more of a letter S instead of the letter P. And I created a new variation with lines instead of full-color spaces. I really like the new direction and the clean look and feel of it. As for the font, I searched long and hard and so far decided to go with Helvetica Neue to keep the clean look.<\/p><p>So I will keep working on the theme here on the live version<\/p>"},"id":"13d9176d-1653-44d4-826c-f9f9fea8d92e","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2014/04/logo-v16b-1500x671.png)
+Linktext: 
 
-I wanted to change the look of the page for a long time now but I never had the time or the idea what it should look like. For work I looked into the Bootstrap framework and realized how simple it is to create a responsive layout with it. So over Eastern I had some time and started to create a simple layout with Bootstrap for SoaPatrick. Now this weekend I moved that layout into a wordpress theme and this is what it looks like so far. Some things are still missing or not yet implemented (like the Portfolio or Archive) but I thought it's enough to make it public and work with it further on the live version.
+----
 
-What's also new is an slightly changed look of the logo on the left. I took the (link: http://soapatrick.com/2014/03/and-another-try-at-a-soap-logo text: old one target: _blank) and rotated it slightly to make it look more of a letter S instead the letter P. And I created a new variation with lines instead of full color spaces. I really like the new direction and the clean look and feel of it. As for the font I searched long and hard and so far decided to go with Helvetica Neue to keep the clean look.
+Linkurl: 
 
-So I will keep working on the theme here on the live version
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

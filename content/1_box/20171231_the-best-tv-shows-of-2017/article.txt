@@ -6,6 +6,18 @@ Published: 2017-12-31
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,56 +26,32 @@ Tags: List, TV Show
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["top-10-best-tvshows-2017.jpg"],"src":"","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"b4e0447a-b7c4-4dc7-ae6f-2f0608c6b288","isHidden":false,"type":"image"},{"content":{"text":"<p>I do think we still live in the golden age of television, the problem is that there is just too much TV to watch and by far not enough time. So finding the right shows to get hooked on is difficult and people still recommend me new shows but I\u2019m simply overbooked with shows I\u2019m already watching regularly. But I think that I had to cut off some shows I used to watch and I\u2019m much more critical these days when I decide to follow a new show.<\/p><p>But let\u2019s get to the point of today\u2019s entry. There was a lot of good stuff on TV this year, some Shows surprised me and others blew me away. So here are my best-seen TV Shows of 2017, counting down from 10:<\/p>"},"id":"b91abc9f-f1e0-4e5d-8873-b2301470b685","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<strong>10. The Leftovers Season 3<\/strong>"},"id":"1b90ca1c-d16a-4fb9-b9b2-16d33706b637","isHidden":false,"type":"heading"},{"content":{"text":"<p>Probably one of the most bizarre high-profile shows on TV and the show had a very satisfying closing season with stellar performances, especially from Carrie Coon. I\u2019m not sure if the whole show makes sense and I never really went to analyze mode with it but the performances and the unpredictability of it made it stand out.<\/p>"},"id":"eb06f0de-e101-4fcb-9d9f-1615fb988f05","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<strong>9. Sherlock Season 3<\/strong>"},"id":"1b7fe849-f8ca-431c-ba10-b2711de1b1bd","isHidden":false,"type":"heading"},{"content":{"text":"<p>Just like Leftovers, Sherlock also ended its run (I assume this is the final season, the last episode sure felt like it). It\u2019s not the strongest Sherlock season, the last episode kinda felt weird, but the second episode was one of the best Sherlock episodes and is the reason the show is on this year's top ten list.<\/p>"},"id":"90c550b1-babb-43b2-976b-03aeaaa46247","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<strong>8. Big Little Lies Season 1<\/strong>"},"id":"c3b29eed-e944-4472-a53a-a32075d71e4f","isHidden":false,"type":"heading"},{"content":{"text":"<p>I love these \u201cone season one story\u201d shows (makes it easier to watch \nit and not commit to years of seasons) and Big Little Lies was a show \nwith lots of surprises when it came to character development, nothing \nseemed to take the easy route and all the characters weren\u2019t just either\n good or bad people but people with flaws who sometimes make bad \ndecisions.<\/p>"},"id":"cf958795-fa38-4c2e-a56d-b1bccf5dfc0c","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<strong>7. Fargo Season 3<\/strong>"},"id":"0de10639-fd57-486f-a40b-7529659e09cf","isHidden":false,"type":"heading"},{"content":{"text":"<p>I had high expectations after Season 2 which for me was the best Show\n of 2016 (or was it 2015). And it didn\u2019t disappoint, sure it ain\u2019t as \ngood as the second season but it still was a strong season with great \nperformances from my breakout star of 2016 Mary Elizabeth Winstead \nand David Thewlis who was bloody good as the disgusting Varga.<\/p>"},"id":"b12888e3-1d51-4d7e-b451-caf8d7769b81","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<strong>6. Better Call Saul Season 3<\/strong>"},"id":"ec17f25d-e513-4b47-a713-ce8b7199b7b9","isHidden":false,"type":"heading"},{"content":{"text":"<p>Who would have thought that a spin-off show based on Breaking Bad \nwould turn out THAT good? After three seasons we\u2019re still not any closer\n to the revelation of how Jimmy McGill became Saul Goodman but really \nwho cares when the show is THAT good?<\/p>"},"id":"3bb01476-f705-4706-8f40-4c49ecbcf3d9","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<strong>5. Mindhunters Season 1<\/strong>"},"id":"87192eb5-0907-49ff-8e97-c919c5ca08b1","isHidden":false,"type":"heading"},{"content":{"text":"<p>David Fincher once again turned to TV and brought us something very \nZodiac like and I was hooked from the very first episode. I love the \nanalytic approach the show has, there\u2019s no real flashy stuff happening \nbut it still is very captivating, especially because some things \nactually happened. Keep more seasons coming!<\/p>"},"id":"cf9d3efa-1cf0-43f6-8420-c78d31175061","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<strong>4. The Good Place Season 1\/Season 2<\/strong>"},"id":"ef76b63f-760f-41e5-80eb-7f47ec73bd0d","isHidden":false,"type":"heading"},{"content":{"text":"<p>Probably the biggest surprise on TV right now, I\u2019d never thought this show would turn out the way it did. For a single-camera 30minute comedy show, this show does things I\u2019ve never thought I\u2019d see from a cable show. I hope it can keep up its pace and keep us viewers surprised because so far it\u2019s one hell (no pun intended) of a ride!<\/p>"},"id":"62cc8cc7-3c73-4bf1-81df-eb794bbeecf6","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<strong>3. Halt and Catch Fire Season 4<\/strong>"},"id":"061972d8-4977-468d-9acd-4d44c219eb70","isHidden":false,"type":"heading"},{"content":{"text":"<p>A show I once started watching because of the subject matter, but it \nkept watching because of the characters and the fourth and final season \nreally reached another level. I will miss this band of misfits!<\/p>"},"id":"0f5b0096-08d6-4b40-8600-12135520e187","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<strong>2. Stranger Things Season 2<\/strong>"},"id":"e38f6d9b-7084-4808-8fc5-d54ee166ba58","isHidden":false,"type":"heading"},{"content":{"text":"<p>Probably the most hyped season of the year, the expectations were enormous and I think it delivered and expanded the mythology and characters. I loved the slow build-up and the adrenaline-pumping finale (episode 7 is one I will never watch again though and can be skipped entirely). I can\u2019t wait for further adventures.<\/p>"},"id":"26e98753-eb61-4017-9c73-5e43ed5a539a","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"<strong>1. Game of Thrones Season 7<\/strong>"},"id":"197086cf-1264-4ad8-a040-4f42ea1b1e81","isHidden":false,"type":"heading"},{"content":{"text":"<p>Game of Thrones, What else. The show that for me delivered the biggest spectacle, the most jaw-dropping moments and one of the most satisfying moments in TV history this year! (eat this Littlefinger). The wait for the final season is unbearable but the pressure for those involved must be enormous, Season 8 will be one of the biggest (if not THE biggest) TV Events in history.<\/p>"},"id":"797f8ede-bd77-47f9-b171-b35f1301b347","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2017/12/top-10-best-tvshows-2017_2-750x375.jpg)
+Linktext: 
 
-I do think we still live in the golden age of Television, the problem is that there is just too much TV to watch and by far not enough time. So finding the right shows to get hooked is difficult and people still recommend me new shows but I'm simply overbooked with shows I'm already watching regularly. But I think that I had to cut off some shows I used to watch and I'm much more critical these days when I decide to follow a new show.
+----
 
-But let's get to the point of today's entry. There was a lot of good stuff on TV this year, some Shows surprised me and others blew me away. So here are my best seen TV Shows of 2017, counting down from 10:
+Linkurl: 
 
-## **10\. The Leftovers Season 3**
+----
 
-Probably one of the most bizarre high profile shows on TV and the show had a very satisfying closing season with stellar performances, especially from Carrie Coon. I'm not sure if the whole show makes sense and I never really went to analyze mode with it but the performances and the unpredictability of it made it stand out.
+Quotetext: 
 
-## **9\. Sherlock Season 3**
+----
 
-Just like Leftovers, Sherlock also ended its run (I assume this is the final season, the last episode sure felt like it). It's not the strongest Sherlock season, the last episode kinda felt weird, but the second episode was one of the best Sherlock episodes and is the reason the Show is on this years top ten list.
+Quotesource: 
 
-## **8\. Big Little Lies Season 1**
+----
 
-I love these "one season one story" shows (makes it easier to watch it and not commit to years of seasons) and Big Little Lies was a show with lots of surprises when it came to character development, nothing seemed to take the easy route and all the characters weren't just either good or bad people but people with flaws who sometimes make bad decisions.
+Statustext: 
 
-## **7\. Fargo Season 3**
+----
 
-I had high expectations after Season 2 which for me was the best Show of 2016 (or was it 2015). And it didn't disappoint, sure it ain't as good as the second season but it still was a strong season with great performances from my breakout star of 2016 Mary Elizabeth Winstead and David Thewlis who was bloody good as the disgusting Varga.
-
-## **6\. Better Call Saul Season 3**
-
-Who would have thought that a spin-off show based on Breaking Bad would turn out THAT good? After three seasons we're still not any closer to the revelation of how Jimmy McGill became Saul Goodman but really who cares when the show is THAT good?
-
-## **5\. Mindhunters Season 1**
-
-David Fincher once again turned to TV and brought us something very Zodiac like and I was hooked from the very first episode. I love the analytic approach the show has, there's no real flashy stuff happening but it still is very captivating, especially because some things actually happened. Keep more seasons coming!
-
-## **4\. The Good Place Season 1/Season 2**
-
-Probably the biggest surprise on TV right now, I'd never thought this show would turn out the way it did. For a single camera 30minute comedy show, this show does things I've never thought I'd see from a cable show. I hope it can keep up its pace and keep us viewers surprised because so far it's one hell (no pun intended) of a ride!
-
-## **3\. Halt and Catch Fire Season 4**
-
-A show I once started watching because of the subject matter, but it kept watching because of the characters and the fourth and final season really reached another level. I will miss this band of misfits!
-
-## **2\. Stranger Things Season 2**
-
-Probably the most hyped season of the year, the expectations were enormous and I think it delivered and expanded the mythology and characters. I loved the slow build up and the adrenaline pumping finale (episode 7 is one I will never watch again though and can be skipped entirely). I can't wait for further adventures.
-
-## **1\. Game of Thrones Season 7**
-
-Game of Thrones, What else. The show that for me delivered the biggest spectacle, the most jaw-dropping moments and one of the most satisfying moments in TV history this year! (eat this Littlefinger). The wait for the final season is unbearable but the pressure for those involved must be enormous, Season 8 will be one of the biggest (if not THE biggest) TV Event in history.
+Old: 

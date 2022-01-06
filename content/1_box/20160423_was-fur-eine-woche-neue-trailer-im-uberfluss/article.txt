@@ -6,6 +6,18 @@ Published: 2016-04-23
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,68 +26,32 @@ Tags: Movie, Trailer
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["movie_trailers.png"],"src":"","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"42e0516e-f2e0-4f1f-888b-7285071989c2","isHidden":false,"type":"image"},{"content":{"text":"<p>In gef\u00fchlten zwei Tagen hat es etwa 20 neue Trailers gegeben, ich habe neun davon rausgepickt von Filmen die mich interessieren.<\/p>"},"id":"e222beea-1b15-49c9-8481-a602f7dd9287","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Independence Day Resurgence"},"id":"f1fa8b1c-ac91-4015-bf09-d2dd5d44749b","isHidden":false,"type":"heading"},{"content":{"text":"<p>Der neue Trailer zur Fortsetzung des 1996 Blockbuster Hits macht da \nweiter wo der Teaser aufgeh\u00f6rt hat. Die Figuren bekommen alle ein wenig \nmehr Trailer-Zeit und so werden gewisse Familienstammb\u00e4ume aufgezeigt. \nDer Hauptteil des Trailers ist jedoch der Action gewidmet und auch wenn \nalles gigantisch aussieht fehlt mir das Gewicht solcher Szenen. Werde \nich den Film sehen? Denke ja, alleine schon um das Spektakel auf der \ngrossen Leinwand sehen.<\/p>"},"id":"978aab5e-65b7-45cd-a33b-42e0cc2db96d","isHidden":false,"type":"text"},{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=RfJgT89hEME","caption":""},"id":"d9d22328-8832-4aa1-a351-3f7222196967","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"The Magnificent Seven"},"id":"4d3ebc5e-06e6-48cd-9532-d1a9e18a2b3f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die ersten 30 Sekunden des Trailers gefallen mir sehr, anschliessend \nwird es mir ein wenig zu bunt und zu laut. Ich h\u00e4tte mir an dieser \nStelle mehr Ruhe und ein bedrohliche Atmosph\u00e4re gew\u00fcnscht und nicht \nschnelle Schnitte und coole Spr\u00fcche. Die Schauspieler scheinen Spass zu \nhaben aber neben Denzel Washington und Chris Pratt fallen die anderen \nein wenig ab, hoffe nicht das der Film zu einem <em>Magnificent Duo<\/em> wird.<\/p>"},"id":"da24b138-424f-4341-aebc-8998325fbbdd","isHidden":false,"type":"text"},{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=q-RBA0xoaWU","caption":""},"id":"f85bef22-da97-4e9a-a55b-ba592ea95fa7","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"The Neon Demon"},"id":"31ffa636-1ed1-4ffd-8941-47c1bb5d76e7","isHidden":false,"type":"heading"},{"content":{"text":"<p>Mit <em>Drive<\/em> hat Nicolas Winding Refn einen visuelle eindr\u00fccklichen Film geschaffen. Sein Folgewerk <em>Only God Forgives<\/em> behielt das visuelle bei war jedoch nicht mehr der Kritische Erfolg wie <em>Drive<\/em>.\n In seinem neuen Film verzichtet er auf Ryan Gosling und geht mit einer \nweiblichen Hauptrolle neue Wege. Visuelle sieht der Trailer \u00e4usserst \ninteressant aus und Neon scheint Programm zu sein.<\/p>"},"id":"fd39f091-e6bf-4f5b-a84b-067c9e0a67c9","isHidden":false,"type":"text"},{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=YqFhKdRFPvA","caption":""},"id":"53a79d5d-95b4-4aa4-87bb-b56e3e2048ec","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"Jason Bourne"},"id":"50fdec2a-a6da-448a-ae10-bed98670a522","isHidden":false,"type":"heading"},{"content":{"text":"<p>Nach dem weniger erfolgreichen vierten Bourne Film <em>Bourne Legacy<\/em>\n ohne Jason Bourne (?!?!) hat Matt Damon sein versprechen eingel\u00f6st und \nist zusammen mit Paul Greengrass als Regisseur zur\u00fcckgekehrt. Der \nvisuelle Style ist geblieben und es sieht so aus als m\u00fcsste sich Matt \nDamon wieder einmal mit etlichen Schurken rumschlagen. Die Story bekommt\n zus\u00e4tzlich noch politisch aktuelle Brisanz. Ich vermute das \nEintrittsgeld ist es schon Wert nur der Auto-Verfolgungsjagd in Las \nVegas wegen.<\/p>"},"id":"4db4240a-3c83-4609-8cf7-41b43683db23","isHidden":false,"type":"text"},{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=F4gJsKZvqE4","caption":""},"id":"d47f1172-5362-4bdb-af4d-4f09a8333cb0","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"The Founder"},"id":"6a0ac961-95c6-4fa3-ad48-07cca006b09d","isHidden":false,"type":"heading"},{"content":{"text":"<p>Nach seinem Oscar Erfolg in <em>Birdman<\/em> scheint Michael Keaton \ndefinitiv wieder zur\u00fcck zu sein. Der Film zeigt die wahre Entstehung des\n McDonalds Imperiums und wie Ray Kroc dabei als kniffliger Gesch\u00e4ftsmann\n ein Verm\u00f6gen gemacht hat. Vielleicht nicht unbedingt ein Film den man \nim Kino gesehen haben muss, aber f\u00fcr mich einer den ich auf jeden Fall \nsehen m\u00f6chte. Das einzige was mich ein wenig an der Qualit\u00e4t des Films \nzweifeln l\u00e4sst ist der Regisseur, aber vielleicht \u00fcberrascht er mich ja.<\/p>"},"id":"82ecadfb-706d-488c-adff-525996097048","isHidden":false,"type":"text"},{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=oprJX5BomEc","caption":""},"id":"a56461c6-4365-4250-b062-c118dc21988d","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"The Girl on the Train"},"id":"d5d7fb99-3b86-4d78-a0e8-b55259fea615","isHidden":false,"type":"heading"},{"content":{"text":"<p><em>Gone Girl<\/em> version 2016? Der Trailer scheint auf jeden Fall \ndas gleiche Zielpublikum anzusprechen. Leider kenne ich das Buch nicht \nund kann mir somit nur basierend auf diesem Trailer eine Meinung bilden,\n aber f\u00fcr mich sieht der Trailer aus wie ein Mix aus <em>Gone Girl<\/em> und <em>50 Shades of Grey<\/em>.\n Nichts desto trotz hat dieser Film gen\u00fcgen Schauspieler die einen guten\n Film garantieren m\u00fcssten, allen voran Emily Blunt. Die Hoffnung bleibt \njedoch, dass der Trailer nicht schon zu viel verraten hat.<\/p>"},"id":"61c9662c-a27f-4ab9-9a86-9afb570b98f9","isHidden":false,"type":"text"},{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/youtube.com\/watch?v=-CKPj4O5_9s","caption":""},"id":"303a065c-2cda-4420-be5a-7fbeb0bedcfc","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"The Infiltrator"},"id":"9c10f193-dc8a-4762-83fb-9653f5373c91","isHidden":false,"type":"heading"},{"content":{"text":"<p>Brian Cranston und John Leguizamo scheint ein merkw\u00fcrdiges Duo f\u00fcr \neinen Film zu sein, aber genau das k\u00f6nnte ihn interessant machen. Brian \nCranston zuzusehen ist immer ein Genuss und ich hoffe das <em>Runner Runner<\/em> aus Ausrutscher war, denn <em>Lincoln Lawyer<\/em> war ein ausgezeichneter Film von Brad Furman.<\/p>"},"id":"cc8f1712-7b9e-45e5-ac66-e4fa8692b604","isHidden":false,"type":"text"},{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=7cnUI_ryp2w","caption":""},"id":"e05a0555-76c2-443f-99a4-83f56268c2ff","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"Warcraft"},"id":"4f2ecd7c-7cc6-482c-a13d-381be08c4904","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ich bezeichne mich sicher nicht als Warcraft Fan und w\u00fcrde Duncan \nJones nicht Regie f\u00fchren, w\u00e4re dieser Film nie auf irgend einer Liste \nvon mir. Aber <em>Moon<\/em> und <em>Source Code<\/em> waren spezielle und\n sehr gute Filme also verfolge ich nat\u00fcrlich die Entwicklung dieses \nFilmes mit anderen Augen. Doch was ich bisher und auch in diesem Trailer\n zu sehen bekam, spricht mich einfach nicht an. Dieser hatte zus\u00e4tzlich \nnoch mit dieser gr\u00e4sslichen Techno Musik zu k\u00e4mpfen. Im momentanen \nZustand w\u00fcrde ich bei <em>Warcraft<\/em> von einem Finanziellen Flop ausgehen, aber <em>Avatar<\/em> hat uns gelernt, nie mehr solche Prognosen zu machen.<\/p>"},"id":"106291f3-e630-4b2a-afce-965cd962a1c0","isHidden":false,"type":"text"},{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=65AjY_nRdqE","caption":""},"id":"3c89f0fe-28b9-4cb1-b27c-1516c3ff02b2","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"Equals"},"id":"ae19fd6e-6664-4a25-80eb-e6d2ebcd71dd","isHidden":false,"type":"heading"},{"content":{"text":"<p><em>Like Crazy<\/em> und <em>Breath In<\/em> waren ausgezeichnete, \nintime Independent Filme und auch wenn hier Drake Doremus neuen visuelle\n Wege geht und der Film der Thematik von <em>THX 1138<\/em> sehr \u00e4hnlich ist, bin ich doch sehr gespannt auf diesen Film.<\/p>"},"id":"889377e4-9b30-40ed-a21f-d633a152c0f5","isHidden":false,"type":"text"},{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=_RTN3HnQV3c","caption":""},"id":"9de1d520-3faa-4fac-b372-bd975dd5e0f9","isHidden":false,"type":"video"}]
 
 ----
 
-Old: ![movie_trailers Was für eine Woche, neue Trailer im Überfluss](https://www.soapatrick.com/wp-content/uploads/2016/04/movie_trailers_01-750x395.png)
+Linktext: 
 
-In gefühlten zwei Tagen hat es etwa 20 neue Trailers gegeben, ich habe neun davon rausgepickt von Filmen die mich interessieren.
+----
 
-## Independence Day Resurgence
+Linkurl: 
 
-Der neue Trailer zur Fortsetzung des 1996 Blockbuster Hits macht da weiter wo der Teaser aufgehört hat. Die Figuren bekommen alle ein wenig mehr Trailer-Zeit und so werden gewisse Familienstammbäume aufgezeigt. Der Hauptteil des Trailers ist jedoch der Action gewidmet und auch wenn alles gigantisch aussieht fehlt mir das Gewicht solcher Szenen. Werde ich den Film sehen? Denke ja, alleine schon um das Spektakel auf der grossen Leinwand sehen.
+----
 
-https://www.youtube.com/watch?v=RfJgT89hEME
+Quotetext: 
 
-## The Magnificent Seven
+----
 
-Die ersten 30 Sekunden des Trailers gefallen mir sehr, anschliessend wird es mir ein wenig zu bunt und zu laut. Ich hätte mir an dieser Stelle mehr Ruhe und ein bedrohliche Atmosphäre gewünscht und nicht schnelle Schnitte und coole Sprüche. Die Schauspieler scheinen Spass zu haben aber neben Denzel Washington und Chris Pratt fallen die anderen ein wenig ab, hoffe nicht das der Film zu einem _Magnificent Duo_ wird.
+Quotesource: 
 
-https://www.youtube.com/watch?v=YnD-rBXattk
+----
 
-## The Neon Demon
+Statustext: 
 
-Mit _Drive_ hat Nicolas Winding Refn einen visuelle eindrücklichen Film geschaffen. Sein Folgewerk _Only God Forgives_ behielt das visuelle bei war jedoch nicht mehr der Kritische Erfolg wie _Drive_. In seinem neuen Film verzichtet er auf Ryan Gosling und geht mit einer weiblichen Hauptrolle neue Wege. Visuelle sieht der Trailer äusserst interessant aus und Neon scheint Programm zu sein.
+----
 
-https://www.youtube.com/watch?v=YqFhKdRFPvA
-
-## Jason Bourne
-
-Nach dem weniger erfolgreichen vierten Bourne Film _Bourne Legacy_ ohne Jason Bourne (?!?!) hat Matt Damon sein versprechen eingelöst und ist zusammen mit Paul Greengrass als Regisseur zurückgekehrt. Der visuelle Style ist geblieben und es sieht so aus als müsste sich Matt Damon wieder einmal mit etlichen Schurken rumschlagen. Die Story bekommt zusätzlich noch politisch aktuelle Brisanz. Ich vermute das Eintrittsgeld ist es schon Wert nur der Auto-Verfolgungsjagd in Las Vegas wegen.
-
-https://www.youtube.com/watch?v=F4gJsKZvqE4
-
-## The Founder
-
-Nach seinem Oscar Erfolg in _Birdman_ scheint Michael Keaton definitiv wieder zurück zu sein. Der Film zeigt die wahre Entstehung des McDonalds Imperiums und wie Ray Kroc dabei als kniffliger Geschäftsmann ein Vermögen gemacht hat. Vielleicht nicht unbedingt ein Film den man im Kino gesehen haben muss, aber für mich einer den ich auf jeden Fall sehen möchte. Das einzige was mich ein wenig an der Qualität des Films zweifeln lässt ist der Regisseur, aber vielleicht überrascht er mich ja.
-
-https://www.youtube.com/watch?v=oprJX5BomEc
-
-## The Girl on the Train
-
-_Gone Girl_ version 2016? Der Trailer scheint auf jeden Fall das gleiche Zielpublikum anzusprechen. Leider kenne ich das Buch nicht und kann mir somit nur basierend auf diesem Trailer eine Meinung bilden, aber für mich sieht der Trailer aus wie ein Mix aus _Gone Girl_ und _50 Shades of Grey_. Nichts desto trotz hat dieser Film genügen Schauspieler die einen guten Film garantieren müssten, allen voran Emily Blunt. Die Hoffnung bleibt jedoch, dass der Trailer nicht schon zu viel verraten hat.
-
-https://www.youtube.com/watch?v=-CKPj4O5\_9s
-
-## The Infiltrator
-
-Brian Cranston und John Leguizamo scheint ein merkwürdiges Duo für einen Film zu sein, aber genau das könnte ihn interessant machen. Brian Cranston zuzusehen ist immer ein Genuss und ich hoffe das _Runner Runner_ aus Ausrutscher war, denn _Lincoln Lawyer_ war ein ausgezeichneter Film von Brad Furman.
-
-https://www.youtube.com/watch?v=7cnUI\_ryp2w
-
-## Warcraft
-
-Ich bezeichne mich sicher nicht als Warcraft Fan und würde Duncan Jones nicht Regie führen, wäre dieser Film nie auf irgend einer Liste von mir. Aber _Moon_ und _Source Code_ waren spezielle und sehr gute Filme also verfolge ich natürlich die Entwicklung dieses Filmes mit anderen Augen. Doch was ich bisher und auch in diesem Trailer zu sehen bekam, spricht mich einfach nicht an. Dieser hatte zusätzlich noch mit dieser grässlichen Techno Musik zu kämpfen. Im momentanen Zustand würde ich bei _Warcraft_ von einem Finanziellen Flop ausgehen, aber _Avatar_ hat uns gelernt, nie mehr solche Prognosen zu machen.
-
-https://www.youtube.com/watch?v=65AjY\_nRdqE
-
-## Equals
-
-_Like Crazy_ und _Breath In_ waren ausgezeichnete, intime Independent Filme und auch wenn hier Drake Doremus neuen visuelle Wege geht und der Film der Thematik von _THX 1138_ sehr ähnlich ist, bin ich doch sehr gespannt auf diesen Film.
-
-https://www.youtube.com/watch?v=\_RTN3HnQV3c
+Old: 

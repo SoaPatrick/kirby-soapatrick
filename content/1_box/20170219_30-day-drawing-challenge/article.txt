@@ -6,6 +6,18 @@ Published: 2017-02-19
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,53 +26,32 @@ Tags: Challenge, Drawing
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>In order to get into gears when it comes to creativity and actually do something with my iPad Pro, I decided to do the 30-day drawing challenge, starting tomorrow. The concept isn\u2019t new and googling \u201930 day drawing challenge\u2019 gets a lot of picture results from people doing the challenge (with sometimes different challenges). But I picked the basic one for my first go around and after 30 days I will find out how I did :)<\/p><p>So here\u2019s the list:<\/p>"},"id":"3b0a4b08-d99b-4d2c-af7f-3c9ee34e9ac8","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Day 1: draw yourself<\/li><li>Day 2: favorite animal<\/li><li>Day 3: favorite food<\/li><li>Day 4: favorite place<\/li><li>Day 5: best friend<\/li><li>Day 6: favorite book character<\/li><li>Day 7: favorite word<\/li><li>Day 8: favorite animated character<\/li><li>Day 9: favorite tv show<\/li><li>Day 10: favorite candy<\/li><li>Day 11: turning point in your life<\/li><li>Day 12: most recent accomplishment<\/li><li>Day 13: comic<\/li><li>Day 14: favorite fairytale<\/li><li>Day 15: family portrait<\/li><li>Day 16: inspiration<\/li><li>Day 17: favorite plant<\/li><li>Day 18: a doodle<\/li><li>Day 19: something new<\/li><li>Day 20: something orange<\/li><li>Day 21: something you want<\/li><li>Day 22: something you miss<\/li><li>Day 23: something you need<\/li><li>Day 24: something wild<\/li><li>Day 25: scenery<\/li><li>Day 26: something you don\u2019t like<\/li><li>Day 27: someone you love<\/li><li>Day 28: anything you\u2019d like<\/li><li>Day 29: a place you want to go<\/li><li>Day 30: congratulations banner for finishing the challenge!<\/li><\/ul>"},"id":"77f36fef-e476-475e-acc0-c2186625e3da","isHidden":false,"type":"list"},{"content":{"text":"<p>I will post the results daily on my <a href=\"https:\/\/www.instagram.com\/soapatrick\/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram account<\/a> and maybe a short update here or combine a few days into one update, I don\u2019t know yet.<\/p><p>So in the words of Barney Stinson\u2026<\/p>"},"id":"950ccdc7-d516-4ab0-86fb-ecbbfd8e3d27","isHidden":false,"type":"text"},{"content":{"text":"challenge accepted","citation":"Barney Stinson","style":"large"},"id":"12d2f1ed-a692-4dfb-96f9-bae38e0c54e0","isHidden":false,"type":"quote"}]
 
 ----
 
-Old: In order to get into gears when it comes to creativity and actually do something with my iPad Pro I decided to do the 30-day drawing challenge, starting tomorrow. The concept isn't new and googling '30 day drawing challenge' gets a lot of picture results from people doing the challenge (with sometimes different challenges). But I picked the basic one for my first go around and after 30 days I will find out how I did :)
+Linktext: 
 
-So here's the list:
+----
 
-- Day 1: draw yourself
-- Day 2: favorite animal
-- Day 3: favorite food
-- Day 4: favorite place
-- Day 5: best friend
-- Day 6: favorite book character
-- Day 7: favorite word
-- Day 8: favorite animated character
-- Day 9: favorite tv show
-- Day 10: favorite candy
-- Day 11: turning point in your life
-- Day 12: most recent accomplishment
-- Day 13: comic
-- Day 14: favorite fairytale
-- Day 15: family portrait
-- Day 16: inspiration
-- Day 17: favorite plant
-- Day 18: a doodle
-- Day 19: something new
-- Day 20: something orange
-- Day 21: something you want
-- Day 22: something you miss
-- Day 23: something you need
-- Day 24: something wild
-- Day 25: scenery
-- Day 26: something you don't like
-- Day 27: someone you love
-- Day 28: anything you'd like
-- Day 29: a place you want to go
-- Day 30: congratulations banner for finishing the challenge!
+Linkurl: 
 
-I will post the results daily on my (link: https://www.instagram.com/soapatrick/ text: Instagram account target: _blank) and maybe a short update here or combining a few days into one update, I don't know yet.
+----
 
-So in the words of Barney Stinson...
+Quotetext: 
 
-> challenge accepted
-> 
-> Barney Stinson
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

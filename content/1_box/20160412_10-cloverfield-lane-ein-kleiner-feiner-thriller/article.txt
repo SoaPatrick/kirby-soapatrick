@@ -6,6 +6,18 @@ Published: 2016-04-12
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,28 +26,32 @@ Tags: Movie, Review
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["movie_10-cloverfield-lane_01.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2016\/04\/movie_10-cloverfield-lane-750x422.jpg","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"1a9c564c-fd90-4860-ae15-6c9ac9867f2b","isHidden":false,"type":"image"},{"content":{"text":"<p>J.J. Abrahms und sein Kreativer Think Tank haben erneut wie aus dem Nichts einen neuen Film vorgestellt. Nach <em>Cloverfield<\/em> aus dem Jahre 2008 nun also den etwas kleineren Bruder <em>10 Cloverfield Lane<\/em>, welcher sogar noch besser ist als sein Vorg\u00e4nger.<\/p> <p>Filme sind heutzutage meist sehr vorhersehbar. Auf der einen \nSeite folgen sie einem gewissen Ablauf und bringen so wenig \n\u00dcberraschendes mit f\u00fcr den Zuschauer, auf der andere Seite kann \nman schon Wochen vorher vieles \u00fcber den Film nachlesen. All das ist bei \n10 Cloverfield Lane nicht der Fall, und das macht den Film \n\u00e4usserst interessant.<\/p> <p>J.J. Abrahms, der als Produzent fungierte, liebt die Geheimhaltung. \nSo geschehen auch bei seinen eigenen Filmen wie Star Strek oder erst \nk\u00fcrzlich Star Wars The Force Awakens. Als Filmfan empfinde ich dies als \nerfrischend und freue mich ohne grosses Vorwissen von einem Film \n\u00fcberrascht zu werden, so wie in diesem Fall.<\/p>"},"id":"e5f30e40-017f-456e-a7cf-f26a2fc70477","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["movie_10-cloverfield-lane_02.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2016\/04\/movie_10-cloverfield-lane_02-750x422.jpg","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"fa609725-aab6-44b7-afb7-234a0f6a98c8","isHidden":false,"type":"image"},{"content":{"text":"<p>Der Film erz\u00e4hlt die Geschichte von Michelle (ausgezeichnet gespielt \nvon Mary Elizabeth Winstead) die nach einem Unfall im Bunker von Howard \n(John Goodman genial wie immer) aufwacht. Was folgt ist ein psychisches \nDuell auf h\u00f6chstem Niveau bei welchem der Zuschauer nie genau weiss was \ner glauben soll. Ist die Welt durch Atomangriffe zerst\u00f6rt worden? Ist \nHoward ein paranoider Spinner? Zus\u00e4tzlich zu den zwei gesellt sich Emmet\n (gespielt von John Gallagher Jr.) welcher neben den zwei anderen \nSchauspielern leider leicht abf\u00e4llt.<\/p> <p>An dieser Stelle mehr zu erz\u00e4hlen w\u00fcrde dem Filmerlebnis schaden da \nes packend anzusehen ist, wie sich die Geschichte und die Figuren \nentwickeln. Der Handlungsverlauf mag nicht immer gefallen aber der Film \nfesselt einen und man h\u00e4lt es vor Spannung kaum mehr ruhig auf dem Sitz \naus. Speziell gef\u00e4llt mir, dass die Figuren clever und intelligent sind \nund man nie das Gef\u00fchl bekommt man m\u00fcsse ihnen zurufen was sie zu tun \nh\u00e4tten.<\/p> <p>Ich auf jeden Fall habe mich bestens unterhalten und nach l\u00e4ngerem \nNachdenken wurde mir auch vieles klar was kurz nach dem Film wenig Sinn \nergab oder f\u00fcr Verwirrung sorgte.<\/p>"},"id":"54acca34-1e10-40af-93ef-cd7911b1b3e2","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2016/04/movie_10-cloverfield-lane-750x422.jpg)
+Linktext: 
 
-J.J. Abrahms und sein Kreativer Think Tank haben erneut wie aus dem Nichts einen neuen Film vorgestellt. Nach _Cloverfield_ aus dem Jahre 2008 nun also den etwas kleineren Bruder _10 Cloverfield Lane_, welcher sogar noch besser ist als sein Vorgänger.
+----
 
-Filme sind heutzutage meist sehr vorhersehbar. Auf der einen Seite folgen sie einem gewissen Ablauf und bringen so wenig Überraschendes mit für den Zuschauer, auf der andere Seite kann man schon Wochen vorher vieles über den Film nachlesen. All das ist bei 10 Cloverfield Lane nicht der Fall, und das macht den Film äusserst interessant.
+Linkurl: 
 
-J.J. Abrahms, der als Produzent fungierte, liebt die Geheimhaltung. So geschehen auch bei seinen eigenen Filmen wie Star Strek oder erst kürzlich Star Wars The Force Awakens. Als Filmfan empfinde ich dies als erfrischend und freue mich ohne grosses Vorwissen von einem Film überrascht zu werden, so wie in diesem Fall.
+----
 
-![John Goodman and Mary Elizabeth Winstead liefern sich ein packendes Duell](https://www.soapatrick.com/wp-content/uploads/2016/04/movie_10-cloverfield-lane_02-750x422.jpg)
+Quotetext: 
 
-John Goodman and Mary Elizabeth Winstead liefern sich ein packendes Duell
+----
 
-Der Film erzählt die Geschichte von Michelle (ausgezeichnet gespielt von Mary Elizabeth Winstead) die nach einem Unfall im Bunker von Howard (John Goodman genial wie immer) aufwacht. Was folgt ist ein psychisches Duell auf höchstem Niveau bei welchem der Zuschauer nie genau weiss was er glauben soll. Ist die Welt durch Atomangriffe zerstört worden? Ist Howard ein paranoider Spinner? Zusätzlich zu den zwei gesellt sich Emmet (gespielt von John Gallagher Jr.) welcher neben den zwei anderen Schauspielern leider leicht abfällt. 
+Quotesource: 
 
-An dieser Stelle mehr zu erzählen würde dem Filmerlebnis schaden da es packend anzusehen ist, wie sich die Geschichte und die Figuren entwickeln. Der Handlungsverlauf mag nicht immer gefallen aber der Film fesselt einen und man hält es vor Spannung kaum mehr ruhig auf dem Sitz aus. Speziell gefällt mir, dass die Figuren clever und intelligent sind und man nie das Gefühl bekommt man müsse ihnen zurufen was sie zu tun hätten.
+----
 
-Ich auf jeden Fall habe mich bestens unterhalten und nach längerem Nachdenken wurde mir auch vieles klar was kurz nach dem Film wenig Sinn ergab oder für Verwirrung sorgte.
+Statustext: 
+
+----
+
+Old: 

@@ -6,7 +6,11 @@ Published: 2014-03-03
 
 ----
 
-Category: Thoughts on stuff
+Cover: 
+
+----
+
+Files: 
 
 ----
 
@@ -14,12 +18,40 @@ Format: standard
 
 ----
 
-Cover: 
+Category: Thoughts on stuff
 
 ----
 
-Old: After months of doing nothing artistically I seem to found my mojo/groove again or whatever you wanna call it. It all started with looking (once again) at my logo and realizing that I'm not happy with it. So that got me into the process of doing something once again and then it just kinda started to flow, albeit slowly, and I do enjoy this new found spirit immensely.
+Tags: Personal
 
-So what will happen over the next few days (maybe starting today) is I will lay it all down here and go into further details of the process and where I want to head with this place because I've been doing some thinking of that part as well.
+----
 
-So stay tuned for more
+Project: 
+
+----
+
+Text: [{"content":{"text":"<p>After months of doing nothing artistically, I seem to found my mojo\/groove again or whatever you wanna call it. It all started with looking (once again) at my logo and realizing that I\u2019m not happy with it. So that got me into the process of doing something once again and then it just kinda started to flow, albeit slowly, and I do enjoy this newfound spirit immensely.<\/p><p>So what will happen over the next few days (maybe starting today) is I will lay it all down here and go into further details of the process and where I want to head with this place because I\u2019ve been doing some thinking of that part as well.<\/p><p>So stay tuned for more<\/p>"},"id":"4e789275-4a84-437f-bfcb-e03f0ab47081","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

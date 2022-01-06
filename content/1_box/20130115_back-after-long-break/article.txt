@@ -6,7 +6,11 @@ Published: 2013-01-15
 
 ----
 
-Category: Thoughts on stuff
+Cover: 
+
+----
+
+Files: 
 
 ----
 
@@ -14,8 +18,40 @@ Format: standard
 
 ----
 
-Cover: 
+Category: Thoughts on stuff
 
 ----
 
-Old: Well this was a rather busy time recently. I had a lot of stressfull weeks behind me where I had to focus on a lot of school stuff. But that's all over, for now, and I can finally spend some time again on this place here and I did some thinking very recently about this place, especially the structure and the design of the page, and I will try to put this down on paper really quick so that it's out of my head. So I look forward to the next few days and some new posts I will write.
+Tags: Personal
+
+----
+
+Project: 
+
+----
+
+Text: [{"content":{"text":"<p>Well, this was a rather busy time recently. I had a lot of stressful weeks behind me where I had to focus on a lot of school stuff. But that\u2019s all over, for now, and I can finally spend some time again on this place here and I did some thinking very recently about this place, especially the structure and the design of the page, and I will try to put this down on paper really quick so that it\u2019s out of my head. So I look forward to the next few days and some new posts I will write.<\/p>"},"id":"876a1e5a-f406-45c9-98da-0028e56a6feb","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

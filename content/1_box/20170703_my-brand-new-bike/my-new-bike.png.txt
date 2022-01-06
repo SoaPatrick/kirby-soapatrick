@@ -1,0 +1,9 @@
+Alt: My new bike
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

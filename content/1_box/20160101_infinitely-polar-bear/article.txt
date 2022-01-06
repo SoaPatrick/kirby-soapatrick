@@ -6,6 +6,18 @@ Published: 2016-01-01
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,14 +26,32 @@ Tags: Movie, Review
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["movie_infinitely-polar-bear.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2016\/01\/movie_infinitely-polar-bear-750x422.png","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"d89b2f8d-fb10-485f-8a4a-2966252f0277","isHidden":false,"type":"image"},{"content":{"text":"<p>A Movie that caught me a bit off guard on how funny it turned out to be. Sure the subject matter is a serious one and they never really make fun of it but still, the movie is funny but also shows a big heart and the performance of the two girls (who are new to acting according to the IMDb) are phenomenal. There\u2019s nothing really to complain but then it doesn\u2019t rise to absolute greatness (apart from the girls)<\/p>"},"id":"03acaca3-326c-4e4e-b727-2a5ed3dc0c99","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2016/01/movie_infinitely-polar-bear-750x422.png)
+Linktext: 
 
-A Movie that caught me a bit off guard on how funny it turned out to be. Sure the subject matter is a serious one and they never really make fun of it but still the movie is funny but also shows a big heart and the performance of the two girls (who are new to acting according to the IMDb) are phenomenal. There's nothing really to complain but then it doesn't rise to absolute greatness (apart from the girls)
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

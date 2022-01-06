@@ -6,11 +6,11 @@ Published: 2016-01-01
 
 ----
 
-Category: Thoughts on stuff, thoughts-on-stuff
+Cover: 
 
 ----
 
-Tags: Review
+Files: 
 
 ----
 
@@ -18,8 +18,40 @@ Format: standard
 
 ----
 
-Cover: 
+Category: Stuff thats happening
 
 ----
 
-Old: Well I thought I could review or rate some Movies I've seen this year. I'm not sure what the definite look of those reviews will be, I'm still playing around with some ideas in my head but I'd love to at least give the movies I've seen a rating and maybe do the same for TV-Shows.
+Tags: Review
+
+----
+
+Project: 
+
+----
+
+Text: [{"content":{"text":"<p>Well, I thought I could review or rate some Movies I\u2019ve seen this year. I\u2019m not sure what the definite look of those reviews will be, I\u2019m still playing around with some ideas in my head but I\u2019d love to at least give the movies I\u2019ve seen a rating and maybe do the same for TV-Shows.<\/p>"},"id":"052db062-320c-4553-9305-f8d77c9bc116","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

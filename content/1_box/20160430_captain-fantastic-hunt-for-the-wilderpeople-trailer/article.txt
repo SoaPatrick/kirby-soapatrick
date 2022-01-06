@@ -6,6 +6,20 @@ Published: 2016-04-30
 
 ----
 
+Cover: 
+
+----
+
+Files:
+
+- movie_trailers.png
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,24 +28,32 @@ Tags: Movie, Trailer
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>Neben all den Blockbuster Filmen die regelm\u00e4ssig im Sommer \nerscheinen, gibt es auch ein paar kleine Filme die man im Auge behalten \nsollte.<\/p>"},"id":"0c9d005b-7843-4f18-b844-770e8e68742f","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Captain Fantastic"},"id":"a9d11984-3a03-4b02-9cf0-614126ec9fe6","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ein Familie und ihr Vater die abseits jeglicher Gesellschaft lebt \nwird genau mit dieser konfrontiert als ihre Mutter stirbt. Der Film \nk\u00f6nnte ein paar interessante Punkte thematisieren. Sieht nach einem \nemotionalen Film ohne Kitsch aus.<\/p>"},"id":"097450d8-5673-42b9-971e-005e2070c596","isHidden":false,"type":"text"},{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=w5jeBvjcJe4","caption":""},"id":"06f424aa-4087-40d2-9378-316b59032e8e","isHidden":false,"type":"video"},{"content":{"level":"h2","text":"Hunt for the Wilderpeople"},"id":"b79e99b5-76cf-41a7-971f-ea2cd922f14c","isHidden":false,"type":"heading"},{"content":{"text":"<p>Taika Waititi scheint ein aufstrebender Neuseel\u00e4ndischer Regisseur zu sein. Seine Vampir Kom\u00f6die <em>What We Do in the Shadows<\/em>\n hat sogar Marvel auf den Plan gerufen und nun darf er beim neuen Thor \nFilm Regie f\u00fchren. Sein neuster Streich sieht sehr unterhaltsam aus und \nk\u00f6nnte nebst wunderbaren Figuren auch einen visuellen humorvollen Stil \nmit sich bringen (etwas das viele Hollywood Kom\u00f6dien vermissen lassen).<\/p>"},"id":"05008074-260b-4714-9852-cce513ed7758","isHidden":false,"type":"text"},{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=tICv8QH3oM0","caption":""},"id":"2e16394b-468c-43a6-a8e2-b299d720eab8","isHidden":false,"type":"video"}]
 
 ----
 
-Old: Neben all den Blockbuster Filmen die regelmässig im Sommer erscheinen, gibt es auch ein paar kleine Filme die man im Auge behalten sollte.
+Linktext: 
 
-## Captain Fantastic
+----
 
-Ein Familie und ihr Vater die abseits jeglicher Gesellschaft lebt wird genau mit dieser konfrontiert als ihre Mutter stirbt. Der Film könnte ein paar interessante Punkte thematisieren. Sieht nach einem emotionalen Film ohne Kitsch aus.
+Linkurl: 
 
-https://www.youtube.com/watch?v=w5jeBvjcJe4
+----
 
-## Hunt for the Wilderpeople
+Quotetext: 
 
-Taika Waititi scheint ein aufstrebender Neuseeländischer Regisseur zu sein. Seine Vampir Komödie _What We Do in the Shadows_ hat sogar Marvel auf den Plan gerufen und nun darf er beim neuen Thor Film Regie führen. Sein neuster Streich sieht sehr unterhaltsam aus und könnte nebst wunderbaren Figuren auch einen visuellen humorvollen Stil mit sich bringen (etwas das viele Hollywood Komödien vermissen lassen).
+----
 
-https://www.youtube.com/watch?v=tICv8QH3oM0
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

@@ -6,6 +6,18 @@ Published: 2016-04-30
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,28 +26,32 @@ Tags: Movie, Review
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["movie_the-jungle-book-2016_01.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2016\/04\/movie_the-jungle-book-2016-750x469.jpg","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"46a1ecc4-8e42-4fbc-b4e0-91b0fc1c09f8","isHidden":false,"type":"image"},{"content":{"text":"<p>Disney hat sich zum Ziel gesetzt, ihr Animationskalatog neu zu \nverfilmen, in Live-Action. Nicht immer gelingt dies, doch The Jungle \nBook ist eine \u00e4usserst gelungene Neuverfilmung.<\/p> <p>Ich muss ehrlich zugeben, dass mein Interesse zu begin m\u00e4ssig wahr. \nDie Trailer waren gut gemacht, jedoch hatte ich Bef\u00fcrchtungen die \nAnimationen w\u00fcrden zu kindlich sein. Nun die \u00e4usserst positiven Kritiken\n haben mich dazu bewegt den Film doch noch im Kino zu sehen und ich bin \nfroh lag ich mit meiner ersten Einsch\u00e4tzung falsch.<\/p> <p>Der <em>Jungle Book<\/em> Animations Film aus dem Jahre 1967 ruft bei \nvielen sch\u00f6ne Kindheitserfahrungen hervor und viele erinnern sich \nmehrheitlich an die eing\u00e4ngigen Songs. Die Story jedoch war nie \naussergew\u00f6hnlich, sie diente oft dazu Mowgli von Situation zu Situation \nzu bringen um einen weiteren Song zu spielen.<\/p> <p>Diese neue Verfilmung beh\u00e4lt die Story im grossen und ganzen bei, \nverzichtet jedoch auf viele der musikalischen Nummern und daf\u00fcr wurde \ndie Geschichte mit mehr Tiefgang erz\u00e4hlt. Zus\u00e4tzlich hat der Film einen \nder besten B\u00f6sewichte der letzten Jahre. Jede Minute in der Shere Khan \nauf der Leinwand zu sehen ist, ist ein Highlight des Films, das andere \nHighlight ist der furchteinfl\u00f6ssende Auftritt von King Louie \n(fantastisch gesprochen von Christopher Walken). Als Kontrast zu all den\n bedrohlichen Figuren dient Balu (Bill Murray), der dem Film viel Humor \nverleiht und f\u00fcr die besten Lacher des Films verantwortlich ist.<\/p>"},"id":"c273d9a1-b18b-414c-b23e-9482afcdc763","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["movie_the-jungle-book-2016_02.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2016\/04\/movie_the-jungle-book-2016_02-750x499.jpg","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"f42be859-3f74-4c88-ac8a-e4115d41a7a5","isHidden":false,"type":"image"},{"content":{"text":"<p>Was mich positive \u00fcberrascht hat ist der Auftritt der einzigen realen\n Figur, dem jungen Neil Sethi. Je l\u00e4nger der Film dauerte ums besser \nwurde er und dies ohne dabei reale Schauspielpartner neben sich zu \nhaben. Die Interaktionen zwischen ihm und den Tieren waren makellos, so \ndass man nach nur wenigen Minuten nicht mehr daran dachte hier digitale \nFiguren zu sehen. Sowieso waren die Computeranimationen sprich \nunglaublich, man kann es kaum glauben, dass der Film komplett in einem \nStudio gedreht wurde.<\/p> <p>Was mich jedoch \u00fcberraschte war die Intensit\u00e4t dieses Filmes, ist es \nam Ende immer noch ein Kinderfilm. Ich jedoch w\u00fcrde diesen Film \nniemanden unter 10 Jahren zutrauen, f\u00fcr das ist er schlicht zu brutal. \nF\u00fcr meinen Filmgenuss tat dies jedoch kein Abbruch und so kann ich den \nFilm jedem empfehlen der schon den Disney Klassiker gut fand.<\/p>"},"id":"4ea95244-f5ff-469a-8788-5554afb2d531","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2016/04/movie_the-jungle-book-2016-750x469.jpg)
+Linktext: 
 
-Disney hat sich zum Ziel gesetzt, ihr Animationskalatog neu zu verfilmen, in Live-Action. Nicht immer gelingt dies, doch The Jungle Book ist eine äusserst gelungene Neuverfilmung.
+----
 
-Ich muss ehrlich zugeben, dass mein Interesse zu begin mässig wahr. Die Trailer waren gut gemacht, jedoch hatte ich Befürchtungen die Animationen würden zu kindlich sein. Nun die äusserst positiven Kritiken haben mich dazu bewegt den Film doch noch im Kino zu sehen und ich bin froh lag ich mit meiner ersten Einschätzung falsch.
+Linkurl: 
 
-Der _Jungle Book_ Animations Film aus dem Jahre 1967 ruft bei vielen schöne Kindheitserfahrungen hervor und viele erinnern sich mehrheitlich an die eingängigen Songs. Die Story jedoch war nie aussergewöhnlich, sie diente oft dazu Mowgli von Situation zu Situation zu bringen um einen weiteren Song zu spielen.
+----
 
-Diese neue Verfilmung behält die Story im grossen und ganzen bei, verzichtet jedoch auf viele der musikalischen Nummern und dafür wurde die Geschichte mit mehr Tiefgang erzählt. Zusätzlich hat der Film einen der besten Bösewichte der letzten Jahre. Jede Minute in der Shere Khan auf der Leinwand zu sehen ist, ist ein Highlight des Films, das andere Highlight ist der furchteinflössende Auftritt von King Louie (fantastisch gesprochen von Christopher Walken). Als Kontrast zu all den bedrohlichen Figuren dient Balu (Bill Murray), der dem Film viel Humor verleiht und für die besten Lacher des Films verantwortlich ist.
+Quotetext: 
 
-![Shere Khan beängstigend gut gesprochen von Idris Elba](https://www.soapatrick.com/wp-content/uploads/2016/04/movie_the-jungle-book-2016_02-750x499.jpg)
+----
 
-Shere Khan beängstigend gut gesprochen von Idris Elba
+Quotesource: 
 
-Was mich positive überrascht hat ist der Auftritt der einzigen realen Figur, dem jungen Neil Sethi. Je länger der Film dauerte ums besser wurde er und dies ohne dabei reale Schauspielpartner neben sich zu haben. Die Interaktionen zwischen ihm und den Tieren waren makellos, so dass man nach nur wenigen Minuten nicht mehr daran dachte hier digitale Figuren zu sehen. Sowieso waren die Computeranimationen sprich unglaublich, man kann es kaum glauben, dass der Film komplett in einem Studio gedreht wurde.
+----
 
-Was mich jedoch überraschte war die Intensität dieses Filmes, ist es am Ende immer noch ein Kinderfilm. Ich jedoch würde diesen Film niemanden unter 10 Jahren zutrauen, für das ist er schlicht zu brutal. Für meinen Filmgenuss tat dies jedoch kein Abbruch und so kann ich den Film jedem empfehlen der schon den Disney Klassiker gut fand.
+Statustext: 
+
+----
+
+Old: 

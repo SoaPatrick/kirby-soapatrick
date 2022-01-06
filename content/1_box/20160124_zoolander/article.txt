@@ -6,6 +6,18 @@ Published: 2016-01-24
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,14 +26,32 @@ Tags: Movie, Review
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["movie_zoolander.png"],"src":"","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"9cfb08f3-cd36-40aa-9876-a4a6bd47c56f","isHidden":false,"type":"image"},{"content":{"text":"<p>With all the publicity of the Sequel, I thought it\u2019s a good time to go back and rewatch the original Zoolander from 2001. While Watching it, especially the second act, I realized that I remembered it a bit better. The first part certainly has its funny moments and getting to know Derek and his sweet and naive and yet dumb character brings a lot to it but as we move on the movie starts to drag (as a 90 minutes movie that\u2019s kinda tough). But nonetheless, I look forward to the sequel and hope apart from the satirical look on the fashion industry and the stupidity of Zoolander and models in general the sequel has something new to offer.<\/p>"},"id":"5c26cba2-12d8-418a-b9b5-fe981665bbd9","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2016/01/movie_zoolander-750x422.png)
+Linktext: 
 
-With all the publicity of the Sequel I thought it's a good time to go back and rewatch the original Zoolander from 2001. While Watching it, especially the second act, I realized that I remembered it a bit better. The first part certainly has its funny moments and getting to know Derek and his sweet and naive and yet dumb character brings a lot to it but as we move on the movie starts to drag (as a 90 minutes movie that's kinda tough). But nonetheless I look forward to the sequel and hope apart from the satyrical look on the fashion industry and the stupidity of Zoolander and models in general the sequel has something new to offer.
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

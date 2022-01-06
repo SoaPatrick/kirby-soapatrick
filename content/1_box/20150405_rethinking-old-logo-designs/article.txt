@@ -6,6 +6,18 @@ Published: 2015-04-05
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,16 +26,32 @@ Tags: Design, Logo, Soap
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["soap4.png"],"src":"","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"3f0a4b01-d532-49b9-9ac4-b811dd3030f9","isHidden":false,"type":"image"},{"content":{"text":"<p>I was cruising through the Google Image Gallery with the search term \u201c<a href=\"https:\/\/www.google.ch\/search?q=soap+logo&amp;safe=off&amp;biw=1615&amp;bih=1149&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ei=BesgVa99geI4spuBkAI&amp;sqi=2&amp;ved=0CAYQ_AUoAQ\" target=\"_blank\" rel=\"noopener noreferrer\">Soap Logo<\/a>\u201d and I was surprised to see many of my design iterations made it on this list and there I also saw my <a href=\"\/box\/soap-logo-v4\" rel=\"noopener noreferrer\">liquid soap dispenser logo<\/a> again which actually turned out quite nicely but for the first time, I realized what\u2019s bothering me. The Logo was still too complex, so I decided to first make the lines thicker and second reduce complexity.<\/p><p>What is seen above is the original on the left and a new iteration on the right. This was done in a rather short time frame just to see if it\u2019s something that\u2019s worth exploring. The thickness of the ring is something that needs some work I think and also the liquid itself. I idea which popped into my head was to incorporate the swoosh from my <a href=\"\/factory\/soap-v3\" rel=\"noopener noreferrer\">version 3<\/a>.<\/p>"},"id":"2084ea8b-5f51-4dce-94c0-a2f23ce6aaa0","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2015/04/soap4_6-750x530.png)
+Linktext: 
 
-I was cruising through the Google Image Gallery with the search term "(link: https://www.google.ch/search?q=soap+logo&safe=off&biw=1615&bih=1149&source=lnms&tbm=isch&sa=X&ei=BesgVa99geI4spuBkAI&sqi=2&ved=0CAYQ_AUoAQ text: Soap Logo target: _blank)" and I was surprised to see many of my design iterations made it on this list and there I also saw my (link: http://soapatrick.com/2014/03/soap-logo-v4 text: liquid soap dispenser logo target: _blank) again which actually turned out quite nicely but for the first time I realized what's bothering me. The Logo was still too complex, so I decided to first make the lines thicker and second reduce complexity.
+----
 
-What is seen above is the original on the left and a new iteration on the right. This was done in a rather short time frame just to see if it's something that's worth exploring. The thickness of the ring is something that needs some work I think and also the liquid itself. I idea which popped into my head was to incorporate the swoosh from my (link: http://soapatrick.com/factory/soap-v3 text: version 3 target: _blank).
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

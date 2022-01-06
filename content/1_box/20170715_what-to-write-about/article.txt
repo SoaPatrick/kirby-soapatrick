@@ -6,6 +6,18 @@ Published: 2017-07-15
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,22 +26,32 @@ Tags: Writing
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["writing.jpg"],"src":"","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"3624c74f-b1d0-46e3-82d2-9c01c0f2ef47","isHidden":false,"type":"image"},{"content":{"text":"<p>When I started writing again this month I had this urge to just let \u201cthe World\u201d know what I\u2019m up to. I know that \u201cthe World\u201d is currently one or two-person, but that\u2019s beside the point. I have so many thoughts in my head which I have to put out there to make room for new thoughts. When I included the whole AGCN Archive (lots of months and even years are still missing) I realized how much fun I had writing these daily updates all with a small dose of something personal.<\/p><p>I know that writing just for the sake of writing without a purpose and structure is useless. Everything needs structure, like every movie, tv-show or just a joke. Every story told needs a structure to entertain and grab someone's attention otherwise they would leave. Because let\u2019s face it, in today\u2019s age we have so many distractions and things to do that if something doesn\u2019t grab our attention, the chance of that person leaving doing something \u2018better\u2019 is very likely.<\/p><p>Sooooo\u2026 What is my intention? If I plan to write down my thoughts or my experiences they need to be entertaining and woven in a three-act structure:<\/p><p><strong>Setup \u2192 Confrontation \u2192 Resolution<\/strong><\/p><p>Of course, a three-act structure is a bit more complicated but it can be summarized pretty neatly into these 3 steps. I don\u2019t know if this will work for all my blog posts or if I will be good at it, but it\u2019s something I want to try. So to my two readers out there. Are you ready to be entertained ;)<\/p>"},"id":"035a98c2-44f7-4f3a-a4fe-a91415945ea4","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2017/07/writing-1500x794.jpg)
+Linktext: 
 
-When I started writing again this month I had this urge to just let "the World" know what I'm up to. I know that "the World" is currently one or two person, but that's beside the point. I have so many thoughts in my head which I have to put out there to make room for new thoughts. When I included the whole AGCN Archive (lots of months and even years are still missing) I realized how much fun I had writing these daily updates all with a small dose of something personal.
+----
 
-I know that writing just for the sake of writing without a purpose and structure is useless. Everything needs structure, like every movie, tv show or just a joke. Every story told needs a structure to entertain and grab someones attention otherwise they would leave. Because let's face it, in today's age we have so many distractions and things to do that if something doesn't grab our attention, the chance of that person leaving doing something 'better' is very likely.
+Linkurl: 
 
-Sooooo... What is my intention? If I plan to write down my thoughts or my experiences they need to be entertaining and woven in a three-act structure:
+----
 
-**Setup → Confrontation → Resolution**
+Quotetext: 
 
-Of course, a three-act structure is a bit more complicated but it can be summarized pretty neatly into these 3 steps. I don't know if this will work for all my blog posts or if I will be good at it, but it's something I want to try. So to my two readers out here. Are you ready to be entertained ;)
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

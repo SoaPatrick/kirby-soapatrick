@@ -6,7 +6,11 @@ Published: 2014-05-28
 
 ----
 
-Category: Thoughts on stuff
+Cover: 
+
+----
+
+Files: 
 
 ----
 
@@ -14,14 +18,40 @@ Format: standard
 
 ----
 
-Cover: 
+Category: Thoughts on stuff
 
 ----
 
-Old: Through the job and the fact that all I do is write HTML und CSS code all day I don't have that much of an urge to do that at home. At home I want to enjoy doing other things, so I'm looking for new hobbies so to speak.
+Tags: Personal
 
-One thing I already started doing, is writing. I bought myself a portable keyboard for my iPad Air and started typing away on my long train rides. In fact this very blog entry is written on said keyboard. I purchased the Belking Qode Thin Type because it was the only one which wasn't made of plastic and which allowed me to quickly remove the keyboard from the iPad without much a hassle (most of the keyboards outthere have a special case for the iPad to push in)
+----
 
-Another thing I plan on doing is drawing a bit more again, logos, interfaces, whatever comes to mind. But the problem when drawing in a movable vehicle is the shaking and that can be problematic when drawing really exact things. But I think I will get myself a new Moleskin for the road and do some doodles once in a while.
+Project: 
 
-What I also plan on doing, especially this weekend, is get this design idea I have for this place out of my head. It's nothing special but a slight improvement over the current work in progress but it builds upon what is visible here. And since this weekend is a long one I will have some time to do that and post the results right here
+----
+
+Text: [{"content":{"text":"<p>Through the job and the fact that all I do is write HTML and CSS code all day I don\u2019t have that much of an urge to do that at home. At home, I want to enjoy doing other things, so I\u2019m looking for new hobbies so to speak.<\/p><p>One thing I already started doing, is writing. I bought myself a portable keyboard for my iPad Air and started typing away on my long train rides. In fact, this very blog entry is written on said keyboard. I purchased the Belking Qode Thin Type because it was the only one that wasn\u2019t made of plastic and which allowed me to quickly remove the keyboard from the iPad without much a hassle (most of the keyboards out there have a special case for the iPad to push in)<\/p><p>Another thing I plan on doing is drawing a bit more again, logos, interfaces, whatever comes to mind. But the problem when drawing in a movable vehicle is the shaking and that can be problematic when drawing really exact things. But I think I will get myself a new Moleskin for the road and do some doodles once in a while.<\/p><p>What I also plan on doing, especially this weekend, is getting this design idea I have for this place out of my head. It\u2019s nothing special but a slight improvement over the current work in progress but it builds upon what is visible here. And since this weekend is a long one I will have some time to do that and post the results right here<\/p>"},"id":"f5ef6744-7304-4808-bdb9-8b586ebc0a44","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

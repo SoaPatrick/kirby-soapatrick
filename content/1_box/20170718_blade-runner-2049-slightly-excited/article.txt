@@ -6,6 +6,20 @@ Published: 2017-07-18
 
 ----
 
+Cover: 
+
+----
+
+Files:
+
+- movie_blade-runner-2049.jpg
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,18 +28,32 @@ Tags: Movie, Trailer
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=gCcx85zbxz4","caption":""},"id":"89be1c54-6f03-4fed-951c-a28c5ad36303","isHidden":false,"type":"video"},{"content":{"text":"<p>Ridley Scott\u2019s <em>Blade Runner<\/em> from 1982 is arguably one of the most influential Sci-Fi movies of all time and it\u2019s obvious now that no movie is safe from an unnecessary sequel. Of course, no sequel, no matter how atrocious it might be, will tarnish the original movie in any way, but it still leaves a bad aftertaste.<\/p><p>Now my initial reaction was more or less apathetic towards a possible sequel, that changed once Denis Villeneuve was announced as the director. Now that\u2019s someone who knows how to combine intelligent, thought-provoking ideas with his very own visual style, plus the casting choices seemed to be on the clever side. So I was mildly interested in the first images, but the first trailer didn\u2019t exactly justify a spike in my excitement level. Too many bad sequels or reboots\/remakes from classics were produced in the last few years which tends to make people a bit more skeptical.<\/p><p>Now jump to two days ago when <em>Warner Bros.<\/em> released the third (and hopefully final) trailer which finally amped up the intensity and my excitement. Now I\u2019m not saying the movie will be good or bad, trailers are in no way an indicator of how good the finished movie will be. But I went from \u2018<em>ah who cares<\/em>\u2018 to \u2018<em>ok I might actually go to the cinema to check it out<\/em>\u2018 and that\u2019s no small feat, But judge for yourself.<\/p>"},"id":"871d5dbf-25ce-4f3c-bc0c-78c3a85df6fd","isHidden":false,"type":"text"}]
 
 ----
 
-Old: https://www.youtube.com/watch?v=gCcx85zbxz4
+Linktext: 
 
-Ridley Scott's _Blade Runner_ from 1982 is arguably one of the most influential Sci-Fi movies of all time and it's obvious now that no movie is safe from an unnecessary sequel. Of course no sequel, no matter how atrocious it might be, will tarnish the original movie in any way, but it still leaves a bad aftertaste.
+----
 
-Now my initial reaction was more or less apathetic towards a possible sequel, that changed once Denis Villeneuve was announced as the director. Now that's someone who knows how to combine intelligent, thought provoking ideas with his very own visual style, plus the casting choices seemed to be on the clever side. So I was mildly interested in the first images, but the first trailer didn't exactly justify a spike in my excitement level. Too many bad sequels or reboots/remakes from classics were produced in the last few years which tends to make people a bit more skeptical.
+Linkurl: 
 
-Now jump to two days ago when _Warner Bros._ released the third (and hopefully final) trailer which finally amped up the intensity and my excitement. Now I'm not saying the movie will be good or bad, trailers are in no way an indicator of how good the finished movie will be. But I went from '_ah who cares_' to '_ok I might actually go to the cinema to check it out_' and that's no small feat, But judge for yourself.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

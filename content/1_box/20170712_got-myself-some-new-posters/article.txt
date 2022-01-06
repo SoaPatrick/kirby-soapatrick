@@ -6,6 +6,18 @@ Published: 2017-07-12
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,16 +26,32 @@ Tags: Movie, poster
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["posterwall_2017-07-12.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2017\/07\/posterwall_2017-07-12-750x298.png","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"edcddfb3-debb-44c7-89c7-1751cecafbc7","isHidden":false,"type":"image"},{"content":{"text":"<p>A few days ago I wrote a <a href=\"https:\/\/www.soapatrick.com\/2017\/07\/a-new-addition-to-my-poster-wall\/\" rel=\"noopener noreferrer\">blog entry<\/a> about the Baby Driver Teaser Poster I bought and hung up my Poster Wall. I also mentioned that I found the Main Poster along with a rare Fight Club Teaser Poster on eBay which I immediately bought.<\/p><p>Today they arrived and they look stunning! So here\u2019s the current setup and it\u2019s gorgeous, I admit there\u2019s a lot of pink on the wall but damn who cares when you have such beautiful art covering your wall :) The price I paid for these two new additions was absolutely worth it!<\/p>"},"id":"c2fa3b48-3fe6-4b6c-b9ae-3d267f77d428","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2017/07/posterwall_2017-07-12-750x298.png)
+Linktext: 
 
-A few days ago I wrote a [blog entry](https://www.soapatrick.com/2017/07/a-new-addition-to-my-poster-wall/) about the Baby Driver Teaser Poster I bought and hung up my Poster Wall. I also mentioned that I found the Main Poster along with a rare Fight Club Teaser Poster on ebay which I immediately bought.
+----
 
-Today they arrived and they look stunning! So here's the current setup and it's gorgeous, I admit there's a lot of pink on the wall but damn who cares when you have such beautiful art covering your wall :) The price I payed for these two new additions was absolutely worth it!
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

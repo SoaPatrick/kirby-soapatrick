@@ -6,6 +6,18 @@ Published: 2016-01-03
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,14 +26,32 @@ Tags: Movie, Review
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["movie_beasts-of-no-nation.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2016\/01\/movie_beasts-of-no-nation-750x422.png","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"027c363e-c215-4c9c-944f-4a85c335ca97","isHidden":false,"type":"image"},{"content":{"text":"<p>A very real and depressing subject matter. The story of a boy who flees from the government and gets picked up by Idris Elba who then takes the boy under his wing and makes him a soldier in his platoon. Idris Elba is fascinating to watch and so is the transformation from the main character, his conflict within himself as he faces all this horror around him and loses his moral compass. What was missing for me was more of an emotional connection, it seemed to repeat itself towards the end and for me started to lose its focus. But impressive movie nonetheless<\/p>"},"id":"eb63cdcf-0975-47ee-b625-99bad69add95","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2016/01/movie_beasts-of-no-nation-750x422.png)
+Linktext: 
 
-A very real and depressing subject matter. The story of a boy who flees from the government and gets picked up by Idris Elba who then takes the boy under his wing and makes him a solider in his platoon. Idris Elba is fascinating to watch and so is the transformation from the main character, his conflict within himself as he faces all this horror around him and loses his moral compass. What was missing for me was more of an emotional connection, it seemed to repeat itself towards the end and for me started to lose it's focus. But impressive movie nontheless
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

@@ -2,14 +2,6 @@ Title: The Soap Factory just opened its doors again! Hop...
 
 ----
 
-Text: 
-
-----
-
-Old: The Soap Factory just opened its doors again! Hopefully new things will be produced in the near future :)
-
-----
-
 Published: 2017-01-28
 
 ----
@@ -18,11 +10,11 @@ Cover:
 
 ----
 
-Format: status
+Files: 
 
 ----
 
-Video: 
+Format: status
 
 ----
 
@@ -35,3 +27,35 @@ Tags: Factory, Status
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: <p>The Soap Factory just opened its doors again! Hopefully, new things will be produced in the near future :)</p>
+
+----
+
+Old: 
+
+----
+
+Video: 

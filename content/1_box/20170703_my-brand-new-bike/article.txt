@@ -6,6 +6,18 @@ Published: 2017-07-03
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,20 +26,32 @@ Tags: bicycling, Photograph
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["my-new-bike.png"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2017\/07\/my-new-bike-1500x873.png","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"2a9e328c-5818-4551-8d4f-02d9dce20bc1","isHidden":false,"type":"image"},{"content":{"text":"<p>So I bought a new bike, my first own bike after\u2026 let me think\u2026 20 years, and I\u2019m loving it. I once owned a bike as a teenager and I actually had it for maybe a month before it was stolen. In the meantime, I used whatever bike my family didn\u2019t need at the moment and I think at the end I was the sole driver of my mom\u2019s bike until it was not functional anymore.<\/p><p>Recently I had the urge to go and make small bike tours in the summer so I looked around for a new bike, it didn\u2019t have to be expensive but for me, it had to look cool and fit several purposes. I stumbled upon a local bike shop that sells <em>Specialized <\/em>Bikes and there I found the <em><a href=\"https:\/\/www.specialized.com\/ch\/de\/bikes\/fitness\/sirrus-disc-int\/115355\" target=\"_blank\" rel=\"noopener noreferrer\">Sirrus Disc Int<\/a><\/em> which I really liked. A week later the freshly ordered bike was mine.<\/p><p>Then came the question of how to securely lock it and avoid my bike getting stolen again. After a week\u2019s worth of research, I found the best lock for me: <em><a href=\"http:\/\/www.kryptonitelock.com\/content\/kryt-us\/en\/products\/product-information\/current-key\/002079.html\" target=\"_blank\" rel=\"noopener noreferrer\">The Kryptonite Evolution Mini-7 with Flex<\/a><\/em>.<\/p><p>So I\u2019m happy with how it all looks and I extremely enjoyed the small bike trips I took so far and the many more I will take in the future.<\/p>"},"id":"4d875e75-264c-43c8-9cce-3b6f3dbd67c2","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2017/07/my-new-bike-1500x873.png)
+Linktext: 
 
-So I bought a new bike, my first own bike after… let me think… 20 years, and I'm loving it. I once owned a bike as a teenager and I actually had it for maybe a month before it was stolen. In the mean time, I used whatever bike my family didn't need at the moment and I think at the end I was the sole driver of my mom's bike until it was not functional anymore.
+----
 
-Recently I had the urge to go and make small bike tours in the summer so I looked around for a new bike, it didn't have to be expensive but for me, it had to look cool and fit several purposes. I stumbled upon a local bike shop which sells _Specialized_ Bikes and there I found the (link: https://www.specialized.com/ch/de/bikes/fitness/sirrus-disc-int/115355 text: _Sirrus Disc Int_ target: _blank) which I really liked. A week later the freshly ordered bike was mine.
+Linkurl: 
 
-Then came the question of how to securely lock it and avoid my bike getting stolen again. After a week's worth of research, I found the best lock for me: _(link: http://www.kryptonitelock.com/content/kryt-us/en/products/product-information/current-key/002079.html text: The Kryptonite Evolution Mini-7 with Flex target: _blank)_.
+----
 
-So I'm happy with how it all looks and I extremely enjoyed the small bike trips I took so far and the many more I will take in the future.
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

@@ -6,6 +6,18 @@ Published: 2016-03-23
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff thats happening
 
 ----
@@ -14,40 +26,32 @@ Tags: Movie, News
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"location":"kirby","image":["movie_batman-v-superman.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2016\/03\/movie_batman-v-superman-750x469.jpg","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"e6dea900-8b3f-4933-a79a-567ee4eac8cc","isHidden":false,"type":"image"},{"content":{"text":"<p>Der erste Blockbusters des Jahres kommt dieses Wochenende ins Kino und die ersten Reviews aus den USA sind ern\u00fcchternd<\/p> <p>DC und Warner Bros. sind zum erfolg verdammt, haben sie doch grosses \nvor in den n\u00e4chsten Jahren mit dem ganzen DC Katalog der auf die \nGrossleinwand soll. Das Embargo zu Batman v Superman w\u00fcrde \naufgehoben und die ersten Reviews erreichen das Internet. Das Fazit? Nun\n ja ich habe es irgendwie kommen sehen, viel Spektakel aber wenig \nwelches dies zusammen h\u00e4lt geschweige zu einer einheitlichen Story \nformt.<\/p> <p>Gesehen habe ich den Film noch nicht, doch war ich klug genug die \nErwartungen nach dem Man of Steel Debakel tief zu halten. Nat\u00fcrlich sind\n noch viele Reviews offen und es ist auch m\u00f6glich das sich alles noch \n\u00e4ndern wird doch ist jetzt schon ein Trend rauszulesen.<\/p> <p>Auf <a href=\"http:\/\/www.rottentomatoes.com\/m\/batman_v_superman_dawn_of_justice\/\" rel=\"noreferrer noopener\" target=\"_blank\">rottentomatoes.com<\/a> steht der Film zurzeit bei 37% und einem Rating von 5.3\/10 und auf <a href=\"http:\/\/www.metacritic.com\/movie\/batman-v-superman-dawn-of-justice?ref=hp\" rel=\"noreferrer noopener\" target=\"_blank\">metacritic.com<\/a> sieht es mit 48\/100 nicht besser aus. Hier ein paar Ausz\u00fcge:<\/p>"},"id":"9278641e-8c95-4d25-bab7-f2df98ffd1fd","isHidden":false,"type":"text"},{"content":{"text":"Snyder has set a Sisyphean task for himself. That this very long, very brooding, often exhilarating and sometimes scattered epic succeeds as often it does therefore has to be seen as an achievement.","citation":"Andrew Barker, Variety","style":"default"},"id":"218492fc-96a3-45d1-90a1-de74bbe3195b","isHidden":false,"type":"quote"},{"content":{"text":"While \u201c300\u2033 maestro Snyder puts together some very striking scenes \u2014 which may be enough for many fanboys \u2014 they never really cohere into a whole.","citation":"Lou Lumenick, New York Post","style":"default"},"id":"fd9dd393-6c26-484b-ae35-cdba64df395f","isHidden":false,"type":"quote"},{"content":{"text":"As superhero spectacles go, Zack Snyder\u2019s Batman v Superman: Dawn of Justice is a grand one, with a mondo-operatic climax and a final shot infused with quivering, exhilarating molecules of grace. It\u2019s also not much fun.","citation":"Stephanie Zacharek, TIME Magazine","style":"default"},"id":"b6757fd7-83e9-4c27-a948-f3e0a8c847cd","isHidden":false,"type":"quote"},{"content":{"text":"Snyder, juiced up by Hans Zimmer\u2019s caffeinated score, throws everything at the screen until resistance is futile.","citation":"Peter Travers, Rolling Stone","style":"default"},"id":"34254e22-edf0-42b5-9993-7feeecc3dcdb","isHidden":false,"type":"quote"},{"content":{"text":"<p>All dies hat nat\u00fcrlich wenig Einfluss auf den finanziellen Erfolg des\n Filmes da Batman und Superman genug grosse Icons sind um die Massen ins\n Kino zu locken. Aber schlechte Mund-zu-Mund propaganda k\u00f6nnte den \nErfolg der folgenden Wochen beeintr\u00e4chtigen und im schlimmsten Fall viel\n Druck auf das Studio aus\u00fcben, da Snyder schon diesen April mit der \nersten Justice League Verfilmung beginnen wird.<\/p> <p>Ich hoffe den Film dieses oder n\u00e4chstes Wochenende zu sehen um mir selbst eine Meinung bilden zu k\u00f6nnen.<\/p>"},"id":"465da708-dee2-460f-b9df-8f56184afef4","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2016/03/movie_batman-v-superman-750x469.jpg)
+Linktext: 
 
-Der erste Blockbusters des Jahres kommt dieses Wochenende ins Kino und die ersten Reviews aus den USA sind ernüchternd
+----
 
-DC und Warner Bros. sind zum erfolg verdammt, haben sie doch grosses vor in den nächsten Jahren mit dem ganzen DC Katalog der auf die Grossleinwand soll. Das Embargo zu Batman v Superman würde aufgehoben und die ersten Reviews erreichen das Internet. Das Fazit? Nun ja ich habe es irgendwie kommen sehen, viel Spektakel aber wenig welches dies zusammen hält geschweige zu einer einheitlichen Story formt.
+Linkurl: 
 
-Gesehen habe ich den Film noch nicht, doch war ich klug genug die Erwartungen nach dem Man of Steel Debakel tief zu halten. Natürlich sind noch viele Reviews offen und es ist auch möglich das sich alles noch ändern wird doch ist jetzt schon ein Trend rauszulesen.
+----
 
-Auf (link: http://www.rottentomatoes.com/m/batman_v_superman_dawn_of_justice/ text: rottentomatoes.com target: _blank) steht der Film zurzeit bei 37% und einem Rating von 5.3/10 und auf (link: http://www.metacritic.com/movie/batman-v-superman-dawn-of-justice?ref=hp text: metacritic.com target: _blank) sieht es mit 48/100 nicht besser aus. Hier ein paar Auszüge:
+Quotetext: 
 
-> Snyder has set a Sisyphean task for himself. That this very long, very brooding, often exhilarating and sometimes scattered epic succeeds as often it does therefore has to be seen as an achievement.
-> 
-> Andrew Barker, Variety
+----
 
-> While “300" maestro Snyder puts together some very striking scenes — which may be enough for many fanboys — they never really cohere into a whole.
-> 
-> Lou Lumenick, New York Post
+Quotesource: 
 
-> As superhero spectacles go, Zack Snyder's Batman v Superman: Dawn of Justice is a grand one, with a mondo-operatic climax and a final shot infused with quivering, exhilarating molecules of grace. It's also not much fun.
-> 
-> Stephanie Zacharek, TIME Magazine
+----
 
-> Snyder, juiced up by Hans Zimmer's caffeinated score, throws everything at the screen until resistance is futile.
-> 
-> Peter Travers, Rolling Stone
+Statustext: 
 
-All dies hat natürlich wenig Einfluss auf den finanziellen Erfolg des Filmes da Batman und Superman genug grosse Icons sind um die Massen ins Kino zu locken. Aber schlechte Mund-zu-Mund propaganda könnte den Erfolg der folgenden Wochen beeinträchtigen und im schlimmsten Fall viel Druck auf das Studio ausüben, da Snyder schon diesen April mit der ersten Justice League Verfilmung beginnen wird.
+----
 
-Ich hoffe den Film dieses oder nächstes Wochenende zu sehen um mir selbst eine Meinung bilden zu können.
+Old: 

@@ -6,6 +6,20 @@ Published: 2016-04-13
 
 ----
 
+Cover: 
+
+----
+
+Files:
+
+- movie_doctor-strange.png
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,22 +28,32 @@ Tags: Movie, Trailer
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=Lt-U_t2pUHI","caption":""},"id":"5c2913eb-c0c7-4920-9ab9-016ed1057fec","isHidden":false,"type":"video"},{"content":{"text":"<p>Diese Jahr begibt sich Marvel in ein neues Gebiet, jenes der Magie. \nes wird sich zeigen ob der ungebremste Erfolg des Marvel Cinematic \nUniverse weitergeht, der Trailer auf jeden Fall sieht nicht schlecht \naus.<\/p> <p>Die Liste an Schauspielern in diesem Film ist beeindruckend: Benedict\n Cumberbatch, Rachel McAdams, Mads Mikkelsen, Tilda Swinton und Chiwetel\n Ejiofor. Und es ist irgendwie beeindruckend was f\u00fcr Schauspieler, \ndarunter auch renommierte, sich bereit erkl\u00e4ren in einer Comic \nVerfilmung mitzumachen, auch wenn der Ausgangsstoff nicht den \nBekanntheitsgrad eines Batman, Superman oder Spiderman hat.<\/p> <p>Aber wer ist genau Doctor Strange? Nun auch f\u00fcr mich ist diese Figure\n nicht so bekannt, aber ich bezeichne mich auch nicht als Fachmann auf \ndem Comic Gebiet. Aber der Film ist sich bewusst das der Doktor nicht \nder breiten Masse bekannt sein d\u00fcrfte, darum wird das Marketing Material\n sich darauf Fokussieren. Es spielt ehrlich gesagt auch keine Rolle wie \nbekannt die Figuren sind, wenn der Film und das Marketing gut ist gehen \ndie Menschen ins Kino, bestes Beispiel daf\u00fcr ist <em>Guardians of the Galaxy.<\/em><\/p> <p>Der Trailer hat auf jeden Fall einen anderen Ton als die bisherigen \nMarvel Filme, einen ernsteren und auch d\u00fcsteren, was nicht \u00fcberrascht \nwenn man nachliest was der Regisseur schon f\u00fcr Filme gedreht hat: <em>Deliver Us from Evil<\/em>, <em>Sinister<\/em>, <em>The Day the Earth Stood Still<\/em> und <em>The Exorcism of Emily Rose<\/em>. Nat\u00fcrlich\n sind das keine Hochkar\u00e4ter, aber die Marvel Verantwortlichen werden \nschon wissen warum sie sich f\u00fcr Scott Derrickson entschieden haben.<\/p> <p>Was dem Trailer noch fehlt ist der herausragende Moment, es sieht \nalles ganz nett aus (gewisse Dinge bekannt aus anderen Filmen) aber \nnichts sticht heraus, noch nicht, es ist dauert ja noch ganze 7 Monate \nbis zum Start des Filmes.<\/p>"},"id":"353b7d9f-3ec9-4dfb-9edd-f8c18cbefea6","isHidden":false,"type":"text"}]
 
 ----
 
-Old: https://www.youtube.com/watch?v=Lt-U\_t2pUHI
+Linktext: 
 
-Diese Jahr begibt sich Marvel in ein neues Gebiet, jenes der Magie. es wird sich zeigen ob der ungebremste Erfolg des Marvel Cinematic Universe weitergeht, der Trailer auf jeden Fall sieht nicht schlecht aus.
+----
 
-Die Liste an Schauspielern in diesem Film ist beeindruckend: Benedict Cumberbatch, Rachel McAdams, Mads Mikkelsen, Tilda Swinton und Chiwetel Ejiofor. Und es ist irgendwie beeindruckend was für Schauspieler, darunter auch renommierte, sich bereit erklären in einer Comic Verfilmung mitzumachen, auch wenn der Ausgangsstoff nicht den Bekanntheitsgrad eines Batman, Superman oder Spiderman hat.
+Linkurl: 
 
-Aber wer ist genau Doctor Strange? Nun auch für mich ist diese Figure nicht so bekannt, aber ich bezeichne mich auch nicht als Fachmann auf dem Comic Gebiet. Aber der Film ist sich bewusst das der Doktor nicht der breiten Masse bekannt sein dürfte, darum wird das Marketing Material sich darauf Fokussieren. Es spielt ehrlich gesagt auch keine Rolle wie bekannt die Figuren sind, wenn der Film und das Marketing gut ist gehen die Menschen ins Kino, bestes Beispiel dafür ist _Guardians of the Galaxy._
+----
 
-Der Trailer hat auf jeden Fall einen anderen Ton als die bisherigen Marvel Filme, einen ernsteren und auch düsteren, was nicht überrascht wenn man nachliest was der Regisseur schon für Filme gedreht hat: _Deliver Us from Evil_, _Sinister_, _The Day the Earth Stood Still_ und _The Exorcism of Emily Rose_. Natürlich sind das keine Hochkaräter, aber die Marvel Verantwortlichen werden schon wissen warum sie sich für Scott Derrickson entschieden haben.
+Quotetext: 
 
-Was dem Trailer noch fehlt ist der herausragende Moment, es sieht alles ganz nett aus (gewisse Dinge bekannt aus anderen Filmen) aber nichts sticht heraus, noch nicht, es ist dauert ja noch ganze 7 Monate bis zum Start des Filmes.
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

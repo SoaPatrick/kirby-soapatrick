@@ -6,7 +6,11 @@ Published: 2013-06-27
 
 ----
 
-Category: Thoughts on stuff
+Cover: 
+
+----
+
+Files: 
 
 ----
 
@@ -14,10 +18,40 @@ Format: standard
 
 ----
 
-Cover: 
+Category: Thoughts on stuff
 
 ----
 
-Old: After months (or maybe even years?) of thinking about designs and names for my own personal place I finally found a new Name. Well it's not quite a new name since I've been using it as a username in a few places already. But with the urge to make it a more personal website and therefor include my name into the name this was the most logical step. Byebye the-soap.com welcome soapatrick.com.
+Tags: Personal, SoaPatrick
 
-Along with a new design which I actually bought (it was another logical step to actually focus on content and not worry about how the page looks like) this is my place now and I hope to fill it with thoughts worth sharing with the web and creative work I've been doing. I also try to be less critical with my own work and actually put stuff here even if it's not living up to my standard, it's one of my goals for this place: Down with perfectionism!!! :D
+----
+
+Project: 
+
+----
+
+Text: [{"content":{"text":"<p>After months (or maybe even years?) of thinking about designs and names for my own personal place I finally found a new Name. Well, it\u2019s not quite a new name since I\u2019ve been using it as a username in a few places already. But with the urge to make it a more personal website and therefore include my name into the name this was the most logical step. Byebye the-soap.com welcome soapatrick.com.<\/p><p>Along with a new design which I actually bought (it was another logical step to actually focus on content and not worry about how the page looks like) this is my place now and I hope to fill it with thoughts worth sharing with the web and creative work I\u2019ve been doing. I also try to be less critical with my own work and actually put stuff here even if it\u2019s not living up to my standard, it\u2019s one of my goals for this place: Down with perfectionism!!! :D<\/p>"},"id":"14f9962d-774f-452f-93df-63b74f9f73b1","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

@@ -6,6 +6,18 @@ Published: 2013-06-17
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,12 +26,32 @@ Tags: Movie, Trailer
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=iszwuX1AK6A","caption":""},"id":"eb9285e0-58ca-486c-aa27-1493354c802e","isHidden":false,"type":"video"}]
 
 ----
 
-Old: https://www.youtube.com/watch?v=iszwuX1AK6A
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

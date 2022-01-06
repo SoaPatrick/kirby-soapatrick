@@ -6,6 +6,18 @@ Published: 2017-07-19
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Thoughts on stuff
 
 ----
@@ -14,20 +26,32 @@ Tags: Drawing, Photograph
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"level":"h1","text":""},"id":"86d2050d-11fd-416e-9aea-0528bc6a3d20","isHidden":false,"type":"heading"},{"content":{"location":"kirby","image":["stock-image.jpg"],"src":"https:\/\/www.soapatrick.com\/wp-content\/uploads\/2017\/07\/stock-image-750x375.jpg","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"69b761ec-3e30-4365-aee4-3d84a515536a","isHidden":false,"type":"image"},{"content":{"text":"<p>When preparing and writing a blog post I always try to add a visual element to it which mostly consists of a featured image. It\u2019s always better to pick up the reader with something visual that sets the mood because let's be honest, a text-only blog entry looks exhausting.<\/p><p>So I search the net for an image that fits the theme of the blog post. For movie-themed blog posts, I try to find something cool from official advertising material. Now I know that most of the images are copyright protected and therefore I\u2019m not allowed to actually use it, but honestly, who cares about a blog with two readers?<\/p><p>But my thoughts in today\u2019s post aren\u2019t so much about the legality of it but rather a question of independence and creativity. I HATE stock images and they look generic (though some of them are really beautiful) and they don\u2019t differentiate your website from other websites. At the end of the day, you don\u2019t know if the image has been used a million times before and people might recognize it.<\/p><p>How can I avoid that? Simple, by using my own photographs. Another possibility would be to draw a featured image, a simple one of course. All this makes the website and the blog more unique and noteworthy. I\u2019m not saying I will avoid posting any stock images but if I have the opportunity and the time I will post a self-shot photograph or a self-drawn image.<\/p>"},"id":"65f706da-1b2b-4b9c-94ed-6afde17d8b3d","isHidden":false,"type":"text"}]
 
 ----
 
-Old: ![](https://www.soapatrick.com/wp-content/uploads/2017/07/stock-image-750x375.jpg)
+Linktext: 
 
-When preparing and writing a blog post I always try to add a visual element to it which mostly consists of a featured image. It's always better to pick up the reader with something visual that sets the mood because let's be honest, a text only blog entry looks exhausting.
+----
 
-So I search the net for an image that fits the theme of the blog post. For movie themed blog posts I try to find something cool from official advertising material. Now I know that most of the images are copyright protected and therefore I'm not allowed to actually use it, but honestly, who cares about a blog with two readers?
+Linkurl: 
 
-But my thoughts in today's post aren't so much about the legality of it but rather a question of independence and creativity. I HATE stock images and they look generic (though some of them are really beautiful) and they don't different your website from other websites. At the end of the day, you don't know if the image has been used a million times before and people might recognize it.
+----
 
-How can I avoid that? Simple, by using my own photographs. Another possibility would be to draw a featured image, a simple one of course. All this makes the website and the blog more unique and noteworthy. I'm not saying I will avoid posting any stock images but if I have the opportunity and the time I will post a self-shot photograph or a self-drawn image.
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

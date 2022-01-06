@@ -6,6 +6,18 @@ Published: 2016-05-22
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff to Share
 
 ----
@@ -14,18 +26,32 @@ Tags: Movie, Trailer
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=76yBTNDB6vU","caption":""},"id":"7972d539-9f6f-49f5-92c8-a4fcfe2fe739","isHidden":false,"type":"video"},{"content":{"text":"<p>Fede Alvarez m\u00f6chte nach seinem blutr\u00fcnstigen Horror Remake <em>Evil Dead<\/em> etwas neues versuchen. Statt Blut nun atemlose Spannung.<\/p> <p>Ich fand das <em>Evil Dead<\/em> Remake aus dem Jahre 2013 besser als \nerwartet, da es dem blutleeren Horror Trend entgegensetzte und mal \nwieder aufzeigte wie blutr\u00fcnstig Horror sein kann. So gibt es Bilder von\n diesem Film, die ich nie vergessen werden und bei denen sich noch heute\n alle Haare auf mein K\u00f6rper aufstellen. Fede Alvarez war f\u00fcr mich von \ndiesem Moment an ein Mann den man im Auge behalten sollte.<\/p> <p>Der Trailer zu seinem neuen Film zeigt nun, dass er nicht nur die \nBlutschiene fahren muss sondern dass er da was sehr interessantes \nversuchen m\u00f6chte und ich hoffe es gelingt ihm. Der erste Trailer sieht \nauf jeden Fall schon mal \u00e4usserst interessant aus. Drei Menschen \nbrechen in das Haus eines Blinden Mannes ein, welcher nicht gerade \ndar\u00fcber erfreut ist und sich als \u00e4usserst unangenehmer Zeitgenosse \nherausstellt. F\u00fcr extreme Spannung scheint gesorgt zu sein.<\/p>"},"id":"57067222-b74f-4b99-b8d5-94b3f17db35d","isHidden":false,"type":"text"}]
 
 ----
 
-Old: https://www.youtube.com/watch?v=76yBTNDB6vU
+Linktext: 
 
-Fede Alvarez möchte nach seinem blutrünstigen Horror Remake _Evil Dead_ etwas neues versuchen. Statt Blut nun atemlose Spannung.
+----
 
-Ich fand das _Evil Dead_ Remake aus dem Jahre 2013 besser als erwartet, da es dem blutleeren Horror Trend entgegensetzte und mal wieder aufzeigte wie blutrünstig Horror sein kann. So gibt es Bilder von diesem Film, die ich nie vergessen werden und bei denen sich noch heute alle Haare auf mein Körper aufstellen. Fede Alvarez war für mich von diesem Moment an ein Mann den man im Auge behalten sollte.
+Linkurl: 
 
-Der Trailer zu seinem neuen Film zeigt nun, dass er nicht nur die Blutschiene fahren muss sondern dass er da was sehr interessantes versuchen möchte und ich hoffe es gelingt ihm. Der erste Trailer sieht auf jeden Fall schon mal äusserst interessant aus. Drei Menschen brechen in das Haus eines Blinden Mannes ein, welcher nicht gerade darüber erfreut ist und sich als äusserst unangenehmer Zeitgenosse herausstellt. Für extreme Spannung scheint gesorgt zu sein.
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

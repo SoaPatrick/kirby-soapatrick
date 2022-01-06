@@ -6,6 +6,18 @@ Published: 2013-06-17
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,14 +26,32 @@ Tags: Design, Soap
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>After months of looking and thinking about the design of my place, this is something I really like. It\u2019s simple, it's clean, it\u2019s responsive (and I didn\u2019t do it myself). Well I did some tinkering (only slightly) and it\u2019s possible I will add some modifications in the future, but it\u2019s not my main issue. What I plan on doing now is using my just opened <a href=\"http:\/\/dribbble.com\/SoaPatrick\" target=\"_blank\" rel=\"noopener noreferrer\">Dribbble<\/a> account and also getting this page fully ready. Meaning when you see that new name everywhere, you see where this might be beheaded.<\/p><p>In the meantime, I will focus on the bachelor thesis and also try to post something once in a while. There are a lot of things I still have to get to know, and I\u2019m looking forward to it, plus there\u2019s <a href=\"http:\/\/www.twitter.com\/soapatrick\" target=\"_blank\" rel=\"noopener noreferrer\">Twitter<\/a> and <a href=\"http:\/\/instagram.com\/soapatrick\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram<\/a> to start using. So see you all on one of those platforms, or here\u2026<\/p>"},"id":"765efe58-310b-4847-8fa4-3fcc79185e30","isHidden":false,"type":"text"}]
 
 ----
 
-Old: After months of looking and thinking about a design of my place, this is something I really like. It's simple, its clean, it's responsive (and I didn't do it myself). Well I did some tinkering (only slightly) and it's possible I will add some modifications in the future, but it's not my main issue. What I plan on doing now is using my just opened (link: http://dribbble.com/SoaPatrick text: Dribbble target: _blank) account and also get this page fully ready. Meaning when you see that new name everywhere, you see where this might be headed.
+Linktext: 
 
-In the meantime I will focus on the bachelor thesis and also try to post something once in a while. There are a lot of things I still have to get to know, and I'm looking forward to it, plus there's (link: http://www.twitter.com/soapatrick text: Twitter target: _blank) and (link: http://instagram.com/soapatrick text: Instagram target: _blank) to start using. So see you all on one of those plattforms, or here...
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 

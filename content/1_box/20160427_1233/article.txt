@@ -2,14 +2,6 @@ Title: Ich sollte noch eine Movie-Review von The Jungle B...
 
 ----
 
-Text: 
-
-----
-
-Old: Ich sollte noch eine Movie-Review von _The Jungle Book_ nachliefern (ausgezeichneter Film) und morgen schon werde ich _Captain America: Civil War_ sehen. Es wird was kommen, ich brauche nur ein wenig mehr Zeit.
-
-----
-
 Published: 2016-04-27
 
 ----
@@ -18,11 +10,11 @@ Cover:
 
 ----
 
-Format: status
+Files: 
 
 ----
 
-Video: 
+Format: status
 
 ----
 
@@ -35,3 +27,35 @@ Tags: Status
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: <p>Ich sollte noch eine Movie-Review von _The Jungle Book_ nachliefern (ausgezeichneter Film) und morgen schon werde ich <strong>Captain America: Civil War</strong> sehen. Es wird was kommen, ich brauche nur ein wenig mehr Zeit.</p>
+
+----
+
+Old: 
+
+----
+
+Video: 

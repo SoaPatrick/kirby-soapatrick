@@ -2,18 +2,6 @@ Title: Article about digital facelifting in Movies and TV Shows
 
 ----
 
-Text: 
-
-----
-
-Old:
-
-Article about digital facelifting in Movies and TV Shows
-
-[http://goo.gl/ho03IY](http://goo.gl/ho03IY)
-
-----
-
 Published: 2016-04-10
 
 ----
@@ -22,11 +10,11 @@ Cover:
 
 ----
 
-Format: link
+Files: 
 
 ----
 
-Video: 
+Format: link
 
 ----
 
@@ -39,3 +27,35 @@ Tags: link, Movie, TV Show
 ----
 
 Project: 
+
+----
+
+Text: 
+
+----
+
+Linktext: <p>Article about digital facelifting in Movies and TV Shows</p>
+
+----
+
+Linkurl: https://www.vulture.com/2016/03/special-effects-c-v-r.html
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 
+
+----
+
+Video: 

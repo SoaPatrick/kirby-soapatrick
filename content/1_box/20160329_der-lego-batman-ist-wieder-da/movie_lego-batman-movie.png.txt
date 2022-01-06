@@ -1,0 +1,9 @@
+Alt: Lego Batman Movie
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

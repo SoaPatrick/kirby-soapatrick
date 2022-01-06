@@ -6,6 +6,18 @@ Published: 2015-03-30
 
 ----
 
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
 Category: Stuff from the Lab
 
 ----
@@ -14,16 +26,32 @@ Tags: Design
 
 ----
 
-Format: standard
+Project: 
 
 ----
 
-Cover: 
+Text: [{"content":{"text":"<p>So I decided to open up the page once more and wipe the place clean of the previous design and logo and start new. And what's visible now is a theme I bought and then changed to make it more my own, I wouldn\u2019t say it\u2019s complete yet as the whole navigation and display of blog entries needs some rethinking and reworks since it\u2019s rather complicated to navigate through the blog entries. But then I don\u2019t wanna spend too much time focusing on that process and that\u2019s one of the reasons I bought a theme rather than doing one of my own because by doing one myself I spend too much time tinkering with it instead of actually creating content. That doesn\u2019t mean I won\u2019t do a theme myself in the long run, but for now, this quite simple theme has to do.<\/p><p>What is also gone is the logo, as once more I will start from scratch and come up with something new and I\u2019m curious where the newest incarnation will lead me. But as nice, clever and simple the logo was, what always bothered me was the rather narrow and high shape of it which also made it difficult to use next to text or even use just the logo. So I\u2019m looking for a more harmonic logo which is as wide as high.<\/p><p>So lots of interesting things lie in front of me and I\u2019m looking forward to seeing where it all leads.<\/p>"},"id":"59bf077f-6795-4bf8-ba89-2f646cb43684","isHidden":false,"type":"text"}]
 
 ----
 
-Old: So I decided to open up the page once more and wipe the place clean of the previous design and logo and start new. And whats visible now is a theme I bought and then changed to make it more my own, I wouldn't say it's complete yet as the whole navigation and display of blog entries needs some rethinking and reworks since it's rather complicated to navigate through the blog entries. But then I don't wanna spend too much time focusing on that process and that's one of the reasons I bought a theme rather than doing one of my own, because by doing one myself I spend too much time tinkering with it instead of actually creating content. That doesn't mean I won't do a theme myself in the long run, but for now this quite simple theme has to do.
+Linktext: 
 
-What is also gone is the logo, as once more I will start from scratch and come up with something new and I'm curious where the newest incarnation will lead me. But as nice, clever and simple the logo was, what always bothered me was the rather narrow and high shape of it which also made it difficult to use next to text or even use just the logo. So I'm looking for a more harmonic logo which is as wide as high.
+----
 
-So lots of interesting things lie in front of me and I'm looking forward to see where it all leads.
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Old: 
