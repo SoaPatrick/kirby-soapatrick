@@ -1,0 +1,53 @@
+Title: Migration to Kirby
+
+----
+
+Published: 2022-01-05
+
+----
+
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: Kirby, Wordpress, Theme
+
+----
+
+Project: 
+
+----
+
+Text: [{"content":{"text":"<p>In <a href=\"\/box\/its-kirby-time\/\" rel=\"noopener noreferrer\">November<\/a> I decided to move my website from WordPress to the Flat-file CMS Kirby and during the last two months, I\u2019ve been busy with first recreating SP9 in the most efficient way and also migrating over 650 blog posts, 50 factory items, 32 lab items, and 173 log entries. Now a big chunk of all those content posts is migrated perfectly and also optimized with fixing old links. What is missing is all entries from 2012 to 2017 or 150 entries. The plan is to have this done by the end of this weekend.<\/p><p>Once I have the content fully migrated I will focus on some key features. Those are the big ones, everything else can be developed further down the road<\/p>"},"id":"68b5f189-2ded-4607-958a-0e779d6b12ea","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><strong>Meta information<\/strong> for detail view (title, description, image) and keeping overview pages from being index by Google<\/li><li><strong>Sitemap<\/strong> for Google<\/li><li><strong>RSS Feed<\/strong> for individual content types (and the whole website as well)<\/li><li><strong>Letterboxd<\/strong> RSS feed inclusion<\/li><\/ul>"},"id":"d222f78d-da4d-4c9c-8216-129b0c87e76a","isHidden":false,"type":"list"},{"content":{"text":"<p>But during this whole process of migrating so many pages, I had to ask myself how far do I want to go to recreate how everything worked with WordPress. For example, WordPress has an archive page out of the box, and doing something like I have with the storage is easy. Same with the URL of each individual blog post which includes the year and month. Setting the permalink for blog posts is filling out a field in the backend. Kirby does this with routes and needs a bit more work.<\/p><p>So I had to ask myself if I should rethink how certain things are now because that\u2019s how it\u2019s always been with WordPress and maybe do it differently with Kirby. I\u2019ve decided that WordPress is WordPress and Kirby is Kirby. No need to push one onto the other, plus I don\u2019t worry about having new URLs for all my blog posts because it\u2019s not like I will lose a lot of people by having yet again a new URL structure, plus Google will just crawl the website anyway.<\/p><p>So I will streamline the URLs:<\/p>"},"id":"c4a46e65-a370-41a5-8186-43cdc08af16d","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>soapatrick.com<\/li><li>soapatrick.com\/<strong>box<\/strong><\/li><li>soapatrick.com\/<strong>box\/post-name<\/strong><\/li><li>soapatrick.com\/<strong>storage<\/strong><\/li><li>soapatrick.com\/<strong>factory<\/strong><\/li><li>soapatrick.com\/<strong>factory\/factory-item<\/strong><\/li><li>soapatrick.com\/<strong>lab<\/strong><\/li><li>soapatrick.com\/<strong>log<\/strong><\/li><li>soapatrick.com\/<strong>privacy<\/strong><\/li><\/ul>"},"id":"2de9ae5e-ce51-44db-8f7d-062019c5fe08","isHidden":false,"type":"list"},{"content":{"text":"<p>Apart from the blog posts, nothing will change actually but just by \nlooking at the URLs above, I think it\u2019s streamlined. Some new ones will \nbe added which will represent the Patrick part of the website. Plus, I \nneed to figure out an easy way to implement the storage but I have some \nideas.<\/p> <p>But of course, all this should be unveiled with a new design, worthy \nof the 10th design iteration. I\u2019m just not sure how far I will go \nbecause at some point I want to stop posting new blog posts on WordPress\n and migrate them to Kirby as well. There will be a day where I just \nwant to put it out there and only use Kirby as my CMS.<\/p> <p>So this is where I currently stand, but I\u2019m sure I will do another \nstatus update on how things are progressing further down the road when I\n know more, but for now I still target a release date within the next \ntwo months.<\/p>"},"id":"909e7b35-9ee5-49e8-bb26-2cec66f14d56","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 

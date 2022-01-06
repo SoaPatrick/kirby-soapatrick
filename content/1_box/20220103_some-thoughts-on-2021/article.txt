@@ -1,0 +1,53 @@
+Title: Some thoughts on 2021
+
+----
+
+Published: 2022-01-03
+
+----
+
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: standard
+
+----
+
+Category: Thoughts on stuff
+
+----
+
+Tags: List, Recap
+
+----
+
+Project: 
+
+----
+
+Text: [{"content":{"text":"<p>As like last <a href=\"\/box\/some-thoughts-on-2020\/\" rel=\"noopener noreferrer\">year<\/a>, after some stats, I follow up with some things that I didn\u2019t like and things I liked during the last year. Gone are the days of ranked lists, these are just randomly put together with no real order.<\/p>"},"id":"f5378c0f-3df2-4f59-8ad8-6e39c33c06ba","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Things I liked"},"id":"ca7dcb85-f8db-43c3-acd1-58456d827ab9","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><strong>Spiderman Far from Home<\/strong>, a lot of hype surrounded this movie and to my surprise the movie delivered nicely.<\/li><li><strong>Titane<\/strong>, after RAW I knew I was in for a ride and what a ride it was. Not an easy movie to watch and one that sticks around for a while.<\/li><li><strong>Wish you were here<\/strong>, I\u2019ve listened to this album quite often<\/li><li><strong>Pneuma<\/strong>, a song from last year\u2019s Tool album but one I really discovered this year.<\/li><li><strong>Invisible Monsters<\/strong>, reading my favorite book once again and it\u2019s still a fucking roller coaster ride (awesome quotes here)<\/li><li><strong>Half-Life Alyx<\/strong>, playing this game in VR is just amazing, horror, suspense and action all in awesome graphics make you feel you\u2019re there.<\/li><li><strong>Google VR<\/strong>, vising interesting places in VR was a nice way of going around the world in the midst of a pandemic.<\/li><li><strong>Judas and the Black Messiah<\/strong>, oh man that performance from Daniel Kaluuya, oh man he deserved that Acadamy Award.<\/li><li><strong>The Power of the Dog<\/strong>, an atmospheric brooding character study with amazing performances and stunning images.<\/li><li><strong>A Glitch in the Matrix<\/strong>, probably the movie that provided the most interesting discussions with people, and yes in some way I believe we are.<\/li><li><strong><a href=\"https:\/\/www.getkirby.com\" target=\"_blank\" rel=\"noopener noreferrer\">Kirby<\/a><\/strong>, I fell in love with this flat-file CMS. I\u2019m glad I\u2019m switching because it has so many things which allow me to do exactly what I want<\/li><li><strong>Friends &amp; Seinfeld<\/strong>, rewatching some classic sitcoms put a smile on my face in some dire moments this year, and there were quite a few.<\/li><li><strong>The Green Knight<\/strong>, that ending, oh that ending blew me away.<\/li><li><strong>My daily walks<\/strong>, I started to take them last February and I really needed those to clear my head, and I keep doing them because it gets me outside, breathing fresh air and doing something for my health.<\/li><li><strong><a href=\"https:\/\/arcane.com\/\" target=\"_blank\" rel=\"noopener noreferrer\">Arcane<\/a><\/strong>, I purposefully put this one last because it\u2019s a biggie. By FAR the best thing I\u2019ve seen this year and probably the best first season of any TV Show I\u2019ve ever seen (not counting mini-series). I will probably dedicate a full blog post about this show. Go watch it on Netflix!<\/li><\/ul>"},"id":"417c6f19-1d49-4829-b89e-ea2b6f578eb3","isHidden":false,"type":"list"},{"content":{"level":"h2","text":"Things I didn\u2019t like"},"id":"ee9a868c-b275-49a5-b805-a46c1ae57b71","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><strong>Bland big-budget movies<\/strong> like Red Notice, Venom, Mortal Kombat and especially Monster Hunter.<\/li><li><strong>Social Media<\/strong> are a pain in the ass and I start to reduce them one by one.<\/li><li><strong>Subscription Services<\/strong>, everything has a subscription service and they all cost money, something will not add up in the long run.<\/li><li><strong>David Fincher<\/strong> yet again <strong>not winning<\/strong> an Acadamy Award<\/li><li><strong>Last years Superbowl<\/strong>, what a bore and I hate Tom Brady<\/li><li><strong>The state of the world<\/strong>, damn you COVID-19<\/li><li>Me <strong>not being<\/strong> as <strong>productive<\/strong> or <strong>focused<\/strong> as I would have liked<\/li><\/ul>"},"id":"dbc9fb87-c7e4-41dc-9539-7f5501a8b9b0","isHidden":false,"type":"list"},{"content":{"level":"h2","text":"What else did I do?"},"id":"08bbfa38-4e45-455a-b14b-0b66dbe49d5b","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>I did my yearly <a href=\"\/box\/9-comes-before-10\/\" rel=\"noopener noreferrer\">redesign<\/a>, improved upon the version before<\/li><li><a href=\"\/box\/its-kirby-time\/\" rel=\"noopener noreferrer\">picked<\/a> a WordPress replacement CMS<\/li><li>I learned React, a bit of Vue and started to use Vite.js<\/li><li>I lost weight, which was deliberate<\/li><li>optimized my home office, though I\u2019m not done yet<\/li><\/ul>"},"id":"d0540f06-9290-4c9e-abac-2cefe90086dc","isHidden":false,"type":"list"},{"content":{"text":"<p>I\u2019m sure I\u2019m forgetting some things, but a year is long and if you don\u2019t write anything down you tend to forget a few things.<\/p> <p>To summarize, it was, once again, a weird and difficult year. For a \nmoment it seemed to be over and we would get back to normal (whatever \nthat is) but we got pulled right back in for another go-around. Let\u2019s \njust hope this was it, we need to find some normalcy I think, we really \nneed to.<\/p>"},"id":"40648884-4778-4c06-ae46-5b53c0272112","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
