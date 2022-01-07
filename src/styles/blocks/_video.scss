@@ -1,0 +1,23 @@
+.video-block {
+  @apply my-8;
+
+  .fill-primary {
+    @apply opacity-70 transition-opacity duration-300;
+  }
+
+  &:hover {
+    @apply cursor-pointer;
+
+    .fill-primary {
+      @apply opacity-100;
+    }
+  }
+
+  .lazyframe {
+    @apply relative;
+
+    iframe {
+      @apply absolute inset-0 w-full h-full;
+    }
+  }
+}

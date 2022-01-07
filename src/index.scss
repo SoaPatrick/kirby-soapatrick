@@ -298,15 +298,6 @@ $breakpoints: (
   }
 }
 
-.video-block {
-  @apply my-8;
-
-  lite-youtube,
-  iframe {
-    @apply w-full aspect-video;
-  }
-}
-
 blockquote,
 .quote-block {
   margin: 2rem 0;

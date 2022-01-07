@@ -3,7 +3,8 @@ import "fslightbox";
 import "./scripts/toggleSearch";
 import "./scripts/draggableNav";
 import "./scripts/prism";
-//import "../node_modules/lite-youtube-embed/src/lite-yt-embed.js";
-import "@justinribeiro/lite-youtube";
+import lazyframe from "./scripts/lazyframe";
 
 console.log("shared");
+
+lazyframe(".lazyframe");
