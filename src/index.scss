@@ -3,7 +3,9 @@
 /* Imports */
 @import "./styles/fonts.css";
 @import "prism-theme-vars/base.css";
+
 @import "./styles/blocks/_blocks";
+@import "./styles/letterboxd";
 
 /* Tailwind */
 @tailwind base;
@@ -432,7 +434,7 @@ figcaption {
   @apply mt-16 inline-grid gap-8 font-serif grid-cols-2;
 }
 
-a[target="_blank"]:not(.img-link)::after {
+a[target="_blank"]::after {
   display: inline-block;
   transform: rotate(-35deg);
   content: "⤻ ";
