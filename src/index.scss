@@ -438,3 +438,31 @@ a[target="_blank"]:not(.img-link)::after {
   content: "⤻ ";
   line-height: 0;
 }
+
+.letterboxd {
+  @apply grid grid-cols-4 gap-4;
+
+  a[target="_blank"]::after {
+    content: none;
+  }
+
+  a {
+    @apply relative inline-block p-0 m-0;
+  }
+
+  a > div p:last-child {
+    @apply hidden;
+  }
+
+  p {
+    @apply m-0;
+  }
+
+  img {
+    @apply block rounded-t-md;
+  }
+
+  span {
+    @apply relative bg-primary text-white block text-center pb-1 rounded-b-md tracking-widest z-50;
+  }
+}

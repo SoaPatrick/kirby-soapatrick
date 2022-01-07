@@ -28,6 +28,7 @@ return [
           $ignore = kirby()->option('sitemap.ignore', ['error']);
           $log = page('log')->children()->pluck('id', ',');
           $lab = page('lab')->children()->pluck('id', ',');
+          $lab = page('movies')->children()->pluck('id', ',');
           $ignore = array_merge($ignore, $log, $lab);
 
           $content = snippet('sitemap', compact('pages', 'ignore'), true);
@@ -42,5 +43,5 @@ return [
       }
     ]
   ],
-  'sitemap.ignore' => ['log', 'factory', 'box'],
+  'sitemap.ignore' => ['log', 'factory', 'box', 'movies'],
 ];

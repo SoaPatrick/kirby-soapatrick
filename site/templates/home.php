@@ -31,4 +31,5 @@
   endforeach 
 ?>
 
+<?php snippet('letterboxd') ?>
 <?php snippet('footer'); ?>
