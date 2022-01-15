@@ -1,4 +1,4 @@
 import "@/index.js";
-import "./index.scss";
+import "./index.css";
 
 console.log("template factory-item");
