@@ -8,12 +8,12 @@ a {
 
     &:before,
     &:after {
-      @apply absolute inset-0 content-[''] bg-no-repeat rotate-0 transition-img-hover duration-300 ease-in-out opacity-0;
+      @apply absolute inset-0 content-[''] bg-no-repeat rotate-0 transition-img-hover duration-300 ease-in-out opacity-0 rounded-md;
     }
 
     &:hover {
       &:before {
-        @apply z-10 bg-primary rounded-md opacity-70;
+        @apply z-10 bg-primary opacity-70;
       }
 
       &:after {

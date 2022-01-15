@@ -61,6 +61,7 @@ module.exports = {
         content: "var(--width--content)",
         large: "var(--width--large)",
         wide: "var(--width--wide)",
+        full: "var(--width--full)",
       },
       height: {
         cover: "var(--width--cover)",
