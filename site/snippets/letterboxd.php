@@ -12,7 +12,7 @@
     $rating = $titleParts[$titlePartsLength - 1];
     ?>
   <div>
-    <a href="<?= $item->link() ?>" target="_blank" rel="noreferrer" aria-label="<?= $title; ?>">
+    <a href="<?= $item->link() ?>" target="_blank" rel="noreferrer" aria-label="<?= $title; ?>" class="img-link img-link--external">
       <div><?= $description ?></div>
       <span><?= $rating ?></span>
     </a>

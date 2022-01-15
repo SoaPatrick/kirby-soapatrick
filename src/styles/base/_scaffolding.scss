@@ -10,18 +10,7 @@ html {
 }
 
 body {
-  @apply font-sans font-thin text-blue-200 dark:text-egg-200;
-}
-
-.wrapper {
-  @apply mx-auto px-8 sm:px-4;
-  max-width: var(--width--full);
-  min-height: 100vh;
-}
-
-.wrapper > footer {
-  @apply mt-16 text-sm mb-36 sm:mb-8 mx-auto w-full;
-  max-width: var(--width--content);
+  @apply font-sans font-thin text-blue-200 dark:text-egg-200 selection:bg-primary selection:text-egg-200;
 }
 
 main {
@@ -42,7 +31,6 @@ main {
   }
 
   > header {
-    @apply ml-auto mb-16 w-full;
-    max-width: var(--width--content);
+    @apply ml-auto mb-16 w-full max-w-content;
   }
 }

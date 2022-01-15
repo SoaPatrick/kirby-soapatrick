@@ -1,4 +1,4 @@
-<?php snippet('header'); ?>
+<?php snippet('layouts/header') ?>
 <header class="mt-4 mb-16">
   <?php if($image = $page->cover()->toFile()): ?>
     <img 
@@ -30,4 +30,4 @@
 </div>
 
 <?php snippet('letterboxd') ?>
-<?php snippet('footer'); ?>
+<?php snippet('layouts/footer'); ?>

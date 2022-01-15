@@ -1,0 +1,7 @@
+.site-footer {
+  @apply mt-16 text-sm mb-36 sm:mb-8 mx-auto w-full max-w-content flex flex-wrap;
+
+  span {
+    @apply after:mx-3 after:text-xs after:text-primary after:content-['●'] last:after:content-none;
+  }
+}

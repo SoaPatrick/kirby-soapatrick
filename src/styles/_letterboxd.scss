@@ -1,18 +1,12 @@
 .letterboxd {
-  max-width: var(--width--content);
-  @apply mt-16 ml-auto w-full;
+  @apply mt-16 ml-auto w-full max-w-content;
 
   &__grid {
     @apply grid grid-cols-3 gap-4;
   }
 
   a {
-    @apply relative inline-block p-0 m-0;
-    text-decoration-color: transparent;
-
-    &[target="_blank"]::after {
-      content: none;
-    }
+    @apply relative inline-block p-0 m-0 decoration-transparent;
   }
 
   p {

@@ -1,15 +1,12 @@
-<?php snippet('header') ?>
-<header class="relative">
+<?php snippet('layouts/header') ?>
+<header>
   <?php if (!empty(param('category'))): ?>
     <h1><?= html(urldecode(param('category'))) ?></h1>
     <?php $articles = $page->children()->filterBy('category', urldecode(param('category')), ',')->flip()->paginate(10); ?>
   <?php else: ?>
-    <div class="marginal-icon marginal-icon--large mb-2 sm:mb-0 sm:absolute grid place-items-center">
-        <?= $page->icon(); ?>
-    </div>
     <h1><?= $page->title() ?></h1>
-    <?php $articles = $page->children()->listed()->flip()->paginate(10) ?>
     <p class="text-lg"><?= $page->description() ?></p>
+    <?php $articles = $page->children()->listed()->flip()->paginate(10) ?>
   <?php endif ?>
 </header>
 <div class="content">
@@ -19,5 +16,5 @@
 </div>
 
 <?php snippet('pagination-list', ['articles' => $articles]) ?>
-<?php snippet('subnavigation', ['subnav' => 'subnavpatrick']) ?>
-<?php snippet('footer') ?>
+<?php snippet('layouts/subnavigation', ['subnav' => 'subnavpatrick']) ?>
+<?php snippet('layouts/footer') ?>

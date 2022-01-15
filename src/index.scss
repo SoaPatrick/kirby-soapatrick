@@ -4,162 +4,18 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Imports */
+/* Import Fonts */
 @import "./styles/fonts.css";
-@import "prism-theme-vars/base.css";
 
-@import "./styles/scaffolding";
-@import "./styles/typo";
-@import "./styles/navigation";
-@import "./styles/article";
+/* Import Collections */
+@import "./styles/base/_base";
+@import "./styles/layouts/_layouts";
 @import "./styles/blocks/_blocks";
+@import "./styles/components/_components";
+
+/* Imports */
+@import "./styles/article";
+@import "./styles/grid-lab";
+@import "./styles/grid-factory";
+@import "./styles/grid-overview";
 @import "./styles/letterboxd";
-
-// Variables
-:root {
-  --color__primary: #f7444e;
-
-  --color__cyan-62: hsl(186, 39%, 62%);
-  --color__cyan-35: hsl(186, 39%, 35%);
-
-  --color__blue--100: hsl(196, 100%, 10%);
-  --color__blue--200: hsl(197, 100%, 12%);
-
-  --color__egg--100: hsl(43, 40%, 92%);
-  --color__egg--200: hsl(45, 40%, 96%);
-
-  --width--content: clamp(500px, 50vw, 750px);
-  --width--sides: clamp(200px, 50vw, 400px);
-  --width--gutter: clamp(20px, 3vw, 50px);
-
-  --width--large: calc(var(--width--content) + 2 * var(--width--gutter));
-  --width--full: calc(var(--width--content) + 2 * var(--width--sides));
-}
-
-.search-panel {
-  @apply bg-primary max-h-0 overflow-hidden transition-height duration-200 ease-in-out relative z-50;
-
-  form {
-    max-width: var(--width--full);
-    @apply mx-auto px-4 py-16;
-  }
-
-  &.open {
-    @apply max-h-96;
-  }
-}
-
-.waves {
-  height: clamp(20px, 20vw, 200px);
-
-  &-filler {
-    height: clamp(0px, 4vw, 41px);
-  }
-}
-
-// bp(sm-min)
-$breakpoints: (
-  tiny: 481px,
-);
-
-// mixin for media queries
-@mixin mq($mq-breakpoint, $mq-breakpoints: $breakpoints) {
-  // If $mq-breakpoint is a key that exists in
-  // $mq-breakpoints, get and use the value
-  @if map-has-key($mq-breakpoints, $mq-breakpoint) {
-    $mq-breakpoint: map-get($mq-breakpoints, $mq-breakpoint);
-  }
-
-  @media (min-width: #{$mq-breakpoint}) {
-    @content;
-  }
-}
-
-.grid-lab {
-  @apply flex flex-wrap flex-col;
-
-  @include mq(tiny) {
-    @apply flex-row;
-  }
-
-  article {
-    @apply mb-4;
-
-    @include mq(tiny) {
-      @apply mr-4;
-    }
-  }
-
-  img {
-    @apply block rounded-md;
-
-    @include mq(tiny) {
-      @apply w-auto;
-      height: clamp(150px, 10vw, 300px);
-    }
-  }
-
-  @supports (grid-template-rows: masonry) {
-    @apply grid gap-4;
-    grid-template-rows: masonry;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-
-    @media (min-width: 800px) {
-      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    }
-
-    article {
-      @apply m-0;
-    }
-
-    img {
-      @apply h-auto;
-    }
-  }
-}
-
-.grid-factory {
-  @apply grid gap-4;
-  grid-auto-flow: dense;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  grid-auto-rows: minmax(150px, auto);
-
-  @media (min-width: 800px) {
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    grid-auto-rows: minmax(200px, auto);
-  }
-}
-
-.marginal-icon {
-  display: none;
-}
-
-.overview {
-  @apply grid gap-gutter items-start;
-
-  @media (min-width: 800px) {
-    grid-template-columns: 1fr var(--width--content);
-  }
-
-  @media (max-width: 799px) {
-    max-width: var(--width--content);
-    width: 100%;
-    margin-left: auto;
-  }
-}
-
-/* Scrollbar */
-::-webkit-scrollbar {
-  width: 0.5rem;
-  height: 0.5rem;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  background: transparent;
-}
-
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: var(--color__primary);
-}

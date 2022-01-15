@@ -16,7 +16,7 @@ Subheadline: <p>Welcome to my small nook of <strong>space-consuming</strong> bul
 
 ----
 
-Subnavbox: box
+Subnavbox: box, storage
 
 ----
 
@@ -24,4 +24,4 @@ Subnavfactory: factory, lab
 
 ----
 
-Subnavpatrick: patrick, uses, likes, log, privacy
+Subnavpatrick: patrick, likes, uses, now

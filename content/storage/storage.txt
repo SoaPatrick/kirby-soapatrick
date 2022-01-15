@@ -1,0 +1,5 @@
+Title: Storage
+
+----
+
+Text: Box Storage

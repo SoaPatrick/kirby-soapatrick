@@ -1,15 +1,12 @@
-<?php snippet('header') ?>
-<header class="relative">
+<?php snippet('layouts/header') ?>
+<header>
   <?php if (!empty(param('tag'))): ?>
     <h1><?= html(urldecode(param('tag'))) ?></h1>
     <?php $articles = $page->children()->filterBy('tags', urldecode(param('tag')), ',')->flip()->paginate(24); ?>
   <?php else: ?>
-    <div class="marginal-icon marginal-icon--large mb-2 sm:mb-0 sm:absolute grid place-items-center">
-        <?= $page->icon(); ?>
-    </div>
     <h1><?= $page->title() ?></h1>
-    <?php $articles = $page->children()->listed()->flip()->paginate(24) ?>
     <p><?= $page->description() ?></p>
+    <?php $articles = $page->children()->listed()->flip()->paginate(24) ?>
   <?php endif ?>
 </header>
 <div class="overview">
@@ -23,9 +20,9 @@
       <?php if($image = $article->cover()->toFile()): ?>
         <article>
           <?php if($article->format() == 'video'): ?>
-            <a href="<?= $article->video()->toFile()->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox>
+            <a href="<?= $article->video()->toFile()->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox class="img-link img-link--lightbox video-link">
           <?php else: ?>
-            <a href="<?= $image->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox>
+            <a href="<?= $image->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox class="img-link img-link--lightbox">
           <?php endif ?>
             <?php $img_resize = $image->resize(390); ?>
             <img class="block w-full h-full object-cover rounded-md" src="<?= $img_resize->url() ?>" loading="lazy" alt="<?= $article->title()->html() ?>" width="<?= $img_resize->width() ?>" height="<?= $img_resize->height() ?>">
@@ -37,5 +34,5 @@
 </div>
 
 <?php snippet('pagination-list', ['articles' => $articles]) ?>
-<?php snippet('subnavigation', ['subnav' => 'subnavfactory']) ?>
-<?php snippet('footer') ?>
+<?php snippet('layouts/subnavigation', ['subnav' => 'subnavfactory']) ?>
+<?php snippet('layouts/footer') ?>

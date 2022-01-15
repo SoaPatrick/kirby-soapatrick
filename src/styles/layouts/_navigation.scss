@@ -99,12 +99,11 @@
       @apply py-3 px-4;
 
       &.active {
-        @apply decoration-primary decoration-2;
+        @apply decoration-primary decoration-normal;
       }
 
-      &:hover,
-      &:focus {
-        text-decoration-color: transparent;
+      &:hover {
+        @apply decoration-transparent;
       }
 
       &:last-child {

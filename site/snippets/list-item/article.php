@@ -1,24 +1,23 @@
 <article>
   <header class="mb-2">
-    <?php snippet('featured-img', ['article' => $article]) ?>
-    <time class="text-xs uppercase tracking-wide opacity-70" datetime="<?= $article->published()->toDate(DATE_ATOM) ?>">
-      <?= $article->published()->toDate('F j, Y') ?>
-    </time>
+    <?php snippet('cover', ['article' => $article]) ?>
+    <?php snippet('published', ['article' => $article]); ?>
+    <?php snippet('edit-page', ['page' => $article]); ?>
     <?php if ($article->format() == "quote"): ?>
-      <blockquote class="text-2xl mt-1 mb-4">
+      <blockquote class="quote-block quote-block--list">
         <?= $article->quotetext() ?>
         <cite><?= $article->quotesource() ?></cite>
       </blockquote>
     <?php elseif ($article->format() == "status"): ?>
       <div class="text-2xl"><?= $article->statustext() ?></div>
     <?php else: ?>
-      <a class="decoration-transparent hover:decoration-current" href="<?= $article->url() ?>">
-        <h2 class="mt-0 mb-1"><?= $article->title() ?></h2>
-      </a>
+      <h2 class="mt-0 mb-1">
+        <a class="decoration-transparent hover:decoration-current" href="<?= $article->url() ?>"><?= $article->title() ?></a>
+      </h2>
     <?php endif ?>
   </header>
   <?php if ($article->format() == "standard"): ?>
-    <div class="content">
+    <div>
       <p class="my-4">
         <?= $article->text()->toBlocks()->excerpt(200) ?> <a href="<?= $article->url() ?>" class="more">more →</a>
       </p>

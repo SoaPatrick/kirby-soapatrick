@@ -14,10 +14,10 @@
   $articles = $content->search($query, 'title|text|tags')->paginate(10);
 ?>
 
-<?php snippet('header'); ?>
+<?php snippet('layouts/header'); ?>
 
 <?php if($articles->isNotEmpty()): ?>
-  <header class="mt-4 mb-16">
+  <header class="mb-16">
     <h1><?= $page->title() ?>: <?= $query ?></h1>
   </header>
   <div class="content content--articles">
@@ -27,9 +27,9 @@
   </div>
   <?php snippet('pagination-list', ['articles' => $articles]) ?>
 <?php else: ?>
-  <header class="mt-4 mb-16">
+  <header class="mb-16">
     <h1><?= $page->title() ?>: <?= $query ?></h1>
   </header>
 <?php endif ?>
 
-<?php snippet('footer'); ?>
+<?php snippet('layouts/footer'); ?>

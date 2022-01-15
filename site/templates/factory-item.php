@@ -1,11 +1,8 @@
-<?php snippet('header') ?>
+<?php snippet('layouts/header') ?>
 <article>
-  <header>
-    <div>
-      <time class="text-xs uppercase tracking-wide opacity-70" datetime="<?= $page->published()->toDate(DATE_ATOM) ?>">
-        <?= $page->published()->toDate('F j, Y') ?>
-      </time>
-    </div>
+  <header class="mb-4">
+    <?php snippet('published', ['article' => $page]); ?>
+    <?php snippet('edit-page', ['page' => $page]); ?>
     <h1><?= $page->title() ?></h1>
   </header>
   <div class="content">
@@ -57,5 +54,5 @@
 <?php endif ?>
 
 <?php snippet('pagination-single', ['page' => $page]) ?>
-<?php snippet('subnavigation', ['subnav' => 'subnavfactory']) ?>
-<?php snippet('footer') ?>
+<?php snippet('layouts/subnavigation', ['subnav' => 'subnavfactory']) ?>
+<?php snippet('layouts/footer') ?>

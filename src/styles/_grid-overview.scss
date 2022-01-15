@@ -1,0 +1,7 @@
+.overview {
+  @apply grid gap-gutter items-start max-w-content sm:max-w-full w-full ml-auto;
+
+  @media (min-width: 800px) {
+    grid-template-columns: 1fr var(--width--content);
+  }
+}

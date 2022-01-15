@@ -7,15 +7,9 @@
 }
 
 .align-wide {
-  position: relative;
+  @apply relative;
 
   figcaption {
-    @media (min-width: 800px) {
-      position: absolute;
-      left: 0;
-      margin-right: var(--width--large);
-      margin-top: 2rem;
-      text-align: left;
-    }
+    @apply sm:left-0 sm:mt-8 sm:text-left sm:absolute sm:mr-large;
   }
 }

@@ -10,6 +10,7 @@ module.exports = {
       "egg-200": "#F9F7F1",
     },
     colors: {
+      current: "currentColor",
       transparent: "transparent",
       primary: "var(--color__primary)",
       "cyan-62": "var(--color__cyan-62)",
@@ -22,20 +23,47 @@ module.exports = {
     screens: {
       sm: "800px",
     },
-    dropShadow: {
-      "subnav-blue": "0 0 2rem rgba(255, 255, 255, 0.25)",
-      "subnav-egg": "0 0 2rem rgba(0, 0, 0, 0.25)",
+    textUnderlineOffset: {
+      default: "0.25em",
+    },
+    textDecorationThickness: {
+      thin: "0.01em",
+      normal: "2px",
+    },
+    gridTemplateRows: {
+      masonry: "masonry",
     },
     extend: {
       transitionProperty: {
         height: "height, max-height",
         menu: "left, padding-left",
+        link: "text-decoration-color",
+        "img-hover": "background-color, background-image, opacity",
       },
       content: {
         link: "'⤻'",
+        hashtag: "'#'",
       },
       gap: {
         gutter: "var(--width--gutter)",
+      },
+      margin: {
+        large: "var(--width--large)",
+        gutter: "var(--width--gutter)",
+      },
+      width: {
+        content: "var(--width--content)",
+        large: "var(--width--large)",
+        wide: "var(--width--wide)",
+        cover: "var(--width--cover)",
+      },
+      maxWidth: {
+        content: "var(--width--content)",
+        large: "var(--width--large)",
+        wide: "var(--width--wide)",
+      },
+      height: {
+        cover: "var(--width--cover)",
       },
     },
   },

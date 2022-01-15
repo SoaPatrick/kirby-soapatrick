@@ -1,0 +1,23 @@
+.hashtag {
+  @apply inline-block relative text-sm decoration-transparent;
+
+  &:before {
+    @apply text-primary content-hashtag;
+  }
+
+  &:hover {
+    @apply decoration-current;
+  }
+}
+
+.tag-list {
+  @apply flex gap-2 flex-wrap;
+
+  &--vertical {
+    @apply sm:inline-grid text-right;
+
+    a {
+      @apply justify-self-end;
+    }
+  }
+}

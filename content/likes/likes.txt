@@ -2,4 +2,4 @@ Title: Likes
 
 ----
 
-Subnavigation: patrick, likes, log, privacy, uses
+Description: just a collection of things I like.

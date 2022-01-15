@@ -1,9 +1,11 @@
+@import "prism-theme-vars/base.css";
+
 .code-block {
   @apply relative my-8;
 
   &__language {
-    @apply absolute right-2 top-1 font-bold;
-    font-size: 0.5rem;
+    @apply absolute right-2 top-1 font-bold text-xs;
+    font-size: var(--prism-font-size);
     color: var(--prism-language);
     font-family: var(--prism-font-family);
   }

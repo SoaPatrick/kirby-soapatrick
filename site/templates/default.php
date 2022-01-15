@@ -1,7 +1,7 @@
-<?php snippet('header') ?>
+<?php snippet('layouts/header') ?>
 <article>
   <header>
-    <h1 class="mt-0"><?= $page->title() ?></h1>
+    <h1><?= $page->title() ?></h1>
   </header>
   <div class="content">
     <?= markdown($page->text()->kt()) ?>
@@ -16,5 +16,5 @@
   </footer>
 </article>
 
-<?php snippet('subnavigation', ['subnav' => 'subnavpatrick']) ?>
-<?php snippet('footer') ?>
+<?php snippet('layouts/subnavigation', ['subnav' => 'subnavpatrick']) ?>
+<?php snippet('layouts/footer') ?>

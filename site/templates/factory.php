@@ -1,15 +1,12 @@
-<?php snippet('header') ?>
-<header class="relative">
+<?php snippet('layouts/header') ?>
+<header>
   <?php if (!empty(param('tag'))): ?>
     <h1><?= html(urldecode(param('tag'))) ?></h1>
     <?php $articles = $page->children()->filterBy('tags', urldecode(param('tag')), ',')->flip()->paginate(12); ?>
   <?php else: ?>
-    <div class="marginal-icon marginal-icon--large mb-2 sm:mb-0 sm:absolute grid place-items-center">
-        <?= $page->icon(); ?>
-    </div>
     <h1><?= $page->title() ?></h1>
-    <?php $articles = $page->children()->listed()->flip()->paginate(12) ?>
     <p class="text-lg"><?= $page->description() ?></p>
+    <?php $articles = $page->children()->listed()->flip()->paginate(12) ?>
   <?php endif ?>
 </header>
 <div class="overview">
@@ -21,7 +18,7 @@
   <div class="grid-factory">
   <?php foreach($articles as $article): ?>
     <article>
-      <a href="<?= $article->url() ?>" aria-label="<?= $article->title()->html() ?>">
+      <a href="<?= $article->url() ?>" aria-label="<?= $article->title()->html() ?>" class="img-link">
         <?php if($image = $article->cover()->toFile()): ?>
           <img 
             srcset="<?= $image->srcset('cover-factory'); ?>"
@@ -38,5 +35,5 @@
 </div>
 
 <?php snippet('pagination-list', ['articles' => $articles]) ?>
-<?php snippet('subnavigation', ['subnav' => 'subnavfactory']) ?>
-<?php snippet('footer') ?>
+<?php snippet('layouts/subnavigation', ['subnav' => 'subnavfactory']) ?>
+<?php snippet('layouts/footer') ?>

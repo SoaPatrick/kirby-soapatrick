@@ -8,13 +8,16 @@ blockquote,
   }
 
   &--large {
+    @apply text-2xl;
     padding-left: calc(var(--width--gutter) - 5px);
     padding-right: var(--width--gutter);
-    font-size: 1.5rem;
-    line-height: 1.35;
 
     cite {
       @apply text-sm;
     }
+  }
+
+  &--list {
+    @apply text-2xl mt-1 mb-4;
   }
 }

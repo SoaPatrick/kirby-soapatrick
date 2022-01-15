@@ -1,6 +1,6 @@
-<?php snippet('header') ?>
+<?php snippet('layouts/header') ?>
 
 <h1><?= $page->title() ?></h1>
 <?= $page->text()->markdown() ?>
 
-<?php snippet('footer') ?>
+<?php snippet('layouts/footer') ?>

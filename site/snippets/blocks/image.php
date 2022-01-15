@@ -29,17 +29,17 @@ if ($block->location() == 'web') {
 <?php if ($src): ?>
 <figure class="image-block align-<?= $align ?>" <?= attr(['data-ratio' => $ratio, 'data-crop' => $crop], ' ') ?>>
   <?php if ($link->isNotEmpty()): ?>
-  <a href="<?= esc($link->toUrl()) ?>">
-    <img src="<?= $src ?>" alt="<?= $alt->esc() ?>" loading="lazy">
-  </a>
+    <a href="<?= esc($link->toUrl()) ?>" aria-label="<?= $alt->esc() ?>" class="img-link img-link--external" target="_blank">
+      <img src="<?= $src ?>" alt="<?= $alt->esc() ?>" loading="lazy">
+    </a>
   <?php elseif($lightbox): ?>
-  <a href="<?= $src ?>" data-fslightbox="<?= $id ?>">
+  <a href="<?= $src ?>" data-fslightbox="<?= $id ?>" aria-label="lightbox" class="img-link img-link--lightbox">
     <img 
       srcset="<?= $image->srcset('img-' .$align ); ?>"
       type="image/webp" 
       alt="<?= $alt->esc() ?>" 
       <?= $dimensions ?>
-      loading="lazy" test>
+      loading="lazy">
   </a>
   <?php else: ?>
     <img 
@@ -47,7 +47,7 @@ if ($block->location() == 'web') {
       type="image/webp" 
       alt="<?= $alt->esc() ?>" 
       <?= $dimensions ?>
-      loading="lazy">    
+      loading="lazy">
   <?php endif ?>
 
   <?php if ($caption->isNotEmpty()): ?>

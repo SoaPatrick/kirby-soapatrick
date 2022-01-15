@@ -47,8 +47,8 @@ return [
   'thumbs' => [
     'srcsets' => [
       'cover-home' => [
-        '1x' => ['width' => 200, 'quality' => 80,'format' => 'webp'],
-        '2x' => ['width' => 400, 'quality' => 80,'format' => 'webp']
+        '1x' => ['width' => 200,'height' => 200,'quality' => 80,'format' => 'webp','crop' => 'center'],
+        '2x' => ['width' => 400,'height' => 400,'quality' => 80,'format' => 'webp','crop' => 'center']
       ],
       'cover-list' => [
         '1x' => ['width' => 120, 'quality' => 80,'format' => 'webp'],

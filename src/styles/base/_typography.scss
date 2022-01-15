@@ -1,18 +1,30 @@
+footer a,
 main a {
-  @apply underline;
-  text-decoration-thickness: 0.01em;
-  text-underline-offset: 0.25em;
-  text-decoration-color: currentColor;
-  transition: text-decoration-color 0.25s ease-in-out;
+  @apply underline decoration-current decoration-thin underline-offset-default transition-link duration-300 ease-in-out;
 
-  &:hover,
-  &:focus {
-    text-decoration-color: transparent;
+  &:hover {
+    @apply decoration-transparent;
   }
+}
+
+a:focus {
+  @apply outline-2 outline-primary;
 }
 
 a[target="_blank"]::after {
   @apply content-link -rotate-45 inline-block text-primary;
+}
+
+a.edit {
+  @apply text-xs ml-2 inline-block h-3 w-3;
+
+  &[target="_blank"]::after {
+    @apply content-none;
+  }
+
+  svg {
+    @apply w-full h-full;
+  }
 }
 
 article header a,
@@ -30,7 +42,7 @@ h3 {
 }
 
 h1 {
-  @apply mt-2 mb-8;
+  @apply mb-8;
   font-size: clamp(2rem, 10vw, 3rem);
 }
 

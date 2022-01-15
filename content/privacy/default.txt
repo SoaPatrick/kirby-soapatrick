@@ -6,10 +6,6 @@ Icon: <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44
 
 ----
 
-Subnavigation: patrick, likes, log, privacy, uses
-
-----
-
 Text:
 
 It’s an important topic and I wanted to dedicate a whole page about it and explain how SoaPatrick.com deals with this issue.
