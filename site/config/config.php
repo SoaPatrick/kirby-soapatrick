@@ -44,4 +44,28 @@ return [
     ]
   ],
   'sitemap.ignore' => ['log', 'factory', 'box', 'movies'],
+  'thumbs' => [
+    'srcsets' => [
+      'cover-home' => [
+        '1x' => ['width' => 200, 'quality' => 80,'format' => 'webp'],
+        '2x' => ['width' => 400, 'quality' => 80,'format' => 'webp']
+      ],
+      'cover-list' => [
+        '1x' => ['width' => 120, 'quality' => 80,'format' => 'webp'],
+        '2x' => ['width' => 240, 'quality' => 80,'format' => 'webp']
+      ],
+      'cover-factory' => [
+        '1x' => ['width' => 320, 'quality' => 80,'format' => 'webp'],
+        '2x' => ['width' => 640, 'quality' => 80,'format' => 'webp']
+      ],
+      'img-wide' => [
+        '1x' => ['width' => 1200, 'quality' => 80,'format' => 'webp'],
+        '2x' => ['width' => 2400, 'quality' => 80,'format' => 'webp']
+      ],
+      'img-default' => [
+        '1x' => ['width' => 850, 'quality' => 80,'format' => 'webp'],
+        '2x' => ['width' => 1700, 'quality' => 80,'format' => 'webp']
+      ]
+    ]
+  ]
 ];

@@ -2,10 +2,6 @@ Title: Zum Lange Inseli
 
 ----
 
-Text: [{"content":{"align":"wide","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=OcXx7NhhSBs","caption":null},"id":"0bae8a65-f703-4068-b5ab-fdf66f05b6c2","isHidden":false,"type":"video"}]
-
-----
-
 Published: 2018-12-28
 
 ----
@@ -17,3 +13,7 @@ Cover:
 ----
 
 Tags: Promotion, Video
+
+----
+
+Text: [{"content":{"align":"default","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=OcXx7NhhSBs","caption":""},"id":"0bae8a65-f703-4068-b5ab-fdf66f05b6c2","isHidden":false,"type":"video"}]

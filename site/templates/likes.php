@@ -12,28 +12,12 @@
     <p class="text-lg"><?= $page->description() ?></p>
   <?php endif ?>
 </header>
-<div>
+<div class="content">
   <?php foreach($articles as $article): ?>
     <?php snippet('list-item/like', ['article' => $article]) ?>
   <?php endforeach ?>
 </div>
 
-<?php if ($articles->pagination()->hasPages()): ?>
-<nav class="pagination">
-
-  <?php if ($articles->pagination()->hasNextPage()): ?>
-  <a class="next" href="<?= $articles->pagination()->nextPageURL() ?>">
-    ← older
-  </a>
-  <?php endif ?>
-
-  <?php if ($articles->pagination()->hasPrevPage()): ?>
-  <a class="prev" href="<?= $articles->pagination()->prevPageURL() ?>">
-    newer →
-  </a>
-  <?php endif ?>
-
-</nav>
-<?php endif ?>
-
+<?php snippet('pagination-list', ['articles' => $articles]) ?>
+<?php snippet('subnavigation', ['subnav' => 'subnavpatrick']) ?>
 <?php snippet('footer') ?>

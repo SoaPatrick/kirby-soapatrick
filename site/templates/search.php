@@ -1,21 +1,35 @@
 <?php
   $query = get('q');
-  $results = $site->search($query, 'title|text');
+  $boxItems = page('box')->children();
+  $factoryItems = page('factory')->children();
+  $labItems = page('lab')->children();
+  $likes = page('likes')->children();
+  $patrick = page('patrick');
+  $content = new Collection();
+  $content->add($boxItems);
+  $content->add($factoryItems);
+  $content->add($labItems);
+  $content->add($likes);
+  $content->add($patrick);
+  $articles = $content->search($query, 'title|text|tags')->paginate(10);
 ?>
 
 <?php snippet('header'); ?>
 
-<?php if($results->isNotEmpty()): ?>
-  <h1><?= $page->title() ?>: <?= $query ?></h1>
-  <ul>
-    <?php foreach($site->search(get('q'),'title|text|tags') as $article): ?>
-      <li>
-        <a href="<?= $article->url() ?>"><?= $article->title()->html() ?></a>
-      </li>
+<?php if($articles->isNotEmpty()): ?>
+  <header class="mt-4 mb-16">
+    <h1><?= $page->title() ?>: <?= $query ?></h1>
+  </header>
+  <div class="content content--articles">
+    <?php foreach($articles as $article): ?>
+        <?php snippet('list-item/' . $article->intendedTemplate(), ['article' => $article]); ?>
     <?php endforeach ?>
-  </ul>
+  </div>
+  <?php snippet('pagination-list', ['articles' => $articles]) ?>
 <?php else: ?>
-  <h1>Nothing found</h1>
+  <header class="mt-4 mb-16">
+    <h1><?= $page->title() ?>: <?= $query ?></h1>
+  </header>
 <?php endif ?>
 
 <?php snippet('footer'); ?>

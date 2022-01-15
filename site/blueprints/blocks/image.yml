@@ -59,10 +59,8 @@ fields:
   align:
     label: Alignment
     type: radio
-    columns: 4
+    columns: 2
     default: "default"
     options:
       default: Default
-      center: Center
       wide: Wide
-      full: Full

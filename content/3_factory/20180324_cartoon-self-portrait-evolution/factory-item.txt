@@ -2,7 +2,7 @@ Title: Cartoon Self Portrait Evolution
 
 ----
 
-Text: [{"content":{"location":"kirby","image":["patrick_overview.png"],"src":"","alt":"","caption":null,"link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"590f2f34-95d2-42d0-8b65-19dce42117bd","isHidden":false,"type":"image"},{"content":{"columns":2,"lightbox":"true","align":"content","images":["patrick_01.png","patrick_02.png","patrick_03.png","patrick_04.png","patrick_06.png","patrick_07.png","patrick_05.png"]},"id":"2b7ac71e-9dae-4dc0-80eb-1d96776e16b6","isHidden":false,"type":"gallery"}]
+Text: [{"content":{"location":"kirby","image":["patrick_overview.png"],"src":"","alt":"","caption":null,"link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"590f2f34-95d2-42d0-8b65-19dce42117bd","isHidden":false,"type":"image"},{"content":{"columns":2,"lightbox":"true","align":"default","images":["patrick_01.png","patrick_02.png","patrick_03.png","patrick_04.png","patrick_06.png","patrick_07.png","patrick_05.png"]},"id":"2b7ac71e-9dae-4dc0-80eb-1d96776e16b6","isHidden":false,"type":"gallery"}]
 
 ----
 

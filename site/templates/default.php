@@ -1,18 +1,20 @@
 <?php snippet('header') ?>
 <article>
-  <header class="relative">
-    <div class="marginal-icon marginal-icon--large mb-2 sm:mb-0 sm:absolute grid place-items-center">
-      <?= $page->icon(); ?>
-    </div>
-    <div>
-      <time class="text-xs uppercase tracking-wide opacity-70" datetime="<?= $page->modified(DATE_ATOM) ?>">
-        <?= $page->modified('F j, Y') ?>
-      </time>
-    </div>
+  <header>
     <h1 class="mt-0"><?= $page->title() ?></h1>
   </header>
-  <div>
+  <div class="content">
     <?= markdown($page->text()->kt()) ?>
   </div>
+  <footer>
+    <div class="bg-egg-100 dark:bg-blue-100 rounded-md p-4 mt-8">
+      <div class="text-xs opacity-70 mb-2">Modified on</div>
+        <time class="text-xs flex" datetime="<?= $page->modified(DATE_ATOM) ?>">
+          <?= $page->modified('F j, Y') ?>
+        </time>
+    </div>
+  </footer>
 </article>
+
+<?php snippet('subnavigation', ['subnav' => 'subnavpatrick']) ?>
 <?php snippet('footer') ?>

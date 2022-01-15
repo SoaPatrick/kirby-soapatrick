@@ -2,7 +2,7 @@ Title: Reflection
 
 ----
 
-Text: [{"content":{"align":"","location":"","video":[],"url":"https:\/\/www.youtube.com\/watch?v=1DEMQ4ilwRg","caption":null},"id":"bf16a3fa-89ba-4db4-aedd-c267484c7bd2","isHidden":false,"type":"video"}]
+Text: [{"content":{"align":"default","location":"","video":[],"url":"https:\/\/www.youtube.com\/watch?v=1DEMQ4ilwRg","caption":null},"id":"bf16a3fa-89ba-4db4-aedd-c267484c7bd2","isHidden":false,"type":"video"}]
 
 ----
 

@@ -2,9 +2,20 @@
   @apply my-8;
 
   img {
-    @apply rounded-md;
+    @apply rounded-md mx-auto;
   }
 }
 
-.align-center {
+.align-wide {
+  position: relative;
+
+  figcaption {
+    @media (min-width: 800px) {
+      position: absolute;
+      left: 0;
+      margin-right: var(--width--large);
+      margin-top: 2rem;
+      text-align: left;
+    }
+  }
 }

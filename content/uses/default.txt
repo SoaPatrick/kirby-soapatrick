@@ -2,4 +2,8 @@ Title: Uses
 
 ----
 
+Subnavigation: patrick, likes, log, privacy, uses
+
+----
+
 Text: SoaPatrick Uses

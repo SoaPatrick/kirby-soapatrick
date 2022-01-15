@@ -15,4 +15,7 @@
     <img class="block rounded-md" src="<?= $img_resize->url() ?>" loading="lazy" alt="<?= $page->title()->html() ?>" width="<?= $img_resize->width() ?>" height="<?= $img_resize->height() ?>">
   <?php endif ?>
 </article>
+
+<?php snippet('pagination-single', ['page' => $page]) ?>
+<?php snippet('subnavigation', ['subnav' => 'subnavpatrick']) ?>
 <?php snippet('footer') ?>

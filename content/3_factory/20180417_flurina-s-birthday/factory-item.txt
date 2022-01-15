@@ -2,10 +2,6 @@ Title: Flurina’s Birthday
 
 ----
 
-Text: [{"content":{"location":"kirby","image":["flurina-birthday.png"],"src":"","alt":"","caption":null,"link":"","lightbox":"true","ratio":"","crop":"false","align":"wide"},"id":"c3566ba0-984c-47e5-8e5a-4b5b66930e90","isHidden":false,"type":"image"}]
-
-----
-
 Published: 2018-04-17
 
 ----
@@ -17,3 +13,7 @@ Cover:
 ----
 
 Tags: Drawing, Comic
+
+----
+
+Text: [{"content":{"location":"kirby","image":["flurina-birthday.png"],"src":"","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"c3566ba0-984c-47e5-8e5a-4b5b66930e90","isHidden":false,"type":"image"}]

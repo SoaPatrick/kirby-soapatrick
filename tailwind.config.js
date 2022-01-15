@@ -7,21 +7,35 @@ module.exports = {
     },
     fill: {
       primary: "var(--color__primary)",
-      black: "#222222",
-      white: "#fff",
+      "egg-200": "#F9F7F1",
     },
     colors: {
       transparent: "transparent",
-      black: "#222222",
-      white: "#fff",
-      "white-10": "rgba(255,255,255,.1)",
       primary: "var(--color__primary)",
-      "black-10": "rgba(0,0,0,.1)",
+      "cyan-62": "var(--color__cyan-62)",
+      "cyan-35": "var(--color__cyan-35)",
+      "blue-100": "var(--color__blue--100)",
+      "blue-200": "var(--color__blue--200)",
+      "egg-100": "var(--color__egg--100)",
+      "egg-200": "var(--color__egg--200)",
+    },
+    screens: {
+      sm: "800px",
+    },
+    dropShadow: {
+      "subnav-blue": "0 0 2rem rgba(255, 255, 255, 0.25)",
+      "subnav-egg": "0 0 2rem rgba(0, 0, 0, 0.25)",
     },
     extend: {
       transitionProperty: {
         height: "height, max-height",
         menu: "left, padding-left",
+      },
+      content: {
+        link: "'⤻'",
+      },
+      gap: {
+        gutter: "var(--width--gutter)",
       },
     },
   },

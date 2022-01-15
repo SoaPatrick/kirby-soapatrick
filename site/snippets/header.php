@@ -19,10 +19,9 @@ $entry = "templates/$template/index.js";
   <!-- ... and the template's css -->
   <?= vite()->css($entry) ?>
 </head>
-<body class="bg-white dark:bg-black dark:text-white">
+<body class="bg-egg-200 dark:bg-blue-200 dark:text-egg-200">
   <?php snippet("search") ?>
-  <?php snippet("waves") ?>
-  <?php snippet("menu") ?>
-  <div class="wrapper">
-    <main class="flex-1 max-w-screen-md sm:mt-16">
-      <?php snippet("breadcrumb") ?>
+  <!-- <?php snippet("waves") ?> -->
+  <div class="wrapper flex flex-col">
+    <?php snippet("menu") ?>
+    <main class="flex-1 main">

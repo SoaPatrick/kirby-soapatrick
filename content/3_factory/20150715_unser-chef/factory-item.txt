@@ -2,7 +2,7 @@ Title: Unser Chef
 
 ----
 
-Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=Z-qUsqAxcek","caption":null},"id":"c631b7b6-ca3d-4301-ac8e-caf7ee8c26f9","isHidden":false,"type":"video"}]
+Text: [{"content":{"align":"default","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=Z-qUsqAxcek","caption":null},"id":"c631b7b6-ca3d-4301-ac8e-caf7ee8c26f9","isHidden":false,"type":"video"}]
 
 ----
 

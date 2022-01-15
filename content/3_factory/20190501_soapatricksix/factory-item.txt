@@ -2,10 +2,6 @@ Title: SoaPatrick Six
 
 ----
 
-Text: [{"content":{"columns":2,"lightbox":"true","align":"wide","images":["soapatricksix-dark.png","soapatricksix-light.png"]},"id":"3573c32a-91a2-45e5-9aa5-2495b3118610","isHidden":false,"type":"gallery"}]
-
-----
-
 Published: 2019-05-01
 
 ----
@@ -17,3 +13,7 @@ Cover:
 ----
 
 Tags: Webdesign
+
+----
+
+Text: [{"content":{"columns":2,"lightbox":"true","align":"default","images":["soapatricksix-dark.png","soapatricksix-light.png"]},"id":"3573c32a-91a2-45e5-9aa5-2495b3118610","isHidden":false,"type":"gallery"}]

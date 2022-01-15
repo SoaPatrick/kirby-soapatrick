@@ -12,10 +12,10 @@
     <p class="text-lg"><?= $page->description() ?></p>
   <?php endif ?>
 </header>
-<div>
-  <div>
+<div class="overview">
+  <div class="tag-list tag-list--vertical">
     <?php foreach( $page->children()->listed()->pluck('tags', ',', true) as $tag): ?>
-      <a class="hashtag<?= e(param('tag') == urlencode($tag), ' text-black dark:text-white') ?>" href="<?= url('factory', ['params' => ['tag' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
+      <a class="hashtag<?= e(param('tag') == urlencode($tag), ' text-blue-200 dark:text-egg-200') ?>" href="<?= url('factory', ['params' => ['tag' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
     <?php endforeach ?>
    </div>
   <div class="grid-factory">
@@ -23,8 +23,13 @@
     <article>
       <a href="<?= $article->url() ?>" aria-label="<?= $article->title()->html() ?>">
         <?php if($image = $article->cover()->toFile()): ?>
-          <?php $img_resize = $image->resize(250); ?>
-          <img class="block w-full h-full object-cover rounded-md" src="<?= $img_resize->url() ?>" loading="lazy" alt="<?= $article->title()->html() ?>" width="<?= $img_resize->width() ?>" height="<?= $img_resize->height() ?>">
+          <img 
+            srcset="<?= $image->srcset('cover-factory'); ?>"
+            class="rounded-md"
+            type="image/webp" 
+            alt="<?= $image->alt() ?>"
+            width="<?= $image->width() ?>" 
+            height="<?= $image->height() ?>">
         <?php endif ?>
       </a>
     </article>
@@ -32,24 +37,6 @@
   </div>
 </div>
 
-
-
-<?php if ($articles->pagination()->hasPages()): ?>
-<nav class="pagination">
-
-  <?php if ($articles->pagination()->hasNextPage()): ?>
-  <a class="next" href="<?= $articles->pagination()->nextPageURL() ?>">
-    ← older
-  </a>
-  <?php endif ?>
-
-  <?php if ($articles->pagination()->hasPrevPage()): ?>
-  <a class="prev" href="<?= $articles->pagination()->prevPageURL() ?>">
-    newer →
-  </a>
-  <?php endif ?>
-
-</nav>
-<?php endif ?>
-
+<?php snippet('pagination-list', ['articles' => $articles]) ?>
+<?php snippet('subnavigation', ['subnav' => 'subnavfactory']) ?>
 <?php snippet('footer') ?>

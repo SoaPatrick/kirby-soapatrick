@@ -2,7 +2,7 @@ Title: New Fanart by Daryl
 
 ----
 
-Text: [{"content":{"text":"**Daryl** used the new gallery upload system yesterday and uploaded a whopping 35 new drawings (thank you very much) and all can be looked at in his gallery. 4 examples are below and the link to his gallery.\n\n- ~~Daryls Fanart Gallery~~\n\nWe also have 2 new pics (bigger ones than the thumbs from wireimage.com) from the baseball game Winona attended on August 5th. Thanks a lot to **WinonaRules345** for finding them"},"id":"05a7d9b6-0c89-440b-afc3-242dc98b457b","isHidden":false,"type":"markdown"},{"content":{"columns":2,"lightbox":"false","align":"content","images":["event-002.jpg","event-003.jpg"]},"id":"1804f38c-f472-4898-9095-bd599987dd78","isHidden":false,"type":"gallery"}]
+Text: [{"content":{"text":"**Daryl** used the new gallery upload system yesterday and uploaded a whopping 35 new drawings (thank you very much) and all can be looked at in his gallery. 4 examples are below and the link to his gallery.\n\n- ~~Daryls Fanart Gallery~~\n\nWe also have 2 new pics (bigger ones than the thumbs from wireimage.com) from the baseball game Winona attended on August 5th. Thanks a lot to **WinonaRules345** for finding them"},"id":"05a7d9b6-0c89-440b-afc3-242dc98b457b","isHidden":false,"type":"markdown"},{"content":{"columns":2,"lightbox":"false","align":"default","images":["event-002.jpg","event-003.jpg"]},"id":"1804f38c-f472-4898-9095-bd599987dd78","isHidden":false,"type":"gallery"}]
 
 ----
 

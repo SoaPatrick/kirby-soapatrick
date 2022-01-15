@@ -1,0 +1,86 @@
+main a {
+  @apply underline;
+  text-decoration-thickness: 0.01em;
+  text-underline-offset: 0.25em;
+  text-decoration-color: currentColor;
+  transition: text-decoration-color 0.25s ease-in-out;
+
+  &:hover,
+  &:focus {
+    text-decoration-color: transparent;
+  }
+}
+
+a[target="_blank"]::after {
+  @apply content-link -rotate-45 inline-block text-primary;
+}
+
+article header a,
+.pagination a,
+.sub-navigation a,
+a.more {
+  @apply font-serif font-bold text-cyan-35 decoration-transparent hover:decoration-cyan-35 dark:text-cyan-62 dark:hover:decoration-cyan-62;
+}
+
+h1,
+h2,
+h3 {
+  @apply font-bold font-serif;
+  line-height: 1.1;
+}
+
+h1 {
+  @apply mt-2 mb-8;
+  font-size: clamp(2rem, 10vw, 3rem);
+}
+
+h2 {
+  @apply mt-8 mb-4 text-2xl;
+}
+
+h3 {
+  @apply mt-8 mb-4 text-xl;
+}
+
+p {
+  @apply mb-4;
+}
+
+ul {
+  @apply list-disc pl-4;
+}
+
+ol {
+  @apply list-decimal pl-8;
+}
+
+ol,
+ul {
+  @apply mb-4;
+
+  ul,
+  ol {
+    @apply mb-0;
+  }
+
+  li {
+    @apply pl-2;
+  }
+
+  li::marker {
+    @apply text-primary;
+  }
+
+  p {
+    @apply m-0;
+  }
+}
+
+b,
+strong {
+  @apply font-bold;
+}
+
+figcaption {
+  @apply text-sm mt-1 text-center opacity-50;
+}

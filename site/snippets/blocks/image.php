@@ -15,9 +15,9 @@ if ($block->location() == 'web') {
     $src = $block->src()->esc();
     $dimensions = '';
 } elseif ($image = $block->image()->toFile()) {
-    if ($alt->isEmpty()) {
+/*     if ($alt->isEmpty()) {
       $alt = $image->alt();
-    }
+    } */
     if ($caption->isEmpty()) {
       $caption = $image->caption();
     }
@@ -34,10 +34,20 @@ if ($block->location() == 'web') {
   </a>
   <?php elseif($lightbox): ?>
   <a href="<?= $src ?>" data-fslightbox="<?= $id ?>">
-    <img src="<?= $src ?>" alt="<?= $alt->esc() ?>" loading="lazy" <?= $dimensions ?>>
+    <img 
+      srcset="<?= $image->srcset('img-' .$align ); ?>"
+      type="image/webp" 
+      alt="<?= $alt->esc() ?>" 
+      <?= $dimensions ?>
+      loading="lazy" test>
   </a>
   <?php else: ?>
-  <img src="<?= $src ?>" alt="<?= $alt->esc() ?>" loading="lazy" <?= $dimensions ?>>
+    <img 
+      srcset="<?= $image->srcset('img-' . $align ); ?>"
+      type="image/webp" 
+      alt="<?= $alt->esc() ?>" 
+      <?= $dimensions ?>
+      loading="lazy">    
   <?php endif ?>
 
   <?php if ($caption->isNotEmpty()): ?>

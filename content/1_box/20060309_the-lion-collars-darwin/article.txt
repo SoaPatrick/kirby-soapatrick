@@ -2,7 +2,7 @@ Title: The Lion collars Darwin
 
 ----
 
-Text: [{"content":{"text":"MGM has among many other films also The Darwin Awards under contract for distribution. The movie is also scheduled to be released in September according to The Hollywood Reporter in February 2007 now according to MGM. That's cool so we have A Scanner Darkly in the summer and later The Darwin Awards in the fall. For the whole article click below and thanks goes to ChrisB :)\n\n- ~~MGM to announce distribution plans~~"},"id":"d4d2ca3c-e212-4b9b-9532-78a57875d31a","isHidden":false,"type":"markdown"},{"content":{"columns":3,"lightbox":"false","align":"content","images":["darwn-005.jpg","darwn-006.jpg","darwn-007.jpg"]},"id":"124fbe2a-2295-447d-860f-c83423229567","isHidden":false,"type":"gallery"}]
+Text: [{"content":{"text":"MGM has among many other films also The Darwin Awards under contract for distribution. The movie is also scheduled to be released in September according to The Hollywood Reporter in February 2007 now according to MGM. That's cool so we have A Scanner Darkly in the summer and later The Darwin Awards in the fall. For the whole article click below and thanks goes to ChrisB :)\n\n- ~~MGM to announce distribution plans~~"},"id":"d4d2ca3c-e212-4b9b-9532-78a57875d31a","isHidden":false,"type":"markdown"},{"content":{"columns":3,"lightbox":"false","align":"default","images":["darwn-005.jpg","darwn-006.jpg","darwn-007.jpg"]},"id":"124fbe2a-2295-447d-860f-c83423229567","isHidden":false,"type":"gallery"}]
 
 ----
 

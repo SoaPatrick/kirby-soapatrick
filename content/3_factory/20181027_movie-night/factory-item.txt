@@ -2,10 +2,6 @@ Title: Movie Night
 
 ----
 
-Text: [{"content":{"align":"wide","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=T95YRXuh_j4","caption":null},"id":"cb6c0a40-3355-401c-affa-93765fc4f8bf","isHidden":false,"type":"video"}]
-
-----
-
 Published: 2018-10-27
 
 ----
@@ -17,3 +13,7 @@ Cover:
 ----
 
 Tags: Short Film, Video
+
+----
+
+Text: [{"content":{"align":"default","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=T95YRXuh_j4","caption":""},"id":"cb6c0a40-3355-401c-affa-93765fc4f8bf","isHidden":false,"type":"video"}]

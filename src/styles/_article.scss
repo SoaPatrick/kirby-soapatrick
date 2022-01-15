@@ -1,0 +1,141 @@
+.pagination {
+  max-width: var(--width--content);
+  @apply mt-8 grid ml-auto w-full gap-4 font-serif grid-cols-2;
+  grid-template-areas: "prev next";
+
+  .prev {
+    grid-area: prev;
+  }
+
+  .next {
+    grid-area: next;
+    justify-self: end;
+  }
+}
+
+.content-list > *,
+.content > * {
+  max-width: var(--width--content);
+  margin-left: auto;
+
+  &:first-child {
+    margin-top: 0;
+  }
+
+  @media (max-width: 799px) {
+    max-width: 100%;
+  }
+}
+
+.content-list > *:first-child {
+  margin-bottom: 1rem;
+}
+
+.content {
+  > .highlight,
+  > .align-default,
+  > .quote-block--large {
+    max-width: var(--width--large);
+    margin-right: calc(var(--width--gutter) * -1);
+
+    @media (max-width: 799px) {
+      max-width: 100%;
+      margin-right: 0;
+    }
+  }
+}
+
+.content > .align-wide {
+  max-width: calc(100% + var(--width--gutter));
+  margin-right: calc(var(--width--gutter) * -1);
+
+  @media (max-width: 799px) {
+    max-width: 100%;
+    margin-right: 0;
+  }
+}
+
+article {
+  header {
+    max-width: var(--width--content);
+    width: 100%;
+
+    @media (min-width: 800px) {
+      width: var(--width--content);
+    }
+    margin-left: auto;
+    position: relative;
+
+    .featured-img {
+      --width--featured-img: clamp(70px, 7vw, 120px);
+
+      @media (min-width: 800px) {
+        position: absolute;
+        left: calc(-1 * var(--width--gutter) - var(--width--featured-img));
+        grid-area: img;
+        text-align: right;
+      }
+
+      .icon,
+      img {
+        width: var(--width--featured-img);
+        height: var(--width--featured-img);
+        object-fit: cover;
+        border-radius: 50%;
+
+        @media (min-width: 800px) {
+          margin-left: auto;
+        }
+      }
+
+      .icon {
+        @apply bg-egg-100 dark:bg-blue-100 flex items-center justify-center;
+      }
+    }
+
+    time {
+      grid-area: time;
+    }
+
+    h1 {
+      grid-area: title;
+    }
+  }
+
+  footer {
+    @apply ml-auto;
+    max-width: var(--width--content);
+  }
+}
+
+.content--articles {
+  @apply flex flex-col gap-16;
+}
+
+.content--articles > * {
+  max-width: 100%;
+}
+
+.hashtag {
+  @apply inline-block relative text-sm;
+
+  &:before {
+    content: "#";
+    @apply text-primary;
+  }
+
+  text-decoration-color: transparent;
+
+  &:hover,
+  &:focus {
+    text-decoration-color: currentColor;
+  }
+}
+
+.tag-list {
+  @apply flex gap-2 flex-wrap;
+
+  &--vertical {
+    @apply sm:flex-col text-right;
+  }
+}

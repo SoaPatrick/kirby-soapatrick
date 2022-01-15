@@ -26,7 +26,7 @@ Project:
 
 ----
 
-Text: [{"content":{"text":"<p>I added more details to my living room, especially in the TV area, \nand played around with lighting a lot more. I realized that instead of \nusing faces for lighting with the emission shader, I should start using \nthe light objects properly, this really decreased the noise in the \nimages with far fewer render cycles.<\/p>"},"id":"dd8f6dcb-6f11-4e5a-b8d0-96eb7232f96b","isHidden":false,"type":"text"},{"content":{"columns":2,"lightbox":"true","align":"content","images":["apartment_04.jpg","apartment_05.jpg","apartment_06.jpg"]},"id":"99820b1d-781c-4701-b810-5fb2054fa075","isHidden":false,"type":"gallery"}]
+Text: [{"content":{"text":"<p>I added more details to my living room, especially in the TV area, \nand played around with lighting a lot more. I realized that instead of \nusing faces for lighting with the emission shader, I should start using \nthe light objects properly, this really decreased the noise in the \nimages with far fewer render cycles.<\/p>"},"id":"dd8f6dcb-6f11-4e5a-b8d0-96eb7232f96b","isHidden":false,"type":"text"},{"content":{"columns":2,"lightbox":"true","align":"default","images":["apartment_04.jpg","apartment_05.jpg","apartment_06.jpg"]},"id":"99820b1d-781c-4701-b810-5fb2054fa075","isHidden":false,"type":"gallery"}]
 
 ----
 

@@ -2,7 +2,7 @@ Title: Winona paparazzi shots
 
 ----
 
-Text: [{"content":{"columns":3,"lightbox":"false","align":"content","images":["pprzi-117.jpg","pprzi-119.jpg","pprzi-120.jpg"]},"id":"b5d277a6-791e-4515-be89-89f27852230b","isHidden":false,"type":"gallery"},{"content":{"text":"Today I learned how to add pictures to the gallery, so here are 4 paparazzi shots.\n\n- (link: https:\/\/agcn.soapatrick.com\/pictures\/categories.php?cat_id=95&s=&page=10 text: Paparazzi Shots target: _blank)\n\nwith the precious help of GoDrex..."},"id":"bc1513c6-8a2e-4dc9-9e99-c689434675ed","isHidden":false,"type":"markdown"}]
+Text: [{"content":{"columns":3,"lightbox":"false","align":"default","images":["pprzi-117.jpg","pprzi-119.jpg","pprzi-120.jpg"]},"id":"b5d277a6-791e-4515-be89-89f27852230b","isHidden":false,"type":"gallery"},{"content":{"text":"Today I learned how to add pictures to the gallery, so here are 4 paparazzi shots.\n\n- (link: https:\/\/agcn.soapatrick.com\/pictures\/categories.php?cat_id=95&s=&page=10 text: Paparazzi Shots target: _blank)\n\nwith the precious help of GoDrex..."},"id":"bc1513c6-8a2e-4dc9-9e99-c689434675ed","isHidden":false,"type":"markdown"}]
 
 ----
 

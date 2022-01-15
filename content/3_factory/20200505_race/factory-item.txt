@@ -2,10 +2,6 @@ Title: Race
 
 ----
 
-Text: [{"content":{"align":"wide","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=JVJzxMhDtpo","caption":null},"id":"81d3c218-35ae-4183-9e19-2cd1474aa188","isHidden":false,"type":"video"}]
-
-----
-
 Published: 2020-05-05
 
 ----
@@ -17,6 +13,10 @@ Cover:
 ----
 
 Tags: 3D Rendering, Animation, Short Film
+
+----
+
+Text: [{"content":{"align":"default","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=JVJzxMhDtpo","caption":""},"id":"81d3c218-35ae-4183-9e19-2cd1474aa188","isHidden":false,"type":"video"}]
 
 ----
 
