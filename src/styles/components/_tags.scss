@@ -8,6 +8,10 @@
   &:hover {
     @apply decoration-current;
   }
+
+  &.active {
+    @apply text-cyan-35 dark:text-cyan-62;
+  }
 }
 
 .tag-list {
