@@ -10,11 +10,11 @@ Cover:
 
 ----
 
-Format: standard
+Files: 
 
 ----
 
-Video: 
+Format: standard
 
 ----
 
@@ -26,7 +26,7 @@ Tags: Blender, Filming, Theme
 
 ----
 
-Project: 
+Project: factory/soapatricknine
 
 ----
 
@@ -47,6 +47,14 @@ Quotetext:
 ----
 
 Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Video: 
 
 ----
 

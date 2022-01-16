@@ -22,11 +22,11 @@ Category: Stuff from the Lab
 
 ----
 
-Tags: insider, Video
+Tags: Video
 
 ----
 
-Project: 
+Project: factory/the-insider
 
 ----
 

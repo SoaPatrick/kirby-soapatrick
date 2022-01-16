@@ -26,7 +26,7 @@ Tags: Kirby, Wordpress, Theme
 
 ----
 
-Project: 
+Project: factory/soapatrickten
 
 ----
 

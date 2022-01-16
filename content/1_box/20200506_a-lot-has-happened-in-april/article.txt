@@ -22,11 +22,11 @@ Category: Stuff thats happening
 
 ----
 
-Tags: Blender, Filming, Soapatrick, Status
+Tags: Blender, Filming, SoaPatrick, Status
 
 ----
 
-Project: 
+Project: factory/soapatrickseven, factory/race
 
 ----
 

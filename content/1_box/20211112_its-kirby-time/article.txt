@@ -12,11 +12,11 @@ Cover:
 
 ----
 
-Format: standard
+Files: 
 
 ----
 
-Video: 
+Format: standard
 
 ----
 
@@ -28,7 +28,7 @@ Tags: Kirby, Wordpress
 
 ----
 
-Project: 
+Project: factory/soapatrickten
 
 ----
 
@@ -52,8 +52,15 @@ Quotesource:
 
 ----
 
-Status: 
+Statustext: 
 
+----
+
+Video: 
+
+----
+
+Status: 
 
 ----
 

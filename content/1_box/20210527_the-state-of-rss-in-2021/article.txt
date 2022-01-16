@@ -12,11 +12,11 @@ Cover:
 
 ----
 
-Format: standard
+Files: 
 
 ----
 
-Video: 
+Format: standard
 
 ----
 
@@ -24,7 +24,7 @@ Category: Thoughts on stuff
 
 ----
 
-Tags: Technology
+Tags: Technology, Web
 
 ----
 
@@ -33,6 +33,30 @@ Project:
 ----
 
 Text: [{"content":{"text":"<p>I\u2019m feeling like a dinosaur or just a weird human being by still using RSS in 2021 in a time of social media dominance but an <a href=\"https:\/\/www.reederapp.com\/\" rel=\"noreferrer noopener\" target=\"_blank\">RSS Feed App<\/a>\n is still my most used app every single day, sometimes by a wide margin.\n But why is it that no one in my close social environment has any idea \nwhat RSS is (apart from one friend who I know subscribed to this feed \nand is probably smiling right now)?<\/p>\n\n\n\n<p>The reason I started to use RSS back in I don\u2019t remember is that I \nbecame too lazy to regularly check some websites to find out if \nsomething new happened. I think it was by the time I started to work \nwith WordPress where I got in contact with it for the first time.<\/p>\n\n\n\n<p>And even today that is still the biggest reason. I want the news to \ncome to me and not me chasing after them. What can I say, I\u2019m lazy. I \nhave lots of different sites subscribed to, from Apple news to Local \nnews to Hollywood news. I sometimes subscribed to comics (like my daily \ndose of Garfield). I also subscribed to job offers and I actually found \nmy last two jobs thanks to an RSS subscription. Then there are all the \nweb development articles I get which I hardly read but still, once in a \nwhile there\u2019s one I\u2019m interested in.<\/p>\n\n\n\n<p>Other people scroll through their Facebook feed or Instagram feed to \nsee what other people are doing, I\u2019m scrolling through my RSS feed, to \neach their own.<\/p>\n\n\n\n<p>I remember when Google stopped offering their RSS Sync service and \npanic broke out, what will happen now. I switched to Feedly for a long \ntime but now thanks to <a href=\"https:\/\/www.reederapp.com\/\" rel=\"noreferrer noopener\" target=\"_blank\">Reeder 5.0<\/a>\n I can use iCloud to sync my subscriptions. When I set up my Gaming and \nBlender PC, one of the first things I tried to find was a suitable RSS \nClient for Windows, but I really didn\u2019t find anything that matched what \nReeder is offering (feature and look n\u2019 feel wise).<\/p>\n\n\n\n<p>I\u2019m happy it\u2019s still around and I fear the day this nice little \nfeature won\u2019t be around anymore, then I actually have to invest time to \ncheck websites on a regular basis?<\/p>"},"id":"7caa89a7-53bb-42cd-b2af-7bd3a10db813","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Video: 
 
 ----
 

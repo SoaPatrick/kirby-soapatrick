@@ -10,11 +10,11 @@ Cover:
 
 ----
 
-Format: standard
+Files: 
 
 ----
 
-Video: 
+Format: standard
 
 ----
 
@@ -22,15 +22,39 @@ Category: Stuff thats happening
 
 ----
 
-Tags: Soapatrick, Theme
+Tags: SoaPatrick, Theme
 
 ----
 
-Project: 
+Project: factory/soapatricknine
 
 ----
 
 Text: [{"content":{"text":"<p><a href=\"\/box\/a-place-for-my-smaller-work\/\" rel=\"noopener noreferrer\">Yesterday<\/a> I published the new section <a href=\"\/lab\" rel=\"noopener noreferrer\">SoapLab<\/a> and with it, I thought a lot about a new structure. Actually, I thought about it for some time but with this new section, the idea to rearrange some things became more imminent.<\/p><p>So I played around with it locally and I realized that it was important to do this, BUT with the current theme this is pretty difficult to achieve which means I need to start thinking of SoaPatrickNine because with SoaPatrickEight this is simply too big of a structural change to build it with the current theme. So instead of being all vague and shit why not elaborate on my new plan.<\/p><p>Everything starts with a completely new start page. The idea of just having the latest blog posts and nothing else just doesn\u2019t work anymore because now with the lab and the factory, it would make more sense to have the latest items from any post type shown on the start page. So the start page needs to include the following things:<\/p>"},"id":"c8617529-919d-4185-9d90-b220fa0efc97","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Latest blog posts (maybe use the sticky function)<\/li><li>Latest factory posts<\/li><li>Latest lab posts<\/li><li>My last seen movies I\u2019ve logged on <a href=\"https:\/\/letterboxd.com\/soapatrick\/\" rel=\"noreferrer noopener\" target=\"_blank\">Letterboxd<\/a><\/li><\/ul>"},"id":"ea61dcf3-5c5b-4384-8133-3177d8f823c7","isHidden":false,"type":"list"},{"content":{"text":"<p>With this change the whole blog moves from the root to a new \nsubfolder called Box and everything blog-related would then live inside \nthat Box subfolder, like Storage or Tags. I would also love to add a \nmore detailed breadcrumbs navigation, especially for single blog posts \nwhich would show you the whole path of the blog post: \nSoaPatrick\/box\/storage\/month year\/blog post title<\/p> <p>I would also to incorporate 3D renderings into the design, maybe not with <a href=\"https:\/\/threejs.org\/\" rel=\"noreferrer noopener\" target=\"_blank\">Three.js<\/a> but as simple images or maybe gif animations (<a href=\"https:\/\/threejs.org\/\" rel=\"noreferrer noopener\" target=\"_blank\">Three.js<\/a> is a beast of its own, its cool what can be done but really javascript heavy)<\/p> <p>I also think it\u2019s time to leave out certain customization features \nlike light\/dark mode or color mode because the dark mode is integrated \ninto so many devices, it would make much more sense to use the system \nsettings on when to show the light or dark mode. Also with all these \ncolor options, I kinda limit myself on using SVG inline images for web \ndesign elements. Because with inline SVG images I can change the colors \nwith CSS variables.<\/p> <p>Ok, scratch the last part, with Blender I can export to SVG, even \nanimation. So I will find a way to incorporate Renderings as SVG. \nBlender is an amazing free tool, it really is.<\/p> <p>Yes, these are some bigger changes and it all needs a new design. Now\n I don\u2019t have the time and resources to go and think of a crazy new \ndesign and since I do like certain things on SP8, I will stick with that\n and make an incremental design change. Like for example, I REALLY like \nhaving the navigation on the bottom left corner (on the desktop view) \nand those nifty animations. And I like the idea of using the whole width\n of a desktop view I just need to utilize this space a lot better.<\/p> <p>So this is the plan, not sure how fast I can start working on SP9, I \nthink it all depends on the moment I have the idea on how it should look\n like, but I won\u2019t force myself to come up with ideas, I let the ideas \ncome to me.<\/p>"},"id":"bdf2b36a-59cd-4644-b978-5807b0977040","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Video: 
 
 ----
 

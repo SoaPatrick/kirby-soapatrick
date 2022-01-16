@@ -63,7 +63,7 @@ columns:
         placeholder: chose related project
         accept: options
         options: query
-        query: site.index.filterBy("template", "in", ["factory-item"])
+        query: site.index.filterBy("template", "in", ["factory-item"]).sortBy("name", "desc")
 
   - width: 2/3
     fields:

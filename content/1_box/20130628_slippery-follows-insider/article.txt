@@ -22,11 +22,11 @@ Category: Stuff from the Lab
 
 ----
 
-Tags: Slippery, Video
+Tags: Video
 
 ----
 
-Project: 
+Project: factory/slippery-when-wet
 
 ----
 

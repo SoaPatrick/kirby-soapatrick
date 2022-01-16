@@ -26,7 +26,7 @@ Tags: Challenge, Drawing
 
 ----
 
-Project: 
+Project: factory/30-day-drawing-challenge
 
 ----
 

@@ -22,7 +22,7 @@ Category: Stuff thats happening
 
 ----
 
-Tags: css, Theme
+Tags: Theme, Web, Technology
 
 ----
 

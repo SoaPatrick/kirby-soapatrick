@@ -10,11 +10,11 @@ Cover:
 
 ----
 
-Format: standard
+Files: 
 
 ----
 
-Video: 
+Format: standard
 
 ----
 
@@ -22,15 +22,39 @@ Category: Stuff thats happening
 
 ----
 
-Tags: Kirby, Soapatrick, Wordpress
+Tags: Kirby, SoaPatrick, Wordpress
 
 ----
 
-Project: 
+Project: factory/soapatrickten
 
 ----
 
 Text: [{"content":{"text":"<p>Yes, that\u2019s a mouthful but I\u2019ve been playing around with <a href=\"https:\/\/getkirby.com\/\" rel=\"noreferrer noopener\" target=\"_blank\">Kirby<\/a> a lot the last few days (trying to recreate SP9 with it and see what is possible and what is not) and it\u2019s been a blast.<\/p>\n\n\n\n<p>The idea with this development stack is to have a quick way of \ndeveloping and deploying the website and keep it very light at the same \ntime. I\u2019ve been a fan of <a href=\"https:\/\/vitejs.dev\/\" rel=\"noreferrer noopener\" target=\"_blank\">Vite.js<\/a>\n since I\u2019ve stumbled upon it a few months ago. The ability to quickly \nset up a development environment and start coding was a dream. Plus \nadding support for <a href=\"https:\/\/tailwindcss.com\/\" rel=\"noreferrer noopener\" target=\"_blank\">TailwindCSS<\/a> and implementing <a href=\"https:\/\/threejs.org\/\" rel=\"noreferrer noopener\" target=\"_blank\">Three.js<\/a> animations was such an easy undertaking that I wanted to move this approach over to Kirby and see if it\u2019s doable, and it is!<\/p>\n\n\n\n<p>Now I\u2019m not 100% sure yet if I move from WordPress to Kirby, but it seems to be the obvious choice (<a href=\"https:\/\/gohugo.io\/\" rel=\"noreferrer noopener\" target=\"_blank\">Hugo<\/a> still has some chance, <a href=\"https:\/\/statamic.com\/\" rel=\"noreferrer noopener\" target=\"_blank\">Statamic<\/a> is out for sure though). Another question is if I just finish recreating SP9 or if I start with Kirby on SP10 (or SPX).<\/p>\n\n\n\n<p>With my time off from work almost over, I\u2019m not sure how much time I \ncan spare in my free time with working 100%. It would be a cool project \nbut there is other stuff in my head that wants to get some free time as \nwell. Maybe by the end of the week, I have some idea on how to proceed.<\/p>"},"id":"b8de4873-c2fb-48d6-b672-975be0840c39","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Video: 
 
 ----
 

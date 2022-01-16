@@ -12,6 +12,10 @@ Cover:
 
 ----
 
+Files: 
+
+----
+
 Format: standard
 
 ----
@@ -20,7 +24,7 @@ Category: Thoughts on stuff
 
 ----
 
-Tags: privacy, Technology
+Tags: Technology, Privacy, Web
 
 ----
 

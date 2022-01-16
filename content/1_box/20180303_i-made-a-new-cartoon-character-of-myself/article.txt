@@ -22,11 +22,11 @@ Category: Stuff from the Lab
 
 ----
 
-Tags: Drawing, Soapatrick
+Tags: Drawing, SoaPatrick
 
 ----
 
-Project: 
+Project: factory/cartoon-patrick
 
 ----
 

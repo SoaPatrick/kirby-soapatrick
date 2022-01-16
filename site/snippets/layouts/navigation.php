@@ -22,15 +22,21 @@ endif;
       </svg>
     </a>
     <a class="nav-item sm:before:content-['Soap']<?php e($box, ' active') ?>" aria-label="<?= page('box')->title() ?>" href="<?= page('box')->url() ?>">
-      <span class="nav-icon sm:hidden"><?= page('box')->icon() ?></span>
+      <span class="nav-icon sm:hidden">
+        <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M342.4 32C367.7 32 390.6 46.9 400.9 70.01L442.5 163.6C446.1 171.8 448 180.6 448 189.6V416C448 451.3 419.3 480 384 480H64C28.65 480 0 451.3 0 416V189.6C0 180.6 1.879 171.8 5.516 163.6L47.11 70.01C57.38 46.89 80.3 32 105.6 32H342.4zM405.9 160L371.7 83C366.5 71.45 355.1 64 342.4 64H270L288 160H405.9zM255.4 160L237.4 64H210.6L192.6 160H255.4zM256 192H192V256H256V192zM160 192H32V416C32 433.7 46.33 448 64 448H384C401.7 448 416 433.7 416 416V192H288V256C288 273.7 273.7 288 256 288H192C174.3 288 160 273.7 160 256V192zM160 160L178 64H105.6C92.95 64 81.49 71.45 76.35 83L42.13 160H160z"></path></svg>
+      </span>
       <span class="hidden sm:inline-block"><?= page('box')->title() ?></span>
     </a>
     <a class="nav-item sm:before:content-['Soap']<?php e($factory, ' active') ?>" aria-label="<?= page('factory')->title() ?>" href="<?= page('factory')->url() ?>">
-      <span class="nav-icon sm:hidden"><?= page('factory')->icon() ?></span>
+      <span class="nav-icon sm:hidden">
+        <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M32 80C32 53.49 53.49 32 80 32H144C170.5 32 192 53.49 192 80V199.4L305.8 123.6C332.4 105.8 368 124.9 368 156.8V207.5L480.6 126.4C507.1 107.3 544 126.2 544 158.9V416C544 451.3 515.3 480 480 480H96C60.65 480 32 451.3 32 416V80zM80 64C71.16 64 64 71.16 64 80V416C64 433.7 78.33 448 96 448H480C497.7 448 512 433.7 512 416V158.9C512 152.3 504.6 148.6 499.3 152.4L361.3 251.7C356.5 255.2 350 255.7 344.7 252.1C339.4 250.2 336 244.7 336 238.7V156.8C336 150.5 328.9 146.6 323.6 150.2L184.9 242.6C179.1 245.9 173.7 246.2 168.5 243.4C163.2 240.7 160 235.2 160 229.3V80C160 71.16 152.8 64 144 64L80 64z"></path></svg>
+      </span>
       <span class="hidden sm:inline-block"><?= page('factory')->title() ?></span>
     </a>
     <a class="nav-item sm:before:content-['Soa'] sm:hover:pl-[2.2rem]<?php e($patrick, ' active') ?>" aria-label="<?= page('patrick')->title() ?>" href="<?= page('patrick')->url() ?>">
-      <span class="nav-icon sm:hidden"><?= page('patrick')->icon() ?></span>
+      <span class="nav-icon sm:hidden">
+        <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><path fill="currentColor" d="M160 160H96C60.65 160 32 188.7 32 224v96c0 17.67 14.33 32 32 32v144C64 504.8 71.16 512 80 512S96 504.8 96 496V352h64v144c0 8.844 7.156 16 16 16s16-7.156 16-16V352c17.67 0 32-14.33 32-32V224C224 188.7 195.3 160 160 160zM192 320H64V224c0-17.64 14.36-32 32-32h64c17.64 0 32 14.36 32 32V320zM128 128c35.38 0 64-28.62 64-64s-28.62-64-64-64S64 28.62 64 64S92.63 128 128 128zM128 32c17.64 0 32 14.36 32 32s-14.36 32-32 32S96 81.64 96 64S110.4 32 128 32z"></path></svg>
+      </span>
       <span class="hidden sm:inline-block"><?= page('patrick')->title() ?></span>
     </a>
     <button aria-label="toggle search" class="nav-item sm:before:content-['Soap']" id="searchToggle">

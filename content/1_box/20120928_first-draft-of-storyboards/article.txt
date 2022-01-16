@@ -22,11 +22,11 @@ Category: Stuff from the Lab
 
 ----
 
-Tags: Animation, Sheep, Short, Storyboard
+Tags: Animation, Short, Storyboard
 
 ----
 
-Project: 
+Project: factory/chewing-sheep
 
 ----
 
