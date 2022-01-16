@@ -1,41 +1,30 @@
 .grid-lab {
-  @apply flex flex-wrap flex-col;
+  @apply grid gap-4;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
 
-  @media (min-width: 481px) {
-    @apply flex-row;
+  @media (min-width: 800px) {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   }
 
   article {
-    @apply mb-4;
+    @apply relative flex grow flex-col justify-center;
 
-    @media (min-width: 481px) {
-      @apply mr-4;
-    }
-  }
+    a {
+      @apply h-full;
 
-  img {
-    @apply block rounded-md;
-
-    @media (min-width: 481px) {
-      @apply w-auto;
-      height: clamp(150px, 10vw, 300px);
+      @media (min-width: 481px) {
+        max-height: clamp(150px, 10vw, 300px);
+      }
     }
   }
 
   @supports (grid-template-rows: masonry) {
-    @apply grid gap-4 grid-rows-masonry;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-
-    @media (min-width: 800px) {
-      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    }
+    @apply grid-rows-masonry;
 
     article {
-      @apply m-0;
-    }
-
-    img {
-      @apply h-auto;
+      a {
+        @apply max-h-full;
+      }
     }
   }
 }
