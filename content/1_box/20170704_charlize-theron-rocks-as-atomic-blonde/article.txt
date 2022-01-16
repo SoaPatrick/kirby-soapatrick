@@ -6,9 +6,7 @@ Published: 2017-07-04
 
 ----
 
-Cover:
-
-- movie_atomic-blonde.png
+Cover: 
 
 ----
 
