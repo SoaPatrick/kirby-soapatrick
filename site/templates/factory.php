@@ -2,7 +2,7 @@
 <header>
   <?php if (!empty(param('tag'))): ?>
     <h1><?= html(urldecode(param('tag'))) ?></h1>
-    <?php $articles = $page->children()->filterBy('tags', urldecode(param('tag')), ',')->flip()->paginate(12); ?>
+    <?php $articles = $page->children()->filterBy('tags', urldecode(param('tag')), ',')->listed()->flip()->paginate(12); ?>
   <?php else: ?>
     <h1><?= $page->title() ?></h1>
     <p class="text-lg"><?= $page->description() ?></p>
@@ -35,5 +35,4 @@
 </div>
 
 <?php snippet('pagination-list', ['articles' => $articles]) ?>
-<?php snippet('layouts/subnavigation', ['subnav' => 'subnavfactory']) ?>
 <?php snippet('layouts/footer') ?>

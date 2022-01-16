@@ -1,17 +1,12 @@
 .main-navigation {
+  @apply fixed left-0 right-0 bottom-0 sm:bottom-8 z-50;
+
   @media (min-width: 800px) {
-    @apply fixed bottom-8;
+    @apply inline-flex flex-col items-start;
     left: calc(50% + var(--width--content) / 2 + 2 * var(--width--gutter));
   }
-  @apply fixed left-0 right-0 bottom-0 z-50;
-
-  nav {
-    @media (min-width: 800px) {
-      @apply inline-flex flex-col items-start;
-    }
-    @media (max-width: 799px) {
-      @apply flex justify-around items-start bg-primary h-16 px-4;
-    }
+  @media (max-width: 799px) {
+    @apply flex justify-around items-start bg-primary h-16 px-4;
   }
 
   .logo {
@@ -24,20 +19,15 @@
 }
 
 .nav-item {
-  @apply relative left-0 cursor-pointer sm:transition-menu sm:duration-300 sm:ease-in-out font-serif no-underline p-3 sm:p-0 sm:py-1 text-xl;
+  @apply relative left-0 cursor-pointer sm:transition-menu sm:duration-300 sm:ease-in-out font-serif no-underline py-3 px-5 sm:p-0 sm:py-1 text-xl;
 }
 
 @media (max-width: 799px) {
   .nav-item {
     @apply h-full flex items-start justify-center;
-    &:hover {
-    }
 
-    &.active {
-      @apply bg-primary;
-
-      &:hover {
-      }
+    &.active .nav-icon {
+      @apply text-blue-100;
     }
   }
 }
@@ -49,16 +39,7 @@
       padding-left: 2.9rem;
     }
 
-    &.active {
-      @apply bg-transparent;
-
-      &:hover {
-        @apply text-blue-200 dark:text-egg-200;
-      }
-    }
-
     &::before {
-      content: "Soap";
       @apply transition-opacity duration-300 ease-in-out opacity-0 absolute left-0 z-0 text-primary;
     }
 
@@ -96,18 +77,14 @@
     @apply bottom-16 left-0 right-0 top-auto w-full bg-egg-100 dark:bg-blue-100 flex-row px-4 text-base overflow-y-auto drop-shadow-[0_0_2rem_rgba(0,0,0,0.5)] dark:drop-shadow-[0_0_2rem_rgba(255,255,255,0.25)];
 
     a {
-      @apply py-3 px-4;
+      @apply py-3 px-4 underline decoration-normal underline-offset-default;
 
       &.active {
         @apply decoration-primary decoration-normal;
       }
 
       &:hover {
-        @apply decoration-transparent;
-      }
-
-      &:last-child {
-        @apply mr-2;
+        @apply decoration-current;
       }
     }
   }

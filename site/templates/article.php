@@ -34,5 +34,4 @@
 </article>
 
 <?php snippet('pagination-single', ['page' => $page]) ?>
-<?php snippet('layouts/subnavigation', ['subnav' => 'subnavbox']) ?>
 <?php snippet('layouts/footer') ?>

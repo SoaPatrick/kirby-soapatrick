@@ -16,5 +16,4 @@
 </div>
 
 <?php snippet('pagination-list', ['articles' => $articles]) ?>
-<?php snippet('layouts/subnavigation', ['subnav' => 'subnavbox']) ?>
 <?php snippet('layouts/footer') ?>

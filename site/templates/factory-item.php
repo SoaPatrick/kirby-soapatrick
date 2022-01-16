@@ -57,5 +57,4 @@
   <?php endif ?>
 </section>
 
-<?php snippet('layouts/subnavigation', ['subnav' => 'subnavfactory']) ?>
 <?php snippet('layouts/footer') ?>

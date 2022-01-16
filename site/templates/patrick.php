@@ -16,5 +16,4 @@
   </footer>
 </article>
 
-<?php snippet('layouts/subnavigation', ['subnav' => 'subnavpatrick']) ?>
 <?php snippet('layouts/footer') ?>
