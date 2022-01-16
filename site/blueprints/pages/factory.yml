@@ -6,10 +6,17 @@ columns:
   - width: 1/1
     sections:
       drafts:
-        layout: cards
+        layout: list
+        extends: sections/factory
+        headline: In Early Stages
+        status: draft
+        empty: Nothing in early stages yet
+
+      unlisted:
+        layout: list
         extends: sections/factory
         headline: In Development
-        status: draft
+        status: unlisted
         empty: Nothing in development yet
 
       listed:

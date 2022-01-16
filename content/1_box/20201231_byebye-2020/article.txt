@@ -10,6 +10,10 @@ Cover:
 
 ----
 
+Files: 
+
+----
+
 Format: standard
 
 ----
@@ -26,7 +30,7 @@ Project:
 
 ----
 
-Text: [{"content":{"location":"kirby","image":["byebye2020.jpg"],"src":"","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"9489640a-01a6-4692-999e-767fa789393d","isHidden":false,"type":"image"},{"content":{"text":"<p>It\u2019s finally time to say goodbye to a weird and sometimes awful year.\n I won\u2019t go into much detail about the past year, that is something \nwhich will come later on. This is merely just a farewell post, nothing \nless nothing more.<\/p> <p>See you next year\u2026<\/p>"},"id":"f59f7e0f-3a56-41e5-a63c-1dc5b3b79731","isHidden":false,"type":"text"}]
+Text: [{"content":{"location":"kirby","image":["byebye2020.jpg"],"src":"","alt":"","caption":"","link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"9489640a-01a6-4692-999e-767fa789393d","isHidden":false,"type":"image"},{"content":{"text":"<p>It\u2019s finally time to say goodbye to a weird and sometimes awful year.\n I won\u2019t go into much detail about the past year, that is something \nwhich will come later on. This is merely just a farewell post, nothing \nless nothing more.<\/p> <p>See you next year\u2026<\/p>"},"id":"f59f7e0f-3a56-41e5-a63c-1dc5b3b79731","isHidden":false,"type":"text"}]
 
 ----
 

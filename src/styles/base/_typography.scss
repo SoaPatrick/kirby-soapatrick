@@ -96,3 +96,17 @@ strong {
 figcaption {
   @apply text-sm mt-1 text-center opacity-50;
 }
+
+/* img {
+  @apply relative bg-egg-100 dark:bg-blue-100 rounded-md leading-8 text-xs text-center;
+}
+
+img:before {
+  @apply content-[''] block absolute inset-0 bg-egg-100 dark:bg-blue-100 rounded-md border-4 border-dashed border-egg-50 dark:border-blue-50;
+}
+
+img:after {
+  @apply font-bold text-xs text-blue-100 dark:text-egg-200 absolute inset-0 flex justify-center items-center opacity-50;
+  content: "Broken image";
+}
+ */

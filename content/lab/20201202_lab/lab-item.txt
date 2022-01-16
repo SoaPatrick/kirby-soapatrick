@@ -2,17 +2,13 @@ Title: Lab
 
 ----
 
+Published: 2020-12-02
+
+----
+
 Cover:
 
 - lab_lab_2020-12-02_22-30.jpg
-
-----
-
-Video: 
-
-----
-
-Published: 2020-12-02
 
 ----
 
@@ -20,8 +16,12 @@ Format: image
 
 ----
 
+Video: 
+
+----
+
 Tags: 3D Rendering
 
 ----
 
-Project: 
+Project: factory/soap-lab

@@ -1,9 +1,10 @@
 a {
   &.img-link {
     @apply relative inline-block p-0 m-0 border-none;
+    max-width: 100%;
 
     img {
-      @apply block p-0 m-0 border-none;
+      @apply p-0 m-0 border-none;
     }
 
     &:before,

@@ -13,8 +13,12 @@ $lightbox = $block->lightbox()->isTrue();
       <a href="<?= $image->url() ?>" data-fslightbox aria-label="lightbox" class="img-link--lightbox">
         <img 
           srcset="<?= $image->srcset('img-' .$align ); ?>"
-          type="image/webp" 
-          alt="<?= $image->alt() ?>" 
+          type="image/webp"
+          <?php if ($image->alt()->isEmpty()): ?>
+            alt="empty alt text" 
+          <?php else: ?>
+            alt="<?= $image->alt() ?>" 
+          <?php endif ?>
           loading="lazy" 
           width="<?= $image->width() ?>" 
           height="<?= $image->height() ?>">
@@ -22,8 +26,12 @@ $lightbox = $block->lightbox()->isTrue();
     <?php } else { ?>
       <img 
         srcset="<?= $image->srcset('img-' .$align ); ?>" 
-        type="image/webp" 
-        alt="<?= $image->alt() ?>" 
+        type="image/webp"
+        <?php if ($image->alt()->isEmpty()): ?>
+          alt="empty alt text" 
+        <?php else: ?>
+          alt="<?= $image->alt() ?>" 
+        <?php endif ?>
         loading="lazy" 
         width="<?= $image->width() ?>" 
         height="<?= $image->height() ?>">

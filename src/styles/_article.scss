@@ -1,6 +1,10 @@
 .content-list > *,
 .content > * {
-  @apply max-w-full sm:max-w-content ml-auto first:mt-0;
+  @apply sm:max-w-content ml-auto first:mt-0;
+
+  @media (max-width: 799px) {
+    max-width: 100%;
+  }
 }
 
 .content-list > *:first-child {

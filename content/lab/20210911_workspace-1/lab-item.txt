@@ -2,9 +2,17 @@ Title: Workspace
 
 ----
 
+Published: 2021-09-11
+
+----
+
 Cover:
 
 - lab_workspace_02_thumb.jpg
+
+----
+
+Format: video
 
 ----
 
@@ -14,16 +22,8 @@ Video:
 
 ----
 
-Published: 2021-09-11
-
-----
-
-Format: video
-
-----
-
 Tags: Animation, 3D Rendering
 
 ----
 
-Project: 
+Project: factory/my-apartment

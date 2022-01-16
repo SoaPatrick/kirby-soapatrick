@@ -6,9 +6,11 @@ Published: 2020-02-23
 
 ----
 
-Cover:
+Cover: 
 
-- its-alive.png
+----
+
+Files: 
 
 ----
 
@@ -24,7 +26,7 @@ Tags: Soapatrick, Theme, Wordpress
 
 ----
 
-Project: 
+Project: factory/soapatrickseven
 
 ----
 

@@ -21,7 +21,7 @@ $entry = "templates/$template/index.js";
 </head>
 <body class="bg-egg-200 dark:bg-blue-200 dark:text-egg-200">
   <?php snippet("layouts/search") ?>
-  <!-- <?php snippet("layouts/waves") ?> -->
+  <?php snippet("layouts/waves") ?>
+  <?php snippet("layouts/navigation") ?>
   <div class="wrapper flex flex-col">
-    <?php snippet("layouts/navigation") ?>
     <main class="flex-1 main">

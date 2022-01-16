@@ -8,7 +8,7 @@
 
   .icon,
   img {
-    @apply w-cover h-cover object-cover rounded-full sm:ml-auto;
+    @apply w-cover h-cover object-cover rounded-full sm:ml-auto bg-transparent;
   }
 
   .icon {

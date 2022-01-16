@@ -14,9 +14,9 @@
 </header>
 
 <?php
-  $boxItems = page('box')->children()->sortBy('published', 'desc')->limit(5);
-  $factoryItems = page('factory')->children()->sortBy('published', 'desc')->limit(5);
-  $labItems = page('lab')->children()->sortBy('published', 'desc')->limit(5);
+  $boxItems = page('box')->children()->sortBy('published', 'desc')->listed()->limit(5);
+  $factoryItems = page('factory')->children()->sortBy('published', 'desc')->listed()->limit(5);
+  $labItems = page('lab')->children()->sortBy('published', 'desc')->listed()->limit(5);
   $latestContent = new Collection();
   $latestContent->add($boxItems);
   $latestContent->add($factoryItems);

@@ -31,7 +31,7 @@ Tags: Challenge, Drawing
 
 ----
 
-Project: 
+Project: factory/100-day-drawing-challenge
 
 ----
 

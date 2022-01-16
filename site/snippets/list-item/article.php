@@ -10,6 +10,9 @@
       </blockquote>
     <?php elseif ($article->format() == "status"): ?>
       <div class="text-2xl"><?= $article->statustext() ?></div>
+    <?php elseif ($article->format() == "link"): ?>
+      <div class="text-2xl"><?= $article->linktext() ?></div>
+      <a href="<?= $article->linkurl() ?>" target="_blank" class="font-sans font-normal text-egg-200 dark:blue-100 decoration-current hover:decoration-transparent mb-4 inline-block"><?= $article->linkurl() ?></a>
     <?php else: ?>
       <h2 class="mt-0 mb-1">
         <a class="decoration-transparent hover:decoration-current" href="<?= $article->url() ?>"><?= $article->title() ?></a>

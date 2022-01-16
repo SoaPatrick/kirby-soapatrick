@@ -22,37 +22,40 @@
   </footer>
 </article>
 
-<?php $articles = page('box')->children()->filterBy('project', $page->uri(), ','); ?>
-<?php if ($articles->isNotEmpty()): ?>
-  <h2>Related Posts</h2>
-  <?php foreach($articles as $article): ?>
-    <?php snippet('list-item/article', ['article' => $article]) ?>
-  <?php endforeach ?>
-<?php endif ?>
-
-
-
-<?php $labs = page('lab')->children()->filterBy('template', 'lab-item')->filterBy('project', $page->uri(), ','); ?>
-<?php if ($labs->isNotEmpty()): ?>
-  <h2>Related Lab Items</h2>
-  <div class="grid-lab">
-    <?php foreach($labs as $article): ?>
-      <?php if($image = $article->cover()->toFile()): ?>
-        <article>
-          <?php if($article->format() == 'video'): ?>
-            <a href="<?= $article->video()->toFile()->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox>
-          <?php else: ?>
-            <a href="<?= $image->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox>
-          <?php endif ?>
-          <?php $img_resize = $image->resize(390); ?>
-          <img class="block w-full h-full object-cover rounded-md" src="<?= $img_resize->url() ?>" loading="lazy" alt="<?= $article->title()->html() ?>" width="<?= $img_resize->width() ?>" height="<?= $img_resize->height() ?>">
-          </a>
-        </article>
-      <?php endif ?>
-    <?php endforeach ?>
-  </div>
-<?php endif ?>
 
 <?php snippet('pagination-single', ['page' => $page]) ?>
+
+<section class="content mt-16">
+  <?php $labs = page('lab')->children()->filterBy('project', $page->uri(), ',')->flip(); ?>
+  <?php $articles = page('box')->children()->filterBy('project', $page->uri(), ',')->flip(); ?>
+
+  <?php if ($labs->isNotEmpty()): ?>
+    <div class="grid-lab mb-16">
+      <?php foreach($labs as $article): ?>
+        <?php if($image = $article->cover()->toFile()): ?>
+          <article>
+            <?php if($article->format() == 'video'): ?>
+              <a href="<?= $article->video()->toFile()->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox class="img-link img-link--lightbox video-link">
+            <?php else: ?>
+              <a href="<?= $image->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox class="img-link img-link--lightbox">
+            <?php endif ?>
+              <?php $img_resize = $image->resize(390); ?>
+              <img class="block w-full h-full object-cover rounded-md" src="<?= $img_resize->url() ?>" loading="lazy" alt="<?= $article->title()->html() ?>" width="<?= $img_resize->width() ?>" height="<?= $img_resize->height() ?>">
+            </a>
+          </article>
+        <?php endif ?>
+      <?php endforeach ?>
+    </div>
+  <?php endif ?>
+
+  <?php if ($articles->isNotEmpty()): ?>
+    <div class="flex flex-col gap-16">
+      <?php foreach($articles as $article): ?>
+        <?php snippet('list-item/article-compact', ['article' => $article]) ?>
+      <?php endforeach ?>
+    </div>
+  <?php endif ?>
+</section>
+
 <?php snippet('layouts/subnavigation', ['subnav' => 'subnavfactory']) ?>
 <?php snippet('layouts/footer') ?>

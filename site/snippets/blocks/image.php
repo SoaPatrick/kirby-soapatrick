@@ -15,9 +15,12 @@ if ($block->location() == 'web') {
     $src = $block->src()->esc();
     $dimensions = '';
 } elseif ($image = $block->image()->toFile()) {
-/*     if ($alt->isEmpty()) {
+    if ($alt->isEmpty()) {
       $alt = $image->alt();
-    } */
+    }
+    if ($alt->isEmpty()) {
+      $alt = "empty alt text";
+    }
     if ($caption->isEmpty()) {
       $caption = $image->caption();
     }
@@ -29,15 +32,15 @@ if ($block->location() == 'web') {
 <?php if ($src): ?>
 <figure class="image-block align-<?= $align ?>" <?= attr(['data-ratio' => $ratio, 'data-crop' => $crop], ' ') ?>>
   <?php if ($link->isNotEmpty()): ?>
-    <a href="<?= esc($link->toUrl()) ?>" aria-label="<?= $alt->esc() ?>" class="img-link img-link--external" target="_blank">
-      <img src="<?= $src ?>" alt="<?= $alt->esc() ?>" loading="lazy">
+    <a href="<?= esc($link->toUrl()) ?>" aria-label="<?= $alt ?>" class="img-link img-link--external" target="_blank">
+      <img src="<?= $src ?>" alt="<?= $alt ?>" loading="lazy">
     </a>
   <?php elseif($lightbox): ?>
   <a href="<?= $src ?>" data-fslightbox="<?= $id ?>" aria-label="lightbox" class="img-link img-link--lightbox">
     <img 
       srcset="<?= $image->srcset('img-' .$align ); ?>"
       type="image/webp" 
-      alt="<?= $alt->esc() ?>" 
+      alt="<?= $alt ?>" 
       <?= $dimensions ?>
       loading="lazy">
   </a>
@@ -45,7 +48,7 @@ if ($block->location() == 'web') {
     <img 
       srcset="<?= $image->srcset('img-' . $align ); ?>"
       type="image/webp" 
-      alt="<?= $alt->esc() ?>" 
+      alt="<?= $alt ?>" 
       <?= $dimensions ?>
       loading="lazy">
   <?php endif ?>

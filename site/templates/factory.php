@@ -24,7 +24,7 @@
             srcset="<?= $image->srcset('cover-factory'); ?>"
             class="rounded-md"
             type="image/webp" 
-            alt="<?= $image->alt() ?>"
+            alt="<?= $article->title() ?>"
             width="<?= $image->width() ?>" 
             height="<?= $image->height() ?>">
         <?php endif ?>
