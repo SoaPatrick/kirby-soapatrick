@@ -26,7 +26,9 @@
   <footer class="article__footer">
     <div class="text-xs opacity-70 mb-2">Tagged in</div>
     <div class="tag-list">
-      <?php foreach ($page->tags()->split() as $tag): ?>
+      <?php $tags = $page->tags()->split(); ?>
+      <?php sort($tags); ?>
+      <?php foreach ($tags as $tag): ?>
         <a class="hashtag" href="<?= $page->parent()->url(['params' => ['tag' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
       <?php endforeach ?>
     </div>

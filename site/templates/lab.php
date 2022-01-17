@@ -5,7 +5,7 @@
     <?php $articles = $page->children()->filterBy('tags', urldecode(param('tag')), ',')->flip()->paginate(24); ?>
   <?php else: ?>
     <h1><?= $page->title() ?></h1>
-    <p><?= $page->description() ?></p>
+    <p class="text-lg"><?= $page->description() ?></p>
     <?php $articles = $page->children()->listed()->flip()->paginate(24) ?>
   <?php endif ?>
 </header>

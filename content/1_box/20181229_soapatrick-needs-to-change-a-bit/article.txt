@@ -22,7 +22,7 @@ Category: Thoughts on stuff
 
 ----
 
-Tags: Design, Development, Factory, Wordpress
+Tags: Design, Development, Factory, WordPress
 
 ----
 

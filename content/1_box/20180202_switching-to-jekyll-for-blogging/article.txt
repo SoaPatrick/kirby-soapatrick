@@ -22,7 +22,7 @@ Category: Thoughts on stuff
 
 ----
 
-Tags: Git, SoaPatrick, Wordpress, Writing
+Tags: Git, SoaPatrick, WordPress, Writing
 
 ----
 

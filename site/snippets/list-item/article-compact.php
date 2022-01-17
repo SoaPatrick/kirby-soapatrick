@@ -15,7 +15,9 @@
   <?php endif ?>
   <footer class="bg-egg-100 dark:bg-blue-100 inline-block rounded-md py-1 px-2">
     <div class="tag-list">
-      <?php foreach ($article->tags()->split() as $tag): ?>
+      <?php $tags = $article->tags()->split(); ?>
+      <?php sort($tags); ?>
+      <?php foreach ($tags as $tag): ?>
         <a class="hashtag" href="<?= $article->parent()->url(['params' => ['tag' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
       <?php endforeach ?>
     </div>

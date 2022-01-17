@@ -68,6 +68,9 @@ module.exports = {
       height: {
         cover: "var(--width--cover)",
       },
+      gridTemplateColumns: {
+        storage: "repeat(auto-fit, minmax(6.5rem, 1fr))",
+      },
     },
   },
   variants: {

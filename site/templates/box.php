@@ -3,6 +3,16 @@
   <?php if (!empty(param('tag'))): ?>
     <h1><?= html(urldecode(param('tag'))) ?></h1>
     <?php $articles = $page->children()->filterBy('tags', urldecode(param('tag')), ',')->flip()->paginate(10); ?>
+  <?php elseif (!empty(param('storage'))): ?>
+    <h1><?= html(urldecode(param('storage'))) ?></h1>
+    <?php 
+      $date = explode(" ", html(urldecode(param('storage'))));
+      $articles = page('box')
+        ->children()
+        ->filter(function ($page) use ($date) {
+          return $page->published()->toDate('Y') === $date[1] && $page->published()->toDate('F') === $date[0];
+        })->flip()->paginate(10);
+    ?>
   <?php else: ?>
     <h1><?= $page->title() ?></h1>
     <p class="text-lg"><?= $page->description() ?></p>

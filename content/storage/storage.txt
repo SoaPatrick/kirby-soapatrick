@@ -2,4 +2,4 @@ Title: Storage
 
 ----
 
-Text: Box Storage
+Description: Every thought neatly put into nice little boxes for an more organized way

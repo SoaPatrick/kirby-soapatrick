@@ -15,7 +15,9 @@
     <div class="bg-egg-100 dark:bg-blue-100 rounded-md p-4 mt-8">
       <div class="text-xs opacity-70 mb-2">Tagged in</div>
       <div class="tag-list">
-        <?php foreach ($page->category()->split() as $tag): ?>
+        <?php $tags = $page->category()->split(); ?>
+        <?php sort($tags); ?>
+        <?php foreach ($tags as $tag): ?>
           <a class="hashtag" href="<?= $page->parent()->url(['params' => ['category' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
         <?php endforeach ?>
       </div>
