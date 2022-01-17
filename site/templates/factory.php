@@ -21,10 +21,10 @@
       <a href="<?= $article->url() ?>" aria-label="<?= $article->title()->html() ?>" class="img-link">
         <?php if($image = $article->cover()->toFile()): ?>
           <img 
-            srcset="<?= $image->srcset('cover-factory'); ?>"
+            srcset="<?= $image->srcset('cover-factory-' .$image->extension()); ?>"
             class="rounded-md"
             type="image/webp" 
-            alt="<?= $article->title() ?>"
+            alt="<?= $article->title()->html() ?>"
             width="<?= $image->width() ?>" 
             height="<?= $image->height() ?>">
         <?php endif ?>

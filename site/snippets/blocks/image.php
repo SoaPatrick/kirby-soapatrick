@@ -8,8 +8,15 @@ $link     = $block->link();
 $ratio    = $block->ratio()->or('auto');
 $src      = null;
 $lightbox = $block->lightbox()->isTrue();
+$shadow   = $block->shadow()->isTrue();
 $align    = $block->align();
 $id       = $block->id();
+
+if ($shadow) {
+  $alignClass = null;
+} else {
+  $alignClass = 'align-'.$align;
+}
 
 if ($block->location() == 'web') {
     $src = $block->src()->esc();
@@ -25,12 +32,13 @@ if ($block->location() == 'web') {
       $caption = $image->caption();
     }
     $src = $image->url();
+    $extension = $image->extension();
     $dimensions = 'width="'.$image->width().'" height="'.$image->height().'"';
 }
 
 ?>
 <?php if ($src): ?>
-<figure class="image-block align-<?= $align ?>" <?= attr(['data-ratio' => $ratio, 'data-crop' => $crop], ' ') ?>>
+<figure class="image-block <?= $alignClass ?>" <?= attr(['data-ratio' => $ratio, 'data-crop' => $crop, 'data-shadow' => $shadow,], ' ') ?>>
   <?php if ($link->isNotEmpty()): ?>
     <a href="<?= esc($link->toUrl()) ?>" aria-label="<?= $alt ?>" class="img-link img-link--external" target="_blank">
       <img src="<?= $src ?>" alt="<?= $alt ?>" loading="lazy">
@@ -38,7 +46,7 @@ if ($block->location() == 'web') {
   <?php elseif($lightbox): ?>
   <a href="<?= $src ?>" data-fslightbox="<?= $id ?>" aria-label="lightbox" class="img-link img-link--lightbox">
     <img 
-      srcset="<?= $image->srcset('img-' .$align ); ?>"
+      srcset="<?= $image->srcset('img-' .$align. '-' .$extension ); ?>"
       type="image/webp" 
       alt="<?= $alt ?>" 
       <?= $dimensions ?>
@@ -46,7 +54,7 @@ if ($block->location() == 'web') {
   </a>
   <?php else: ?>
     <img 
-      srcset="<?= $image->srcset('img-' . $align ); ?>"
+      srcset="<?= $image->srcset('img-' .$align. '-' .$extension ); ?>"
       type="image/webp" 
       alt="<?= $alt ?>" 
       <?= $dimensions ?>

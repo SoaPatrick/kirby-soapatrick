@@ -2,10 +2,6 @@ Title: Slippery When Wet
 
 ----
 
-Text: [{"content":{"text":"Pre-Production on the next (or more precisely the very first) experimental movie has begun. Shooting will probably take place around 15th\/16th October and with very detailed pre-production, it shouldn't take long to edit the movie together.\n\nThe movie will probably run around 1 or 2 minutes and is called (as the title of this journal entry already suggests) \"Slippery When Wet\". We keep you posted on the status of this project."},"id":"e0595695-1800-4823-b40d-0d4004df9a56","isHidden":false,"type":"markdown"}]
-
-----
-
 Published: 2005-10-05
 
 ----
@@ -14,11 +10,11 @@ Cover:
 
 ----
 
-Format: standard
+Files: 
 
 ----
 
-Video: 
+Format: standard
 
 ----
 
@@ -30,4 +26,32 @@ Tags: Filming
 
 ----
 
-Project: 
+Project: factory/slippery-when-wet
+
+----
+
+Text: [{"content":{"text":"Pre-Production on the next (or more precisely the very first) experimental movie has begun. Shooting will probably take place around 15th\/16th October and with very detailed pre-production, it shouldn't take long to edit the movie together.\n\nThe movie will probably run around 1 or 2 minutes and is called (as the title of this journal entry already suggests) \"Slippery When Wet\". We keep you posted on the status of this project."},"id":"e0595695-1800-4823-b40d-0d4004df9a56","isHidden":false,"type":"markdown"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Video: 

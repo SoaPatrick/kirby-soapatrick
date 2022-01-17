@@ -50,21 +50,37 @@ return [
         '1x' => ['width' => 200,'height' => 200,'quality' => 80,'format' => 'webp','crop' => 'center'],
         '2x' => ['width' => 400,'height' => 400,'quality' => 80,'format' => 'webp','crop' => 'center']
       ],
-      'cover-list' => [
+      'cover-list-jpg' => [
         '1x' => ['width' => 120, 'quality' => 80,'format' => 'webp'],
         '2x' => ['width' => 240, 'quality' => 80,'format' => 'webp']
       ],
-      'cover-factory' => [
+      'cover-list-png' => [
+        '1x' => ['width' => 120, 'quality' => 100,'format' => 'webp'],
+        '2x' => ['width' => 240, 'quality' => 100,'format' => 'webp']
+      ],
+      'cover-factory-jpg' => [
         '1x' => ['width' => 320, 'quality' => 80,'format' => 'webp'],
         '2x' => ['width' => 640, 'quality' => 80,'format' => 'webp']
       ],
-      'img-wide' => [
+      'cover-factory-png' => [
+        '1x' => ['width' => 320, 'quality' => 100,'format' => 'webp'],
+        '2x' => ['width' => 640, 'quality' => 100,'format' => 'webp']
+      ],
+      'img-wide-jpg' => [
         '1x' => ['width' => 1200, 'quality' => 80,'format' => 'webp'],
         '2x' => ['width' => 2400, 'quality' => 80,'format' => 'webp']
       ],
-      'img-default' => [
+      'img-wide-png' => [
+        '1x' => ['width' => 1200, 'quality' => 100,'format' => 'webp'],
+        '2x' => ['width' => 2400, 'quality' => 100,'format' => 'webp']
+      ],
+      'img-default-jpg' => [
         '1x' => ['width' => 850, 'quality' => 80,'format' => 'webp'],
         '2x' => ['width' => 1700, 'quality' => 80,'format' => 'webp']
+      ],
+      'img-default-png' => [
+        '1x' => ['width' => 850, 'quality' => 100,'format' => 'webp'],
+        '2x' => ['width' => 1700, 'quality' => 100,'format' => 'webp']
       ]
     ]
   ]

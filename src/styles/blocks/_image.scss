@@ -4,6 +4,14 @@
   img {
     @apply rounded-md mx-auto;
   }
+
+  &[data-shadow] {
+    @apply max-w-content mr-0 my-12;
+
+    img {
+      @apply drop-shadow-[0_0.5rem_1rem_rgba(0,0,0,0.4)];
+    }
+  }
 }
 
 .align-wide {

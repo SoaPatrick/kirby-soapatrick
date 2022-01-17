@@ -1,7 +1,7 @@
 <div class="featured-img">
   <?php if($image = $article->cover()->toFile()): ?>
     <img 
-      srcset="<?= $image->srcset('cover-list'); ?>"
+      srcset="<?= $image->srcset('cover-list-'.$image->extension()); ?>"
       type="image/webp" 
       alt="<?= $image->alt() ?>"
       width="<?= $image->width() ?>" 

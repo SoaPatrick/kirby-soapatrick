@@ -14,7 +14,7 @@
     </div>
   <?php else: ?>
     <video controls class="rounded-md">
-      <source src="<?= $block->video()->toFile()->url(); ?>" type="video/mp4">
+      <source src="<?= $block->video()->toFile()->url(); ?>#t=0.001" type="video/mp4">
     </video>
   <?php endif; ?>
   <?php if ($block->caption()->isNotEmpty()): ?>
