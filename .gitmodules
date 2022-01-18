@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = https://SoaPatrick@bitbucket.org/SoaPatrick/content.git
