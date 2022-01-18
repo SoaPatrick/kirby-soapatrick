@@ -30,7 +30,7 @@ Project:
 
 ----
 
-Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=iszwuX1AK6A","caption":""},"id":"eb9285e0-58ca-486c-aa27-1493354c802e","isHidden":false,"type":"video"}]
+Text: [{"content":{"align":"default","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=iszwuX1AK6A","caption":""},"id":"eb9285e0-58ca-486c-aa27-1493354c802e","isHidden":false,"type":"video"}]
 
 ----
 

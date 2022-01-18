@@ -22,15 +22,15 @@ Category: Stuff from the Lab
 
 ----
 
-Tags: Animation, Blender, Sheep, Short
+Tags: Animation, Blender, Short
 
 ----
 
-Project: 
+Project: factory/chewing-sheep
 
 ----
 
-Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/vimeo.com\/52447638","caption":""},"id":"04cf2a10-c2a4-462f-9a94-1d351eb7c724","isHidden":false,"type":"video"},{"content":{"text":"<p>After watching some more video tutorials on Blender, I decided to start from scratch with the sheep and try to make it easier to manipulate the head. So I worked with mirroring for the eyes to achieve better symmetry and tried to move the objects better on their axis, especially the now moving eyeballs. And finally, I added some grass to finish the whole thing. The result looks stunning (took me around an hour to render the video) but I find that by trying to achieve perfection, the sheep ended up looking not as bored as in the first try. Maybe I will play around with some angles from the head and the camera but because of the grass now, everything takes longer to render, so\u2026<\/p>"},"id":"e5478730-4cd6-4f86-ac48-2f70c5dd15e4","isHidden":false,"type":"text"}]
+Text: [{"content":{"align":"default","location":"web","video":[],"url":"https:\/\/vimeo.com\/52447638","caption":""},"id":"04cf2a10-c2a4-462f-9a94-1d351eb7c724","isHidden":false,"type":"video"},{"content":{"text":"<p>After watching some more video tutorials on Blender, I decided to start from scratch with the sheep and try to make it easier to manipulate the head. So I worked with mirroring for the eyes to achieve better symmetry and tried to move the objects better on their axis, especially the now moving eyeballs. And finally, I added some grass to finish the whole thing. The result looks stunning (took me around an hour to render the video) but I find that by trying to achieve perfection, the sheep ended up looking not as bored as in the first try. Maybe I will play around with some angles from the head and the camera but because of the grass now, everything takes longer to render, so\u2026<\/p>"},"id":"e5478730-4cd6-4f86-ac48-2f70c5dd15e4","isHidden":false,"type":"text"}]
 
 ----
 

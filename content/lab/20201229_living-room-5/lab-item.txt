@@ -1,0 +1,27 @@
+Title: Living Room
+
+----
+
+Published: 2020-12-29
+
+----
+
+Cover:
+
+- lab_living-room_2020-12-29_10-24.jpg
+
+----
+
+Format: image
+
+----
+
+Video: 
+
+----
+
+Tags: 3D Rendering
+
+----
+
+Project: factory/my-apartment

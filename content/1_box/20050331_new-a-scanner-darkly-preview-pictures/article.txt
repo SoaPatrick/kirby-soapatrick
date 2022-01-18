@@ -2,7 +2,7 @@ Title: New A Scanner Darkly Preview Pictures
 
 ----
 
-Text: [{"content":{"location":"kirby","image":["scanr-051.jpg"],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/123\/scanr-051.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":""},"id":"0adae84f-5bb9-4176-bb8d-cdeff5a5fec1","isHidden":false,"type":"image"},{"content":{"text":"The latinoreview.com has brought some new preview pictures from \"A Scanner Darkly\", an eagerly awaited upcoming Winona movie. Many thanks to **Manuel** for the find.\n\nYou can see all the new pictures in (link: https:\/\/agcn.soapatrick.com\/pictures\/categories.php?cat_id=123 text: A Scanner Darkly Promotion target: _blank) category."},"id":"4367edd2-574b-48d5-80f6-4de208c33fb3","isHidden":false,"type":"markdown"}]
+Text: [{"content":{"location":"kirby","image":["scanr-051.jpg"],"src":"https:\/\/agcn.soapatrick.com\/pictures\/data\/media\/123\/scanr-051.jpg","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"0adae84f-5bb9-4176-bb8d-cdeff5a5fec1","isHidden":false,"type":"image"},{"content":{"text":"The latinoreview.com has brought some new preview pictures from \"A Scanner Darkly\", an eagerly awaited upcoming Winona movie. Many thanks to **Manuel** for the find.\n\nYou can see all the new pictures in (link: https:\/\/agcn.soapatrick.com\/pictures\/categories.php?cat_id=123 text: A Scanner Darkly Promotion target: _blank) category."},"id":"4367edd2-574b-48d5-80f6-4de208c33fb3","isHidden":false,"type":"markdown"}]
 
 ----
 

@@ -10,11 +10,11 @@ Cover:
 
 ----
 
-Format: standard
+Files: 
 
 ----
 
-Video: 
+Format: standard
 
 ----
 
@@ -22,7 +22,7 @@ Category: Thoughts on stuff
 
 ----
 
-Tags: Blender, gaming
+Tags: Blender, Gear, Gaming, Technology
 
 ----
 
@@ -50,8 +50,15 @@ Quotesource:
 
 ----
 
-Status: 
+Statustext: 
 
+----
+
+Video: 
+
+----
+
+Status: 
 
 ----
 

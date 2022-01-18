@@ -20,12 +20,11 @@ fields:
   align:
     label: Alignment
     type: radio
-    columns: 3
-    default: "content"
+    columns: 2
+    default: "default"
     options:
-      content: Content
+      default: Default
       wide: Wide
-      full: Full
   images:
     label: field.blocks.gallery.images.label
     type: files

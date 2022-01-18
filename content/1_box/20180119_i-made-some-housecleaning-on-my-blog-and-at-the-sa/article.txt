@@ -22,7 +22,7 @@ Category: Thoughts on stuff
 
 ----
 
-Tags: Development, Git, Status, Wordpress
+Tags: Development, Git, Status, WordPress
 
 ----
 

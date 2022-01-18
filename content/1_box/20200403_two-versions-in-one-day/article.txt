@@ -10,6 +10,10 @@ Cover:
 
 ----
 
+Files: 
+
+----
+
 Format: standard
 
 ----
@@ -18,11 +22,11 @@ Category: Stuff thats happening
 
 ----
 
-Tags: Soapatrick, Theme, Wordpress
+Tags: SoaPatrick, Theme, WordPress
 
 ----
 
-Project: 
+Project: factory/soapatrickseven
 
 ----
 

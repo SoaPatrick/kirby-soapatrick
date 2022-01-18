@@ -10,6 +10,10 @@ Cover:
 
 ----
 
+Files: 
+
+----
+
 Format: standard
 
 ----
@@ -18,11 +22,11 @@ Category: Stuff to Share
 
 ----
 
-Tags: Blender, zumlangeinseli
+Tags: Blender, Zum lange Inseli
 
 ----
 
-Project: 
+Project: factory/my-apartment
 
 ----
 

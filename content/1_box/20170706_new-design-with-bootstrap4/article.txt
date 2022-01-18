@@ -22,11 +22,11 @@ Category: Stuff from the Lab
 
 ----
 
-Tags: bootstrap, Design
+Tags: Design, Web, Technology
 
 ----
 
-Project: 
+Project: factory/soapatrickfour
 
 ----
 
@@ -51,7 +51,6 @@ Quotesource:
 ----
 
 Statustext: <p>I’m not much into spending too much time with the design of my website anymore, it keeps me from producing content that is more fun and is actually worth something. BUT I play around with the idea of redesigning the current theme with Bootstrap 4 once it’s in Beta. I’m not promising anything right now, but the idea of having the whole structure done with a solid flexbox base through bootstrap 4 sounds intriguing. Well, I guess we’ll see how much time I’m willing to spend on it.</p>
-
 
 ----
 

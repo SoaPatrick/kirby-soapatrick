@@ -22,7 +22,7 @@ Category: Thoughts on stuff
 
 ----
 
-Tags: environment
+Tags: Environment
 
 ----
 
@@ -30,7 +30,7 @@ Project:
 
 ----
 
-Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=5qx2WFpNTPs","caption":""},"id":"22b184b3-a9e6-44c4-a8ac-5d1cc2e372e4","isHidden":false,"type":"video"},{"content":{"text":"<p>Recycling is still a big issue and I think it has come a long way, I mean Pet, Glas, Paper and Tin Cans is something a lot of households recycle. As for me I also started using a CamelBak bottle for my daily water consumption, no more unnecessary Water Bottles and Cups. The CamelBak is my daily companion, everywhere I go, because of that I started to drink more and of course, used less trash. Same with plastic bags for groceries, I try to have a bag with or reuse the small plastic bags several times.<\/p><p><a href=\"https:\/\/www.youtube.com\/channel\/UCLXo7UDZvByw2ixzpQCufnA\" target=\"_blank\" rel=\"noopener noreferrer\">Vox<\/a> (another Youtube Channel I love) has made an interesting video that shows what else you can do for the environment by doing just a bit more, I mean pretty much all suggestions in the video are no-brainers. And I\u2018d love to see big corporations follow some of the examples mentioned.<\/p><p>So try to do better, question certain choices of your daily routine and maybe there\u2018s something you can do as well, maybe it\u2018s just a small thing that can do a lot.<\/p>"},"id":"19b4b308-f7ca-4cfb-984a-bae3ef453f0f","isHidden":false,"type":"text"}]
+Text: [{"content":{"align":"default","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=5qx2WFpNTPs","caption":""},"id":"22b184b3-a9e6-44c4-a8ac-5d1cc2e372e4","isHidden":false,"type":"video"},{"content":{"text":"<p>Recycling is still a big issue and I think it has come a long way, I mean Pet, Glas, Paper and Tin Cans is something a lot of households recycle. As for me I also started using a CamelBak bottle for my daily water consumption, no more unnecessary Water Bottles and Cups. The CamelBak is my daily companion, everywhere I go, because of that I started to drink more and of course, used less trash. Same with plastic bags for groceries, I try to have a bag with or reuse the small plastic bags several times.<\/p><p><a href=\"https:\/\/www.youtube.com\/channel\/UCLXo7UDZvByw2ixzpQCufnA\" target=\"_blank\" rel=\"noopener noreferrer\">Vox<\/a> (another Youtube Channel I love) has made an interesting video that shows what else you can do for the environment by doing just a bit more, I mean pretty much all suggestions in the video are no-brainers. And I\u2018d love to see big corporations follow some of the examples mentioned.<\/p><p>So try to do better, question certain choices of your daily routine and maybe there\u2018s something you can do as well, maybe it\u2018s just a small thing that can do a lot.<\/p>"},"id":"19b4b308-f7ca-4cfb-984a-bae3ef453f0f","isHidden":false,"type":"text"}]
 
 ----
 

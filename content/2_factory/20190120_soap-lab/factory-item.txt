@@ -1,0 +1,19 @@
+Title: Soap Lab
+
+----
+
+Published: 2019-01-20
+
+----
+
+Cover:
+
+- portfolio-soaplab_preview.png
+
+----
+
+Tags: Logo
+
+----
+
+Text: [{"content":{"columns":2,"lightbox":"true","align":"default","images":["soap-lab_1.png","soap-lab_2.png","soap-lab_3.png","soap-lab_4.png","soap-lab_5.png"]},"id":"32d4377c-fed3-430e-9f51-e5b17712749d","isHidden":false,"type":"gallery"}]

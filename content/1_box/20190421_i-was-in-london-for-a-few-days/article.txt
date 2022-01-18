@@ -10,6 +10,10 @@ Cover:
 
 ----
 
+Files: 
+
+----
+
 Format: standard
 
 ----
@@ -18,7 +22,7 @@ Category: Stuff from the Lab
 
 ----
 
-Tags: Photograph
+Tags: Photograph, Travel
 
 ----
 
@@ -26,7 +30,7 @@ Project:
 
 ----
 
-Text: [{"content":{"location":"kirby","image":["london_01.jpg"],"src":"","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"7e3db0d8-b337-410d-925b-014fd24709cf","isHidden":false,"type":"image"},{"content":{"text":"<p>I know it\u2019s been a while since my last blog post but first I was sick for a few days and then there was a quick trip to London for just a few days to just get out of Switzerland for a few days and see something different again.<\/p><p>Of course, the camera made the trip as well and the plan was to take as many photographs as possible. BUT I forgot how chilly London can be (this weekend is now a LOT warmer than last weekend, oh well) and so holding the camera for too long was not possible without freezing my hands off. But I did get some shots, not as much as I plan, but still.<\/p>"},"id":"6bd6f7ab-86b1-4bba-9c1c-7520a3c8ab37","isHidden":false,"type":"text"},{"content":{"columns":2,"lightbox":"true","align":"content","images":["london_05.jpg","london_04.jpg","london_02.jpg","london_03.jpg","london_06.jpg","london_07.jpg"]},"id":"9fdfa2e8-1363-4107-86ca-a75f62804a5e","isHidden":false,"type":"gallery"},{"content":{"text":"<p>As you can see it\u2019s mostly of buildings, I\u2019m still not that \ncomfortable taking pictures of scenarios with people and I still have to\n train my eyes to see interesting compositions. But I think these turned\n out quite nice.<\/p>"},"id":"9d78347b-0e5b-4e5a-89b9-f2d0c6275fb1","isHidden":false,"type":"text"}]
+Text: [{"content":{"location":"kirby","image":["london_01.jpg"],"src":"","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"7e3db0d8-b337-410d-925b-014fd24709cf","isHidden":false,"type":"image"},{"content":{"text":"<p>I know it\u2019s been a while since my last blog post but first I was sick for a few days and then there was a quick trip to London for just a few days to just get out of Switzerland for a few days and see something different again.<\/p><p>Of course, the camera made the trip as well and the plan was to take as many photographs as possible. BUT I forgot how chilly London can be (this weekend is now a LOT warmer than last weekend, oh well) and so holding the camera for too long was not possible without freezing my hands off. But I did get some shots, not as much as I plan, but still.<\/p>"},"id":"6bd6f7ab-86b1-4bba-9c1c-7520a3c8ab37","isHidden":false,"type":"text"},{"content":{"columns":2,"lightbox":"true","align":"default","images":["london_05.jpg","london_04.jpg","london_02.jpg","london_03.jpg","london_06.jpg","london_07.jpg"]},"id":"9fdfa2e8-1363-4107-86ca-a75f62804a5e","isHidden":false,"type":"gallery"},{"content":{"text":"<p>As you can see it\u2019s mostly of buildings, I\u2019m still not that \ncomfortable taking pictures of scenarios with people and I still have to\n train my eyes to see interesting compositions. But I think these turned\n out quite nice.<\/p>"},"id":"9d78347b-0e5b-4e5a-89b9-f2d0c6275fb1","isHidden":false,"type":"text"}]
 
 ----
 

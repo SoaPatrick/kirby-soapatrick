@@ -10,6 +10,10 @@ Cover:
 
 ----
 
+Files: 
+
+----
+
 Format: standard
 
 ----
@@ -18,11 +22,11 @@ Category: Thoughts on stuff
 
 ----
 
-Tags: Filming, social-media
+Tags: Filming, Social Media
 
 ----
 
-Project: 
+Project: factory/reflection
 
 ----
 

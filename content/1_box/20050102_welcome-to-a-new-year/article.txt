@@ -2,7 +2,7 @@ Title: Welcome to a new year
 
 ----
 
-Text: [{"content":{"text":"so how was everyone's new years eve party? Is there anyone who stayed sober that evening\/night\/morning? hehe... ok, let's get back to business.\n\nI found on some celebrity board these two HQ pics from the (link: https:\/\/agcn.soapatrick.com\/pictures\/categories.php?cat_id=122 text: Salute to Richard Gere target: _blank) event (I noticed we don't have pics from that event in the gallery yet) and **corky** sent me two more color pics from the same series I added last time. Thanks."},"id":"3fab9833-6691-4452-ab43-302647bc8642","isHidden":false,"type":"markdown"},{"content":{"columns":2,"lightbox":"true","align":"content","images":["event-001.jpg","event-002.jpg","color-296.jpg","color-297.jpg"]},"id":"cf518d9d-5e6c-41f1-9a9d-b318d9abf899","isHidden":false,"type":"gallery"}]
+Text: [{"content":{"text":"so how was everyone's new years eve party? Is there anyone who stayed sober that evening\/night\/morning? hehe... ok, let's get back to business.\n\nI found on some celebrity board these two HQ pics from the (link: https:\/\/agcn.soapatrick.com\/pictures\/categories.php?cat_id=122 text: Salute to Richard Gere target: _blank) event (I noticed we don't have pics from that event in the gallery yet) and **corky** sent me two more color pics from the same series I added last time. Thanks."},"id":"3fab9833-6691-4452-ab43-302647bc8642","isHidden":false,"type":"markdown"},{"content":{"columns":2,"lightbox":"true","align":"default","images":["event-001.jpg","event-002.jpg","color-296.jpg","color-297.jpg"]},"id":"cf518d9d-5e6c-41f1-9a9d-b318d9abf899","isHidden":false,"type":"gallery"}]
 
 ----
 

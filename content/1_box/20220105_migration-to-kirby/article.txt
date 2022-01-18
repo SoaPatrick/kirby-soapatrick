@@ -22,11 +22,11 @@ Category: Stuff thats happening
 
 ----
 
-Tags: Kirby, Wordpress, Theme
+Tags: Kirby, WordPress, Theme
 
 ----
 
-Project: 
+Project: factory/soapatrickten
 
 ----
 

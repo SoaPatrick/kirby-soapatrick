@@ -10,6 +10,10 @@ Cover:
 
 ----
 
+Files: 
+
+----
+
 Format: standard
 
 ----
@@ -22,11 +26,11 @@ Tags: Filming, Short, Video
 
 ----
 
-Project: 
+Project: factory/cursor
 
 ----
 
-Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=wEaxtNrXzm8","caption":""},"id":"a56fd37e-772b-458a-8009-e6afd89148f2","isHidden":false,"type":"video"},{"content":{"text":"<p>What a process this was, but I finally found the time to finish it and man oh man am I glad it\u2019s finally <strong>out there<\/strong>. It all started in <a href=\"\/box\/progress-on-cursor\/\" rel=\"noopener noreferrer\">August<\/a> when I shot the first footage, I started a few times in the meantime and the idea of what is now in the final version is something that evolved over the past <strong>two months<\/strong>.<\/p><p>I could go into great detail about why it took so long and what I learned doing this short little movie but for now, I just want to put it out there. The retrospective process I will spare for another blog post. In the meantime, <strong>enjoy!<\/strong><\/p>"},"id":"6a37b644-7ee6-44ff-a3d3-b6db5576e83f","isHidden":false,"type":"text"}]
+Text: [{"content":{"align":"default","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=wEaxtNrXzm8","caption":""},"id":"a56fd37e-772b-458a-8009-e6afd89148f2","isHidden":false,"type":"video"},{"content":{"text":"<p>What a process this was, but I finally found the time to finish it and man oh man am I glad it\u2019s finally <strong>out there<\/strong>. It all started in <a href=\"\/box\/progress-on-cursor\/\" rel=\"noopener noreferrer\">August<\/a> when I shot the first footage, I started a few times in the meantime and the idea of what is now in the final version is something that evolved over the past <strong>two months<\/strong>.<\/p><p>I could go into great detail about why it took so long and what I learned doing this short little movie but for now, I just want to put it out there. The retrospective process I will spare for another blog post. In the meantime, <strong>enjoy!<\/strong><\/p>"},"id":"6a37b644-7ee6-44ff-a3d3-b6db5576e83f","isHidden":false,"type":"text"}]
 
 ----
 

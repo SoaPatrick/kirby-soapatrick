@@ -1,0 +1,112 @@
+footer a,
+main a {
+  @apply underline decoration-current decoration-thin underline-offset-default transition-link duration-300 ease-in-out;
+
+  &:hover {
+    @apply decoration-transparent;
+  }
+}
+
+a:focus {
+  @apply outline-2 outline-primary;
+}
+
+a[target="_blank"]::after {
+  @apply content-link -rotate-45 inline-block text-primary;
+}
+
+a.edit {
+  @apply text-xs ml-2 inline-block h-3 w-3;
+
+  &[target="_blank"]::after {
+    @apply content-none;
+  }
+
+  svg {
+    @apply w-full h-full;
+  }
+}
+
+article header a,
+.pagination a,
+.sub-navigation a,
+a.more {
+  @apply font-serif font-bold text-cyan-35 decoration-transparent hover:decoration-cyan-35 dark:text-cyan-62 dark:hover:decoration-cyan-62;
+}
+
+h1,
+h2,
+h3 {
+  @apply font-bold font-serif;
+  line-height: 1.1;
+}
+
+h1 {
+  @apply mb-8;
+  font-size: clamp(2rem, 10vw, 3rem);
+}
+
+h2 {
+  @apply mt-8 mb-4 text-2xl;
+}
+
+h3 {
+  @apply mt-8 mb-4 text-xl;
+}
+
+p {
+  @apply mb-4;
+}
+
+ul {
+  @apply list-disc pl-4;
+}
+
+ol {
+  @apply list-decimal pl-8;
+}
+
+ol,
+ul {
+  @apply mb-4;
+
+  ul,
+  ol {
+    @apply mb-0;
+  }
+
+  li {
+    @apply pl-2;
+  }
+
+  li::marker {
+    @apply text-primary;
+  }
+
+  p {
+    @apply m-0;
+  }
+}
+
+b,
+strong {
+  @apply font-bold;
+}
+
+figcaption {
+  @apply text-sm mt-1 text-center opacity-50;
+}
+
+/* img {
+  @apply relative bg-egg-100 dark:bg-blue-100 rounded-md leading-8 text-xs text-center;
+}
+
+img:before {
+  @apply content-[''] block absolute inset-0 bg-egg-100 dark:bg-blue-100 rounded-md border-4 border-dashed border-egg-50 dark:border-blue-50;
+}
+
+img:after {
+  @apply font-bold text-xs text-blue-100 dark:text-egg-200 absolute inset-0 flex justify-center items-center opacity-50;
+  content: "Broken image";
+}
+ */

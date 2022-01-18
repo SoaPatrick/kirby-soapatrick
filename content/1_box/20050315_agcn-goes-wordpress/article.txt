@@ -1,4 +1,4 @@
-Title: AGCN goes Wordpress
+Title: AGCN goes WordPress
 
 ----
 
@@ -26,7 +26,7 @@ Category: AGCN
 
 ----
 
-Tags: AGCN, Wordpress
+Tags: AGCN, WordPress
 
 ----
 

@@ -22,7 +22,7 @@ Category: AGCN
 
 ----
 
-Tags: agcn
+Tags: AGCN
 
 ----
 

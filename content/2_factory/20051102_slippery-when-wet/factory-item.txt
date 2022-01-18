@@ -1,0 +1,19 @@
+Title: Slippery When Wet
+
+----
+
+Published: 2005-11-02
+
+----
+
+Cover:
+
+- portfolio-slippery_preview.jpg
+
+----
+
+Tags: Short Film, Video
+
+----
+
+Text: [{"content":{"align":"default","location":"web","video":[],"url":"https:\/\/vimeo.com\/69256726","caption":""},"id":"f354a14c-c23b-46fa-b510-6810c30f96ea","isHidden":false,"type":"video"},{"content":{"text":"<p>For the first short clip entirely done with my own equipment, I tried to keep it simple and just test a few things (but nothing big) and also see how the audio recorder Edirol R-1 together with the Sennheiser mic MKE 300 work like.<\/p><p>The picture and the sound were recorded entirely separately and on totally different months (video from November 2005 and sound in March 2006). Each sound effect was recorded on its own from the slip to the bump, the switch, and the door sounds. The only postproduction work on the picture was a zooming effect on the showerhead, the widescreen bars (some scaling there too) and the coloring at the end.<\/p><p>The hardest part of the whole clip was creating decent blood within the water and the final result was some stage blood mixed with lots of ketchup to make it thicker, it\u2019s not really perfect and I probably should have used pig blood from the butchery, well next time maybe.<\/p><p>It\u2019s not too bad for a first clip (not counting\u00a0<a href=\"\/factory\/the-insider\" rel=\"noopener noreferrer\">The Insider<\/a>\u00a0some better lightning could have been done in the bathtub scenes but it was really hard to do ANYTHING in there and finding a light with the same warmth as the original neon light from the bathroom is harder than many think. But the clip served its and my purpose.<\/p>"},"id":"60acf386-fef0-4250-adf4-644fb403a707","isHidden":false,"type":"text"}]

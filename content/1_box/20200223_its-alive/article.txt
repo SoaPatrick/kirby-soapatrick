@@ -6,9 +6,11 @@ Published: 2020-02-23
 
 ----
 
-Cover:
+Cover: 
 
-- its-alive.png
+----
+
+Files: 
 
 ----
 
@@ -20,11 +22,11 @@ Category: Stuff thats happening
 
 ----
 
-Tags: Soapatrick, Theme, Wordpress
+Tags: SoaPatrick, Theme, WordPress
 
 ----
 
-Project: 
+Project: factory/soapatrickseven
 
 ----
 

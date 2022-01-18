@@ -2,9 +2,22 @@
   @apply my-8;
 
   img {
-    @apply rounded-md;
+    @apply rounded-md mx-auto;
+  }
+
+  &[data-shadow] {
+    @apply max-w-content mr-0 my-12;
+
+    img {
+      @apply drop-shadow-[0_0.5rem_1rem_rgba(0,0,0,0.4)];
+    }
   }
 }
 
-.align-center {
+.align-wide {
+  @apply relative;
+
+  figcaption {
+    @apply sm:left-0 sm:mt-8 sm:text-left sm:absolute sm:mr-wide;
+  }
 }

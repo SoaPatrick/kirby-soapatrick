@@ -1,0 +1,19 @@
+Title: Juicy Finish
+
+----
+
+Published: 2018-12-01
+
+----
+
+Cover:
+
+- portfolio-juicyfinish_preview.jpg
+
+----
+
+Tags: Short Film, Video
+
+----
+
+Text: [{"content":{"align":"default","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=8s20Q2KKhLw","caption":""},"id":"35ec9a0b-24a0-4c7b-9bb1-9103d0ffa97b","isHidden":false,"type":"video"}]

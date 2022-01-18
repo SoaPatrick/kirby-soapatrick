@@ -1,0 +1,19 @@
+Title: Self Portrait
+
+----
+
+Text: [{"content":{"location":"kirby","image":["self-portrait.png"],"src":"","alt":"","caption":null,"link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"1c9bcc4f-4ba2-494e-8e22-3ee9c6a02c57","isHidden":false,"type":"image"},{"content":{"align":"default","location":"kirby","video":["self-portrait.mp4"],"url":"","caption":null},"id":"9bcc0cca-36a3-4f9f-ae49-165a8511b383","isHidden":false,"type":"video"}]
+
+----
+
+Published: 2018-07-17
+
+----
+
+Cover:
+
+- portfolio-patrick_preview.jpg
+
+----
+
+Tags: Drawing

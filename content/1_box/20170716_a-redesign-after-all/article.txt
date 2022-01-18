@@ -22,11 +22,11 @@ Category: Stuff from the Lab
 
 ----
 
-Tags: bootstrap, Design
+Tags: Design, Web, Technology
 
 ----
 
-Project: 
+Project: factory/soapatrickfour
 
 ----
 

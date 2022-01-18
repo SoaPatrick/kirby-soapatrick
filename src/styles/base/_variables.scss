@@ -1,0 +1,26 @@
+// Variables
+:root {
+  // Variation Original
+
+  --color__primary: #f7444e;
+
+  --color__cyan-62: hsl(186, 39%, 62%);
+  --color__cyan-35: hsl(186, 39%, 35%);
+
+  --color__blue--100: hsl(196, 100%, 10%);
+  --color__blue--200: hsl(197, 100%, 12%);
+
+  --color__egg--100: hsl(46, 41%, 92%);
+  --color__egg--200: hsl(45, 40%, 96%);
+
+  // Widths
+
+  --width--content: clamp(500px, 50vw, 750px);
+  --width--sides: clamp(200px, 50vw, 400px);
+  --width--gutter: clamp(20px, 3vw, 50px);
+
+  --width--wide: calc(var(--width--content) + 2 * var(--width--gutter));
+  --width--widest: calc(var(--width--content) + 2 * var(--width--sides));
+
+  --width--cover: clamp(70px, 7vw, 120px);
+}

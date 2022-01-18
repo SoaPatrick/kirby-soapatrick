@@ -5,7 +5,7 @@
     { "src": "/assets/img/192.png", "type": "image/png", "sizes": "192x192" },
     { "src": "/assets/img/512.png", "type": "image/png", "sizes": "512x512" }
   ],
-  "background_color": "#222222",
+  "background_color": "#cf3a3a",
   "start_url": "https://kirby.soapatrick.com",
   "display": "standalone"
 }

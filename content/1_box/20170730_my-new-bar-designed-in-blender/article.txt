@@ -24,11 +24,11 @@ Category: Stuff from the Lab
 
 ----
 
-Tags: Blender, Interiour Design, zumlangeinseli
+Tags: Blender, Interiour Design, Zum lange Inseli
 
 ----
 
-Project: 
+Project: factory/zum-lange-inseli
 
 ----
 

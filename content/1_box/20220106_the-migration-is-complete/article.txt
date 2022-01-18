@@ -1,0 +1,53 @@
+Title: The migration is complete
+
+----
+
+Published: 2022-01-06
+
+----
+
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Format: status
+
+----
+
+Category: Stuff thats happening
+
+----
+
+Tags: Kirby, Status
+
+----
+
+Project: factory/soapatrickten
+
+----
+
+Text: 
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: <p>The migration is complete, every piece of content is migrated from WordPress to Kirby. This means from now on I can focus on adding missing features and thinking about a new design.</p>

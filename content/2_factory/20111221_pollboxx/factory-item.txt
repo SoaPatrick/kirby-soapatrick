@@ -1,0 +1,19 @@
+Title: Pollboxx
+
+----
+
+Text: [{"content":{"columns":2,"lightbox":"true","align":"default","images":["pollboxx_01.png","pollboxx_02.png","pollboxx_03.png","pollboxx_04.png"]},"id":"91ca29cf-4148-4aa8-94bf-e53f719c6820","isHidden":false,"type":"gallery"},{"content":{"text":"<p>Pollboxx was part of a school project and part of a personal idea I wanted to see come to life. The idea behind Pollboxx is to offer a service where people can create a poll with either yes (Yay) or no &nbsp;(Nay) for an answer and then share that poll. The whole process had to be easy and fast.<\/p><p>The whole page is based on WordPress where a special plugin was written to achieve the easy voting process. The Vote is counted immediately after pressing the proper vote button without a page refresh. The answer is then stored in a cookie. To achieve maximum user interaction, the whole process of creating a poll is possible without registration. The ability to comment on polls allows the users to further interact with each other beyond the votes.<\/p><p>The design was kept minimal with a strong focus on content and information display. Additionally, a special stylesheet was written for iPhone users to achieve a better user experience on a mobile device.<\/p>"},"id":"b4ff9e07-cbb3-4ed5-be61-bd1c8431f7ac","isHidden":false,"type":"text"}]
+
+----
+
+Published: 2011-12-21
+
+----
+
+Cover:
+
+- portfolio-pollboxx_preview.png
+
+----
+
+Tags: Webdesign

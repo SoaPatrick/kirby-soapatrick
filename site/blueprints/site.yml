@@ -8,7 +8,7 @@ columns:
         templates:
           - home
           - default
-          - page
+          - patrick
       box: sections/box
 
   - width: 1/3

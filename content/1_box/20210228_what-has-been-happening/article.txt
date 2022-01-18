@@ -6,9 +6,11 @@ Published: 2021-02-28
 
 ----
 
-Cover:
+Cover: 
 
-- pens.png
+----
+
+Files: 
 
 ----
 
@@ -49,7 +51,6 @@ Quotesource:
 ----
 
 Statustext: 
-
 
 ----
 

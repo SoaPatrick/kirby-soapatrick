@@ -10,6 +10,10 @@ Cover:
 
 ----
 
+Files: 
+
+----
+
 Format: standard
 
 ----
@@ -18,11 +22,11 @@ Category: Thoughts on stuff
 
 ----
 
-Tags: Personal, Soapatrick
+Tags: Personal, SoaPatrick
 
 ----
 
-Project: 
+Project: factory/soapatrickeight
 
 ----
 

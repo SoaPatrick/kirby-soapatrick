@@ -1,0 +1,27 @@
+Title: Lab
+
+----
+
+Published: 2020-12-02
+
+----
+
+Cover:
+
+- lab_lab_2020-12-02_22-30.jpg
+
+----
+
+Format: image
+
+----
+
+Video: 
+
+----
+
+Tags: 3D Rendering
+
+----
+
+Project: factory/soap-lab

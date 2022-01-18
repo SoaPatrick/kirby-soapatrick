@@ -10,6 +10,10 @@ Cover:
 
 ----
 
+Files: 
+
+----
+
 Format: standard
 
 ----
@@ -18,11 +22,11 @@ Category: Stuff from the Lab
 
 ----
 
-Tags: Soapatrick, Theme
+Tags: SoaPatrick, Theme
 
 ----
 
-Project: 
+Project: factory/soapatrickeight
 
 ----
 

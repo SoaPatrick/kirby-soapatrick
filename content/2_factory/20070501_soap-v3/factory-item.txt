@@ -1,0 +1,19 @@
+Title: Soap v3
+
+----
+
+Text: [{"content":{"columns":3,"lightbox":"true","align":"default","images":["soap-v3_01.jpg","soap-v3_02.png","soap-v3_03.png","soap-v3_04.png","soap-v3_05.png","soap-v3_06.png"]},"id":"06549c96-e9f9-41f0-a281-1333a67f6523","isHidden":false,"type":"gallery"},{"content":{"text":"<p>After seeing the Soap Logo v2 for too long and realizing I\u2019m having a problem using the logo for designs because of its form factor, I went back to the drawing board to come up with a new Logo. After watching the end of the Marron5 Music Video <a href=\"http:\/\/youtu.be\/sAebYQgy4n4\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Makes Me Wonder<\/a>&nbsp;where the plane flies through the picture and leaves a wooosh onto the sun, I had my idea.<\/p><p>I played quite around with that concept but I always had problems with the font and the name, I didn\u2019t know where to place the name and with what font. After being unhappy with a simple Arial font, I went back to the first Soap Logo and used what I did back then and tried to incorporate that logo inside the new one. But It never worked in a simple way (black n\u2019 white) but it looked gorgeous when I made it look more three-dimensional and more plastic with gloss effects and glows.<\/p>"},"id":"0cda4987-73c9-4ec2-9e33-833743c310a0","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["soap-v3_07.jpg"],"src":"","alt":"","caption":null,"link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"a54638f1-6d0b-433f-be1d-ffbdc22f5216","isHidden":false,"type":"image"}]
+
+----
+
+Published: 2007-05-01
+
+----
+
+Cover:
+
+- portfolio-soapv3_preview.jpg
+
+----
+
+Tags: Logo

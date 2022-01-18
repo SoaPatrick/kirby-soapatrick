@@ -22,15 +22,15 @@ Category: Stuff from the Lab
 
 ----
 
-Tags: Animation, Blender, Sheep, Short
+Tags: Animation, Blender, Short
 
 ----
 
-Project: 
+Project: factory/chewing-sheep
 
 ----
 
-Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/vimeo.com\/52345038","caption":""},"id":"0c0c9ec1-9562-4e05-973c-989b36abdca2","isHidden":false,"type":"video"},{"content":{"text":"<p>Well, I started working with <a href=\"http:\/\/www.blender.org\" target=\"_blank\" rel=\"noopener noreferrer\">Blender<\/a>, the free open-source 3D modeling software, and created a 3D Model from the sheep and then added some small animation and all this within 6 hours (more or less). I\u2019m happy with it, sure it\u2019s all very basic but that\u2019s because I\u2019m REALLY new to all this but I plan on improving it over time.<\/p>"},"id":"1d00d1c4-c857-428c-b4f5-53ee7041f447","isHidden":false,"type":"text"}]
+Text: [{"content":{"align":"default","location":"web","video":[],"url":"https:\/\/vimeo.com\/52345038","caption":""},"id":"0c0c9ec1-9562-4e05-973c-989b36abdca2","isHidden":false,"type":"video"},{"content":{"text":"<p>Well, I started working with <a href=\"http:\/\/www.blender.org\" target=\"_blank\" rel=\"noopener noreferrer\">Blender<\/a>, the free open-source 3D modeling software, and created a 3D Model from the sheep and then added some small animation and all this within 6 hours (more or less). I\u2019m happy with it, sure it\u2019s all very basic but that\u2019s because I\u2019m REALLY new to all this but I plan on improving it over time.<\/p>"},"id":"1d00d1c4-c857-428c-b4f5-53ee7041f447","isHidden":false,"type":"text"}]
 
 ----
 

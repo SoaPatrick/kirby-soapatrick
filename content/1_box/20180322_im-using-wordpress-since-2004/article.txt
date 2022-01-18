@@ -1,4 +1,4 @@
-Title: I’m using Wordpress since 2004
+Title: I’m using WordPress since 2004
 
 ----
 
@@ -22,7 +22,7 @@ Category: Thoughts on stuff
 
 ----
 
-Tags: Wordpress
+Tags: WordPress
 
 ----
 

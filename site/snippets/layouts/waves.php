@@ -1,0 +1,1 @@
+<div class="fixed top-0 left-0 right-0 sm:h-4 bg-primary z-50"></div>

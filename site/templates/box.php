@@ -1,39 +1,29 @@
-<?php snippet('header') ?>
-<header class="relative">
+<?php snippet('layouts/header') ?>
+<header>
   <?php if (!empty(param('tag'))): ?>
     <h1><?= html(urldecode(param('tag'))) ?></h1>
     <?php $articles = $page->children()->filterBy('tags', urldecode(param('tag')), ',')->flip()->paginate(10); ?>
+  <?php elseif (!empty(param('storage'))): ?>
+    <h1><?= html(urldecode(param('storage'))) ?></h1>
+    <?php 
+      $date = explode(" ", html(urldecode(param('storage'))));
+      $articles = page('box')
+        ->children()
+        ->filter(function ($page) use ($date) {
+          return $page->published()->toDate('Y') === $date[1] && $page->published()->toDate('F') === $date[0];
+        })->flip()->paginate(10);
+    ?>
   <?php else: ?>
-    <div class="marginal-icon marginal-icon--large mb-2 sm:mb-0 sm:absolute grid place-items-center">
-        <?= $page->icon(); ?>
-    </div>
     <h1><?= $page->title() ?></h1>
-    <?php $articles = $page->children()->listed()->flip()->paginate(10) ?>
     <p class="text-lg"><?= $page->description() ?></p>
+    <?php $articles = $page->children()->listed()->flip()->paginate(10) ?>
   <?php endif ?>
 </header>
-<div>
+<div class="content content--articles">
   <?php foreach($articles as $article): ?>
     <?php snippet('list-item/article', ['article' => $article]) ?>
   <?php endforeach ?>
 </div>
 
-<?php if ($articles->pagination()->hasPages()): ?>
-<nav class="pagination">
-
-  <?php if ($articles->pagination()->hasNextPage()): ?>
-  <a class="next" href="<?= $articles->pagination()->nextPageURL() ?>">
-    ← older
-  </a>
-  <?php endif ?>
-
-  <?php if ($articles->pagination()->hasPrevPage()): ?>
-  <a class="prev" href="<?= $articles->pagination()->prevPageURL() ?>">
-    newer →
-  </a>
-  <?php endif ?>
-
-</nav>
-<?php endif ?>
-
-<?php snippet('footer') ?>
+<?php snippet('pagination-list', ['articles' => $articles]) ?>
+<?php snippet('layouts/footer') ?>

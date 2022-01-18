@@ -22,15 +22,15 @@ Category: Stuff from the Lab
 
 ----
 
-Tags: insider, Video
+Tags: Video
 
 ----
 
-Project: 
+Project: factory/the-insider
 
 ----
 
-Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/vimeo.com\/69256340","caption":""},"id":"7afb1a11-963b-40e3-bc05-fc46f1e16612","isHidden":false,"type":"video"},{"content":{"text":"<p>Well, I thought I could upload my old movies to Vimeo and so I started with The Insider.<\/p><p>Originally planned as the opening scene of a longer Matrix-fan movie, this one-day shooting took place on the roof of our local school in spring 2000. But due to timeproblems among the cast and crew members, we never found the time to shoot the rest of the movie. So all we shot was the Insider scene which is introducing the main character Mercilles.<\/p><p>Rediscovering the footage in 2005 led to the idea to finally cut those scenes together and make it some sort of mini-movie with no real plot, but it was interesting to cut them together and find out how the idea of recording the video and sound separately paid off.<\/p><p>Here is the only read outtake from the shooting day:<\/p>"},"id":"f02329ee-9b70-4d6a-9cbd-83d2333a5c47","isHidden":false,"type":"text"},{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/vimeo.com\/69256596","caption":""},"id":"949d08a7-c318-46c8-9bef-a3bc0a5314f5","isHidden":false,"type":"video"}]
+Text: [{"content":{"align":"default","location":"web","video":[],"url":"https:\/\/vimeo.com\/69256340","caption":""},"id":"7afb1a11-963b-40e3-bc05-fc46f1e16612","isHidden":false,"type":"video"},{"content":{"text":"<p>Well, I thought I could upload my old movies to Vimeo and so I started with The Insider.<\/p><p>Originally planned as the opening scene of a longer Matrix-fan movie, this one-day shooting took place on the roof of our local school in spring 2000. But due to timeproblems among the cast and crew members, we never found the time to shoot the rest of the movie. So all we shot was the Insider scene which is introducing the main character Mercilles.<\/p><p>Rediscovering the footage in 2005 led to the idea to finally cut those scenes together and make it some sort of mini-movie with no real plot, but it was interesting to cut them together and find out how the idea of recording the video and sound separately paid off.<\/p><p>Here is the only read outtake from the shooting day:<\/p>"},"id":"f02329ee-9b70-4d6a-9cbd-83d2333a5c47","isHidden":false,"type":"text"},{"content":{"align":"default","location":"web","video":[],"url":"https:\/\/vimeo.com\/69256596","caption":""},"id":"949d08a7-c318-46c8-9bef-a3bc0a5314f5","isHidden":false,"type":"video"}]
 
 ----
 

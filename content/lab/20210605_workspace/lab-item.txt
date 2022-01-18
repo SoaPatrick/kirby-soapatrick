@@ -1,0 +1,29 @@
+Title: Workspace
+
+----
+
+Published: 2021-06-05
+
+----
+
+Cover:
+
+- lab_workspace_01_thumb.jpg
+
+----
+
+Format: video
+
+----
+
+Video:
+
+- lab_workspace_01.mp4
+
+----
+
+Tags: 3D Rendering, Animation
+
+----
+
+Project: factory/my-apartment

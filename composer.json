@@ -1,10 +1,14 @@
 {
-    "name": "arnoson/kirby-vite-multi-page-kit",
-    "description": "A multi-page Kirby CMS + Vite starter kit",
-    "type": "project",
-    "license": "MIT",
-    "require": {
-        "getkirby/cms": "3.5.3.1",
-        "arnoson/kirby-vite": "^2.1"
-    }
+  "name": "soapatrick/website-for-soapatrick",
+  "description": "SoaPatrick done with kirby",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "arnoson/kirby-vite": "^2.1",
+    "getkirby/cms": "^3.0",
+    "sylvainjule/pagetable": "^1.1"
+  },
+  "config": {
+    "optimize-autoloader": true
+  }
 }

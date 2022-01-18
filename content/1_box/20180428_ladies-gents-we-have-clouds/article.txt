@@ -22,11 +22,11 @@ Category: Stuff from the Lab
 
 ----
 
-Tags: Design, Soapatrick, Theme
+Tags: Design, SoaPatrick, Theme
 
 ----
 
-Project: 
+Project: factory/soapatrickfive
 
 ----
 

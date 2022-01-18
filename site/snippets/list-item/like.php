@@ -1,27 +1,29 @@
-<article class="my-16">
-  <header class="relative">
-    <div class="marginal-icon mb-2 sm:mb-0 sm:absolute grid place-items-center rounded-full bg-black-10 dark:bg-white-10">
-      <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-1/3 h-auto"><path fill="currentColor" d="M493.255 56.236l-37.49-37.49c-24.993-24.993-65.515-24.994-90.51 0L12.838 371.162.151 485.346c-1.698 15.286 11.22 28.203 26.504 26.504l114.184-12.687 352.417-352.417c24.992-24.994 24.992-65.517-.001-90.51zm-95.196 140.45L174 420.745V386h-48v-48H91.255l224.059-224.059 82.745 82.745zM126.147 468.598l-58.995 6.555-30.305-30.305 6.555-58.995L63.255 366H98v48h48v34.745l-19.853 19.853zm344.48-344.48l-49.941 49.941-82.745-82.745 49.941-49.941c12.505-12.505 32.748-12.507 45.255 0l37.49 37.49c12.506 12.506 12.507 32.747 0 45.255z"></path></svg>
+<article>
+  <header class="mb-2">
+    <div class="featured-img">
+      <div class="icon">
+        <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-1/3 h-auto"><path fill="currentColor" d="M462.3 62.7c-54.5-46.4-136-38.7-186.6 13.5L256 96.6l-19.7-20.3C195.5 34.1 113.2 8.7 49.7 62.7c-62.8 53.6-66.1 149.8-9.9 207.8l193.5 199.8c6.2 6.4 14.4 9.7 22.6 9.7 8.2 0 16.4-3.2 22.6-9.7L472 270.5c56.4-58 53.1-154.2-9.7-207.8zm-13.1 185.6L256.4 448.1 62.8 248.3c-38.4-39.6-46.4-115.1 7.7-161.2 54.8-46.8 119.2-12.9 142.8 11.5l42.7 44.1 42.7-44.1c23.2-24 88.2-58 142.8-11.5 54 46 46.1 121.5 7.7 161.2z" class=""></path></svg>
+      </div>
     </div>
-    <div class="flex">
-      <time class="text-xs uppercase tracking-wide opacity-70" datetime="<?= $article->published()->toDate(DATE_ATOM) ?>">
-        <?= $article->published()->toDate('F j, Y') ?>
-      </time>
-    </div>
-    <h1 class="my-2 text-2xl"><a class="dark:text-white text-black" href="<?= $article->url() ?>"><?= $article->title()->html() ?></a></h1>
+    <?php snippet('published', ['article' => $article]); ?>
+    <?php snippet('edit-page', ['page' => $article]); ?>
+    <h2 class="mt-0 mb-2">
+      <a class="decoration-transparent hover:decoration-current" href="<?= $article->url() ?>">
+        <?= $article->title()->html() ?>
+      </a>
+    </h2>
   </header>
-  <div>
-    <p class="my-4">
-      <?php if ($article->old()->isEmpty()): ?>
-        <?= $article->text()->toBlocks()->excerpt(200) ?> <a href="<?= $article->url() ?>" class="font-serif font-bold">more →</a>
-      <?php else: ?>
-        <?= $article->old()->kt()->excerpt(200) ?> <a href="<?= $article->url() ?>" class="font-serif font-bold">more →</a>
-      <?php endif; ?>
-    </p>
+  <div class="my-4">
+    <?php if($image = $article->cover()->toFile()): ?>
+      <?php $img_resize = $image->resize(300); ?>
+      <img class="block rounded-md" src="<?= $img_resize->url() ?>" loading="lazy" alt="<?= $page->title()->html() ?>" width="<?= $img_resize->width() ?>" height="<?= $img_resize->height() ?>">
+    <?php endif ?>
   </div>
-  <footer>
-    <div>
-      <?php foreach ($article->category()->split() as $tag): ?>
+  <footer class="bg-egg-100 dark:bg-blue-100 inline-block rounded-md py-1 px-2">
+    <div class="tag-list">
+      <?php $tags = $article->category()->split(); ?>
+      <?php sort($tags); ?>
+      <?php foreach ($tags as $tag): ?>
         <a class="hashtag" href="<?= $article->parent()->url(['params' => ['category' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
       <?php endforeach ?>
     </div>

@@ -1,4 +1,4 @@
-Title: Wordpress 5.4 and SP7 2.5
+Title: WordPress 5.4 and SP7 2.5
 
 ----
 
@@ -10,6 +10,10 @@ Cover:
 
 ----
 
+Files: 
+
+----
+
 Format: standard
 
 ----
@@ -18,11 +22,11 @@ Category: Stuff thats happening
 
 ----
 
-Tags: Theme, Wordpress
+Tags: Theme, WordPress
 
 ----
 
-Project: 
+Project: factory/soapatrickseven
 
 ----
 

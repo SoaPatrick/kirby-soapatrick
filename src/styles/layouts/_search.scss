@@ -1,0 +1,15 @@
+.search-panel {
+  @apply bg-primary max-h-0 overflow-hidden transition-height duration-300 ease-in-out relative z-50;
+
+  form {
+    @apply mx-auto px-4 py-16 max-w-widest;
+  }
+
+  &.open {
+    @apply max-h-96;
+  }
+}
+
+.input-field {
+  @apply w-full shadow-none border-none rounded-full text-2xl px-6 py-3 font-normal focus:outline-none placeholder-opacity-50 bg-egg-200 text-blue-100;
+}

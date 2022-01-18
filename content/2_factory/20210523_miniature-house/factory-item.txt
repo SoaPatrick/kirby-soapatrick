@@ -1,0 +1,19 @@
+Title: Miniature House
+
+----
+
+Published: 2021-05-23
+
+----
+
+Cover:
+
+- portfolio-miniature-house_preview.jpg
+
+----
+
+Tags: 3D Rendering
+
+----
+
+Text: [{"content":{"columns":2,"lightbox":"true","align":"default","images":["miniature-house_01.jpg","miniature-house_02.jpg","miniature-house_03.jpg","miniature-house_04.jpg"]},"id":"31154404-2ce1-450f-92df-551cef1812dd","isHidden":false,"type":"gallery"}]

@@ -1,0 +1,9 @@
+Alt: SP Logo in the new Color Scheme
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

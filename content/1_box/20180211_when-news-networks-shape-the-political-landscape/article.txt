@@ -22,7 +22,7 @@ Category: Stuff to Share
 
 ----
 
-Tags: politics
+Tags: Politics
 
 ----
 
@@ -30,7 +30,7 @@ Project:
 
 ----
 
-Text: [{"content":{"align":"content","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=v1d7UvKWh6M","caption":""},"id":"ced9209d-6a67-4f17-998f-4b336338185e","isHidden":false,"type":"video"},{"content":{"text":"<p>I love the guys at <em><a href=\"https:\/\/www.youtube.com\/user\/voxdotcom\" target=\"_blank\" rel=\"noopener noreferrer\">Vox<\/a><\/em> and the work that they do. One of their latest video essays paints a very dangerous image of how a right-wing media empire (that\u2019s known for being anything but fair and balanced, just watch the documentary <a href=\"https:\/\/vimeo.com\/227704090\" target=\"_blank\" rel=\"noopener noreferrer\">Outfoxed<\/a> ) can shape the political landscape by \"talking to\" the President of the United States directly and therefor influence him. It\u2019s amazing what they found out and how they present their findings and it\u2019s fucking scary!<\/p>"},"id":"23ffa6de-202c-4fec-a755-30b56cb2fafb","isHidden":false,"type":"text"}]
+Text: [{"content":{"align":"default","location":"web","video":[],"url":"https:\/\/www.youtube.com\/watch?v=v1d7UvKWh6M","caption":""},"id":"ced9209d-6a67-4f17-998f-4b336338185e","isHidden":false,"type":"video"},{"content":{"text":"<p>I love the guys at <em><a href=\"https:\/\/www.youtube.com\/user\/voxdotcom\" target=\"_blank\" rel=\"noopener noreferrer\">Vox<\/a><\/em> and the work that they do. One of their latest video essays paints a very dangerous image of how a right-wing media empire (that\u2019s known for being anything but fair and balanced, just watch the documentary <a href=\"https:\/\/vimeo.com\/227704090\" target=\"_blank\" rel=\"noopener noreferrer\">Outfoxed<\/a> ) can shape the political landscape by \"talking to\" the President of the United States directly and therefor influence him. It\u2019s amazing what they found out and how they present their findings and it\u2019s fucking scary!<\/p>"},"id":"23ffa6de-202c-4fec-a755-30b56cb2fafb","isHidden":false,"type":"text"}]
 
 ----
 

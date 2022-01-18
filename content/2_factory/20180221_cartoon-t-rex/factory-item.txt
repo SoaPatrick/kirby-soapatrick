@@ -1,0 +1,19 @@
+Title: Cartoon T-Rex
+
+----
+
+Text: [{"content":{"location":"kirby","image":["cartoon-t-rex.png"],"src":"","alt":"","caption":"","link":"","lightbox":"true","ratio":"","crop":"false","align":"default"},"id":"a0765a76-f6ee-4a4f-b86e-de11fd27c757","isHidden":false,"type":"image"},{"content":{"align":"default","location":"kirby","video":["dino-iphone-speed-drawing.mp4"],"url":"","caption":null},"id":"f90b34da-3191-45d4-9cee-55c4803e1962","isHidden":false,"type":"video"}]
+
+----
+
+Published: 2018-02-21
+
+----
+
+Cover:
+
+- portfolio-trex_preview.png
+
+----
+
+Tags: Comic, Drawing

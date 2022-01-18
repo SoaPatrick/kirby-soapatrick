@@ -2,7 +2,7 @@ Title: Cosmo in the Box
 
 ----
 
-Text: [{"content":{"text":"Damn, I love him, Cosmo, our cat and which is of course named after the famous TV Character :D he of course also behaves like him with all his crazy moods. Well anyway, Cosmo tends to LOVE getting into boxes or closets or whatever... my mom calls him our box-kid (makes more sense in German). So yesterday he sat comfortably in this wine box and I just HAD to take a pic of him."},"id":"5fa35113-4925-49d5-82cf-26137d36dd8a","isHidden":false,"type":"markdown"},{"content":{"location":"kirby","image":["20062104.jpg"],"src":"","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":"content"},"id":"fa3f6001-67e9-4140-a58c-84d035e7daba","isHidden":false,"type":"image"}]
+Text: [{"content":{"text":"Damn, I love him, Cosmo, our cat and which is of course named after the famous TV Character :D he of course also behaves like him with all his crazy moods. Well anyway, Cosmo tends to LOVE getting into boxes or closets or whatever... my mom calls him our box-kid (makes more sense in German). So yesterday he sat comfortably in this wine box and I just HAD to take a pic of him."},"id":"5fa35113-4925-49d5-82cf-26137d36dd8a","isHidden":false,"type":"markdown"},{"content":{"location":"kirby","image":["20062104.jpg"],"src":"","alt":"","caption":null,"link":"","lightbox":"false","ratio":"","crop":"false","align":"default"},"id":"fa3f6001-67e9-4140-a58c-84d035e7daba","isHidden":false,"type":"image"}]
 
 ----
 

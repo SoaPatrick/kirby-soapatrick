@@ -1,0 +1,19 @@
+Title: The Insider
+
+----
+
+Text: [{"content":{"align":"default","location":"web","video":[],"url":"https:\/\/vimeo.com\/69256340","caption":null},"id":"1fa95653-99da-4ca3-8813-61f8e25b8910","isHidden":false,"type":"video"},{"content":{"text":"<p>Originally planned as the opening scene of a longer Matrix-fan movie, this one-day shooting took place on the roof of our local school in spring 2000. But due to time problems among the cast and crew members, we never found the time to shoot the rest of the movie. So all we shot was the Insider scene which is introducing the main character Mercilles.<\/p><p>Rediscovering the footage in 2005 lead to the idea to finally cut those scenes together and make it some sort of mini-movie with no real plot, but it was interesting to cut them together and find out how the idea of recording the video and sound separately paid off.<\/p><p>Here the only read outtake from the shooting day:<\/p>"},"id":"91c906e2-b379-4463-8dc3-29fe5a2e5625","isHidden":false,"type":"text"},{"content":{"align":"default","location":"web","video":[],"url":"https:\/\/vimeo.com\/69256596","caption":null},"id":"10867255-361e-40bd-a3e8-38339af8e688","isHidden":false,"type":"video"}]
+
+----
+
+Published: 2000-04-14
+
+----
+
+Cover:
+
+- portfolio-insider_preview.jpg
+
+----
+
+Tags: Short Film, Video

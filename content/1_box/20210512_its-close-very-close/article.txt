@@ -10,11 +10,11 @@ Cover:
 
 ----
 
-Format: standard
+Files: 
 
 ----
 
-Video: 
+Format: standard
 
 ----
 
@@ -22,15 +22,39 @@ Category: Stuff thats happening
 
 ----
 
-Tags: Soapatrick, Theme
+Tags: SoaPatrick, Theme
 
 ----
 
-Project: 
+Project: factory/soapatricknine
 
 ----
 
 Text: [{"content":{"text":"<p>It\u2019s been one hell of a busy week but I made so much progress with \nSoaPatrickNine that I think it\u2019s ready to be released very soon. It\u2019s \nbeen a blast to start from scratch and actually reduce code and optimize\n the theme once again. It will be different but at the same time it\u2019s \nsimilar, but I think visually it\u2019s a big improvement on SoaPatrickEight.<\/p>\n\n\n\n<p>So I will rest my eyes a bit\u2026<\/p>"},"id":"ab5d40a5-aaf9-45ff-8acf-acb860dbb648","isHidden":false,"type":"text"}]
+
+----
+
+Linktext: 
+
+----
+
+Linkurl: 
+
+----
+
+Quotetext: 
+
+----
+
+Quotesource: 
+
+----
+
+Statustext: 
+
+----
+
+Video: 
 
 ----
 

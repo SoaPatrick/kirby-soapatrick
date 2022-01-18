@@ -2,7 +2,7 @@ Title: New Oscar and Golden Globe Pics
 
 ----
 
-Text: [{"content":{"text":"**corky** is still busy uploading tons of new pictures, yesterday it was pics from movie premieres and some paparazzi ones and today she's including new pics from the (link: https:\/\/agcn.soapatrick.com\/pictures\/categories.php?cat_id=54 text: Oscars target: _blank) and the (link: https:\/\/agcn.soapatrick.com\/pictures\/categories.php?cat_id=48 text: Golden Globes target: _blank), below some examples of her recent additions. Thanks a lot **corky**."},"id":"66302c55-06d8-48c3-abe3-28d2927c5fde","isHidden":false,"type":"markdown"},{"content":{"columns":2,"lightbox":"false","align":"content","images":["gglob-021.jpg","gglob-003.jpg","oscar-012.jpg","oscar-039.jpg"]},"id":"b1e08981-f09b-4424-8b65-358682dfe97c","isHidden":false,"type":"gallery"}]
+Text: [{"content":{"text":"**corky** is still busy uploading tons of new pictures, yesterday it was pics from movie premieres and some paparazzi ones and today she's including new pics from the (link: https:\/\/agcn.soapatrick.com\/pictures\/categories.php?cat_id=54 text: Oscars target: _blank) and the (link: https:\/\/agcn.soapatrick.com\/pictures\/categories.php?cat_id=48 text: Golden Globes target: _blank), below some examples of her recent additions. Thanks a lot **corky**."},"id":"66302c55-06d8-48c3-abe3-28d2927c5fde","isHidden":false,"type":"markdown"},{"content":{"columns":2,"lightbox":"false","align":"default","images":["gglob-021.jpg","gglob-003.jpg","oscar-012.jpg","oscar-039.jpg"]},"id":"b1e08981-f09b-4424-8b65-358682dfe97c","isHidden":false,"type":"gallery"}]
 
 ----
 
