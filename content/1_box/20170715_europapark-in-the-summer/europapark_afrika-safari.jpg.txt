@@ -1,9 +1,0 @@
-Alt: Europapark Afrikan Safari
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

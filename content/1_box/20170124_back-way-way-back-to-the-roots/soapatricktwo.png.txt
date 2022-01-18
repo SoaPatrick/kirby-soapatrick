@@ -1,9 +1,0 @@
-Alt: SoaPatrickTwo
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

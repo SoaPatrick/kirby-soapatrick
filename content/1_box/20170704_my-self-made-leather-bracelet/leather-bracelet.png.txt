@@ -1,9 +1,0 @@
-Alt: Leather bracelet
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

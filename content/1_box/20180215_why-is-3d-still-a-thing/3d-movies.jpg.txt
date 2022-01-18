@@ -1,9 +1,0 @@
-Alt: 3D Movies
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

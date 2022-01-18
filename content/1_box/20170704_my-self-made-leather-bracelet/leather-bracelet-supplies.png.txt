@@ -1,9 +1,0 @@
-Alt: Leather bracelet supplies
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

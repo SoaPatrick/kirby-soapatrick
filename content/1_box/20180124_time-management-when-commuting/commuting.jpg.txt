@@ -1,9 +1,0 @@
-Alt: Communting
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

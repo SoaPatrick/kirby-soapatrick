@@ -1,9 +1,0 @@
-Title: spacing on meta tags
-
-----
-
-Published: 2020-12-05
-
-----
-
-Type: changed

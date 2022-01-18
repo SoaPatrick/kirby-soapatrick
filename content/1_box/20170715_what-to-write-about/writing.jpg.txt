@@ -1,9 +1,0 @@
-Alt: Wiring on my iPad
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

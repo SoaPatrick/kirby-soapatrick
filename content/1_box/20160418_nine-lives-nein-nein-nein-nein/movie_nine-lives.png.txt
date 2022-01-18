@@ -1,9 +1,0 @@
-Alt: Nine Lives - Abgelehnt
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

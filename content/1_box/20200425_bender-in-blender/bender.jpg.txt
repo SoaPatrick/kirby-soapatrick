@@ -1,9 +1,0 @@
-Alt: Bender in Blender
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

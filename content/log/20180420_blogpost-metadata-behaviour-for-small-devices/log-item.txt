@@ -1,9 +1,0 @@
-Title: blogpost metadata behaviour for small devices
-
-----
-
-Published: 2018-04-20
-
-----
-
-Type: fixed

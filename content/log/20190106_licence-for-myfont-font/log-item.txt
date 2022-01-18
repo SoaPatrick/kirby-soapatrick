@@ -1,9 +1,0 @@
-Title: Licence for myFont Font
-
-----
-
-Published: 2019-01-06
-
-----
-
-Type: fixed

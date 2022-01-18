@@ -1,9 +1,0 @@
-Alt: Minigolf stats
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

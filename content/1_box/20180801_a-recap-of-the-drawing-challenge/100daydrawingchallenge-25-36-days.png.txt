@@ -1,9 +1,0 @@
-Alt: Drawing challenge -  days 25 to 36
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

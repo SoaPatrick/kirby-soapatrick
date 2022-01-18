@@ -1,9 +1,0 @@
-Alt: Act structure
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

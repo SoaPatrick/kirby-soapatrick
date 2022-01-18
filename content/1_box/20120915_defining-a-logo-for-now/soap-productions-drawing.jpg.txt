@@ -1,9 +1,0 @@
-Alt: Soap Productions drawing
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

@@ -1,9 +1,0 @@
-Title: FontAwesome hosting from CDN to own Server
-
-----
-
-Published: 2018-08-04
-
-----
-
-Type: changed

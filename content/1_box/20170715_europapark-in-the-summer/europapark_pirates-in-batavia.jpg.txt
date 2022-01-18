@@ -1,9 +1,0 @@
-Alt: Europapark Pirates of Batavia
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

@@ -1,9 +1,0 @@
-Alt: iPhone X
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

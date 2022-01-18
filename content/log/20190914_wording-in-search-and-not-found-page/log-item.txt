@@ -1,9 +1,0 @@
-Title: Wording in Search and not Found Page
-
-----
-
-Published: 2019-09-14
-
-----
-
-Type: changed

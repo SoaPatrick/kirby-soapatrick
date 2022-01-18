@@ -1,9 +1,0 @@
-Title: Factory Feed images to block items
-
-----
-
-Published: 2020-02-24
-
-----
-
-Type: changed

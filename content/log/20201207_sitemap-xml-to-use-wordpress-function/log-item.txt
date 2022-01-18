@@ -1,9 +1,0 @@
-Title: sitemap xml to use WordPress function
-
-----
-
-Published: 2020-12-07
-
-----
-
-Type: changed

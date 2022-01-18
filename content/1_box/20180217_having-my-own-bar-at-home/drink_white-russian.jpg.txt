@@ -1,9 +1,0 @@
-Alt: white russian
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

@@ -1,9 +1,0 @@
-Alt: Einbit made in Blender
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

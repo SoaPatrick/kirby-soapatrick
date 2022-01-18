@@ -1,9 +1,0 @@
-Title: text-transform for Status, Quote and Link title
-
-----
-
-Published: 2018-04-14
-
-----
-
-Type: changed

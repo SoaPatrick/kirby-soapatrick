@@ -1,9 +1,0 @@
-Alt: Shere Khan beängstigend gut gesprochen von Idris Elba
-
-----
-
-Caption: Shere Khan beängstigend gut gesprochen von Idris Elba
-
-----
-
-Template: blocks/image

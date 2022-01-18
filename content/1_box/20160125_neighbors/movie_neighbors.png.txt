@@ -1,9 +1,0 @@
-Alt: Neighbors
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

@@ -1,9 +1,0 @@
-Title: Blockquote Post styling
-
-----
-
-Published: 2018-08-04
-
-----
-
-Type: changed

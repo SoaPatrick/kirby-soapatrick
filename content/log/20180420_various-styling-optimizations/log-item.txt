@@ -1,9 +1,0 @@
-Title: various styling optimizations
-
-----
-
-Published: 2018-04-20
-
-----
-
-Type: added

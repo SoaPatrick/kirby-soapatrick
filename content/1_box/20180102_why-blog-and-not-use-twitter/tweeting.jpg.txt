@@ -1,9 +1,0 @@
-Alt: Tweeting
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

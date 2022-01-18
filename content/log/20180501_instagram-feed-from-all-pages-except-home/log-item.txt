@@ -1,9 +1,0 @@
-Title: Instagram Feed from all Pages except Home
-
-----
-
-Published: 2018-05-01
-
-----
-
-Type: removed

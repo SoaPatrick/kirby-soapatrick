@@ -1,9 +1,0 @@
-Alt: Soap Productions
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

@@ -1,9 +1,0 @@
-Title: header with for certain breakpoints
-
-----
-
-Published: 2021-02-17
-
-----
-
-Type: fixed

@@ -1,9 +1,0 @@
-Title: styling and markup for Change Log
-
-----
-
-Published: 2018-04-20
-
-----
-
-Type: changed

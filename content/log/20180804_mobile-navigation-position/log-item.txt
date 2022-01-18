@@ -1,9 +1,0 @@
-Title: mobile Navigation position
-
-----
-
-Published: 2018-08-04
-
-----
-
-Type: changed

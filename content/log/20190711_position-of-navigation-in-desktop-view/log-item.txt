@@ -1,9 +1,0 @@
-Title: position of Navigation in Desktop View
-
-----
-
-Published: 2019-07-11
-
-----
-
-Type: changed

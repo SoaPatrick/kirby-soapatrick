@@ -1,9 +1,0 @@
-Alt: The Intern
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

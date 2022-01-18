@@ -1,9 +1,0 @@
-Alt: Happy St.Patrick's Day
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

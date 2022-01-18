@@ -1,9 +1,0 @@
-Alt: my Cat Grissu looking mean
-
-----
-
-Caption: my Cat Grissu looking mean
-
-----
-
-Template: blocks/image

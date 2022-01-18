@@ -1,9 +1,0 @@
-Alt: Old blog posts
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

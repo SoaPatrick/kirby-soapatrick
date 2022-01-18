@@ -1,9 +1,0 @@
-Alt: Top 10 TV shows of 2017
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

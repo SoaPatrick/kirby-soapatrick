@@ -1,9 +1,0 @@
-Alt: The different development stages of the Bar in Blender
-
-----
-
-Caption: The different development stages of the Bar in Blender
-
-----
-
-Template: blocks/image

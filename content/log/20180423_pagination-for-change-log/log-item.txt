@@ -1,9 +1,0 @@
-Title: Pagination for Change Log
-
-----
-
-Published: 2018-04-23
-
-----
-
-Type: fixed

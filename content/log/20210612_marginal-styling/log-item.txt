@@ -1,9 +1,0 @@
-Title: marginal styling
-
-----
-
-Published: 2021-06-12
-
-----
-
-Type: fixed

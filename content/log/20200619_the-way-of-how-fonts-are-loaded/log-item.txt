@@ -1,9 +1,0 @@
-Title: the way of how fonts are loaded
-
-----
-
-Published: 2020-06-19
-
-----
-
-Type: changed

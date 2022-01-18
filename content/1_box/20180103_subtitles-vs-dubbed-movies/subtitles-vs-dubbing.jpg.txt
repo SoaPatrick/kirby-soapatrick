@@ -1,9 +1,0 @@
-Alt: Subtitles vs Dubbing
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

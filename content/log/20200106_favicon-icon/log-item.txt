@@ -1,9 +1,0 @@
-Title: Code Block color styling
-
-----
-
-Published: 2020-01-06
-
-----
-
-Type: removed

@@ -1,9 +1,0 @@
-Alt: Littering
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

@@ -1,9 +1,0 @@
-Alt: Bad movies
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

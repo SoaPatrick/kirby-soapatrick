@@ -1,9 +1,0 @@
-Title: image size for Featured Image
-
-----
-
-Published: 2018-04-20
-
-----
-
-Type: added

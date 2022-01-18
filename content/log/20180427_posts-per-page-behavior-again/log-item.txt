@@ -1,9 +1,0 @@
-Title: Posts per Page behavior again
-
-----
-
-Published: 2018-04-27
-
-----
-
-Type: fixed

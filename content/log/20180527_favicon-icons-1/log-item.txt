@@ -1,9 +1,0 @@
-Title: Favicon Icons
-
-----
-
-Published: 2018-05-27
-
-----
-
-Type: changed

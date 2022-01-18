@@ -1,9 +1,0 @@
-Alt: Acadamy Awards 2018
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

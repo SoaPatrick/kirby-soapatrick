@@ -1,9 +1,0 @@
-Alt: Fantasy Basel 2016
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

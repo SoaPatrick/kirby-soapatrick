@@ -1,9 +1,0 @@
-Alt: Cursor Promo
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

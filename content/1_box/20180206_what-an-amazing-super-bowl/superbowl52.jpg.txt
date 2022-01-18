@@ -1,9 +1,0 @@
-Alt: Superbowl 52
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

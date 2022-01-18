@@ -1,9 +1,0 @@
-Alt: Logo v2
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

@@ -1,9 +1,0 @@
-Alt: Deadpool 2
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

@@ -1,9 +1,0 @@
-Alt: Streetphotography in Basel
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

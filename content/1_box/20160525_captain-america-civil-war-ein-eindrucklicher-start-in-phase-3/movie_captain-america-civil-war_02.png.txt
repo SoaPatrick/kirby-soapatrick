@@ -1,9 +1,0 @@
-Alt: Die Flughafen Schlacht ist eine der besten Comic-Action Szene aller Zeiten
-
-----
-
-Caption: Die Flughafen Schlacht ist vielleicht eine der besten Comic-Action Szene aller Zeiten
-
-----
-
-Template: blocks/image

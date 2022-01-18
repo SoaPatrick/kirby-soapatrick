@@ -1,9 +1,0 @@
-Caption: this is a video
-
-----
-
-Alt: 
-
-----
-
-Template: blocks/video

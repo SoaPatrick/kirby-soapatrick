@@ -1,9 +1,0 @@
-Alt: Corsair Vengeance LPX Black
-
-----
-
-Caption: (link: https://www.corsair.com/de/de/Kategorien/Produkte/Arbeitsspeicher/VENGEANCE-LPX/p/CMK64GX4M2E3200C16 text: Corsair Vengeance LPX Black target: _blank)
-
-----
-
-Template: blocks/image

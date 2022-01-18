@@ -1,9 +1,0 @@
-Alt: Wintertime in Basel
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

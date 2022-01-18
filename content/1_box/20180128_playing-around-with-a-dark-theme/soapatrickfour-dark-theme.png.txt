@@ -1,9 +1,0 @@
-Alt: SoaPatrickFour Dark
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

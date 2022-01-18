@@ -1,9 +1,0 @@
-Alt: Stock Image
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

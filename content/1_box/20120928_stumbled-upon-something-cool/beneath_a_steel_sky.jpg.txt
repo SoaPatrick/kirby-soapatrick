@@ -1,9 +1,0 @@
-Alt: beneath a steel sky
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

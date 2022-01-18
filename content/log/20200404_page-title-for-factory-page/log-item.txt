@@ -1,9 +1,0 @@
-Title: page title for Factory page
-
-----
-
-Published: 2020-04-04
-
-----
-
-Type: fixed

@@ -1,9 +1,0 @@
-Alt: Bad Milk Light Setup
-
-----
-
-Caption: One key light with a diffusion
-
-----
-
-Template: blocks/image

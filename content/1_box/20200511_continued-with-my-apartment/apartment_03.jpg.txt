@@ -1,9 +1,0 @@
-Alt: Moody Bar made in Blender
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

@@ -1,9 +1,0 @@
-Alt: 30 days drawing challenge - Day 5
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

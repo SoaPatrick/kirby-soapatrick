@@ -1,9 +1,0 @@
-Alt: 30 days drawing challenge - Day 4
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

@@ -1,9 +1,0 @@
-Title: line-height on main navigation links
-
-----
-
-Published: 2020-12-05
-
-----
-
-Type: fixed

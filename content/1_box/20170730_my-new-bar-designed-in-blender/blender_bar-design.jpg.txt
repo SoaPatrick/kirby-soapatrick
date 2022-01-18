@@ -1,9 +1,0 @@
-Alt: Bar Design in Blender
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

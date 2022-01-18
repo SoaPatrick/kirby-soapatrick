@@ -1,9 +1,0 @@
-Alt: Storyboards
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

@@ -1,9 +1,0 @@
-Alt: Baby Driver
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

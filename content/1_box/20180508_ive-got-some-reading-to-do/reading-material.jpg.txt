@@ -1,9 +1,0 @@
-Alt: Reading material
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

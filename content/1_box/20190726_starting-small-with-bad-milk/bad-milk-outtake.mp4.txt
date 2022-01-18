@@ -1,9 +1,0 @@
-Caption: Outtake with Grissu wanting to be a part of it
-
-----
-
-Alt: 
-
-----
-
-Template: blocks/video

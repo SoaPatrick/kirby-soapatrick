@@ -1,9 +1,0 @@
-Title: Logo Size for Mobile View
-
-----
-
-Published: 2019-05-04
-
-----
-
-Type: changed

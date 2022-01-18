@@ -1,9 +1,0 @@
-Alt: 10 Cloverfield Lane
-
-----
-
-Caption: John Goodman and Mary Elizabeth Winstead liefern sich ein packendes Duell
-
-----
-
-Template: blocks/image

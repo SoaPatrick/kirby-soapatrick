@@ -1,9 +1,0 @@
-Alt: The end of the f***ing world
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

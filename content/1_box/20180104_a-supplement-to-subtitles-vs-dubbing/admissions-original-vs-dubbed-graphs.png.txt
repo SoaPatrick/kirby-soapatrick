@@ -1,9 +1,0 @@
-Alt: Admissions original vs dubbed graphs
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

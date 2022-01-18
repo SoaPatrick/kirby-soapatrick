@@ -1,9 +1,0 @@
-Alt: Before the party
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

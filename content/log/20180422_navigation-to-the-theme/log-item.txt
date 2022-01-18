@@ -1,9 +1,0 @@
-Title: Navigation to the Theme
-
-----
-
-Published: 2018-04-22
-
-----
-
-Type: added

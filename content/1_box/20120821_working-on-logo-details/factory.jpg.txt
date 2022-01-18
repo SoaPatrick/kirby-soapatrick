@@ -1,9 +1,0 @@
-Alt: Factory sketch
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

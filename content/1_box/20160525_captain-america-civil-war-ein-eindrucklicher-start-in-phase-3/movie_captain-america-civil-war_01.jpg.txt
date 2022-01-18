@@ -1,9 +1,0 @@
-Alt: Captain America - Civil War
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

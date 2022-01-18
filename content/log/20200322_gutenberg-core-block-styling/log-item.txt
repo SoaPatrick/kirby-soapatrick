@@ -1,9 +1,0 @@
-Title: Gutenberg core block styling
-
-----
-
-Published: 2020-03-22
-
-----
-
-Type: removed

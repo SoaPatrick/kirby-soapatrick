@@ -1,9 +1,0 @@
-Title: link styling in highlight sections
-
-----
-
-Published: 2020-09-29
-
-----
-
-Type: changed

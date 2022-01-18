@@ -1,9 +1,0 @@
-Alt: Color Scheme for SoaPatrickTen
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

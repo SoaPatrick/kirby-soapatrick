@@ -1,9 +1,0 @@
-Title: styling for Status, Quote and Link Post Type
-
-----
-
-Published: 2019-05-06
-
-----
-
-Type: changed

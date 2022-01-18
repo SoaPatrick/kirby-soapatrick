@@ -1,9 +1,0 @@
-Title: container width for smaller Devices
-
-----
-
-Published: 2018-05-01
-
-----
-
-Type: fixed

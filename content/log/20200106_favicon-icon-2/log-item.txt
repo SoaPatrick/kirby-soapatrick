@@ -1,9 +1,0 @@
-Title: Favicon Icon
-
-----
-
-Published: 2020-01-06
-
-----
-
-Type: changed

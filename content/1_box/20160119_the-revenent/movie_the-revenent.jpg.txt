@@ -1,9 +1,0 @@
-Alt: The Revenent
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

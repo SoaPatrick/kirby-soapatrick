@@ -1,9 +1,0 @@
-Alt: Zoolander
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

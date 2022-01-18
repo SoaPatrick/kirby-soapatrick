@@ -1,9 +1,0 @@
-Title: Month naming issue in Storage
-
-----
-
-Published: 2018-05-31
-
-----
-
-Type: fixed

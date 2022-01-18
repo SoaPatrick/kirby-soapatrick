@@ -1,9 +1,0 @@
-Title: Home Icon in Navigation to Logo
-
-----
-
-Published: 2019-06-12
-
-----
-
-Type: changed

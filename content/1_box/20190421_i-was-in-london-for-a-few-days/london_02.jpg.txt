@@ -1,9 +1,0 @@
-Alt: London in 2019
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

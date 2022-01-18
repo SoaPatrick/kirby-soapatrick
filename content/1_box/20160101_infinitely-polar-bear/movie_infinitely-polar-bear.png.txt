@@ -1,9 +1,0 @@
-Alt: Infinitely Polar Bear
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

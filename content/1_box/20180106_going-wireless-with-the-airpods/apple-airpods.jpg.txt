@@ -1,9 +1,0 @@
-Alt: Airpods
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

@@ -1,9 +1,0 @@
-Title: all Gutenberg color options
-
-----
-
-Published: 2020-04-03
-
-----
-
-Type: removed

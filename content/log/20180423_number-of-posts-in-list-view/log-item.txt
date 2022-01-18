@@ -1,9 +1,0 @@
-Title: number of posts in List view
-
-----
-
-Published: 2018-04-23
-
-----
-
-Type: changed

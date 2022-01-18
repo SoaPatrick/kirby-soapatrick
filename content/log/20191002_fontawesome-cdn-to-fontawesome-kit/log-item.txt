@@ -1,9 +1,0 @@
-Title: FontAwesome CDN to FontAwesome Kit
-
-----
-
-Published: 2019-10-02
-
-----
-
-Type: changed

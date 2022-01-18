@@ -1,9 +1,0 @@
-Title: Search Background Color after adding Bubbles
-
-----
-
-Published: 2018-04-28
-
-----
-
-Type: fixed

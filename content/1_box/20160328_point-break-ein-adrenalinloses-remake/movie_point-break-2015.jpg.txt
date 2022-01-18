@@ -1,9 +1,0 @@
-Alt: Point Break 2015
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

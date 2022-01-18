@@ -1,9 +1,0 @@
-Title: FontAwesome Javascript from Theme
-
-----
-
-Published: 2019-11-16
-
-----
-
-Type: removed

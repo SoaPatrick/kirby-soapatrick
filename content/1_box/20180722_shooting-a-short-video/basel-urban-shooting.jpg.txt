@@ -1,9 +1,0 @@
-Alt: Shooting Urban Basel video
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

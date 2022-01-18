@@ -1,9 +1,0 @@
-Alt: LED light wall
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

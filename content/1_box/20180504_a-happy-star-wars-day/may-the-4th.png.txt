@@ -1,9 +1,0 @@
-Alt: May the 4th drawing
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

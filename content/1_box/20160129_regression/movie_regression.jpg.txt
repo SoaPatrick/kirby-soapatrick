@@ -1,9 +1,0 @@
-Alt: Regression
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

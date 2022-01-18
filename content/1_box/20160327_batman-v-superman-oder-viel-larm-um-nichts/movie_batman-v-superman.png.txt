@@ -1,9 +1,0 @@
-Alt: Batman v Superman
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

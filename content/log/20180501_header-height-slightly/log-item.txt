@@ -1,9 +1,0 @@
-Title: Header height slightly
-
-----
-
-Published: 2018-05-01
-
-----
-
-Type: changed

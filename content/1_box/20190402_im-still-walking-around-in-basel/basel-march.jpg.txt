@@ -1,9 +1,0 @@
-Alt: Marching through Basel
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

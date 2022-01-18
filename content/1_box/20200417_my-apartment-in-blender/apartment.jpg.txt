@@ -1,9 +1,0 @@
-Alt: Blender Rendering of my Apartment
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

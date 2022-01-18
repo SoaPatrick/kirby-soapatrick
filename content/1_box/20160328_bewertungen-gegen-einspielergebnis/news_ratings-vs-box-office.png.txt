@@ -1,9 +1,0 @@
-Alt: Ratings vs Box Office
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

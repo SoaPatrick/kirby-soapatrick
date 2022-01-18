@@ -1,9 +1,0 @@
-Title: list style Icons
-
-----
-
-Published: 2018-04-23
-
-----
-
-Type: added

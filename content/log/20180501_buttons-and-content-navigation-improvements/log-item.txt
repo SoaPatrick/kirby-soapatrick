@@ -1,9 +1,0 @@
-Title: Buttons and Content navigation improvements
-
-----
-
-Published: 2018-05-01
-
-----
-
-Type: added

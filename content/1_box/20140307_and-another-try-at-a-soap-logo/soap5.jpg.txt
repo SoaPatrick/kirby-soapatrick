@@ -1,9 +1,0 @@
-Alt: Soap Logo v5
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

@@ -1,9 +1,0 @@
-Alt: Spring leaves
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

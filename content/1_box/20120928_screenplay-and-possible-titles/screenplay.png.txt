@@ -1,9 +1,0 @@
-Alt: Screenplay
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

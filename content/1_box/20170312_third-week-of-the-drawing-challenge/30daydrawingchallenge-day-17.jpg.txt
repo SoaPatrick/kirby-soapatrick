@@ -1,9 +1,0 @@
-Alt: 30 days drawing challenge - Day 17
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

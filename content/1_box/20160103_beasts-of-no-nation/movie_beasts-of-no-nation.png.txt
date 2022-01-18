@@ -1,9 +1,0 @@
-Alt: Beasts of no Nation
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

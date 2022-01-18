@@ -1,9 +1,0 @@
-Title: CSS grid for whole website
-
-----
-
-Published: 2020-04-03
-
-----
-
-Type: changed

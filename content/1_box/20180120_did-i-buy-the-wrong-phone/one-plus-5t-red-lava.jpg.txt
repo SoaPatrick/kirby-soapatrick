@@ -1,9 +1,0 @@
-Alt: One Plus 5T red lava
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

@@ -1,9 +1,0 @@
-Alt: Dirty Grandpa
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

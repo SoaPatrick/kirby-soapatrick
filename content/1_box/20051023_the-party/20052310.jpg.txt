@@ -1,9 +1,0 @@
-Alt: Posing with a friend
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

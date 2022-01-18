@@ -1,9 +1,0 @@
-Alt: Lighting tests
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

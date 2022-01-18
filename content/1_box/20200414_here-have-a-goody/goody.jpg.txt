@@ -1,9 +1,0 @@
-Alt: Yummy vampire teeth sweet
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

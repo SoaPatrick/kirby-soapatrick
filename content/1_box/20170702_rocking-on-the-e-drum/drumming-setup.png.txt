@@ -1,9 +1,0 @@
-Alt: My drumming setup
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

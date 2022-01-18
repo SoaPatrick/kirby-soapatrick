@@ -1,9 +1,0 @@
-Title: List view for Blog Posts
-
-----
-
-Published: 2018-04-22
-
-----
-
-Type: added

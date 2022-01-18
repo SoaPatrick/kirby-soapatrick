@@ -1,9 +1,0 @@
-Title: Navigation styling to CSS Grid
-
-----
-
-Published: 2019-05-31
-
-----
-
-Type: changed

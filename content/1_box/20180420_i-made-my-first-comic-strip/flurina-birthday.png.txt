@@ -1,9 +1,0 @@
-Alt: Flurina's Birthday Comic Strip
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

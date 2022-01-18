@@ -1,9 +1,0 @@
-Alt: Box Office fudging
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

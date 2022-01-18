@@ -1,9 +1,0 @@
-Alt: Zoolander 2
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

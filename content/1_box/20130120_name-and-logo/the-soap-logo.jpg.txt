@@ -1,9 +1,0 @@
-Alt: The Soap Logo
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

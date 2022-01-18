@@ -1,9 +1,0 @@
-Alt: Das Original von 1984
-
-----
-
-Caption: Das Original von 1984
-
-----
-
-Template: blocks/image

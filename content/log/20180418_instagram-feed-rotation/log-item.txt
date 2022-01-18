@@ -1,9 +1,0 @@
-Title: instagram feed rotation
-
-----
-
-Published: 2018-04-18
-
-----
-
-Type: removed

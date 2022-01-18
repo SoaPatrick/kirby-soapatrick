@@ -1,9 +1,0 @@
-Title: Factory list view
-
-----
-
-Published: 2018-04-25
-
-----
-
-Type: added

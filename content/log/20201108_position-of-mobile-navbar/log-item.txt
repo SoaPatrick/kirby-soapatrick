@@ -1,9 +1,0 @@
-Title: position of mobile navbar
-
-----
-
-Published: 2020-11-08
-
-----
-
-Type: changed

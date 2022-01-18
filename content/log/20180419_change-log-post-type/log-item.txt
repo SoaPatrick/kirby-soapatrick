@@ -1,9 +1,0 @@
-Title: Change Log Post Type
-
-----
-
-Published: 2018-04-19
-
-----
-
-Type: added

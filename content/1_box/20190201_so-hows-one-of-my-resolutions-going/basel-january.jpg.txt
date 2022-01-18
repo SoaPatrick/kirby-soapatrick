@@ -1,9 +1,0 @@
-Alt: Progress from January, looks like a face with a hat
-
-----
-
-Caption: Progress from January, looks like a face with a hat
-
-----
-
-Template: blocks/image

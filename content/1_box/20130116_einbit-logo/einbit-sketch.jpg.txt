@@ -1,9 +1,0 @@
-Alt: Einbit sketch
-
-----
-
-Caption: 
-
-----
-
-Template: blocks/image

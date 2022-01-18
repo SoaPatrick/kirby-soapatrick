@@ -1,9 +1,0 @@
-Title: navigation padding when logged in
-
-----
-
-Published: 2020-09-29
-
-----
-
-Type: fixed
