@@ -1,27 +1,11 @@
-html,
-body {
-  @apply h-full;
-}
-
 html {
   font-size: clamp(18px, 1.5vw, 24px);
   line-height: 1.6;
   font-weight: 300;
 }
 
-body {
-  @apply font-sans font-thin text-blue-200 dark:text-egg-200 selection:bg-primary selection:text-egg-200;
-}
-
 main {
-  @apply grid content-start mt-8 sm:mt-16 max-w-full;
   grid-template-columns: 1fr minmax(auto, var(--width--content)) 1fr;
-  max-width: 100%;
-
-  @media (max-width: 799px) {
-    @apply block w-full mx-auto;
-    max-width: var(--width--content);
-  }
 
   > * {
     grid-column: 1 / 3;

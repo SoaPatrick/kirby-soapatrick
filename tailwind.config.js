@@ -50,20 +50,18 @@ module.exports = {
         gutter: "var(--width--gutter)",
       },
       margin: {
-        large: "var(--width--large)",
         gutter: "var(--width--gutter)",
+        wide: "var(--width--wide)",
       },
       width: {
         content: "var(--width--content)",
-        large: "var(--width--large)",
         wide: "var(--width--wide)",
         cover: "var(--width--cover)",
       },
       maxWidth: {
         content: "var(--width--content)",
-        large: "var(--width--large)",
         wide: "var(--width--wide)",
-        full: "var(--width--full)",
+        widest: "var(--width--widest)",
       },
       height: {
         cover: "var(--width--cover)",

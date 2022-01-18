@@ -15,7 +15,7 @@
   > .highlight,
   > .align-default,
   > .quote-block--large {
-    @apply max-w-full sm:max-w-large sm:-mr-gutter;
+    @apply max-w-widest sm:max-w-wide sm:-mr-gutter;
   }
 }
 

@@ -2,7 +2,7 @@
 :root {
   // Variation Original
 
-  --color__primary: hsl(357, 92%, 62%);
+  --color__primary: #f7444e;
 
   --color__cyan-62: hsl(186, 39%, 62%);
   --color__cyan-35: hsl(186, 39%, 35%);
@@ -19,8 +19,8 @@
   --width--sides: clamp(200px, 50vw, 400px);
   --width--gutter: clamp(20px, 3vw, 50px);
 
-  --width--large: calc(var(--width--content) + 2 * var(--width--gutter));
-  --width--full: calc(var(--width--content) + 2 * var(--width--sides));
+  --width--wide: calc(var(--width--content) + 2 * var(--width--gutter));
+  --width--widest: calc(var(--width--content) + 2 * var(--width--sides));
 
   --width--cover: clamp(70px, 7vw, 120px);
 }
