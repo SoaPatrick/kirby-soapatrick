@@ -1,4 +1,4 @@
-# SoaPatrickTen
+# SoaPatrick
 
 ## Features
 
@@ -44,4 +44,12 @@ Deploy public and site folder to server through rsync
 
 ```
 npm run deploy
+```
+
+## Content
+
+The content folder is it's own repository or submodule. The repository for the content doesn't contain any media files. For the website to work, the latest content with all it's media files needs to be pulled through rsync from the production environment.
+
+```
+npm run content:pull
 ```
