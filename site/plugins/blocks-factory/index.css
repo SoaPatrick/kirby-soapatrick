@@ -1,0 +1,56 @@
+/* ----------------------------- */
+/* Box Block */
+/* ----------------------------- */
+
+.k-block-type-box .wrapper {
+  background: var(--color-gray-200);
+  padding: var(--spacing-8);
+}
+
+.k-block-type-box h5 {
+  font-size: var(--text-xs);
+  margin-bottom: var(--spacing-4);
+  text-transform: uppercase;
+}
+
+.k-block-type-box .text {
+  font-size: var(--text-sm);
+  line-height: var(--leading-normal);
+}
+
+/* ----------------------------- */
+/* Statement Block */
+/* ----------------------------- */
+
+.k-block-type-statement .wrapper {
+  background: var(--color-primary);
+  padding: var(--spacing-8);
+  border-radius: var(--rounded);
+}
+
+.k-block-type-statement .text {
+  color: var(--color-white);
+  font-size: var(--text-2xl);
+}
+
+.k-block-type-statement .k-writer[data-placeholder][data-empty]::before {
+  color: var(--color-white);
+  opacity: 0.5;
+}
+
+/* ----------------------------- */
+/* Video Block */
+/* ----------------------------- */
+
+.k-block-type-video-self .wrapper,
+.k-block-type-video-self video {
+  max-width: 100%;
+  height: auto;
+}
+
+.k-block-type-video-self figcaption {
+  padding-top: 0.5rem;
+  color: var(--color-gray-600);
+  font-size: var(--text-sm);
+  text-align: center;
+}

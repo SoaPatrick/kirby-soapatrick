@@ -24,7 +24,7 @@
     <?php endforeach ?>
   </div>
   <footer class="article__footer">
-    <div class="text-xs opacity-70 mb-2">Tagged in</div>
+    <div class="text-[0.6rem] mb-1 uppercase font-bold tracking-wider">Tagged in:</div>
     <div class="tag-list">
       <?php $tags = $page->tags()->split(); ?>
       <?php sort($tags); ?>

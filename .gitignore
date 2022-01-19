@@ -12,7 +12,7 @@ kirby
 vendor
 
 site/plugins/*
-!site/plugin/custom
+!site/plugins/blocks-factory
 
 /public/media/*
 !/public/media/index.html

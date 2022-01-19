@@ -1,6 +1,5 @@
-name: Youtube
-icon: youtube
-preview: video
+name: Video
+icon: video
 fields:
   align:
     label: Alignment
@@ -10,10 +9,12 @@ fields:
     options:
       default: Default
       wide: Wide
-  url:
-    label: field.blocks.video.url.label
-    type: url
-    placeholder: field.blocks.video.url.placeholder
+  video:
+    type: files
+    multiple: false
+    query: page.videos
+    uploads:
+      template: blocks/video
   caption:
     label: field.blocks.video.caption
     type: writer

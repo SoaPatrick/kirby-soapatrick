@@ -6,13 +6,11 @@
   <div class="content">
     <?= markdown($page->text()->kt()) ?>
   </div>
-  <footer>
-    <div class="bg-egg-100 dark:bg-blue-100 rounded-md p-4 mt-8">
-      <div class="text-xs opacity-70 mb-2">Modified on</div>
-        <time class="text-xs flex" datetime="<?= $page->modified(DATE_ATOM) ?>">
-          <?= $page->modified('F j, Y') ?>
-        </time>
-    </div>
+  <footer class="article__footer">
+    <div class="text-[0.6rem] mb-1 uppercase font-bold tracking-wider">Modified on:</div>
+    <time class="text-xs flex" datetime="<?= $page->modified(DATE_ATOM) ?>">
+      <?= $page->modified('F j, Y') ?>
+    </time>
   </footer>
 </article>
 

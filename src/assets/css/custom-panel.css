@@ -1,3 +1,7 @@
+:root {
+  --color-primary: #f7444e;
+}
+
 .k-topbar {
-  --bg: #ec407a;
+  --bg: var(--color-primary);
 }

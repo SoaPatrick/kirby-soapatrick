@@ -1,6 +1,6 @@
 blockquote,
 .quote-block {
-  @apply my-8 pl-5;
+  @apply my-8 pl-4;
   border-left: 5px solid var(--color__primary);
 
   cite {
@@ -8,9 +8,12 @@ blockquote,
   }
 
   &--large {
-    @apply text-2xl;
-    padding-left: calc(var(--width--gutter) - 5px);
-    padding-right: var(--width--gutter);
+    @apply text-2xl pl-4;
+
+    @media (min-width: 800px) {
+      padding-right: var(--width--gutter);
+      padding-left: calc(var(--width--gutter) - 5px);
+    }
 
     cite {
       @apply text-sm;

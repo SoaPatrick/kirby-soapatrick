@@ -62,7 +62,7 @@
 }
 
 .sub-navigation {
-  @apply fixed flex flex-col font-serif z-40 gap-2 sm:gap-1 top-16 text-sm;
+  @apply fixed flex flex-col font-serif z-40 gap-2 sm:gap-1 sm:top-24 text-sm;
   left: calc(50% + var(--width--content) / 2 + 2 * var(--width--gutter));
 
   a {

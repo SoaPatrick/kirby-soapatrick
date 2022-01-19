@@ -42,20 +42,20 @@ h3 {
 }
 
 h1 {
-  @apply mb-8;
+  @apply mb-12;
   font-size: clamp(2rem, 10vw, 3rem);
 }
 
 h2 {
-  @apply mt-8 mb-4 text-2xl;
+  @apply mt-12 mb-6 text-2xl;
 }
 
 h3 {
-  @apply mt-8 mb-4 text-xl;
+  @apply mt-12 mb-6 text-xl;
 }
 
 p {
-  @apply mb-4;
+  @apply mb-6;
 }
 
 ul {
@@ -68,7 +68,7 @@ ol {
 
 ol,
 ul {
-  @apply mb-4;
+  @apply mb-6;
 
   ul,
   ol {

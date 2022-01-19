@@ -37,7 +37,7 @@ article {
     @apply ml-auto max-w-content;
 
     &.article__footer {
-      @apply bg-egg-100 dark:bg-blue-100 rounded-md p-4 mt-8;
+      @apply bg-egg-100 dark:bg-blue-100 rounded-md p-4 sm:p-8 mt-8;
     }
   }
 }

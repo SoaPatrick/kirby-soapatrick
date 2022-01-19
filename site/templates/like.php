@@ -11,18 +11,16 @@
       <img class="block rounded-md" src="<?= $img_resize->url() ?>" loading="lazy" alt="<?= $page->title()->html() ?>" width="<?= $img_resize->width() ?>" height="<?= $img_resize->height() ?>">
     <?php endif ?>
   </div>
-  <footer>
-    <div class="bg-egg-100 dark:bg-blue-100 rounded-md p-4 mt-8">
-      <div class="text-xs opacity-70 mb-2">Tagged in</div>
-      <div class="tag-list">
-        <?php $tags = $page->category()->split(); ?>
-        <?php sort($tags); ?>
-        <?php foreach ($tags as $tag): ?>
-          <a class="hashtag" href="<?= $page->parent()->url(['params' => ['category' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
-        <?php endforeach ?>
-      </div>
+  <footer class="article__footer">
+    <div class="text-[0.6rem] mb-1 uppercase font-bold tracking-wider">Tagged in:</div>
+    <div class="tag-list">
+      <?php $tags = $page->category()->split(); ?>
+      <?php sort($tags); ?>
+      <?php foreach ($tags as $tag): ?>
+        <a class="hashtag" href="<?= $page->parent()->url(['params' => ['category' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
+      <?php endforeach ?>
     </div>
-  </footer>  
+  </footer>
 </article>
 
 <?php snippet('pagination-single', ['page' => $page]) ?>

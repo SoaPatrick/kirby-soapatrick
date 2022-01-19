@@ -14,5 +14,3 @@ package-lock.json
 package.json
 .DS_Store
 rsync-exclude.txt
-composer.json
-composer.lock

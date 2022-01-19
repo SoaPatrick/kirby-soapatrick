@@ -1,0 +1,8 @@
+name: Box
+icon: grid-full
+fields:
+  text:
+    type: writer
+    marks:
+      - bold
+      - link

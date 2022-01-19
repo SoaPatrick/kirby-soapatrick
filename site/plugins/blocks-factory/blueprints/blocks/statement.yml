@@ -1,0 +1,7 @@
+name: Statement
+icon: info
+fields:
+  text:
+    type: writer
+    marks:
+      - bold

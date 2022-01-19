@@ -24,4 +24,4 @@ $entry = "templates/$template/index.js";
   <?php snippet("layouts/waves") ?>
   <div class="mx-auto max-w-widest min-h-screen px-8 sm:px-4 flex flex-col">
     <?php snippet("layouts/navigation") ?>
-    <main class="main sm:grid content-start mt-8 sm:mt-16 max-w-content sm:max-w-full w-full mx-auto flex-1">
+    <main class="main sm:grid content-start mt-8 sm:mt-24 max-w-content sm:max-w-full w-full mx-auto flex-1">
