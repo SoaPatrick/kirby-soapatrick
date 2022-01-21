@@ -1,5 +1,5 @@
 .hashtag {
-  @apply inline-block relative text-sm decoration-transparent;
+  @apply inline-block relative text-xs decoration-transparent;
 
   &:before {
     @apply text-primary content-hashtag;

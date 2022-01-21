@@ -58,11 +58,11 @@ return [
         '1x' => ['width' => 120, 'quality' => 100,'format' => 'webp'],
         '2x' => ['width' => 240, 'quality' => 100,'format' => 'webp']
       ],
-      'cover-factory-jpg' => [
+      'cover-default-jpg' => [
         '1x' => ['width' => 320, 'quality' => 80,'format' => 'webp'],
         '2x' => ['width' => 640, 'quality' => 80,'format' => 'webp']
       ],
-      'cover-factory-png' => [
+      'cover-default-png' => [
         '1x' => ['width' => 320, 'quality' => 100,'format' => 'webp'],
         '2x' => ['width' => 640, 'quality' => 100,'format' => 'webp']
       ],

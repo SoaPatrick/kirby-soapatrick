@@ -25,7 +25,7 @@
             <a href="<?= $image->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox class="img-link img-link--lightbox">
           <?php endif ?>
             <img 
-              srcset="<?= $image->srcset('cover-factory-' .$image->extension()); ?>"
+              srcset="<?= $image->srcset('cover-default-' .$image->extension()); ?>"
               class="block w-full h-full object-cover rounded-md"
               type="image/webp" 
               alt="<?= $article->title()->html() ?>" 

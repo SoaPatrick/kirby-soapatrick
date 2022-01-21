@@ -14,10 +14,26 @@
     </h2>
   </header>
   <div class="my-4">
-    <?php if($image = $article->cover()->toFile()): ?>
-      <?php $img_resize = $image->resize(300); ?>
-      <img class="block rounded-md" src="<?= $img_resize->url() ?>" loading="lazy" alt="<?= $page->title()->html() ?>" width="<?= $img_resize->width() ?>" height="<?= $img_resize->height() ?>">
-    <?php endif ?>
+    <div class="grid sm:grid-cols-4 gap-4 items-start">
+      <?php if($image = $article->cover()->toFile()): ?>
+        <img 
+          srcset="<?= $image->srcset('img-wide-' . $image->extension() ); ?>"
+          type="image/webp"
+          class="rounded-md w-[33vw]"
+          alt="<?= $page->title()->html() ?>" 
+          width="<?= $image->width() ?>"
+          height="<?= $image->height() ?>"
+          loading="lazy">
+      <?php endif ?>
+      <div class="sm:col-span-3">
+        <span class="text-xs font-bold">
+          By <?= $article->from() ?> in <?= $article->released() ?>
+        </span>
+        <p class="my-0">
+          <?= $article->text()->toBlocks()->excerpt(200) ?> <a href="<?= $article->url() ?>" class="more">more →</a>
+        </p>
+      </div>
+    </div>
   </div>
   <footer class="bg-egg-100 dark:bg-blue-100 inline-block rounded-md py-1 px-2">
     <div class="tag-list">

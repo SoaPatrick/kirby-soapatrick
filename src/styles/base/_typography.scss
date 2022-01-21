@@ -97,6 +97,14 @@ figcaption {
   @apply text-sm mt-1 text-center opacity-50;
 }
 
+hr {
+  @apply border-0 my-8 relative block h-1.5;
+
+  &:before {
+    @apply absolute w-1/4 h-0.5 bg-primary content-[''];
+  }
+}
+
 /* img {
   @apply relative bg-egg-100 dark:bg-blue-100 rounded-md leading-8 text-xs text-center;
 }

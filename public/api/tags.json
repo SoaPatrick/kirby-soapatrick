@@ -84,8 +84,10 @@
     { "name": "Webdesign" }
   ],
   "likes-categories": [
-    { "name": "Movie" },
-    { "name": "TV Show" },
-    { "name": "Book" }
+    { "name": "Books" },
+    { "name": "Games" },
+    { "name": "Movies" },
+    { "name": "Music" },
+    { "name": "TV Shows" }
   ]
 }

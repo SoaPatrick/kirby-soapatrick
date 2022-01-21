@@ -21,7 +21,7 @@
       <a href="<?= $article->url() ?>" aria-label="<?= $article->title()->html() ?>" class="img-link">
         <?php if($image = $article->cover()->toFile()): ?>
           <img 
-            srcset="<?= $image->srcset('cover-factory-' .$image->extension()); ?>"
+            srcset="<?= $image->srcset('cover-default-' .$image->extension()); ?>"
             class="rounded-md"
             type="image/webp" 
             alt="<?= $article->title()->html() ?>"
