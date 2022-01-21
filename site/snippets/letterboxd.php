@@ -11,7 +11,7 @@
         $titlePartsLength = sizeof($titleParts);
         $rating = $titleParts[$titlePartsLength - 1];
       ?>
-      <a href="<?= $item->link() ?>" target="_blank" rel="noreferrer" aria-label="<?= $title; ?>" class="img-link img-link--external relative inline-block p-0 m-0 decoration-transparent">
+      <a href="<?= $item->link() ?>" target="_blank" rel="noopener noreferrer" aria-label="<?= $title; ?>" class="img-link img-link--external relative inline-block p-0 m-0 decoration-transparent">
         <div><?= $description ?></div>
         <span class="relative bg-blue-100 block text-center pb-1 rounded-b-md tracking-widest z-30 text-egg-200"><?= $rating ?></span>
       </a>

@@ -42,7 +42,7 @@ if ($block->location() == 'web') {
 <?php if ($src): ?>
   <figure class="image-block my-8 <?= $alignClass ?>" <?= attr(['data-ratio' => $ratio, 'data-crop' => $crop], ' ') ?>>
     <?php if ($link->isNotEmpty()): ?>
-      <a href="<?= esc($link->toUrl()) ?>" aria-label="<?= $alt ?>" class="img-link img-link--external" target="_blank">
+      <a href="<?= esc($link->toUrl()) ?>" aria-label="<?= $alt ?>" class="img-link img-link--external" target="_blank" rel="noopener noreferrer">
         <img src="<?= $src ?>" alt="<?= $alt ?>" loading="lazy" class="rounded-md mx-auto<?= $imgShadow ?>">
       </a>
     <?php elseif($lightbox): ?>

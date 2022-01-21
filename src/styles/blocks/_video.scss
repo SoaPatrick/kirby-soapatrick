@@ -5,11 +5,7 @@
     }
   }
 
-  .lazyframe {
-    @apply relative;
-
-    iframe {
-      @apply absolute inset-0 w-full h-full;
-    }
+  .lazyframe iframe {
+    @apply absolute inset-0 w-full h-full;
   }
 }

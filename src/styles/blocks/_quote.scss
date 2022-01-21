@@ -8,11 +8,15 @@ blockquote,
   }
 
   &--large {
-    @apply text-2xl pl-4;
+    @apply pl-4;
 
     @media (min-width: 800px) {
       padding-right: var(--width--gutter);
       padding-left: calc(var(--width--gutter) - 5px);
+    }
+
+    p {
+      @apply text-2xl;
     }
 
     cite {
@@ -21,6 +25,10 @@ blockquote,
   }
 
   &--list {
-    @apply text-2xl mt-1 mb-4;
+    @apply mt-1 mb-4;
+
+    p {
+      @apply text-2xl;
+    }
   }
 }

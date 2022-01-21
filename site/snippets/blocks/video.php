@@ -1,7 +1,7 @@
 <?php /** @var \Kirby\Cms\Block $block */ ?>
 <figure class="video-block my-8 cursor-pointer align-<?= $block->align() ?>">
   <div
-    class="lazyframe w-full aspect-video bg-cover bg-center bg-no-repeat flex justify-center items-center rounded-md"
+    class="lazyframe relative w-full aspect-video bg-cover bg-center bg-no-repeat flex justify-center items-center rounded-md"
     <?php if(strpos($block->url(),'youtube')): ?>
       data-vendor="youtube"
     <?php else: ?>

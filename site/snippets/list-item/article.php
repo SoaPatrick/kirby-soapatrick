@@ -9,10 +9,12 @@
         <cite><?= $article->quotesource() ?></cite>
       </blockquote>
     <?php elseif ($article->format() == "status"): ?>
-      <div class="text-2xl"><?= $article->statustext() ?></div>
+      <div class="text-2xl content"><?= $article->statustext() ?></div>
     <?php elseif ($article->format() == "link"): ?>
-      <div class="text-2xl"><?= $article->linktext() ?></div>
-      <a href="<?= $article->linkurl() ?>" target="_blank" class="font-sans font-normal text-egg-200 dark:blue-100 decoration-current hover:decoration-transparent mb-4 inline-block"><?= $article->linkurl() ?></a>
+      <div class="content">
+        <div class="text-2xl"><?= $article->linktext() ?></div>
+        <a href="<?= $article->linkurl() ?>" target="_blank" rel="noopener noreferrer" class="font-sans font-normal decoration-current hover:decoration-transparent mb-4 inline-block"><?= $article->linkurl() ?></a>
+      </div>
     <?php else: ?>
       <h2 class="mt-0 mb-1">
         <a class="bold-link" href="<?= $article->url() ?>"><?= $article->title() ?></a>
