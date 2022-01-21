@@ -9,7 +9,7 @@
     <?php $articles = $page->children()->listed()->flip()->paginate(24) ?>
   <?php endif ?>
 </header>
-<div class="overview">
+<div class="grid gap-gutter items-start max-w-content sm:max-w-widest w-full ml-auto sm:grid-cols-[1fr_var(--width--content)]">
   <div class="tag-list tag-list--vertical">
     <?php foreach( $page->children()->listed()->pluck('tags', ',', true) as $tag): ?>
       <a class="hashtag<?= e(param('tag') == urlencode($tag), ' active') ?>" href="<?= url('lab', ['params' => ['tag' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>

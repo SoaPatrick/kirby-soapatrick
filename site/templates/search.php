@@ -20,7 +20,7 @@
   <header class="mb-16">
     <h1><?= $page->title() ?>: <?= $query ?></h1>
   </header>
-  <div class="content content--articles">
+  <div class="content--articles">
     <?php foreach($articles as $article): ?>
         <?php snippet('list-item/' . $article->intendedTemplate(), ['article' => $article]); ?>
     <?php endforeach ?>

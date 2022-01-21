@@ -1,13 +1,5 @@
 .video-block {
-  @apply my-8;
-
-  .fill-primary {
-    @apply opacity-70 transition-opacity duration-300;
-  }
-
   &:hover {
-    @apply cursor-pointer;
-
     .fill-primary {
       @apply opacity-100;
     }

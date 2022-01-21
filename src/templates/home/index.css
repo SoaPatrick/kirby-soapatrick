@@ -1,6 +1,0 @@
-/* empty */
-
-canvas {
-  @apply absolute left-0 right-0 top-16;
-  z-index: -1;
-}

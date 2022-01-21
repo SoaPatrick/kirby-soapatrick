@@ -1,5 +1,5 @@
 //import "./three.js";
 import "@/index.js";
-import "./index.css";
+import "./index.scss";
 
 console.log("template home");

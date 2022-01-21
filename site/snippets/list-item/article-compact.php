@@ -3,13 +3,13 @@
     <?php snippet('published', ['article' => $article]); ?>
     <?php snippet('edit-page', ['page' => $article]); ?>
     <h2 class="mt-0 mb-1">
-      <a class="decoration-transparent hover:decoration-current" href="<?= $article->url() ?>"><?= $article->title() ?></a>
+      <a class="bold-link" href="<?= $article->url() ?>"><?= $article->title() ?></a>
     </h2>
   </header>
   <?php if ($article->format() == "standard"): ?>
     <div>
       <p class="my-4">
-        <?= $article->text()->toBlocks()->excerpt(200) ?> <a href="<?= $article->url() ?>" class="more">more →</a>
+        <?= $article->text()->toBlocks()->excerpt(200) ?> <a href="<?= $article->url() ?>" class="bold-link">more →</a>
       </p>
     </div>
   <?php endif ?>

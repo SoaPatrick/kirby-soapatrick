@@ -12,17 +12,17 @@
     <?php
       $group = $page
         ->children()->listed()
-        ->sort(function($child) {
-          return $child->category()->text();
-        })
         ->group(function($child) {
           return $child->category()->text();
-        });
+        })
+        ->sort(function($child) {
+          return $child->count();
+        }, 'desc');
       foreach($group as $cat => $articles): 
     ?>
       <div class="flex flex-col-reverse">
         <div class="grid grid-cols-2 sm:grid-cols-4 gap-4">
-          <?php foreach($articles->limit(4) as $article) : ?>
+          <?php foreach($articles->shuffle()->limit(4) as $article) : ?>
             <a href="<?= $article->url() ?>" aria-label="<?= $article->title()->html() ?>" class="img-link">
               <?php if($image = $article->cover()->toFile()): ?>
                 <img 
@@ -37,13 +37,13 @@
           <?php endforeach; ?>
         </div>
         <h2 class="mb-2 mt-4">
-          <a class="more" href="<?= $article->parent()->url(['params' => ['category' => urlencode($article->category())]]) ?>"><?= html($article->category()) ?></a>
+          <a class="bold-link" href="<?= $article->parent()->url(['params' => ['category' => urlencode($article->category())]]) ?>"><?= html($article->category()) ?></a>
         </h2>
 
       </div>
     <?php endforeach; ?>
   <?php else: ?>
-    <?php $articles = $page->children()->filterBy('category', urldecode(param('category')), ',')->flip()->paginate(24); ?>
+    <?php $articles = $page->children()->filterBy('category', urldecode(param('category')), ',')->sortBy('title', 'asc')->paginate(24); ?>
     <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-2">
       <?php foreach($articles as $article) : ?>
         <a href="<?= $article->url() ?>" aria-label="<?= $article->title()->html() ?>" class="img-link">

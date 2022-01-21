@@ -15,14 +15,14 @@
       <a href="<?= $article->linkurl() ?>" target="_blank" class="font-sans font-normal text-egg-200 dark:blue-100 decoration-current hover:decoration-transparent mb-4 inline-block"><?= $article->linkurl() ?></a>
     <?php else: ?>
       <h2 class="mt-0 mb-1">
-        <a class="decoration-transparent hover:decoration-current" href="<?= $article->url() ?>"><?= $article->title() ?></a>
+        <a class="bold-link" href="<?= $article->url() ?>"><?= $article->title() ?></a>
       </h2>
     <?php endif ?>
   </header>
   <?php if ($article->format() == "standard"): ?>
     <div>
       <p class="my-4">
-        <?= $article->text()->toBlocks()->excerpt(200) ?> <a href="<?= $article->url() ?>" class="more">more →</a>
+        <?= $article->text()->toBlocks()->excerpt(200) ?> <a href="<?= $article->url() ?>" class="bold-link">more →</a>
       </p>
     </div>
   <?php endif ?>

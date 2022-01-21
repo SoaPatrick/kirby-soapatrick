@@ -9,7 +9,7 @@
     <?php $articles = $page->children()->listed()->flip()->paginate(12) ?>
   <?php endif ?>
 </header>
-<div class="overview">
+<div class="grid gap-gutter items-start max-w-content sm:max-w-widest w-full ml-auto sm:grid-cols-[1fr_var(--width--content)]">
   <div class="tag-list tag-list--vertical">
     <?php foreach( $page->children()->listed()->pluck('tags', ',', true) as $tag): ?>
       <a class="hashtag<?= e(param('tag') == urlencode($tag), ' active') ?>" href="<?= url('factory', ['params' => ['tag' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
@@ -17,12 +17,12 @@
    </div>
   <div class="grid-factory">
   <?php foreach($articles as $article): ?>
-    <article>
+    <article class="block">
       <a href="<?= $article->url() ?>" aria-label="<?= $article->title()->html() ?>" class="img-link">
         <?php if($image = $article->cover()->toFile()): ?>
           <img 
             srcset="<?= $image->srcset('cover-default-' .$image->extension()); ?>"
-            class="rounded-md"
+            class="rounded-md block"
             type="image/webp" 
             alt="<?= $article->title()->html() ?>"
             width="<?= $image->width() ?>" 

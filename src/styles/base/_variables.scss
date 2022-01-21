@@ -24,13 +24,5 @@
 
   --width--cover: clamp(70px, 7vw, 120px);
 
-  --width--like: clamp(70px, 7vw, 120px);
-}
-
-.like-poster {
-  @media (min-width: 800px) {
-    right: calc(var(--width--content) + var(--width--gutter));
-    width: calc(var(--width--cover) * 1.5);
-    top: 0.5rem;
-  }
+  --width--like: calc(var(--width--cover) * 1.5);
 }

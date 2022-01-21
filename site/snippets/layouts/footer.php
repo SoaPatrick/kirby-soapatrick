@@ -4,9 +4,9 @@ $template = $page->template();
 $entry = "templates/$template/index.js";
 ?>
   </main>
-  <footer class="site-footer">
-    <span>Stuff from 2000 to <?= date('Y'); ?></span>
-    <span><a href="<?= page('log')->url() ?>">SP10</a></span>
+  <footer class="mt-16 text-xs mb-36 sm:mb-8 mx-auto w-full max-w-content flex flex-wrap">
+    <span class="after:mx-2 after:text-xs after:content-['|']">Stuff from 2000 to <?= date('Y'); ?></span>
+    <span class="after:mx-2 after:text-xs after:content-['|']"><a href="<?= page('log')->url() ?>">SP10</a></span>
     <span><a href="<?= page('privacy')->url() ?>">Privacy</a></span>
   </footer>
 </div>

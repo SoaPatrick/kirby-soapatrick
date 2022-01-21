@@ -1,37 +1,16 @@
-footer a,
-main a {
+a {
   @apply underline decoration-current decoration-thin underline-offset-default transition-link duration-300 ease-in-out;
+  @apply hover:decoration-transparent;
+  @apply focus:outline-2 focus:outline-primary;
 
-  &:hover {
-    @apply decoration-transparent;
+  &.bold-link {
+    @apply font-serif font-bold text-cyan-35 dark:text-cyan-62 decoration-transparent;
+    @apply hover:decoration-cyan-35 dark:hover:decoration-cyan-62;
   }
 }
 
-a:focus {
-  @apply outline-2 outline-primary;
-}
-
-a[target="_blank"]::after {
+.content a[target="_blank"]::after {
   @apply content-link -rotate-45 inline-block text-primary;
-}
-
-a.edit {
-  @apply text-xs ml-2 inline-block h-3 w-3;
-
-  &[target="_blank"]::after {
-    @apply content-none;
-  }
-
-  svg {
-    @apply w-full h-full;
-  }
-}
-
-article header a,
-.pagination a,
-.sub-navigation a,
-a.more {
-  @apply font-serif font-bold text-cyan-35 decoration-transparent hover:decoration-cyan-35 dark:text-cyan-62 dark:hover:decoration-cyan-62;
 }
 
 h1,
@@ -98,23 +77,5 @@ figcaption {
 }
 
 hr {
-  @apply border-0 my-8 relative block h-1.5;
-
-  &:before {
-    @apply absolute w-1/4 h-0.5 bg-primary content-[''];
-  }
+  @apply border-0 my-8 relative block h-1.5 before:absolute before:w-1/4 before:h-0.5 before:bg-primary before:content-[''];
 }
-
-/* img {
-  @apply relative bg-egg-100 dark:bg-blue-100 rounded-md leading-8 text-xs text-center;
-}
-
-img:before {
-  @apply content-[''] block absolute inset-0 bg-egg-100 dark:bg-blue-100 rounded-md border-4 border-dashed border-egg-50 dark:border-blue-50;
-}
-
-img:after {
-  @apply font-bold text-xs text-blue-100 dark:text-egg-200 absolute inset-0 flex justify-center items-center opacity-50;
-  content: "Broken image";
-}
- */

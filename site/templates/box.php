@@ -19,7 +19,7 @@
     <?php $articles = $page->children()->listed()->flip()->paginate(10) ?>
   <?php endif ?>
 </header>
-<div class="content content--articles">
+<div class="content--articles">
   <?php foreach($articles as $article): ?>
     <?php snippet('list-item/article', ['article' => $article]) ?>
   <?php endforeach ?>

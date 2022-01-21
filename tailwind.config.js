@@ -53,6 +53,9 @@ module.exports = {
         gutter: "var(--width--gutter)",
         wide: "var(--width--wide)",
       },
+      inset: {
+        cover: "calc(var(--width--content) + var(--width--gutter))",
+      },
       width: {
         content: "var(--width--content)",
         wide: "var(--width--wide)",

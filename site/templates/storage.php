@@ -25,7 +25,7 @@
                 foreach($groupsMonth as $month => $listMonth):
                   $month = ucfirst($month);
                   ?>
-                    <a href="<?= page('box')->url(); ?>/storage:<?= $month ?>+<?= $year ?>"><?= $month ?> <span class="text-xs text-cyan-35 dark:text-cyan-62">(<?= $listMonth->count() ?>)</span></a>
+                    <a class="py-1" href="<?= page('box')->url(); ?>/storage:<?= $month ?>+<?= $year ?>"><?= $month ?> <span class="text-xs text-cyan-35 dark:text-cyan-62">(<?= $listMonth->count() ?>)</span></a>
                   <?php 
                 endforeach;
               ?>

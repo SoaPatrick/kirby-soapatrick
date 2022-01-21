@@ -7,20 +7,17 @@
   }
 }
 
+// factory list item, first block
 .content-list > *:first-child {
   margin-bottom: 1rem;
 }
 
-.content {
-  > .highlight,
-  > .align-default,
-  > .quote-block--large {
-    @apply max-w-widest sm:max-w-wide sm:-mr-gutter;
-  }
+.content > .align-default {
+  @apply max-w-widest sm:max-w-wide sm:-mr-gutter;
 }
 
 .content > .align-wide {
-  @apply sm:-mr-gutter;
+  @apply sm:-mr-gutter relative;
   max-width: calc(100% + var(--width--gutter));
 
   @media (max-width: 799px) {
@@ -47,5 +44,9 @@ article {
 }
 
 .content--articles > * {
-  @apply max-w-content w-full;
+  @apply sm:max-w-content ml-auto first:mt-0;
+
+  @media (max-width: 799px) {
+    max-width: 100%;
+  }
 }

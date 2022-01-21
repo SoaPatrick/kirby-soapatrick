@@ -1,22 +1,20 @@
-<section class="letterboxd">
+<section class="mt-16 ml-auto w-full max-w-content letterboxd">
   <header>
     <h1>Last seen Movies</h1>
   </header>
-  <div class="letterboxd__grid">
+  <div class="grid grid-cols-3 gap-4">
     <?php foreach (page('movies')->children()->limit(6) as $item): ?>
       <?php
-    $title = $item->title();
-    $description = str_replace( '<img ', '<img alt="'.$title.'" height="750" width="500" loading="lazy"', $item->description() );
-    $titleParts = explode( ' ', $title );
-    $titlePartsLength = sizeof($titleParts);
-    $rating = $titleParts[$titlePartsLength - 1];
-    ?>
-  <div>
-    <a href="<?= $item->link() ?>" target="_blank" rel="noreferrer" aria-label="<?= $title; ?>" class="img-link img-link--external">
-      <div><?= $description ?></div>
-      <span><?= $rating ?></span>
-    </a>
+        $title = $item->title();
+        $description = str_replace( '<img ', '<img alt="'.$title.'" height="750" width="500" loading="lazy" class="block rounded-t-md"', $item->description() );
+        $titleParts = explode( ' ', $title );
+        $titlePartsLength = sizeof($titleParts);
+        $rating = $titleParts[$titlePartsLength - 1];
+      ?>
+      <a href="<?= $item->link() ?>" target="_blank" rel="noreferrer" aria-label="<?= $title; ?>" class="img-link img-link--external relative inline-block p-0 m-0 decoration-transparent">
+        <div><?= $description ?></div>
+        <span class="relative bg-blue-100 block text-center pb-1 rounded-b-md tracking-widest z-30 text-egg-200"><?= $rating ?></span>
+      </a>
+    <?php endforeach ?>
   </div>
-  <?php endforeach ?>
-</div>
 </section>

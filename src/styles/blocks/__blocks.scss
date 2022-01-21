@@ -1,7 +1,22 @@
-@import "image";
-@import "gallery";
 @import "video";
 @import "code";
 @import "quote";
-@import "box";
-@import "statement";
+
+// box & statement block
+.box-block p:last-child,
+.statement-block p:last-child {
+  margin-bottom: 0;
+}
+
+// image block
+.align-wide figcaption {
+  @apply sm:left-0 sm:mt-8 sm:text-left sm:absolute sm:mr-wide;
+}
+
+// gallery block
+@for $i from 2 to 5 {
+  $factor: $i - 1;
+  .gallery-block--#{$i}-columns > * {
+    width: calc((100% - 1rem * #{$factor}) /#{$i});
+  }
+}

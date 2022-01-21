@@ -7,10 +7,10 @@ $align    = $block->align();
 $lightbox = $block->lightbox()->isTrue();
 
 ?>
-<figure class="gallery-block gallery-block--<?= $columns ?>-columns align-<?= $align ?>">
+<figure class="gallery-block gallery-block--<?= $columns ?>-columns align-<?= $align ?> flex flex-wrap gap-4 my-8">
   <?php foreach ($images as $image): ?>
     <?php if ($lightbox) {?>
-      <a href="<?= $image->url() ?>" data-fslightbox aria-label="lightbox" class="img-link--lightbox">
+      <a href="<?= $image->url() ?>" data-fslightbox aria-label="lightbox" class="flex grow flex-col justify-center relative img-link img-link--lightbox">
         <img 
           srcset="<?= $image->srcset('img-' .$align. '-' .$image->extension() ); ?>"
           type="image/webp"
@@ -20,6 +20,7 @@ $lightbox = $block->lightbox()->isTrue();
             alt="<?= $image->alt() ?>" 
           <?php endif ?>
           loading="lazy" 
+          class="rounded-md object-cover h-full"
           width="<?= $image->width() ?>" 
           height="<?= $image->height() ?>">
       </a>
@@ -32,6 +33,7 @@ $lightbox = $block->lightbox()->isTrue();
         <?php else: ?>
           alt="<?= $image->alt() ?>" 
         <?php endif ?>
+        class="flex grow flex-col justify-center relative rounded-md object-cover"
         loading="lazy" 
         width="<?= $image->width() ?>" 
         height="<?= $image->height() ?>">
