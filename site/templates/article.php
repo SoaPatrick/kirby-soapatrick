@@ -10,10 +10,12 @@
         <cite><?= $page->quotesource() ?></cite>
       </blockquote>
     <?php elseif ($page->format() == "status"): ?>
-      <div class="text-2xl"><?= $page->statustext() ?></div>
+      <div class="text-2xl content"><?= $page->statustext() ?></div>
     <?php elseif ($page->format() == "link"): ?>
-      <div class="text-2xl"><?= $page->linktext() ?></div>
-      <a href="<?= $page->linkurl() ?>" target="_blank" class="font-sans font-normal text-egg-200 dark:blue-100 decoration-current hover:decoration-transparent mb-4 inline-block"><?= $page->linkurl() ?></a>
+      <div class="content">
+        <div class="text-2xl"><?= $page->linktext() ?></div>
+        <a href="<?= $page->linkurl() ?>" target="_blank" rel="noopener noreferrer" class="font-sans font-normal decoration-current hover:decoration-transparent mb-4 inline-block"><?= $page->linkurl() ?></a>
+      </div>
     <?php else: ?>
       <h1><?= $page->title() ?></h1>
     <?php endif ?>

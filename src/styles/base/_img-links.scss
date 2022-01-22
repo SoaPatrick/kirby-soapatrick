@@ -17,9 +17,13 @@ a {
       }
 
       &:after {
-        @apply z-20 bg-center opacity-100;
+        @apply z-20 bg-center opacity-100 content-[''] rotate-0;
         background-size: 2rem 2rem;
       }
+    }
+
+    &[target="_blank"]::after {
+      @apply rotate-0;
     }
   }
 

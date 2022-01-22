@@ -24,7 +24,7 @@
   <?php if ($article->format() == "standard"): ?>
     <div>
       <p class="my-4">
-        <?= $article->text()->toBlocks()->excerpt(200) ?> <a href="<?= $article->url() ?>" class="bold-link">more →</a>
+        <?= $article->text()->toBlocks()->excerpt(200) ?> <a href="<?= $article->url() ?>" class="bold-link whitespace-nowrap">more →</a>
       </p>
     </div>
   <?php endif ?>

@@ -30,7 +30,7 @@
           By <?= $article->from() ?> in <?= $article->released() ?>
         </span>
         <p class="my-0">
-          <?= $article->text()->toBlocks()->excerpt(200) ?> <a href="<?= $article->url() ?>" class="bold-link">more →</a>
+          <?= $article->text()->toBlocks()->excerpt(200) ?> <a href="<?= $article->url() ?>" class="bold-link whitespace-nowrap">more →</a>
         </p>
       </div>
     </div>

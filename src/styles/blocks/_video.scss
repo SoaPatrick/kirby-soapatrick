@@ -1,11 +1,9 @@
 .video-block {
-  &:hover {
-    .fill-primary {
-      @apply opacity-100;
-    }
+  &:hover .fill-primary {
+    @apply opacity-100;
   }
 
-  .lazyframe iframe {
+  iframe {
     @apply absolute inset-0 w-full h-full;
   }
 }

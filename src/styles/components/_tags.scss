@@ -1,5 +1,5 @@
 .hashtag {
-  @apply inline-block relative text-xs decoration-transparent;
+  @apply inline-block relative text-sm decoration-transparent;
   @apply before:text-primary before:content-hashtag;
   @apply hover:decoration-current;
 
@@ -9,7 +9,7 @@
 }
 
 .tag-list {
-  @apply flex gap-4 flex-wrap;
+  @apply flex gap-y-2 gap-x-4 flex-wrap;
 
   &--vertical {
     @apply sm:inline-grid text-right;
