@@ -3,18 +3,27 @@ title: Lab
 icon: 🖼
 
 columns:
-  - width: 1/1
+  - width: 1/3
+    fields:
+      description:
+        type: textarea
+        buttons: false
+        maxlength: 158
+
+  - width: 2/3
     sections:
       drafts:
-        layout: cards
+        layout: list
         extends: sections/lab
         headline: In Development
         status: draft
         empty: Nothing in development yet
 
+  - width: 1/1
+    sections:
       listed:
-        limit: 18
-        layout: cards
+        limit: 15
+        layout: cardlets
         extends: sections/lab
         headline: Distributed
         status: listed

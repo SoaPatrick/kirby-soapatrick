@@ -3,14 +3,25 @@ title: Likes
 icon: 🖼
 
 columns:
-  - width: 1/1
+  - width: 1/3
+    fields:
+      description:
+        type: textarea
+        buttons: false
+        maxlength: 158
+
+  - width: 2/3
     sections:
       drafts:
+        layout: list
         extends: sections/likes
         headline: Drafts
         status: draft
 
+  - width: 1/1
+    sections:
       listed:
+        limit: 15
         extends: sections/likes
         headline: Published
         status: listed

@@ -31,7 +31,7 @@
   <footer class="article__footer">
     <div class="text-[0.6rem] mb-1 uppercase font-bold tracking-wider">Categorized in:</div>
     <div class="tag-list">
-      <?php $tags = $page->category()->split(); ?>
+      <?php $tags = $page->tags()->split(); ?>
       <?php sort($tags); ?>
       <?php foreach ($tags as $tag): ?>
         <a class="hashtag" href="<?= $page->parent()->url(['params' => ['category' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
