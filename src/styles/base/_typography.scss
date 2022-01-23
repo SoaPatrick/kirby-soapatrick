@@ -9,8 +9,14 @@ a {
   }
 }
 
-.content a[target="_blank"]::after {
-  @apply content-link -rotate-45 inline-block text-primary;
+.content a {
+  &[target="_blank"]::after {
+    @apply content-link -rotate-45 inline-block text-primary;
+  }
+
+  &.no-ext-link[target="_blank"]::after {
+    @apply content-none -rotate-0;
+  }
 }
 
 h1,

@@ -4,6 +4,24 @@ var searchForm = document.getElementById("search-collapse");
 var searchField = document.getElementById("search-collapse__input");
 
 searchBtn.onclick = function () {
+  toggleSearch();
+};
+
+window.addEventListener("keydown", function (event) {
+  if (window.navigator.userAgent.indexOf("Mac") != -1) {
+    if (event.key == "/" && event.metaKey) {
+      toggleSearch();
+      return;
+    }
+  } else {
+    if (event.key == "/" && event.ctrlKey) {
+      toggleSearch();
+      return;
+    }
+  }
+});
+
+function toggleSearch() {
   searchForm.classList.toggle("open");
   searchBtn.classList.toggle("active");
   document.body.scrollTop = 0; // For Safari
@@ -12,4 +30,4 @@ searchBtn.onclick = function () {
     searchField.value = "";
     searchField.focus();
   }
-};
+}
