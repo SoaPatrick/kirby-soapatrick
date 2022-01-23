@@ -37,7 +37,7 @@
   </div>
   <footer class="bg-egg-100 dark:bg-blue-100 inline-block rounded-md py-1 px-2">
     <div class="tag-list">
-      <?php $tags = $article->category()->split(); ?>
+      <?php $tags = $article->tags()->split(); ?>
       <?php sort($tags); ?>
       <?php foreach ($tags as $tag): ?>
         <a class="hashtag" href="<?= $article->parent()->url(['params' => ['category' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>

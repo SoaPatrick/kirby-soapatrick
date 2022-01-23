@@ -16,6 +16,10 @@ pages:
   template: patrick
 
 fields:
+  description:
+    type: textarea
+    buttons: false
+    maxlength: 158
   text:
     type: textarea
     size: huge

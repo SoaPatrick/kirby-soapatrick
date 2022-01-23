@@ -28,8 +28,9 @@ return [
           $ignore = kirby()->option('sitemap.ignore', ['error']);
           $log = page('log')->children()->pluck('id', ',');
           $lab = page('lab')->children()->pluck('id', ',');
+          $unlisted_factory_items = page('factory')->children()->unlisted()->pluck('id', ',');
           $movies = page('movies')->children()->pluck('id', ',');
-          $ignore = array_merge($ignore, $log, $lab, $movies);
+          $ignore = array_merge($ignore, $log, $lab, $unlisted_factory_items, $movies);
 
           $content = snippet('sitemap', compact('pages', 'ignore'), true);
 

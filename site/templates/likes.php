@@ -13,7 +13,7 @@
       $group = $page
         ->children()->listed()
         ->group(function($child) {
-          return $child->category()->text();
+          return $child->tags()->text();
         })
         ->sort(function($child) {
           return $child->count();
@@ -37,13 +37,13 @@
           <?php endforeach; ?>
         </div>
         <h2 class="mb-2 mt-4">
-          <a class="bold-link" href="<?= $article->parent()->url(['params' => ['category' => urlencode($article->category())]]) ?>"><?= html($article->category()) ?></a>
+          <a class="bold-link" href="<?= $article->parent()->url(['params' => ['category' => urlencode($article->tags())]]) ?>"><?= html($article->tags()) ?></a>
         </h2>
 
       </div>
     <?php endforeach; ?>
   <?php else: ?>
-    <?php $articles = $page->children()->filterBy('category', urldecode(param('category')), ',')->sortBy('title', 'asc')->paginate(24); ?>
+    <?php $articles = $page->children()->filterBy('tags', urldecode(param('category')), ',')->sortBy('title', 'asc')->paginate(24); ?>
     <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-2">
       <?php foreach($articles as $article) : ?>
         <a href="<?= $article->url() ?>" aria-label="<?= $article->title()->html() ?>" class="img-link">

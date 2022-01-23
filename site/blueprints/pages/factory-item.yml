@@ -16,6 +16,10 @@ columns:
         label: Published on
         type: date
         default: today
+      description:
+        type: textarea
+        buttons: false
+        maxlength: 158
       cover:
         type: files
         multiple: false

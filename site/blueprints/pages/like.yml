@@ -15,6 +15,10 @@ columns:
         label: Published on
         type: date
         default: today
+      description:
+        type: textarea
+        buttons: false
+        maxlength: 158
       cover:
         type: files
         multiple: false
@@ -34,7 +38,8 @@ columns:
         required: true
       link:
         type: url
-      category:
+      tags:
+        label: Categorie
         type: radio
         accept: options
         options: api
