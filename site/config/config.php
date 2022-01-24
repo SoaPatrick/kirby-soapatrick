@@ -83,6 +83,10 @@ return [
         '1x' => ['width' => 850, 'quality' => 100,'format' => 'webp'],
         '2x' => ['width' => 1700, 'quality' => 100,'format' => 'webp']
       ]
+    ],
+    'presets' => [
+      'lightbox-jpg' => ['width' => 2560, 'quality' => 100,'format' => 'webp'],
+      'lightbox-png' => ['width' => 2560, 'quality' => 100,'format' => 'webp']
     ]
   ]
 ];

@@ -15,11 +15,17 @@
         <?php if($image = $article->cover()->toFile()): ?>
           <?php if($article->format() == 'video'): ?>
             <a href="<?= $article->video()->toFile()->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox>
-            <?php else: ?>
-              <a href="<?= $image->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox>
-              <?php endif ?>
-              <?php $img_resize = $image->resize(750); ?>
-              <img class="block w-full h-full object-cover rounded-md" src="<?= $img_resize->url() ?>" loading="lazy" alt="<?= $article->title()->html() ?>" width="<?= $img_resize->width() ?>" height="<?= $img_resize->height() ?>">
+          <?php else: ?>
+            <a href="<?= $image->thumb('lightbox-' .$image->extension())->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox>
+          <?php endif ?>
+            <img 
+              class="block w-full h-full object-cover rounded-md" 
+              srcset="<?= $image->srcset('cover-default-' .$image->extension()); ?>"
+              loading="lazy" 
+              alt="<?= $article->title()->html() ?>" 
+              width="<?= $image->width() ?>" 
+              height="<?= $image->height() ?>
+            ">
             </a>
         <?php endif ?>
       </figure>

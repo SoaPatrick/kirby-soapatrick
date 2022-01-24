@@ -37,10 +37,16 @@
             <?php if($article->format() == 'video'): ?>
               <a href="<?= $article->video()->toFile()->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox class="img-link img-link--lightbox video-link">
             <?php else: ?>
-              <a href="<?= $image->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox class="img-link img-link--lightbox">
+              <a href="<?= $image->thumb('lightbox-' .$image->extension())->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox class="img-link img-link--lightbox">
             <?php endif ?>
-              <?php $img_resize = $image->resize(390); ?>
-              <img class="block w-full h-full object-cover rounded-md" src="<?= $img_resize->url() ?>" loading="lazy" alt="<?= $article->title()->html() ?>" width="<?= $img_resize->width() ?>" height="<?= $img_resize->height() ?>">
+              <img 
+                class="block w-full h-full object-cover rounded-md" 
+                srcset="<?= $image->srcset('cover-default-' .$image->extension()); ?>"
+                loading="lazy" 
+                alt="<?= $article->title()->html() ?>" 
+                width="<?= $image->width() ?>" 
+                height="<?= $image->height() ?>
+              ">
             </a>
           </article>
         <?php endif ?>

@@ -1,16 +1,16 @@
 <?php
 
 /** @var \Kirby\Cms\Block $block */ 
-$images   = $block->images()->toFiles();
-$columns  = $block->columns();
-$align    = $block->align();
-$lightbox = $block->lightbox()->isTrue();
+$images       = $block->images()->toFiles();
+$columns      = $block->columns();
+$align        = $block->align();
+$is_lightbox  = $block->lightbox()->isTrue();
 
 ?>
 <figure class="gallery-block gallery-block--<?= $columns ?>-columns align-<?= $align ?> flex flex-wrap gap-4 my-8">
   <?php foreach ($images as $image): ?>
-    <?php if ($lightbox) {?>
-      <a href="<?= $image->url() ?>" data-fslightbox aria-label="lightbox" class="flex grow flex-col justify-center relative img-link img-link--lightbox">
+    <?php if ($is_lightbox) {?>
+      <a href="<?= $image->thumb('lightbox-' .$image->extension())->url() ?>" data-fslightbox aria-label="lightbox" class="flex grow flex-col justify-center relative img-link img-link--lightbox">
         <img 
           srcset="<?= $image->srcset('img-' .$align. '-' .$image->extension() ); ?>"
           type="image/webp"
