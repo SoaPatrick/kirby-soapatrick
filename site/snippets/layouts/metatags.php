@@ -1,7 +1,7 @@
 <?php 
 
 $template     = $page->template();
-$title        = $site->title();
+$title        = $site->title()->escape();
 $description  = $site->description()->html();
 $url          = $site->url();
 $author_url   = url('patrick');
@@ -23,7 +23,7 @@ if($template != 'home') {
   $title = $page->title() .' - '. $site->title();
   $url = $page->url();
   if($page->description()->isNotEmpty()) {
-    $description = $page->description()->excerpt(158);
+    $description = $page->description()->excerpt(158)->html();
   }
   if($page->hasImages()) {
     if($page->cover()->exists() && $page->cover()->isNotEmpty()) {
@@ -36,9 +36,9 @@ if($template != 'home') {
 
 if($is_single) {
   if($page->description()->isNotEmpty()) {
-    $description = $page->description()->excerpt(158);
+    $description = $page->description()->excerpt(158)->html();
   } else {
-    $description = $page->text()->toBlocks()->excerpt(158);
+    $description = $page->text()->toBlocks()->excerpt(158)->html();
   }
   $tags = $page->tags()->split();
   sort($tags);
