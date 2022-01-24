@@ -23,7 +23,7 @@ if($template != 'home') {
   $title = $page->title() .' - '. $site->title();
   $url = $page->url();
   if($page->description()->isNotEmpty()) {
-    $description = $page->description()->excerpt(158)->html();
+    $description = $page->description()->html();
   }
   if($page->hasImages()) {
     if($page->cover()->exists() && $page->cover()->isNotEmpty()) {
@@ -36,9 +36,9 @@ if($template != 'home') {
 
 if($is_single) {
   if($page->description()->isNotEmpty()) {
-    $description = $page->description()->excerpt(158)->html();
+    $description = $page->description()->html();
   } else {
-    $description = $page->text()->toBlocks()->excerpt(158)->html();
+    $description = html($page->text()->toBlocks()->excerpt(158));
   }
   $tags = $page->tags()->split();
   sort($tags);
