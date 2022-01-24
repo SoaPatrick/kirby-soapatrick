@@ -14,6 +14,7 @@ columns:
       published:
         label: Logged on
         type: date
+        time: true
         default: today
       type:
         label: Type

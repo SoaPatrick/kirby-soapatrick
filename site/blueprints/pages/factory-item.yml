@@ -15,6 +15,7 @@ columns:
       published:
         label: Published on
         type: date
+        time: true
         default: today
       description:
         type: textarea
