@@ -14,13 +14,13 @@
       <figure class="my-4">
         <?php if($image = $article->cover()->toFile()): ?>
           <?php if($article->format() == 'video'): ?>
-            <a href="<?= $article->video()->toFile()->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox>
+            <a href="<?= $article->video()->toFile()->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox class="img-link img-link--lightbox video-link">
           <?php else: ?>
-            <a href="<?= $image->thumb('lightbox-' .$image->extension())->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox>
+            <a href="<?= $image->thumb('lightbox-' .$image->extension())->url() ?>" aria-label="<?= $article->title()->html() ?>" data-fslightbox class="img-link img-link--lightbox">
           <?php endif ?>
             <img 
               class="block w-full h-full object-cover rounded-md" 
-              srcset="<?= $image->srcset('cover-default-' .$image->extension()); ?>"
+              srcset="<?= $image->srcset('img-default-' .$image->extension()); ?>"
               loading="lazy" 
               alt="<?= $article->title()->html() ?>" 
               width="<?= $image->width() ?>" 
