@@ -1,0 +1,31 @@
+title: Search
+
+icon: search
+
+pages: false
+files: false
+
+options:
+  changeSlug: false
+  changeStatus: false
+  changeTemplate: false
+  delete: false
+  duplicate: false
+
+columns:
+
+  - width: 1/3
+    fields:
+      results_title:
+        label: Title for results
+        type: text
+
+      noresults_title:
+        label: Title for no results
+        type: text
+
+      noresults_text:
+        label: Text for no results
+        type: textarea
+        size: small
+        buttons: false

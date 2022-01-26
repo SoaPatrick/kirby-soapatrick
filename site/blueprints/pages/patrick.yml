@@ -12,8 +12,7 @@ status:
     label: Menu Page
     text: The page is listed in the main menu
 
-pages:
-  template: patrick
+pages: false
 
 fields:
   description:

@@ -3,12 +3,17 @@ title: SoaPatrick
 columns:
   - width: 1/3
     sections:
+      Patrick:
+        type: pages
+        templates:
+          - patrick
       pages:
         type: pages
         templates:
           - home
+          - error
+          - search
           - default
-          - patrick
       box: sections/box
 
   - width: 1/3
