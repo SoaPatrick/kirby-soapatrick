@@ -34,5 +34,3 @@ if (document.getElementById("feed-button")) {
     feedBtnTooltip.innerHTML = feedBtnTooltipText;
   });
 }
-
-console.log("template home");
