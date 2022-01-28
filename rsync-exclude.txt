@@ -1,8 +1,12 @@
 content/*
+content/
 kirby/*
 node_modules/*
 node_modules/
+public/media/*
+public/media/
 src/*
+src/
 storage/*
 vendor/*
 .git/*
