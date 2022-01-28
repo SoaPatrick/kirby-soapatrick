@@ -1,0 +1,4 @@
+Sitemap: https://www.soapatrick.com/sitemap.xml
+User-agent: *
+
+Disallow: /api/

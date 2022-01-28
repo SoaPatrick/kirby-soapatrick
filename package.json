@@ -7,9 +7,9 @@
     "dev": "shx touch src/.lock && concurrently \"npm:server\" \"npm:vite\"",
     "server": "php -S localhost:8888 -t public server.php",
     "build": "shx rm -f src/.lock && vite build && npm run deploy",
-    "deploy": "rsync -avL $(pwd)/ --exclude-from='rsync-exclude.txt' $SP_REMOTE_USER@$SP_REMOTE_HOST:www/kirby.soapatrick.com --delete",
-    "content:push": "rsync -av content $SP_REMOTE_USER@$SP_REMOTE_HOST:www/kirby.soapatrick.com --delete",
-    "content:pull": "rsync -av $SP_REMOTE_USER@$SP_REMOTE_HOST:www/kirby.soapatrick.com/content/ content --delete"
+    "deploy": "rsync -avL $(pwd)/ --exclude-from='rsync-exclude.txt' $SP_REMOTE_USER@$SP_REMOTE_HOST:www/soapatrick.com --delete",
+    "content:push": "rsync -av content $SP_REMOTE_USER@$SP_REMOTE_HOST:www/soapatrick.com --delete",
+    "content:pull": "rsync -av $SP_REMOTE_USER@$SP_REMOTE_HOST:www/soapatrick.com/content/ content --delete"
   },
   "author": "arnoson",
   "license": "MIT",
