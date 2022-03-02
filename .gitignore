@@ -11,6 +11,8 @@ node_modules/
 kirby
 vendor
 
+site/config/config.www.soapatrick.com.php
+
 site/plugins/*
 !site/plugins/blocks-factory
 

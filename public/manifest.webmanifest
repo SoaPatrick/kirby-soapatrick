@@ -6,6 +6,6 @@
     { "src": "/assets/img/512.png", "type": "image/png", "sizes": "512x512" }
   ],
   "background_color": "#cf3a3a",
-  "start_url": "https://kirby.soapatrick.com",
+  "start_url": "https://www.soapatrick.com",
   "display": "standalone"
 }

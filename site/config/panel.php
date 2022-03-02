@@ -1,7 +1,6 @@
 <?php
 
 return [
-  'slug' => 'yygang',
   'css' => 'assets/css/custom-panel.css',
   'favicon' => [
     'apple-touch-icon' => [
