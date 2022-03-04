@@ -18,3 +18,4 @@ package-lock.json
 package.json
 .DS_Store
 rsync-exclude.txt
+site/config/.license
