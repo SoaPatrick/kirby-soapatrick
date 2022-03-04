@@ -19,6 +19,17 @@
         <a class="hashtag" href="<?= $page->parent()->url(['params' => ['tag' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
       <?php endforeach ?>
     </div>
+    <?php 
+      $links = $page->links()->toStructure(); 
+      if ($links->isNotEmpty()):
+    ?>
+    <div class="text-[0.6rem] mt-6 mb-1 uppercase font-bold tracking-wider">Additional Links:</div>
+    <ul class="mb-0">
+    <?php foreach ($links as $link): ?>
+      <li class="p-0"><a class="text-sm after:content-link after:-rotate-45 after:inline-block after:text-primary" target="_blank" href="<?= $link->link() ?>"><?= $link->type() ?></a></li>
+    <?php endforeach ?>
+    </ul>
+    <?php endif ?>
   </footer>
 </article>
 

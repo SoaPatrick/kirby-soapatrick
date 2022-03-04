@@ -41,6 +41,19 @@ columns:
           fetch: factory-tags
           text: "{{ item.name }}"
           value: "{{ item.name }}"
+      links:
+        label: Additional Links
+        type: structure
+        fields:
+          link:
+            type: url
+            required: true
+          type:
+            type: select
+            required: true
+            options:
+              - Github Repository
+              - Archive Website
 
   - width: 2/3
     fields:
