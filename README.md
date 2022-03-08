@@ -1,12 +1,6 @@
 # SoaPatrick
 
-## Features
-
-- Personal Website created with [Kirby](https://getkirby.com/)
-- Uses [Vite](https://vitejs.dev/) with [kirby-vite](https://github.com/arnoson/kirby-vite) plugin
-- Multiple pages
-- Live Reloading for Kirby templates, snippets, content, ... changes
-- [Public folder structure](https://getkirby.com/docs/guide/configuration#custom-folder-setup__public-folder-setup)
+My Personal Website [SoaPatrick.com](https://www.soapatrick.com/) created with [Kirby](https://getkirby.com/) that uses [Vite](https://vitejs.dev/) with the [kirby-vite](https://github.com/arnoson/kirby-vite) plugin and [TailwindCSS](https://tailwindcss.com/).
 
 ## Installation
 
@@ -48,7 +42,7 @@ npm run deploy
 
 ## Content
 
-The content folder is it's own repository or submodule. The repository for the content doesn't contain any media files. For the website to work, the latest content with all it's media files needs to be pulled through rsync from the production environment.
+The content folder is it's own repository (submodule). The repository for the content doesn't contain any media files. For the website to work, the latest content with all it's media files needs to be pulled through rsync from the production environment.
 
 ```
 npm run content:pull
