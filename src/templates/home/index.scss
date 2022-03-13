@@ -11,13 +11,10 @@
 }
 
 .feed-btn {
-  position: relative;
   height: 1.25rem;
   width: 1.25rem;
   background: #f26522;
   border-radius: 5px;
-  top: -2rem;
-  left: -0.5rem;
 
   &:focus {
     outline: 3px dotted var(--color__primary);
