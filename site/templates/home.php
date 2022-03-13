@@ -9,9 +9,9 @@
       width="<?= $image->width() ?>" 
       height="<?= $image->height() ?>">
   <?php endif ?>
-  <h1 class="text-center">
+  <h1 class="relative text-center">
     Soa<span class="relative top-2">Patrick</span>
-    <button type="button" id="feed-button" class="feed-btn" data-copy="<?= url('feed.xml') ?>"><span class="hidden-text">RSS</span><span class="tooltip-text" id="feed-tooltip">Copy Feed URL</span></button>
+    <button type="button" id="feed-button" class="absolute feed-btn" data-copy="<?= url('feed.xml') ?>"><span class="hidden-text">RSS</span><span class="tooltip-text" id="feed-tooltip">Copy Feed URL</span></button>
   </h1>
   <div class="text-center text-lg"><?= $page->headline() ?></div>
 </header>
