@@ -1,8 +1,9 @@
 {
-  "name": "soapatrick/website-for-soapatrick",
+  "name": "soapatrick/kirby-soapatrick",
   "description": "SoaPatrick done with kirby",
   "type": "project",
   "license": "MIT",
+  "version": "10.0.2",
   "require": {
     "arnoson/kirby-vite": "^2.1",
     "getkirby/cms": "^3.0",
