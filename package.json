@@ -1,6 +1,6 @@
 {
-  "name": "kirby-vite-basic-kit",
-  "version": "1.0.0",
+  "name": "kirby-soapatrick",
+  "version": "10.0.2",
   "main": "src/index.js",
   "scripts": {
     "vite": "vite",
@@ -11,7 +11,7 @@
     "content:push": "rsync -av content $SP_REMOTE_USER@$SP_REMOTE_HOST:www/soapatrick.com --delete",
     "content:pull": "rsync -av --exclude-from='rsync-exclude-content.txt' $SP_REMOTE_USER@$SP_REMOTE_HOST:www/soapatrick.com/content/ content --delete"
   },
-  "author": "arnoson",
+  "author": "soapatrick",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^10.4.2",
