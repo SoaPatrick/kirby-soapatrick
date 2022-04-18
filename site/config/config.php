@@ -32,6 +32,6 @@ return [
       }
     ],
   ],
-  'sitemap.ignore' => ['log', 'factory', 'box', 'movies', 'error', 'feed', 'search', 'storage'],
+  'sitemap.ignore' => ['log', 'factory', 'box', 'movies', 'error', 'feed', 'search', 'storage', 'privacy'],
   'panel.install' => true
 ];
