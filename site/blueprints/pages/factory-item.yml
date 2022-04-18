@@ -54,6 +54,7 @@ columns:
             options:
               - Github Repository
               - Archive Website
+              - Live Website
 
   - width: 2/3
     fields:
