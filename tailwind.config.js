@@ -18,9 +18,11 @@ module.exports = {
       "blue-50": "var(--color__blue--50)",
       "blue-100": "var(--color__blue--100)",
       "blue-200": "var(--color__blue--200)",
+      "blue-shadow": "var(--color__blue--shadow)",
       "egg-50": "var(--color__egg--50)",
       "egg-100": "var(--color__egg--100)",
       "egg-200": "var(--color__egg--200)",
+      "egg-shadow": "var(--color__egg--shadow)",
     },
     screens: {
       sm: "800px",
