@@ -2,14 +2,6 @@ name: Youtube
 icon: youtube
 preview: video
 fields:
-  align:
-    label: Alignment
-    type: radio
-    columns: 2
-    default: "default"
-    options:
-      default: Default
-      wide: Wide
   url:
     label: field.blocks.video.url.label
     type: url
@@ -18,3 +10,10 @@ fields:
     label: field.blocks.video.caption
     type: writer
     inline: true
+  align:
+    label: Alignment
+    type: toggles
+    default: "default"
+    options:
+      default: Default
+      wide: Wide

@@ -1,14 +1,6 @@
 name: Video
 icon: video
 fields:
-  align:
-    label: Alignment
-    type: radio
-    columns: 2
-    default: "default"
-    options:
-      default: Default
-      wide: Wide
   video:
     type: files
     multiple: false
@@ -19,3 +11,10 @@ fields:
     label: field.blocks.video.caption
     type: writer
     inline: true
+  align:
+    label: Alignment
+    type: toggles
+    default: "default"
+    options:
+      default: Default
+      wide: Wide

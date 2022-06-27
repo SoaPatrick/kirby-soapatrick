@@ -3,10 +3,17 @@ headline: Change Log
 parent: kirby.page("log")
 info: "{{ page.type }}"
 template: log-item
-layout: list
 empty: No log entry yet
 sortBy: published desc
-limit: 10
-image:
-  icon: code
-  back: gray-800
+search: true
+layout: table
+info: false
+image: false
+columns:
+  published:
+    label: Published
+    align: right
+    value: "{{ page.published.toDate('d.m.Y') }}"
+  type:
+    label: Type
+    type: tags

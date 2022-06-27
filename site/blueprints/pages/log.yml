@@ -27,24 +27,17 @@ columns:
         extends: sections/log
         headline: Published
         status: listed
-        type: pagetable
-        translations:
-          rowsPerPage: Logs displayed
-          loading: Loading Logs
-          filterPages: Filter logs…
+        search: true
+        layout: table
+        info: false
+        image: false
         columns:
-          date:
-            label: Date
-            type: date
-            text: '{{ page.published.toDate("Y-m-d") }}'
-            dateInputFormat: 'YYYY-MM-DD'
-            dateOutputFormat: 'MMM d, Y'
+          published:
+            label: Published
+            align: right
+            value: "{{ page.published.toDate('d.m.Y') }}"
           type:
             label: Type
-            text: '{{ page.type }}'
-          title:
-            label: Title
-            text: '{{ page.title }}'
-            width: 3/4
+            type: tags
 
 

@@ -3,11 +3,25 @@ headline: Box
 parent: kirby.page("box")
 info: "{{ page.published }}"
 template: article
-layout: list
 empty: No article yet
 sortBy: published desc
-limit: 20
-image:
-  # query: page.cover.toFile
-  icon: box
-  back: gray-800
+search: true
+layout: table
+info: false
+columns:
+  format:
+    label: Format
+    type: tags
+  category:
+    label: Category
+    type: tags
+  tags:
+    label: Tags
+    type: tags
+  project:
+    label: Project
+    type: category
+  published:
+    label: published
+    align: right
+    value: "{{ page.published.toDate('d.m.Y') }}"

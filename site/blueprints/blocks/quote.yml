@@ -17,8 +17,7 @@ fields:
     icon: user
   style:
     label: Style
-    type: radio
-    columns: 2
+    type: toggles
     default: default
     options:
       default: Default

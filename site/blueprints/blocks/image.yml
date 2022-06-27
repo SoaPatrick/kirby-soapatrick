@@ -33,8 +33,7 @@ fields:
     width: 1/2
   align:
     label: Alignment
-    type: radio
-    columns: 2
+    type: toggles
     default: "default"
     options:
       default: Default

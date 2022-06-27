@@ -3,25 +3,47 @@ title: Likes
 icon: 🖼
 
 columns:
-  - width: 1/3
+  - width: 1/1
     fields:
       description:
         type: textarea
         buttons: false
         maxlength: 158
 
-  - width: 2/3
+  - width: 1/1
     sections:
       drafts:
-        layout: list
         extends: sections/likes
         headline: Drafts
         status: draft
+        layout: table
+        info: false
+        columns:
+          released:
+            label: Released
+          from:
+            label: From
+          tags:
+            label: Categorie
+            type: tags
 
   - width: 1/1
     sections:
       listed:
-        limit: 15
         extends: sections/likes
         headline: Published
         status: listed
+        layout: table
+        info: false
+        columns:
+          released:
+            label: Released
+          from:
+            label: From
+          tags:
+            label: Categorie
+            type: tags
+          published:
+            label: published
+            align: right
+            value: "{{ page.published.toDate('d.m.Y') }}"

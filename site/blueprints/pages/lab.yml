@@ -3,17 +3,18 @@ title: Lab
 icon: 🖼
 
 columns:
-  - width: 1/3
+  - width: 1/1
     fields:
       description:
         type: textarea
         buttons: false
         maxlength: 158
 
-  - width: 2/3
+  - width: 1/1
     sections:
       drafts:
         layout: list
+        search: true        
         extends: sections/lab
         headline: In Development
         status: draft
@@ -22,11 +23,26 @@ columns:
   - width: 1/1
     sections:
       listed:
-        limit: 15
-        layout: cardlets
+        search: true
         extends: sections/lab
         headline: Distributed
         status: listed
         empty: Nothing distributed yet
+        layout: table
+        info: false
+        columns:
+          tags:
+            label: Tags
+            type: tags
+          format:
+            label: Format
+            type: tags
+          project:
+            label: Project
+            type: category
+          published:
+            label: Published
+            align: right
+            value: "{{ page.published.toDate('d.m.Y') }}"
 
 

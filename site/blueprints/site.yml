@@ -1,27 +1,62 @@
 title: SoaPatrick
 
-columns:
-  - width: 1/3
-    sections:
-      Patrick:
-        type: pages
-        templates:
-          - patrick
-      pages:
-        type: pages
-        templates:
-          - home
-          - error
-          - search
-          - default
-      box: sections/box
+tabs:
+  articles:
+    label: Pages
+    icon: page
+    columns:
+      - width: 1/2
+        sections:
+          pages:
+            type: pages
+            templates:
+              - home
+              - error
+              - search
+              - default
+      - width: 1/2
+        sections:
+          Patrick:
+            type: pages
+            templates:
+              - patrick
 
-  - width: 1/3
-    sections:
-      factory: sections/factory
-      likes: sections/likes
+  box:
+    label: Box
+    icon: box
+    columns:
+      - width: 1/1
+        sections:
+          box: sections/box
 
-  - width: 1/3
-    sections:
-      lab: sections/lab
-      log: sections/log
+  factory:
+    label: Factory
+    icon: palette
+    columns:
+      - width: 1/1
+        sections:
+          factory: sections/factory
+
+  lab:
+    label: Lab
+    icon: palette
+    columns:
+      - width: 1/1
+        sections:
+          lab: sections/lab
+
+  likes:
+    label: Likes
+    icon: heart
+    columns:
+      - width: 1/1
+        sections:
+          likes: sections/likes
+
+  logs:
+    label: Logs
+    icon: code
+    columns:
+      - width: 1/1
+        sections:
+          logs: sections/log

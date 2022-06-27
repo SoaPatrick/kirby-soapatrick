@@ -3,14 +3,14 @@ title: Factory
 icon: 🖼
 
 columns:
-  - width: 1/3
+  - width: 1/1
     fields:
       description:
         type: textarea
         buttons: false
         maxlength: 158
 
-  - width: 2/3
+  - width: 1/1
     sections:
       drafts:
         layout: list
@@ -20,20 +20,39 @@ columns:
         empty: Nothing in early stages yet
 
       unlisted:
-        layout: list
+        search: true        
         extends: sections/factory
         headline: In Development
         status: unlisted
         empty: Nothing in development yet
+        layout: table
+        info: false
+        columns:
+          tags:
+            label: Tags
+            type: tags
+          published:
+            label: Published
+            align: right
+            value: "{{ page.published.toDate('d.m.Y') }}"        
 
   - width: 1/1
     sections:
       listed:
-        limit: 15
-        layout: cardlets
+        search: true
         extends: sections/factory
         headline: Distributed
         status: listed
         empty: Nothing distributed yet
+        layout: table
+        info: false
+        columns:
+          tags:
+            label: Tags
+            type: tags
+          published:
+            label: Published
+            align: right
+            value: "{{ page.published.toDate('d.m.Y') }}"
 
 

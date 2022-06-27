@@ -2,15 +2,16 @@ title: Box
 
 icon: 🖼
 
+
 columns:
-  - width: 1/3
+  - width: 1/1
     fields:
       description:
         type: textarea
         buttons: false
         maxlength: 158
 
-  - width: 2/3
+  - width: 1/1
     sections:
       drafts:
         extends: sections/box
@@ -20,40 +21,7 @@ columns:
   - width: 1/1
     sections:
       listed:
-        limit: 25
-        limitOptions:
-          - 25
-          - 50
         extends: sections/box
         headline: Published
         status: listed
-        type: pagetable
-        translations:
-          rowsPerPage: Blog Articles displayed
-          loading: Loading Blog Articles
-          filterPages: Filter Blog Articles…
-        columns:
-          title:
-            label: Title
-            text: '{{ page.title }}'
-            width: 1/6
-          format:
-            label: Format
-            text: '{{ page.format }}'
-          category:
-            label: Category
-            text: '{{ page.category }}'
-          tags:
-            label: Tags
-            text: '{{ page.tags }}'
-            width: 1/6
-          project:
-            label: Project
-            text: '{{ page.project }}'
-            width: 1/6
-          date:
-            label: Date
-            type: date
-            text: '{{ page.published.toDate("Y-m-d") }}'
-            dateInputFormat: 'YYYY-MM-DD'
-            dateOutputFormat: 'MMM d, Y'
+

@@ -3,11 +3,11 @@ headline: Likes
 parent: kirby.page("likes")
 info: "{{ page.published }}"
 template: like
-layout: cardlets
+layout: cards
 image:
   query: page.cover.toFile
   cover: true
-  ratio: 1/1
+  ratio: 7/10
 empty: No likes yet
 sortBy: published desc
-limit: 5
+limit: 18
