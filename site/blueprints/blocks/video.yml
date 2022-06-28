@@ -13,7 +13,8 @@ fields:
   align:
     label: Alignment
     type: toggles
-    default: "default"
+    grow: false
+    default: default
     options:
       default: Default
       wide: Wide

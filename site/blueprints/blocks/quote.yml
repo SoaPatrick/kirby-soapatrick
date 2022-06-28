@@ -18,6 +18,7 @@ fields:
   style:
     label: Style
     type: toggles
+    grow: false
     default: default
     options:
       default: Default

@@ -26,15 +26,18 @@ fields:
   lightbox:
     label: Lightbox
     type: toggle
-    width: 1/2
-  shadow:
-    label: Box-Shadow
-    type: toggle
-    width: 1/2
+    width: 1/3
   align:
+    width: 1/3
     label: Alignment
     type: toggles
     default: "default"
     options:
       default: Default
       wide: Wide
+  shadow:
+    label: Box-Shadow
+    type: toggle
+    width: 1/3
+    when:
+      align: default
