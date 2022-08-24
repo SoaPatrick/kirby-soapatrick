@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3a2aec8b2a377bfed2d90d80b8deb679",
+    "content-hash": "7f6ebcd2b83e935fa4932eb6682cba28",
     "packages": [
         {
             "name": "arnoson/kirby-vite",
-            "version": "v2.5.1",
+            "version": "v2.5.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/arnoson/kirby-vite.git",
-                "reference": "d516f5c1af3af58d7ccf3a00cb502af78d4f63dc"
+                "reference": "96049ee4d37d61d7b63b8f68005211b4e297f327"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/arnoson/kirby-vite/zipball/d516f5c1af3af58d7ccf3a00cb502af78d4f63dc",
-                "reference": "d516f5c1af3af58d7ccf3a00cb502af78d4f63dc",
+                "url": "https://api.github.com/repos/arnoson/kirby-vite/zipball/96049ee4d37d61d7b63b8f68005211b4e297f327",
+                "reference": "96049ee4d37d61d7b63b8f68005211b4e297f327",
                 "shasum": ""
             },
             "require": {
@@ -35,9 +35,9 @@
             "description": "Vite helper for Kirby CMS",
             "support": {
                 "issues": "https://github.com/arnoson/kirby-vite/issues",
-                "source": "https://github.com/arnoson/kirby-vite/tree/v2.5.1"
+                "source": "https://github.com/arnoson/kirby-vite/tree/v2.5.2"
             },
-            "time": "2022-05-11T09:23:31+00:00"
+            "time": "2022-07-25T16:06:31+00:00"
         },
         {
             "name": "claviska/simpleimage",
@@ -161,16 +161,16 @@
         },
         {
             "name": "getkirby/cms",
-            "version": "3.7.0",
+            "version": "3.7.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/getkirby/kirby.git",
-                "reference": "d210f26602cf72c926d8ccf8befd61d7831888da"
+                "reference": "44158e8a5856384f35b07263240abc96db16ae7e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/getkirby/kirby/zipball/d210f26602cf72c926d8ccf8befd61d7831888da",
-                "reference": "d210f26602cf72c926d8ccf8befd61d7831888da",
+                "url": "https://api.github.com/repos/getkirby/kirby/zipball/44158e8a5856384f35b07263240abc96db16ae7e",
+                "reference": "44158e8a5856384f35b07263240abc96db16ae7e",
                 "shasum": ""
             },
             "require": {
@@ -256,7 +256,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2022-06-27T09:49:28+00:00"
+            "time": "2022-08-22T15:20:00+00:00"
         },
         {
             "name": "getkirby/composer-installer",
@@ -606,54 +606,6 @@
                 "source": "https://github.com/php-fig/log/tree/3.0.0"
             },
             "time": "2021-07-14T16:46:02+00:00"
-        },
-        {
-            "name": "sylvainjule/pagetable",
-            "version": "1.1.4",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/sylvainjule/kirby-pagetable.git",
-                "reference": "c31b1345306a5683172c5a87c31c933f802b5355"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/sylvainjule/kirby-pagetable/zipball/c31b1345306a5683172c5a87c31c933f802b5355",
-                "reference": "c31b1345306a5683172c5a87c31c933f802b5355",
-                "shasum": ""
-            },
-            "require": {
-                "getkirby/composer-installer": "^1.1"
-            },
-            "type": "kirby-plugin",
-            "extra": {
-                "installer-name": "pagetable"
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Sylvain Julé",
-                    "email": "contact@sylvain-jule.fr"
-                }
-            ],
-            "description": "Display subpages in a flexible table",
-            "support": {
-                "issues": "https://github.com/sylvainjule/kirby-pagetable/issues",
-                "source": "https://github.com/sylvainjule/kirby-pagetable/tree/1.1.4"
-            },
-            "funding": [
-                {
-                    "url": "https://www.paypal.me/sylvainjl",
-                    "type": "custom"
-                },
-                {
-                    "url": "https://github.com/sylvainjule",
-                    "type": "github"
-                }
-            ],
-            "time": "2022-03-04T09:50:29+00:00"
         },
         {
             "name": "symfony/polyfill-intl-idn",
