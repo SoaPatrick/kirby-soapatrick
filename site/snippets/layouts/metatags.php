@@ -77,6 +77,7 @@ if($is_indexed) {
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title><?= $title ?></title>
 <meta name="robots" content="<?= $robots ?>">
+<meta name="google-site-verification" content="URerj3SSC3cZTHRcRZuBjUABChejPH6v6IRcxKEkNXQ" />
 <meta name="description" content="<?= $description ?>">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
