@@ -7,7 +7,7 @@ $url          = $site->url();
 $author_url   = url('patrick');
 $image        = url('assets/img/512.png');
 $noindex      = 'noindex';
-$index        = 'max-image-preview:large';
+$index        = 'index,follow,max-image-preview:large';
 $is_single    = false;
 $is_indexed   = false;
 
