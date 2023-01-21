@@ -1,19 +1,14 @@
-<?php
-/** @var Kirby\Cms\Page $page */
-$template = $page->template();
-$entry = "templates/$template/index.js";
-?>
+<?php $entryFile = isset($entry) ? "templates/$entry/index.js" : null ?>
 
 <!DOCTYPE html>
 <html lang="en">
 <head class="h-full">
   <?php snippet("layouts/metatags") ?>
   <?php snippet("layouts/favicon") ?>
-  <?= vite()->client() ?>
   <!-- Include the shared css ... -->
   <?= vite()->css() ?>
-  <!-- ... and the template's css -->
-  <?= vite()->css($entry) ?>
+  <!-- ... and the template's css (if it exists) -->
+  <?php e($entryFile, vite()->css($entryFile)) ?>
 </head>
 <body class="font-sans font-thin text-blue-200 dark:text-egg-200 bg-egg-200 dark:bg-blue-200 selection:bg-primary selection:text-egg-200 h-full">
 

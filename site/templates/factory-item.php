@@ -1,4 +1,4 @@
-<?php snippet('layouts/header') ?>
+<?php snippet('layouts/header',['entry' => 'factory-item']) ?>
 <article>
   <header class="mb-4">
     <?php snippet('published', ['article' => $page]); ?>
@@ -74,4 +74,4 @@
   <?php endif ?>
 </section>
 
-<?php snippet('layouts/footer') ?>
+<?php snippet('layouts/footer',['entry' => 'factory-item']) ?>

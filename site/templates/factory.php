@@ -1,4 +1,4 @@
-<?php snippet('layouts/header') ?>
+<?php snippet('layouts/header',['entry' => 'factory']) ?>
 <header>
   <?php if (!empty(param('tag'))): ?>
     <h1><?= html(urldecode(param('tag'))) ?></h1>
@@ -35,4 +35,4 @@
 </div>
 
 <?php snippet('pagination-list', ['articles' => $articles]) ?>
-<?php snippet('layouts/footer') ?>
+<?php snippet('layouts/footer',['entry' => 'factory']) ?>

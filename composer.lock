@@ -4,27 +4,27 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1072afd5e3109ad897bb1f29cf737288",
+    "content-hash": "321650819322304fb5e59483f128bbf8",
     "packages": [
         {
             "name": "arnoson/kirby-vite",
-            "version": "v2.5.2",
+            "version": "3.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/arnoson/kirby-vite.git",
-                "reference": "96049ee4d37d61d7b63b8f68005211b4e297f327"
+                "reference": "2eb052b8c3a8573e850fb9c78291ff80769c6353"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/arnoson/kirby-vite/zipball/96049ee4d37d61d7b63b8f68005211b4e297f327",
-                "reference": "96049ee4d37d61d7b63b8f68005211b4e297f327",
+                "url": "https://api.github.com/repos/arnoson/kirby-vite/zipball/2eb052b8c3a8573e850fb9c78291ff80769c6353",
+                "reference": "2eb052b8c3a8573e850fb9c78291ff80769c6353",
                 "shasum": ""
             },
             "require": {
                 "getkirby/composer-installer": "^1.2"
             },
             "require-dev": {
-                "getkirby/cms": "^3.6",
+                "getkirby/cms": "^3.8",
                 "phpunit/phpunit": "^9.5"
             },
             "type": "kirby-plugin",
@@ -32,12 +32,17 @@
             "license": [
                 "MIT"
             ],
+            "authors": [
+                {
+                    "name": "Arno Schlipf"
+                }
+            ],
             "description": "Vite helper for Kirby CMS",
             "support": {
                 "issues": "https://github.com/arnoson/kirby-vite/issues",
-                "source": "https://github.com/arnoson/kirby-vite/tree/v2.5.2"
+                "source": "https://github.com/arnoson/kirby-vite/tree/v3.0.4"
             },
-            "time": "2022-07-25T16:06:31+00:00"
+            "time": "2022-12-06T08:42:56+00:00"
         },
         {
             "name": "claviska/simpleimage",

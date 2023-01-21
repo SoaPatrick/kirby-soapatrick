@@ -1,5 +1,3 @@
-//import "./three.js";
-import "@/index.js";
 import "./index.scss";
 
 // Add RSS Feed Button with Copy Function

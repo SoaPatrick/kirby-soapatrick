@@ -1,12 +1,13 @@
 {
   "name": "kirby-soapatrick",
-  "version": "10.0.2",
+  "version": "10.1.0",
   "main": "src/index.js",
   "scripts": {
     "vite": "vite",
-    "dev": "shx touch src/.lock && concurrently \"npm:server\" \"npm:vite\"",
+    "dev": "concurrently \"npm:server\" \"npm:vite\"",
     "server": "php -S localhost:8888 -t public server.php",
-    "build": "shx rm -f src/.lock && vite build && npm run deploy",
+    "build": "vite build",
+    "preview": "npm run build && npm run server",
     "deploy": "rsync -avL $(pwd)/ --exclude-from='rsync-exclude.txt' $SP_REMOTE_USER@$SP_REMOTE_HOST:www/soapatrick.com --delete",
     "content:push": "rsync -av content $SP_REMOTE_USER@$SP_REMOTE_HOST:www/soapatrick.com --delete",
     "content:pull": "rsync -av --exclude-from='rsync-exclude-content.txt' $SP_REMOTE_USER@$SP_REMOTE_HOST:www/soapatrick.com/content/ content --delete"
@@ -15,14 +16,13 @@
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^10.4.2",
-    "concurrently": "^6.5.1",
+    "concurrently": "^7.0.1",
     "postcss": "^8.4.5",
     "prettier": "^2.5.1",
     "sass": "^1.47.0",
-    "shx": "^0.3.4",
     "tailwindcss": "^3.0.12",
-    "vite": "^2.7.10",
-    "vite-plugin-live-reload": "^2.0.0"
+    "vite": "^3.0.0 || ^4.0.0",
+    "vite-plugin-kirby": "^0.1.3"
   },
   "dependencies": {
     "fslightbox": "^3.3.1",
