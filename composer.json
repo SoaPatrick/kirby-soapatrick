@@ -6,10 +6,13 @@
   "version": "10.0.2",
   "require": {
     "arnoson/kirby-vite": "^2.1",
-    "getkirby/cms": "^3.8",
+    "getkirby/cms": "^3.9",
     "gearsdigital/enhanced-toolbar-link-dialog": "^3.1"
   },
   "config": {
-    "optimize-autoloader": true
+    "optimize-autoloader": true,
+    "allow-plugins": {
+      "getkirby/composer-installer": true
+    }
   }
 }
