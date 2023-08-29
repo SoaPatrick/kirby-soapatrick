@@ -89,6 +89,11 @@ const Lazyframe = () => {
     };
 
     lazyframe.el.addEventListener("click", () => {
+      const nextElement = lazyframe.el.nextElementSibling;
+      if (nextElement) {
+        // hide cookie disclaimer when video starts playing
+        nextElement.classList.add("hidden");
+      }
       lazyframe.el.appendChild(lazyframe.iframe);
 
       const iframe = el.querySelectorAll("iframe");
