@@ -1,14 +1,17 @@
-<?php $entryFile = isset($entry) ? "templates/$entry/index.js" : null ?>
+<?php $template = $page->template() ?>
 
 <!DOCTYPE html>
 <html lang="en">
 <head class="h-full">
   <?php snippet("layouts/metatags") ?>
   <?php snippet("layouts/favicon") ?>
-  <!-- Include the shared css ... -->
-  <?= vite()->css() ?>
-  <!-- ... and the template's css (if it exists) -->
-  <?php e($entryFile, vite()->css($entryFile)) ?>
+  <!-- Include the shared js/css ... -->
+  <?= vite()->js('index.js', ['defer' => true]) ?>
+  <?= vite()->css('index.js') ?>
+  
+  <!-- ... and the template's js/css (if it exists) -->
+  <?= vite()->js("templates/$template/index.js", ['defer' => true], try: true) ?>
+  <?= vite()->css("templates/$template/index.js", try: true) ?>
 </head>
 <body class="font-sans font-thin text-blue-200 dark:text-egg-200 bg-egg-200 dark:bg-blue-200 selection:bg-primary selection:text-egg-200 h-full">
 

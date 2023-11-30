@@ -31,7 +31,7 @@ tabs:
 
   factory:
     label: Factory
-    icon: palette
+    icon: store
     columns:
       - width: 1/1
         sections:
@@ -39,7 +39,7 @@ tabs:
 
   lab:
     label: Lab
-    icon: palette
+    icon: lab
     columns:
       - width: 1/1
         sections:

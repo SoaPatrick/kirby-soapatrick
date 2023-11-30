@@ -1,9 +1,16 @@
 <?php
 
+use Kirby\Uuid\Uuid;
+
 class MoviesPage extends Page {
 
-    public function children()
+    public function children(): Pages
     {
+
+        if ($this->children instanceof Pages) {
+            return $this->children;
+        }
+
         $results = [];
         $pages   = [];
 
@@ -28,13 +35,14 @@ class MoviesPage extends Page {
                         'description' => $item['description'] ?? '',
                         'link'        => $item['link'] ?? '',
                         'text'        => $item['contentencoded'] ?? '',
+                        'uuid'        => Uuid::generate(),
                     ]
                 ];
             }
         }
 
         // create a Pages collection for the child pages
-        return Pages::factory($pages, $this);
+        return $this->children = Pages::factory($pages, $this);
     }
 
 }

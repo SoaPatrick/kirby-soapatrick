@@ -1,4 +1,4 @@
-<?php $entryFile = isset($entry) ? "templates/$entry/index.js" : null ?>
+
 
   </main>
   <footer class="mt-16 text-xs mb-36 sm:mb-8 mx-auto w-full max-w-content flex flex-wrap">
@@ -7,8 +7,5 @@
     <span><a href="<?= page('privacy')->url() ?>">Privacy</a></span>
   </footer>
 </div>
-<?= vite()->js() ?>
-<!-- ... and the template's js (if it exists) -->
-<?php e($entryFile, vite()->js($entryFile)) ?>
 </body>
 </html>
