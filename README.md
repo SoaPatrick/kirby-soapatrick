@@ -47,3 +47,6 @@ The content folder is it's own repository (submodule). The repository for the co
 ```
 npm run content:pull
 ```
+## Local Mail Server
+
+to recieve mails locally use Mailhog [Mailhog](https://github.com/mailhog/MailHog)
