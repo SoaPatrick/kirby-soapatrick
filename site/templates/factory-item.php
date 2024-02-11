@@ -16,7 +16,7 @@
       <?php $tags = $page->tags()->split(); ?>
       <?php sort($tags); ?>
       <?php foreach ($tags as $tag): ?>
-        <a class="hashtag" href="<?= $page->parent()->url(['params' => ['tag' => urlencode($tag)]]) ?>"><?= html($tag) ?></a>
+        <a class="hashtag" href="<?= $page->parent()->url(['params' => ['tag' => str_replace(' ', '-', $tag)]]) ?>"><?= html($tag) ?></a>
       <?php endforeach ?>
     </div>
     <?php 
