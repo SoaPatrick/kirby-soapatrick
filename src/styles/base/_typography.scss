@@ -1,4 +1,5 @@
-a {
+a,
+button {
   @apply underline decoration-current decoration-thin underline-offset-default transition-link duration-300 ease-in-out;
   @apply hover:decoration-transparent;
   @apply focus:outline-2 focus:outline-primary;
