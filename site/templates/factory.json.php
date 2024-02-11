@@ -42,7 +42,11 @@ foreach($data as $factoryItem) {
     'uuid'  => (string)$factoryItem->uuid(),
     'url'   => (string)$factoryItem->url(),
     'title' => (string)$factoryItem->title(),
-    'cover'  => (string)$factoryItem->cover()->toFile()->url(),
+    'cover'  => [
+      'width' => $factoryItem->cover()->toFile()->width(),
+      'height' => $factoryItem->cover()->toFile()->height(),
+      'srcset' => $factoryItem->cover()->toFile()->srcset('cover-default-' .$factoryItem->cover()->toFile()->extension()),
+    ],
     'tags' => $tags,
   ];
 }

@@ -10,8 +10,7 @@
   let initialLimit = additionalLimit; // starting limit
   let page = 1; // current page
   let pages = 1; // last page
-  let total = 0; // total factory items
-  let loadedfactoryItemsCount = initialLimit;
+  let loadedFactoryItemsCount = initialLimit;
   let selectedTag = null;
   let isLoading = false;
   let errorMessage = "";
@@ -23,6 +22,7 @@
     easing: cubicInOut,
   };
 
+  // Fetch tags
   async function fetchTags() {
     let apiUrl = "/api/tags.json";
 
@@ -38,11 +38,12 @@
     }
   }
 
-  async function fetchfactoryItems() {
+  // Fetch factory items
+  async function fetchFactoryItems() {
     isLoading = true;
     errorMessage = "";
 
-    let apiUrl = `/factory.json?limit=${loadedfactoryItemsCount}&page=${page}`;
+    let apiUrl = `/factory.json?limit=${loadedFactoryItemsCount}&page=${page}`;
     if (selectedTag) {
       apiUrl += `&tag=${encodeURIComponent(selectedTag)}`;
     }
@@ -72,7 +73,7 @@
     } catch (error) {
       console.error("Error:", error);
       errorMessage =
-        "Ein Fehler ist aufgetreten. Bitte versuchen Sie es später erneut.";
+        "An error occurred while loading factory items. Please try again later.";
     } finally {
       isLoading = false;
     }
@@ -88,43 +89,68 @@
     });
   }
 
+  // Load more factory items
   function loadMore() {
-    loadedfactoryItemsCount += additionalLimit;
-    fetchfactoryItems();
+    loadedFactoryItemsCount += additionalLimit;
+    fetchFactoryItems();
   }
 
   // Handle tag selection
-  function handleTageSelection(tag) {
+  function handleTagSelection(tag) {
     selectedTag = slugify(tag);
-    fetchfactoryItems();
+    fetchFactoryItems();
+
+    const url = new URL(window.location);
+    let path = url.pathname;
+
+    if (path.endsWith("/")) {
+      path = path.slice(0, -1);
+    }
+
+    const pathSegments = path.split("/");
+    const tagIndex = pathSegments.findIndex((segment) =>
+      segment.startsWith("tag:")
+    );
+
+    if (tagIndex !== -1) {
+      pathSegments[tagIndex] = `tag:${tag}`;
+    } else {
+      pathSegments.push(`tag:${tag}`);
+    }
+
+    url.pathname = pathSegments.join("/");
+    window.history.pushState({}, "", url);
   }
 
+  //
   function slugify(text) {
     if (!text) return;
     return text
       .toString()
       .toLowerCase()
       .trim()
-      .replace(/\s+/g, "-") // Ersetzt Leerzeichen durch -
-      .replace(/[^\w\-]+/g, "") // Entfernt alle Nicht-Wort-Zeichen
-      .replace(/\-\-+/g, "-"); // Ersetzt mehrere - durch einzelne -
+      .replace(/\s+/g, "-")
+      .replace(/[^\w\-]+/g, "")
+      .replace(/\-\-+/g, "-");
   }
 
   // Remove a URL parameter
   function removeTagFromUrl(tag) {
     const url = new URL(window.location);
     const path = url.pathname;
-    const newPath = path.replace(new RegExp(`/tag:${tag}/?`), "");
+    const newPath = path.replace(/\/tag:[^\/]*/g, "");
     url.pathname = newPath;
     window.history.pushState({}, "", url);
   }
 
   // Show all factory items without filter
   function showAllFactoryItems() {
+    removeTagFromUrl();
     selectedTag = null;
-    fetchfactoryItems(); // Fetch factory items without filter
+    fetchFactoryItems(); // Fetch factory items without filter
   }
 
+  // Fetch factory items on mount
   onMount(async () => {
     const path = decodeURIComponent(window.location.pathname);
     const segments = path.split("/");
@@ -132,11 +158,10 @@
 
     if (tagSegment) {
       selectedTag = tagSegment.substring(4);
-      removeTagFromUrl(selectedTag);
     }
 
     fetchTags();
-    fetchfactoryItems();
+    fetchFactoryItems();
   });
 </script>
 
@@ -154,7 +179,7 @@
         slugify(selectedTag)
           ? 'active'
           : ''}"
-        on:click|preventDefault={() => handleTageSelection(tag.name)}
+        on:click|preventDefault={() => handleTagSelection(tag.name)}
       >
         {tag.name}
       </button>
@@ -172,9 +197,12 @@
         >
           <a href={item.url} aria-label={item.title} class="img-link">
             <img
-              src={item.cover}
+              srcset={item.cover.srcset}
               alt={item.title}
+              width={item.cover.width}
+              height={item.cover.height}
               class="rounded-md block aspect-square bg-blue-100"
+              loading="lazy"
             />
           </a>
         </article>
