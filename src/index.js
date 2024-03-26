@@ -9,6 +9,10 @@ lazyframe(".lazyframe");
 
 import Factory from "./svelte/Factory.svelte";
 
-new Factory({
-  target: document.getElementById("factory"),
-});
+const targetElement = document.getElementById("factory");
+
+if (targetElement) {
+  new Factory({
+    target: targetElement,
+  });
+}
