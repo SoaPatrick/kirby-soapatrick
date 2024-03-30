@@ -6,7 +6,8 @@
   "version": "10.1.0",
   "require": {
     "arnoson/kirby-vite": "^5.1.0",
-    "getkirby/cms": "^4.0.0"
+    "getkirby/cms": "^4.0.0",
+    "bnomei/kirby3-security-headers": "^4.0"
   },
   "config": {
     "optimize-autoloader": true,
