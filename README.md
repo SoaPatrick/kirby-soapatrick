@@ -50,3 +50,16 @@ npm run content:pull
 ## Local Mail Server
 
 to recieve mails locally use Mailhog [Mailhog](https://github.com/mailhog/MailHog)
+
+Install with brew
+
+```
+brew install mailhog
+```
+
+Start and stop the service locally
+
+```
+brew services start mailhog
+brew services stop mailhog
+```
