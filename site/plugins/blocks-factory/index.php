@@ -2,7 +2,7 @@
 
 //https://getkirby.com/docs/cookbook/panel/block-collection
 
-Kirby::plugin('your-project/blocks-factory', [
+Kirby::plugin('soapatrick/blocks-factory', [
   'blueprints' => [
     'blocks/box' => __DIR__ . '/blueprints/blocks/box.yml',
     'blocks/statement' => __DIR__ . '/blueprints/blocks/statement.yml',    
