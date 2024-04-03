@@ -8,7 +8,7 @@
       <?php foreach ($movies as $item): ?>
         <?php
           $title = $item->title();
-          $description = str_replace( '<img ', '<img alt="'.$title.'" height="750" width="500" loading="lazy" class="block rounded-t-md"', $item->description() );
+          $description = str_replace( '<img ', '<img alt="'.$title.'" height="750" width="500" loading="lazy" class="block rounded-t-md" ', $item->description() );
           $titleParts = explode( ' ', $title );
           $titlePartsLength = sizeof($titleParts);
           $rating = $titleParts[$titlePartsLength - 1];
