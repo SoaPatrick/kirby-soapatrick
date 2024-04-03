@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "arnoson/kirby-vite",
-            "version": "5.1.0",
+            "version": "5.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/arnoson/kirby-vite.git",
-                "reference": "be8598e73a2701299a48b1847a31ac3c435463ac"
+                "reference": "9f64fc96700aa5d7ba38e992c3da4340218dac68"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/arnoson/kirby-vite/zipball/be8598e73a2701299a48b1847a31ac3c435463ac",
-                "reference": "be8598e73a2701299a48b1847a31ac3c435463ac",
+                "url": "https://api.github.com/repos/arnoson/kirby-vite/zipball/9f64fc96700aa5d7ba38e992c3da4340218dac68",
+                "reference": "9f64fc96700aa5d7ba38e992c3da4340218dac68",
                 "shasum": ""
             },
             "require": {
@@ -36,9 +36,9 @@
             "description": "Vite helper for Kirby CMS",
             "support": {
                 "issues": "https://github.com/arnoson/kirby-vite/issues",
-                "source": "https://github.com/arnoson/kirby-vite/tree/v5.1.0"
+                "source": "https://github.com/arnoson/kirby-vite/tree/v5.3.1"
             },
-            "time": "2023-11-28T17:22:17+00:00"
+            "time": "2024-03-26T17:07:58+00:00"
         },
         {
             "name": "christian-riesen/base32",
@@ -306,16 +306,16 @@
         },
         {
             "name": "getkirby/cms",
-            "version": "4.1.0",
+            "version": "4.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/getkirby/kirby.git",
-                "reference": "2965c3124e3b141072a2d46c798a327dda710060"
+                "reference": "6b7ac66c55ecac20d6b580ef01a667d1806d5c72"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/getkirby/kirby/zipball/2965c3124e3b141072a2d46c798a327dda710060",
-                "reference": "2965c3124e3b141072a2d46c798a327dda710060",
+                "url": "https://api.github.com/repos/getkirby/kirby/zipball/6b7ac66c55ecac20d6b580ef01a667d1806d5c72",
+                "reference": "6b7ac66c55ecac20d6b580ef01a667d1806d5c72",
                 "shasum": ""
             },
             "require": {
@@ -405,7 +405,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2024-01-30T15:39:12+00:00"
+            "time": "2024-03-06T11:38:42+00:00"
         },
         {
             "name": "getkirby/composer-installer",
@@ -1240,5 +1240,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.6.0"
 }

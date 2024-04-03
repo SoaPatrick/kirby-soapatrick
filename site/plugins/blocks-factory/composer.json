@@ -1,0 +1,12 @@
+{
+  "name": "soapatrick/block-factory",
+  "description": "A plugin for some custom blocks",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "SoaPatrick"
+      }
+  ],
+  "type": "kirby-plugin"
+}

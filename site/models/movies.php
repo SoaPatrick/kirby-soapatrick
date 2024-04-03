@@ -14,12 +14,16 @@ class MoviesPage extends Page {
         $results = [];
         $pages   = [];
 
-        // use the URL of the feed you want to fetch
-        $request = Remote::get('https://letterboxd.com/soapatrick/rss/');
+        try {
+            // use the URL of the feed you want to fetch
+            $request = Remote::get('https://letterboxd.com/soapatrick/rss/', ['timeout' => 5]);
 
-        // if the request was sucessfully, parse feed as $results
-        if ($request->code() === 200) {
-            $results = Xml::parse($request->content());
+            // if the request was sucessfully, parse feed as $results
+            if ($request->code() === 200) {
+                $results = Xml::parse($request->content());
+            }
+        } catch (Exception $e) {
+            // Fehler wurde abgefangen, nichts wird ausgegeben
         }
 
         // if we have any results, create the child page props for each result
