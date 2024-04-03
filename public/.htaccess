@@ -99,9 +99,8 @@ ExpiresByType text/css                      "access plus 1 year"
 ExpiresByType application/javascript        "access plus 1 year"
 </IfModule>
 
-
 <IfModule mod_headers.c>
-    Header set Content-Security-Policy "default-src 'self' https://noembed.com; style-src 'self' 'unsafe-inline'; frame-src https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com https://noembed.com; font-src 'self'; form-action 'self'; img-src 'self' blob: data: https://i.ytimg.com; script-src 'self'; connect-src 'self' https://noembed.com; object-src 'none'; upgrade-insecure-requests"
+    Header set Content-Security-Policy "default-src 'self' https://noembed.com; style-src 'self' 'unsafe-inline'; frame-src https://www.youtube.com https://www.youtube-nocookie.com https://player.vimeo.com https://noembed.com; font-src 'self'; form-action 'self'; img-src 'self' blob: data: https://i.ytimg.com https://a.ltrbxd.com https://i.vimeocdn.com; script-src 'self'; connect-src 'self' https://noembed.com; object-src 'none'; upgrade-insecure-requests"
     Header set Strict-Transport-Security "max-age=31536000; includeSubDomains"
     Header set X-Frame-Options "SAMEORIGIN"
     Header set X-Content-Type-Options "nosniff"
