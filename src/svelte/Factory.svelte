@@ -119,7 +119,7 @@
     }
 
     url.pathname = pathSegments.join("/");
-    window.history.pushState({}, "", url);
+    window.history.replaceState({}, "", url);
   }
 
   //
@@ -140,7 +140,7 @@
     const path = url.pathname;
     const newPath = path.replace(/\/tag:[^\/]*/g, "");
     url.pathname = newPath;
-    window.history.pushState({}, "", url);
+    window.history.replaceState({}, "", url);
   }
 
   // Show all factory items without filter
