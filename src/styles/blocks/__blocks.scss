@@ -1,6 +1,6 @@
-@import "video";
-@import "code";
-@import "quote";
+@use "video";
+@use "code";
+@use "quote";
 
 // box & statement block
 .box-block p:last-child,

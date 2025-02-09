@@ -5,10 +5,8 @@
 <head class="h-full">
   <?php snippet("layouts/metatags") ?>
   <?php snippet("layouts/favicon") ?>
-  <?= vite()->js('index.js', ['defer' => true]) ?>
+  <?= vite()->js('index.js') ?>
   <?= vite()->css('index.js') ?>
-  <?= vite()->js("templates/$template/index.js", ['defer' => true], try: true) ?>
-  <?= vite()->css("templates/$template/index.js", try: true) ?>
 </head>
 <body class="font-sans font-thin text-blue-200 dark:text-egg-200 bg-egg-200 dark:bg-blue-200 selection:bg-primary selection:text-egg-200 h-full">
 

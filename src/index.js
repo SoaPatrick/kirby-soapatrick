@@ -1,18 +1,18 @@
 import "./index.scss";
 
 import "fslightbox";
+import "./scripts/feedbtn";
 import "./scripts/toggleSearch";
 import "./scripts/prism";
+import { mount } from 'svelte';
+import Factory from "./svelte/Factory.svelte";
 import lazyframe from "./scripts/lazyframe";
 
 lazyframe(".lazyframe");
 
-import Factory from "./svelte/Factory.svelte";
 
 const targetElement = document.getElementById("factory");
 
 if (targetElement) {
-  new Factory({
-    target: targetElement,
-  });
+  mount(Factory, { target: targetElement });
 }

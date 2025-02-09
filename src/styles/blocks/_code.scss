@@ -32,11 +32,6 @@ ol {
   --prism-line-height: 1.5;
   --prism-block-padding-y: 2rem;
   --prism-block-padding-x: 2rem;
-
-  @media (max-width: 799px) {
-    --prism-block-padding-x: 1rem;
-  }
-
   --prism-block-margin-y: 0;
   --prism-block-margin-x: 0;
   --prism-block-radius: 0.375rem;
@@ -61,6 +56,10 @@ ol {
   --prism-decorator: #bd8f8f;
   --prism-regex: #ab5e3f;
   --prism-json-property: #698c96;
+
+  @media (max-width: 799px) {
+    --prism-block-padding-x: 1rem;
+  }
 }
 
 @media (prefers-color-scheme: dark) {

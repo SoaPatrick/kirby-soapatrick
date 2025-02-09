@@ -9,7 +9,7 @@
 }
 
 .tag-list {
-  @apply flex gap-y-2 gap-x-4 flex-wrap;
+  @apply flex gap-y-2 gap-x-2 flex-wrap;
 
   &--vertical {
     @apply sm:inline-grid text-right;

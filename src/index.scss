@@ -1,3 +1,4 @@
+@use "sass:meta";
 /* Shared CSS for all pages */
 /* Tailwind */
 @tailwind base;
@@ -8,10 +9,11 @@
 @import "./styles/fonts.css";
 
 /* Import Collections */
-@import "./styles/base/_base";
-@import "./styles/layouts/_layouts";
-@import "./styles/blocks/_blocks";
-@import "./styles/components/_components";
+@include meta.load-css("styles/base/_base");
+@include meta.load-css("styles/layouts/_layouts");
+@include meta.load-css("styles/blocks/_blocks");
+@include meta.load-css("styles/components/_components");
+@include meta.load-css("styles/pages/_pages");
 
 /* Imports */
-@import "./styles/article";
+@include meta.load-css("styles/article");

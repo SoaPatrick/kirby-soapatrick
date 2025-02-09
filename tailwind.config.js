@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["../**/*.php", "../**/*.svelte"],
+  content: ["../**/*.php", "./src/**/*.svelte"],
   theme: {
     fontFamily: {
       sans: ["Lato", "sans-serif"],
