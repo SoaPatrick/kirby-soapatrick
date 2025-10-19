@@ -1,1 +1,1 @@
-AddHandler application/x-httpd-php83 .php
+Use php-fpm php83

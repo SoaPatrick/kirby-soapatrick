@@ -1,32 +1,55 @@
 // Add RSS Feed Button with Copy Function
-if (document.getElementById("feed-button")) {
-  let feedBtn = document.getElementById("feed-button");
-  let feedBtnTooltip = document.getElementById("feed-tooltip");
-  let feedBtnTooltipText = feedBtnTooltip.innerHTML;
+(function () {
+  const feedBtn = document.getElementById("feed-button");
+  if (!feedBtn) return;
 
-  feedBtn.addEventListener("click", async (event) => {
-    console.log("button clicked");
-    if (!navigator.clipboard) {
+  const feedBtnTooltip = document.getElementById("feed-tooltip");
+  const defaultTooltip = feedBtnTooltip?.textContent ?? "";
+
+  function setTooltip(text, copied = false) {
+    if (!feedBtnTooltip) return;
+    feedBtnTooltip.textContent = text;
+    feedBtnTooltip.classList.toggle("copied", copied);
+  }
+
+  function resetTooltip() {
+    setTooltip(defaultTooltip, false);
+  }
+
+  feedBtn.addEventListener("click", async (e) => {
+    const el = e.currentTarget || feedBtn;
+    const value = el.dataset.copy;
+
+    if (!value) {
+      console.warn("data-copy ist leer oder fehlt");
       return;
     }
 
     try {
-      let copy_value = event.getAttribute("data-copy");
-      await navigator.clipboard.writeText(copy_value);
-      feedBtnTooltip.innerHTML = "URL copied";
-      feedBtnTooltip.classList.add("copied");
-    } catch (error) {
-      console.error("copy failed", error);
+      if (!navigator.clipboard || !navigator.clipboard.writeText) {
+        throw new Error("Async Clipboard API nicht verfügbar");
+      }
+      await navigator.clipboard.writeText(value);
+      setTooltip("URL copied", true);
+    } catch (err) {
+      try {
+        const ta = document.createElement("textarea");
+        ta.value = value;
+        ta.setAttribute("readonly", "");
+        ta.style.position = "absolute";
+        ta.style.left = "-9999px";
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand("copy");
+        document.body.removeChild(ta);
+        setTooltip("URL copied", true);
+      } catch (err2) {
+        console.error("Copy failed", err, err2);
+        setTooltip("Copy failed");
+      }
     }
   });
 
-  feedBtn.addEventListener("mouseout", function () {
-    feedBtnTooltip.classList.remove("copied");
-    feedBtnTooltip.innerHTML = feedBtnTooltipText;
-  });
-
-  feedBtn.addEventListener("focusout", function () {
-    feedBtnTooltip.classList.remove("copied");
-    feedBtnTooltip.innerHTML = feedBtnTooltipText;
-  });
-}
+  feedBtn.addEventListener("mouseleave", resetTooltip);
+  feedBtn.addEventListener("focusout", resetTooltip);
+})();

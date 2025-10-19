@@ -17,5 +17,7 @@ vendor/*
 package-lock.json
 package.json
 .DS_Store
+.idea/
+.vscode/
 rsync-exclude.txt
 site/config/.license
