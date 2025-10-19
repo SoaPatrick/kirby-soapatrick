@@ -1,6 +1,6 @@
 <template>
   <div class="wrapper">
-    <k-writer class="text" ref="textbox" :marks="statementField.marks" :value="content.text"
+    <k-writer-input class="text" ref="textbox" :marks="statementField.marks" :value="content.text"
       :placeholder="statementField.placeholder || 'Enter some stuff…'" @input="update({ text: $event })" />
   </div>
 

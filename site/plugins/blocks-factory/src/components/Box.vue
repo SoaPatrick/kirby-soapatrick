@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
     <h5>Side Note:</h5>
-    <k-writer class="text" ref="textbox" :marks="textField.marks" :value="content.text"
+    <k-writer-input class="text" ref="textbox" :marks="textField.marks" :value="content.text"
       :placeholder="textField.placeholder || 'Enter some stuff…'" @input="update({ text: $event })" />
   </div>
 </template>
@@ -19,7 +19,7 @@ export default {
 
 <style>
 .k-block-type-box .wrapper {
-  background: var(--color-gray-200);
+  background: light-dark(var(--color-gray-200), var(--color-gray-800));
   padding: var(--spacing-4);
   border-radius: var(--rounded);
 } 

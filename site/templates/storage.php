@@ -36,11 +36,11 @@
     ?>
   </div>
 
-  <?php 
+  <?php
     $posts = page('box')->children()->listed();
-    $tags = page('box')->children()->listed()->pluck('tags', ',', true); 
-    $tags = new Collection($tags);
-    $tags = $tags->sortBy('name', 'desc')
+    $tags  = $posts->pluck('tags', ',', true);
+    natcasesort($tags);
+    $tags = array_values($tags);
   ?>
   <div class="bg-egg-100 dark:bg-blue-100 rounded-md p-4 mt-8">
     <div class="text-xs opacity-70 mb-2">Tag-Cloud</div>

@@ -3,13 +3,15 @@
 return [
   'css' => 'assets/css/custom-panel.css',
   'favicon' => [
-    'apple-touch-icon' => [
+    [
+      'rel'  => 'apple-touch-icon',
       'type' => 'image/png',
-      'url'  =>  'assets/img/apple-touch-icon.png',
+      'href' => 'assets/img/apple-touch-icon.png',
     ],
-    'shortcut icon' => [
+    [
+      'rel'  => 'shortcut icon',
       'type' => 'image/svg+xml',
-      'url'  => 'assets/img/icon.svg',
+      'href' => 'assets/img/icon.svg',
     ]
   ]
 ];
