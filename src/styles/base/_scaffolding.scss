@@ -1,3 +1,7 @@
+@view-transition {
+  navigation: auto;
+}
+
 html {
   font-size: clamp(18px, 1.5vw, 24px);
   line-height: 1.6;

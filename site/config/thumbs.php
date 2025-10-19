@@ -7,8 +7,8 @@ return [
   ],
   'srcsets' => [
     'cover-home' => [
-      '1x' => ['width' => 200,'height' => 200,'quality' => 80,'format' => 'webp','crop' => 'center'],
-      '2x' => ['width' => 400,'height' => 400,'quality' => 80,'format' => 'webp','crop' => 'center']
+      '1x' => ['width' => 200,'height' => 200,'quality' => 80,'format' => 'webp','crop' => true],
+      '2x' => ['width' => 400,'height' => 400,'quality' => 80,'format' => 'webp','crop' => true]
     ],
     'cover-list-jpg' => [
       '1x' => ['width' => 120, 'quality' => 80,'format' => 'webp'],
@@ -17,6 +17,14 @@ return [
     'cover-list-png' => [
       '1x' => ['width' => 120, 'quality' => 100,'format' => 'webp'],
       '2x' => ['width' => 240, 'quality' => 100,'format' => 'webp']
+    ],
+    'cover-default-crop-jpg' => [
+      '1x' => ['width' => 320, 'height' => 320, 'quality' => 80,'format' => 'webp','crop' => true],
+      '2x' => ['width' => 640, 'height' => 640, 'quality' => 80,'format' => 'webp','crop' => true]
+    ],
+    'cover-default-crop-png' => [
+      '1x' => ['width' => 320, 'height' => 320, 'quality' => 100,'format' => 'webp','crop' => true],
+      '2x' => ['width' => 640, 'height' => 640, 'quality' => 100,'format' => 'webp','crop' => true]
     ],
     'cover-default-jpg' => [
       '1x' => ['width' => 320, 'quality' => 80,'format' => 'webp'],

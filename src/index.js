@@ -6,13 +6,18 @@ import "./scripts/toggleSearch";
 import "./scripts/prism";
 import { mount } from 'svelte';
 import Factory from "./svelte/Factory.svelte";
+import Lab from "./svelte/Lab.svelte";
 import lazyframe from "./scripts/lazyframe";
 
 lazyframe(".lazyframe");
 
 
-const targetElement = document.getElementById("factory");
+const factoryElement = document.getElementById("factory");
+if (factoryElement) {
+  mount(Factory, { target: factoryElement });
+}
 
-if (targetElement) {
-  mount(Factory, { target: targetElement });
+const labElement = document.getElementById("lab");
+if (labElement) {
+  mount(Lab, { target: labElement });
 }

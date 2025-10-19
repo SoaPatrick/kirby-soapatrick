@@ -48,12 +48,30 @@ const Lazyframe = () => {
           s.autoplay ? "1" : "0"
         }&${s.query}`,
     },
-    endpoint: (s) => `https://noembed.com/embed?url=${s.src}`,
+    endpoint: (s) => {
+      let url = s.src;
+      if (s.vendor === "youtube" || s.vendor === "youtube_nocookie") {
+        url = toWatchUrl(s.src);
+      }
+      return `https://noembed.com/embed?url=${encodeURIComponent(url)}`;
+    },
     response: {
-      title: (r) => r.title,
-      thumbnail: (r) => r.thumbnail_url,
+      title: (r) => {
+        return r.title;
+      },
+      thumbnail: (r) => {
+        return r.thumbnail_url;
+      },
     },
   };
+
+  function toWatchUrl(embedUrl) {
+    const match = embedUrl.match(/embed\/([a-zA-Z0-9_-]+)/);
+    if (match) {
+      return `https://www.youtube.com/watch?v=${match[1]}`;
+    }
+    return embedUrl;
+  }
 
   function init(elements, ...args) {
     settings = Object.assign({}, defaults, args[0]);
