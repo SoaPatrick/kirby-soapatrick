@@ -5,6 +5,9 @@ fields:
   url:
     label: field.blocks.video.url.label
     type: url
+    required: true
+    validate:
+      match: '/^https:\/\/(?:www\.)?youtube\.com\/watch\?v=[A-Za-z0-9_-]{11}(?:&\S*)?$/i'
     placeholder: field.blocks.video.url.placeholder
   caption:
     label: field.blocks.video.caption

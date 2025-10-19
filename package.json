@@ -8,7 +8,7 @@
     "server": "php -S localhost:8888 -t public server.php",
     "build": "vite build",
     "preview": "npm run build && npm run server",
-    "deploy": "npm run build && rsync -avL $(pwd)/ --exclude-from='rsync-exclude.txt' $SP_REMOTE_USER@$SP_REMOTE_HOST:www/soapatrick.com --delete",
+    "deploy": "npm run build && rsync -avL $(pwd)/ --exclude-from='rsync-exclude.txt' --filter='P /site/config/.license' $SP_REMOTE_USER@$SP_REMOTE_HOST:www/soapatrick.com --delete",
     "content:push": "rsync -av content $SP_REMOTE_USER@$SP_REMOTE_HOST:www/soapatrick.com --delete",
     "content:pull": "rsync -av --exclude-from='rsync-exclude-content.txt' $SP_REMOTE_USER@$SP_REMOTE_HOST:www/soapatrick.com/content/ content --delete"
   },
@@ -26,7 +26,7 @@
     "vite-plugin-kirby": "^5.0.0"
   },
   "dependencies": {
-    "@sveltejs/vite-plugin-svelte": "^5.1.0",
+    "@sveltejs/vite-plugin-svelte": "^6.0",
     "fslightbox": "^3.3.1",
     "prism-theme-vars": "^0.2.2"
   }

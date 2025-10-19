@@ -12,8 +12,12 @@ $shadow       = $block->shadow()->isTrue();
 $align        = $block->align();
 $id           = $block->id();
 
+$extension = match (strtolower(ltrim($image->extension(), '.'))) {
+    'jpeg' => 'jpg',
+    default => strtolower(ltrim($image->extension(), '.')),
+};
+
 $src          = $image->url();
-$extension    = $image->extension();
 $lightbox     = $image->thumb('lightbox-' .$extension)->url();
 $width        = $image->width();
 $height       = $image->height();

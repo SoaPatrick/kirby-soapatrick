@@ -7,7 +7,6 @@ empty: No article yet
 sortBy: published desc
 search: true
 layout: table
-info: false
 columns:
   format:
     label: Format
