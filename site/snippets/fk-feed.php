@@ -2,7 +2,7 @@
   <header>
     <h1>Last seen Movies</h1>
   </header>
-  <div class="grid grid-cols-3 gap-4">
+  <div class="grid grid-cols-2 gap-2 sm:grid-cols-3 sm:gap-4 -mt-4">
     <?php foreach ($movies as $movie): ?>
       <div title="<?= $movie['title'] ?> · <?= date('F j, Y', strtotime($movie['date'])) ?>">
         <img class="block rounded-t-md aspect-7/10" src="<?= $movie['poster'] ?>" alt="<?= $movie['title'] ?>">
@@ -18,7 +18,7 @@
   <header>
     <h1>Last seen Episodes</h1>
   </header>
-  <div class="grid grid-cols-3 gap-4">
+  <div class="grid grid-cols-2 gap-2 sm:grid-cols-3 sm:gap-4 -mt-4">
     <?php foreach ($episodes as $episode): ?>
       <div title="<?= $episode['title'] ?> · <?= date('F j, Y', strtotime($episode['date'])) ?>">
         <img class="block rounded-t-md aspect-7/10" src="<?= $episode['poster'] ?>" alt="<?= $episode['title'] ?>">
