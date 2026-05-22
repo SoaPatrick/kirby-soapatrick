@@ -37,5 +37,5 @@
   <?php endforeach ?>
 </div>
 
-<?php snippet('letterboxd') ?>
+<?php snippet('fk-feed') ?>
 <?php snippet('layouts/footer',['entry' => 'home']); ?>

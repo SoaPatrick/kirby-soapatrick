@@ -33,5 +33,11 @@ return [
     ],
   ],
   'sitemap.ignore' => ['log', 'factory', 'box', 'movies', 'error', 'feed', 'search', 'storage', 'privacy'],
-  'panel.install' => true
+  'panel.install' => true,
+  'cache' => [
+    'fk_feed' => [
+      'type'     => 'file',
+      'duration' => 60,
+    ]
+  ],
 ];
