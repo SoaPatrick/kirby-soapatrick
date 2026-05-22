@@ -13,6 +13,7 @@ kirby
 vendor
 
 site/config/config.www.soapatrick.com.php
+site/config/localfeed.php
 
 site/plugins/*
 !site/plugins/blocks-factory
