@@ -15,6 +15,7 @@
   "author": "soapatrick",
   "license": "MIT",
   "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^6.0",
     "autoprefixer": "^10.4.2",
     "concurrently": "^9.0",
     "glob": "^11.0",
@@ -26,7 +27,6 @@
     "vite-plugin-kirby": "^5.0.0"
   },
   "dependencies": {
-    "@sveltejs/vite-plugin-svelte": "^6.0",
     "fslightbox": "^3.3.1",
     "prism-theme-vars": "^0.2.2"
   }
