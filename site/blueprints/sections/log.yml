@@ -7,7 +7,6 @@ empty: No log entry yet
 sortBy: published desc
 search: true
 layout: table
-info: false
 image: false
 columns:
   published:
